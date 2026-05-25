@@ -28,7 +28,6 @@ Planned and partially implemented sources:
 
 The basic workflow is:
 
-```text
 Open data source
 → Python extraction
 → RDF/Turtle conversion
