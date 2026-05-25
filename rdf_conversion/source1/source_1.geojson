@@ -1,0 +1,5074 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-21T14:50:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13311368",
+        "direction": "270",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6717153,
+          51.1035275
+        ]
+      },
+      "id": "node/13311368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32162982",
+        "colour": "black",
+        "direction": "130;270",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "stele",
+        "mapillary": "465037177910759",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6166403,
+          51.1134728
+        ]
+      },
+      "id": "node/32162982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32601580",
+        "direction": "355;220",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7713664,
+          51.2174219
+        ]
+      },
+      "id": "node/32601580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34747356",
+        "abandoned": "yes",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3231367,
+          50.6361596
+        ]
+      },
+      "id": "node/34747356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253776281",
+        "direction": "160",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1643715872490816",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6940908,
+          50.8060615
+        ]
+      },
+      "id": "node/253776281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279792540",
+        "direction": "105;250",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4019584,
+          51.0545483
+        ]
+      },
+      "id": "node/279792540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281782433",
+        "direction": "250",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4577392,
+          50.7398209
+        ]
+      },
+      "id": "node/281782433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290022550",
+        "direction": "110;260",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3225104,
+          51.1789422
+        ]
+      },
+      "id": "node/290022550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/294631930",
+        "direction": "90;300",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1695904,
+          51.1435387
+        ]
+      },
+      "id": "node/294631930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296512382",
+        "direction": "75;200",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2376018,
+          51.0990058
+        ]
+      },
+      "id": "node/296512382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298747560",
+        "direction": "220;60",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "235319275057021",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8073357,
+          51.02718
+        ]
+      },
+      "id": "node/298747560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313972769",
+        "direction": "105",
+        "height": "2.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "477335400175407",
+        "note": "Ampelblitzer",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3680899,
+          51.3147234
+        ]
+      },
+      "id": "node/313972769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315236230",
+        "colour": "beige",
+        "direction": "120",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "526183101704504",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8305624,
+          51.0620028
+        ]
+      },
+      "id": "node/315236230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360343761",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9355877,
+          50.9579045
+        ]
+      },
+      "id": "node/360343761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360723892",
+        "direction": "285",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "612520253039958",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6172934,
+          51.3595152
+        ]
+      },
+      "id": "node/360723892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441908996",
+        "direction": "295",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "797287077846452",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9205784,
+          51.1550454
+        ]
+      },
+      "id": "node/441908996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448149947",
+        "description": "Rotlichtüberwaching",
+        "direction": "50",
+        "highway": "speed_camera",
+        "man_made": "mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4589192,
+          50.706878
+        ]
+      },
+      "id": "node/448149947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/478858052",
+        "colour": "black",
+        "direction": "205;355",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "mapillary": "787425161977073",
+        "mast:type": "column",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.295225,
+          51.3981237
+        ]
+      },
+      "id": "node/478858052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/519753164",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7616098,
+          50.7909929
+        ]
+      },
+      "id": "node/519753164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/536284471",
+        "colour": "black",
+        "direction": "135",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "251201973466673",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0935966,
+          50.7234022
+        ]
+      },
+      "id": "node/536284471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605011902",
+        "direction": "310",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "194702792622121",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3707671,
+          51.3611666
+        ]
+      },
+      "id": "node/605011902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619219628",
+        "direction": "310",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "3932290153557085",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7358979,
+          51.087834
+        ]
+      },
+      "id": "node/619219628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/651616788",
+        "direction": "30",
+        "highway": "speed_camera",
+        "image": "https://kartaview.org/details/527713/101/track-info",
+        "kartaview": "527713/101",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8827233,
+          50.7982541
+        ]
+      },
+      "id": "node/651616788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/651948725",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "maxspeed:hgv": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5058514,
+          51.0777426
+        ]
+      },
+      "id": "node/651948725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/659768161",
+        "direction": "330",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "265768015286921",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3734745,
+          51.2137382
+        ]
+      },
+      "id": "node/659768161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662561137",
+        "direction": "140",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "461196871620116",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (06:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7154905,
+          51.030431
+        ]
+      },
+      "id": "node/662561137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663410258",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5442961,
+          51.0299203
+        ]
+      },
+      "id": "node/663410258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/675539226",
+        "fixme": "meines Erachtens außer Betrieb, bitte verifizieren und ggf. anpassen",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2773632,
+          51.4237058
+        ]
+      },
+      "id": "node/675539226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/675540382",
+        "direction": "250",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2649336,
+          51.4370434
+        ]
+      },
+      "id": "node/675540382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/677376091",
+        "direction": "145",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "189718732988988",
+        "maxspeed": "50",
+        "ref": "S 36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0284748,
+          51.0769174
+        ]
+      },
+      "id": "node/677376091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/677376110",
+        "direction": "320",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "967248754042526",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0287576,
+          51.0766065
+        ]
+      },
+      "id": "node/677376110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984759890",
+        "direction": "15",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "5804542679563688",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3764527,
+          51.3531183
+        ]
+      },
+      "id": "node/984759890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/993122835",
+        "colour": "black",
+        "direction": "135;270",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5858244,
+          51.100928
+        ]
+      },
+      "id": "node/993122835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004030175",
+        "direction": "30",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "170747615052875",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3229933,
+          51.3829045
+        ]
+      },
+      "id": "node/1004030175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1007839440",
+        "direction": "190",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "483357449751086",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3231216,
+          51.3825966
+        ]
+      },
+      "id": "node/1007839440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1119339025",
+        "colour": "black",
+        "direction": "0",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "331170741946851",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3991937,
+          51.3284968
+        ]
+      },
+      "id": "node/1119339025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237939094",
+        "highway": "speed_camera",
+        "ref": "Blitzer M70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2531532,
+          51.4633116
+        ]
+      },
+      "id": "node/1237939094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1277236977",
+        "direction": "30",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "172191844806288",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7580383,
+          51.0525355
+        ]
+      },
+      "id": "node/1277236977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1283640669",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5567339,
+          51.2958728
+        ]
+      },
+      "id": "node/1283640669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1301029138",
+        "highway": "speed_camera",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6699425,
+          50.8059039
+        ]
+      },
+      "id": "node/1301029138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1396441848",
+        "direction": "300",
+        "highway": "speed_camera",
+        "mapillary": "1170487080134712",
+        "maxspeed": "30",
+        "note": "Blitzer drehbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1690622,
+          50.9144793
+        ]
+      },
+      "id": "node/1396441848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1396554415",
+        "colour": "black",
+        "direction": "135",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "485428602878874",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3377972,
+          51.3749992
+        ]
+      },
+      "id": "node/1396554415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1415327027",
+        "direction": "140;280",
+        "highway": "speed_camera",
+        "mapillary": "823643602540260",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1920231,
+          51.2348719
+        ]
+      },
+      "id": "node/1415327027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1437576799",
+        "direction": "90;290",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.221041,
+          51.5256003
+        ]
+      },
+      "id": "node/1437576799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1437613112",
+        "direction": "350",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "987607205317227",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9102246,
+          51.2705293
+        ]
+      },
+      "id": "node/1437613112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1479213813",
+        "direction": "275;70",
+        "highway": "speed_camera",
+        "mapillary": "522477575548904",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8899561,
+          51.1473205
+        ]
+      },
+      "id": "node/1479213813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482280711",
+        "direction": "150;290",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8981111,
+          51.2281512
+        ]
+      },
+      "id": "node/1482280711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1537327787",
+        "colour": "black",
+        "direction": "355",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "294631052238703",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3925948,
+          51.3727688
+        ]
+      },
+      "id": "node/1537327787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1543411822",
+        "direction": "10",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "307008287670860",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3919255,
+          51.3461971
+        ]
+      },
+      "id": "node/1543411822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1572760263",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "note": "beide Richtungern Messende (Laser)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9291807,
+          51.1141876
+        ]
+      },
+      "id": "node/1572760263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1584823992",
+        "highway": "speed_camera",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9421166,
+          51.0638197
+        ]
+      },
+      "id": "node/1584823992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1592207560",
+        "direction": "0",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "176617974356461",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8771875,
+          51.1608667
+        ]
+      },
+      "id": "node/1592207560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1605727511",
+        "direction": "190",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "2788430701468396",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3735974,
+          51.3177089
+        ]
+      },
+      "id": "node/1605727511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607797826",
+        "direction": "225",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4179946,
+          50.6076939
+        ]
+      },
+      "id": "node/1607797826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1610314592",
+        "direction": "290",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "333303241648526",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3785951,
+          51.320404
+        ]
+      },
+      "id": "node/1610314592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1614238177",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.740425,
+          51.2939962
+        ]
+      },
+      "id": "node/1614238177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1616489409",
+        "direction": "350",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0199163,
+          51.1526206
+        ]
+      },
+      "id": "node/1616489409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1617895543",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.023899,
+          51.1814872
+        ]
+      },
+      "id": "node/1617895543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1617895803",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0208237,
+          51.1977495
+        ]
+      },
+      "id": "node/1617895803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621457359",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8006342,
+          51.1480571
+        ]
+      },
+      "id": "node/1621457359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623788629",
+        "colour": "black",
+        "direction": "25;175",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "221197779427127",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8343258,
+          51.1945405
+        ]
+      },
+      "id": "node/1623788629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629440622",
+        "colour": "grey",
+        "direction": "65;270",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "mapillary": "171358338244514",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2150518,
+          51.4238574
+        ]
+      },
+      "id": "node/1629440622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656970761",
+        "direction": "255",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "297213225201875",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3900435,
+          51.3615898
+        ]
+      },
+      "id": "node/1656970761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1714709854",
+        "direction": "290",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8049427,
+          50.8935904
+        ]
+      },
+      "id": "node/1714709854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1714709857",
+        "direction": "90",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8027487,
+          50.8987987
+        ]
+      },
+      "id": "node/1714709857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1725338841",
+        "direction": "350",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "4285476461504835",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.681933,
+          50.7895374
+        ]
+      },
+      "id": "node/1725338841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1744052846",
+        "direction": "300",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "860488857883651",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5201192,
+          50.6996418
+        ]
+      },
+      "id": "node/1744052846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763499195",
+        "direction": "15",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5011492,
+          50.7179044
+        ]
+      },
+      "id": "node/1763499195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1784414116",
+        "colour": "darkgreen",
+        "direction": "240",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8978759,
+          50.8212683
+        ]
+      },
+      "id": "node/1784414116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1819286485",
+        "direction": "10",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0490673,
+          51.2317507
+        ]
+      },
+      "id": "node/1819286485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1863165228",
+        "comment": "Linien auf Straßenbelag in beide Fahrtrichtungen erkennbar",
+        "direction": "150",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "464447031529578",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4150105,
+          51.2420824
+        ]
+      },
+      "id": "node/1863165228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1900966523",
+        "description": "Rotlichtüberwaching",
+        "direction": "230",
+        "highway": "speed_camera",
+        "man_made": "mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4592807,
+          50.7069759
+        ]
+      },
+      "id": "node/1900966523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1902988324",
+        "colour": "black",
+        "direction": "315",
+        "height": "4",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "202491495021156",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8741375,
+          50.8567483
+        ]
+      },
+      "id": "node/1902988324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1965182847",
+        "colour": "grey",
+        "direction": "150",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1393631964330434",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6289598,
+          51.1624515
+        ]
+      },
+      "id": "node/1965182847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016303123",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7942639,
+          51.0014116
+        ]
+      },
+      "id": "node/2016303123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016309093",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7932812,
+          51.0020685
+        ]
+      },
+      "id": "node/2016309093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2183917665",
+        "colour": "grey",
+        "direction": "240",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1337542,
+          50.5014592
+        ]
+      },
+      "id": "node/2183917665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2241118966",
+        "direction": "250",
+        "highway": "speed_camera",
+        "mapillary": "2955603518010246",
+        "maxweight": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.80834,
+          51.052628
+        ]
+      },
+      "id": "node/2241118966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379417661",
+        "direction": "10",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "mapillary": "825679158056457",
+        "mast:type": "column",
+        "maxspeed:conditional": "30 @ (Apr 19:00-07:00; May-Jul 20:00-06:00; Aug-Sep 19:00-06:00; Oct 18:00-07:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7766329,
+          51.0648614
+        ]
+      },
+      "id": "node/2379417661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379417665",
+        "direction": "190",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "825679158056457",
+        "mast:type": "column",
+        "maxspeed:conditional": "30 @ (Apr 19:00-07:00; May-Jul 20:00-06:00; Aug-Sep 19:00-06:00; Oct 18:00-07:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7768581,
+          51.0648686
+        ]
+      },
+      "id": "node/2379417665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421223993",
+        "highway": "speed_camera",
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.73543,
+          51.1009807
+        ]
+      },
+      "id": "node/2421223993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2422652844",
+        "direction": "90",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "456642515425649",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5012145,
+          51.365664
+        ]
+      },
+      "id": "node/2422652844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2422652845",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6480311,
+          51.5100981
+        ]
+      },
+      "id": "node/2422652845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2457862862",
+        "highway": "speed_camera",
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.154853,
+          51.2002495
+        ]
+      },
+      "id": "node/2457862862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2502924833",
+        "direction": "35",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "475733676850620",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2884612,
+          51.3232444
+        ]
+      },
+      "id": "node/2502924833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526898751",
+        "direction": "200",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8080598,
+          50.9090945
+        ]
+      },
+      "id": "node/2526898751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526898755",
+        "direction": "40",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8081022,
+          50.9094322
+        ]
+      },
+      "id": "node/2526898755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2545477252",
+        "direction": "340",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "616337756429643",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4743532,
+          50.7688022
+        ]
+      },
+      "id": "node/2545477252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2548774250",
+        "direction": "100",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1198687690560183",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3584356,
+          51.342142
+        ]
+      },
+      "id": "node/2548774250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2579839765",
+        "colour": "black",
+        "direction": "120",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1614509998744107",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5198171,
+          50.6998317
+        ]
+      },
+      "id": "node/2579839765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2585834179",
+        "direction": "160",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "2206460522819365",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9163053,
+          51.1251752
+        ]
+      },
+      "id": "node/2585834179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2675387809",
+        "direction": "190;340",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4294047,
+          51.0668585
+        ]
+      },
+      "id": "node/2675387809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2675388052",
+        "direction": "20;160",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "source": "survey",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4412437,
+          51.1316442
+        ]
+      },
+      "id": "node/2675388052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714780719",
+        "direction": "180",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "795428064433359",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7322827,
+          51.0792501
+        ]
+      },
+      "id": "node/2714780719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973031651",
+        "colour": "green",
+        "direction": "70",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "944794356345534",
+        "maxspeed": "50",
+        "note": "Zeigt stadtauswärts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7331874,
+          51.046711
+        ]
+      },
+      "id": "node/2973031651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2974162479",
+        "direction": "backward",
+        "highway": "speed_camera",
+        "mapillary": "526983848316800",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4691146,
+          51.1686975
+        ]
+      },
+      "id": "node/2974162479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986559602",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8200445,
+          50.9148267
+        ]
+      },
+      "id": "node/2986559602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2990281032",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3791147,
+          51.3041254
+        ]
+      },
+      "id": "node/2990281032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3028390850",
+        "colour": "black",
+        "direction": "220",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "863125880950543",
+        "mast:type": "column",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6903165,
+          51.106951
+        ]
+      },
+      "id": "node/3028390850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3035384137",
+        "colour": "black",
+        "direction": "50",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "863125880950543",
+        "mast:type": "column",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6902627,
+          51.107063
+        ]
+      },
+      "id": "node/3035384137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3046367678",
+        "colour": "white",
+        "description": "Richtung wahlweise einstellbar",
+        "direction": "110;310",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "3960189110684068",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6268377,
+          51.0220121
+        ]
+      },
+      "id": "node/3046367678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3048478798",
+        "colour": "black",
+        "direction": "140",
+        "height": "4",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "4219262964761519",
+        "mast:type": "column",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6263639,
+          51.106954
+        ]
+      },
+      "id": "node/3048478798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3139737958",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2672841,
+          51.4380236
+        ]
+      },
+      "id": "node/3139737958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3139737963",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2671528,
+          51.4381612
+        ]
+      },
+      "id": "node/3139737963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3140874211",
+        "direction": "290",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "145591547581192",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4059195,
+          51.351462
+        ]
+      },
+      "id": "node/3140874211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3141402325",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2566943,
+          51.2682685
+        ]
+      },
+      "id": "node/3141402325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3152318054",
+        "direction": "330",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.653019,
+          51.0822707
+        ]
+      },
+      "id": "node/3152318054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3152321158",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6679208,
+          51.0574824
+        ]
+      },
+      "id": "node/3152321158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3178359661",
+        "direction": "120",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "253591929853080",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6247903,
+          50.5994375
+        ]
+      },
+      "id": "node/3178359661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3217887154",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1019579,
+          51.1012161
+        ]
+      },
+      "id": "node/3217887154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3224230996",
+        "direction": "150",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "473903683678360",
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6838151,
+          50.7878002
+        ]
+      },
+      "id": "node/3224230996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3253524680",
+        "colour": "black",
+        "direction": "80",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1325161251217592",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9661476,
+          50.8550582
+        ]
+      },
+      "id": "node/3253524680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3287405248",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9539772,
+          51.0180141
+        ]
+      },
+      "id": "node/3287405248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3354717793",
+        "colour": "beige",
+        "direction": "270",
+        "height": "2.5",
+        "highway": "speed_camera",
+        "image": "https://openstreetcam.org/details/3197938/600/track-info",
+        "man_made": "mast",
+        "mapillary": "1435225426821680",
+        "maxspeed": "30",
+        "maxspeed:conditional": "50 @ (06:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758355,
+          51.0633934
+        ]
+      },
+      "id": "node/3354717793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367603899",
+        "description": "Camera device is located at the southern border of the road, but can be turned in both traffic directions",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.979517,
+          50.9287926
+        ]
+      },
+      "id": "node/3367603899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3413184258",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.530346,
+          51.0510891
+        ]
+      },
+      "id": "node/3413184258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3569851428",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4863641,
+          51.1078946
+        ]
+      },
+      "id": "node/3569851428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3578784511",
+        "direction": "210",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9840803,
+          51.1261096
+        ]
+      },
+      "id": "node/3578784511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3682439508",
+        "description": "Drehbarer Blitzer",
+        "direction": "170",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5006543,
+          50.7164954
+        ]
+      },
+      "id": "node/3682439508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3687509571",
+        "direction": "145",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4068634,
+          51.3846064
+        ]
+      },
+      "id": "node/3687509571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3706926422",
+        "direction": "75",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "301783065057549",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377362,
+          51.3488189
+        ]
+      },
+      "id": "node/3706926422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3759376470",
+        "direction": "-10",
+        "highway": "speed_camera",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.719204,
+          50.5722579
+        ]
+      },
+      "id": "node/3759376470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3759376511",
+        "direction": "300",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6881863,
+          50.5924517
+        ]
+      },
+      "id": "node/3759376511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781993108",
+        "direction": "330",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "168659965093724",
+        "note": "Rotlichtblitzer",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4738673,
+          51.3587036
+        ]
+      },
+      "id": "node/3781993108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3851199509",
+        "colour": "black",
+        "direction": "125;270",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1462344837435391",
+        "mast:type": "column",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1154637,
+          51.0250153
+        ]
+      },
+      "id": "node/3851199509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3861276372",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.388133,
+          51.2224287
+        ]
+      },
+      "id": "node/3861276372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939088589",
+        "colour": "black",
+        "direction": "350",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "mapillary": "1480264853327352",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1201728,
+          50.514653
+        ]
+      },
+      "id": "node/3939088589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998627318",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7149993,
+          50.975337
+        ]
+      },
+      "id": "node/3998627318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008163330",
+        "direction": "215",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "729840144352057",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3400759,
+          51.3300643
+        ]
+      },
+      "id": "node/4008163330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280846349",
+        "direction": "15;165",
+        "highway": "speed_camera",
+        "maxspeed": "30",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9313184,
+          51.0135449
+        ]
+      },
+      "id": "node/4280846349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281051357",
+        "direction": "220",
+        "highway": "speed_camera",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9742435,
+          51.1550914
+        ]
+      },
+      "id": "node/4281051357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294273110",
+        "direction": "265",
+        "highway": "speed_camera",
+        "mapillary": "179537214030474",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9728346,
+          51.1433239
+        ]
+      },
+      "id": "node/4294273110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4322952453",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.231907,
+          51.4581058
+        ]
+      },
+      "id": "node/4322952453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413881927",
+        "colour": "black",
+        "direction": "275",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "292561362449380",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.342887,
+          51.3186617
+        ]
+      },
+      "id": "node/4413881927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580061769",
+        "direction": "200",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "186986119985595",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9252406,
+          50.5392681
+        ]
+      },
+      "id": "node/4580061769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693549995",
+        "colour": "black",
+        "direction": "30;170",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "176047031372850",
+        "maxspeed": "50",
+        "source": "https://archive.is/nBJRX;https://archive.is/NzyOL",
+        "source:note": "Zusatzinfo's",
+        "was:image": "https://openstreetcam.org/details/162182/194/track-info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1376074,
+          50.5901307
+        ]
+      },
+      "id": "node/4693549995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693550320",
+        "colour": "black",
+        "direction": "170",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "mapillary": "1958063608273179",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.120373,
+          50.514799
+        ]
+      },
+      "id": "node/4693550320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4718954276",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1021849,
+          51.1009951
+        ]
+      },
+      "id": "node/4718954276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4839779287",
+        "direction": "140",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "3957391857684460",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7359819,
+          51.0879281
+        ]
+      },
+      "id": "node/4839779287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891785592",
+        "colour": "grey",
+        "direction": "95",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "172695021421516",
+        "mapillary:date": "2021-04-21",
+        "mast:type": "column",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3766796,
+          51.3445229
+        ]
+      },
+      "id": "node/4891785592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4945827011",
+        "colour": "black",
+        "direction": "165",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "327601018790485",
+        "mast:type": "column",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.877814,
+          50.5825704
+        ]
+      },
+      "id": "node/4945827011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4945827012",
+        "colour": "black",
+        "direction": "340",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "316520050186457",
+        "mast:type": "column",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8773446,
+          50.5828721
+        ]
+      },
+      "id": "node/4945827012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947067120",
+        "direction": "75",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (Mo-Fr 07:00-17:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0774585,
+          51.0477609
+        ]
+      },
+      "id": "node/4947067120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5159282655",
+        "direction": "forward",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7509059,
+          50.8080509
+        ]
+      },
+      "id": "node/5159282655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5165169548",
+        "direction": "220",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1256903,
+          50.497924
+        ]
+      },
+      "id": "node/5165169548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5165169549",
+        "direction": "35",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1252668,
+          50.4977518
+        ]
+      },
+      "id": "node/5165169549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5178464885",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8169499,
+          50.917546
+        ]
+      },
+      "id": "node/5178464885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5300589956",
+        "colour": "green",
+        "direction": "90",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1111757869291711",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.182233,
+          50.935637
+        ]
+      },
+      "id": "node/5300589956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315036018",
+        "direction": "220",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1227279421070378",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3795837,
+          51.3595361
+        ]
+      },
+      "id": "node/5315036018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5370503155",
+        "direction": "120",
+        "highway": "speed_camera",
+        "mapillary": "428600085878404",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5051261,
+          51.2631138
+        ]
+      },
+      "id": "node/5370503155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5396616292",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7316153,
+          51.0261753
+        ]
+      },
+      "id": "node/5396616292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5446100628",
+        "colour": "grey",
+        "direction": "240",
+        "height": "4",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "284215300317143",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4433773,
+          50.6373709
+        ]
+      },
+      "id": "node/5446100628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5446100629",
+        "colour": "grey",
+        "direction": "160",
+        "height": "4",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "115325984072724",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.443186,
+          50.6375529
+        ]
+      },
+      "id": "node/5446100629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5446100630",
+        "colour": "grey",
+        "direction": "50",
+        "height": "4",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "954525328787105",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.442983,
+          50.6373028
+        ]
+      },
+      "id": "node/5446100630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5548848820",
+        "colour": "grey",
+        "direction": "340",
+        "height": "4",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1497009510684619",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4432163,
+          50.6371532
+        ]
+      },
+      "id": "node/5548848820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641961968",
+        "direction": "140;280",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5958424,
+          51.1382338
+        ]
+      },
+      "id": "node/5641961968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5659046032",
+        "direction": "290",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "3938991212825337",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4128507,
+          51.3750509
+        ]
+      },
+      "id": "node/5659046032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5677202254",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.122875,
+          50.9978417
+        ]
+      },
+      "id": "node/5677202254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5697132446",
+        "colour": "black",
+        "direction": "245",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "196811498952621",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0918857,
+          50.7229558
+        ]
+      },
+      "id": "node/5697132446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721305561",
+        "colour": "gray",
+        "description": "Rotlicht- und Geschwindigkeitsblitzer.  Quelle https://www.blick.de/chemnitz/achtung-neuer-superblitzer-in-der-chemnitzer-city-montiert-artikel12861851",
+        "direction": "0-360",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "361910886747694",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals",
+        "was:mapillary": "472295610716249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9263819,
+          50.8337762
+        ]
+      },
+      "id": "node/5721305561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5798758793",
+        "direction": "105",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "115571830837505",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1383985,
+          51.1213517
+        ]
+      },
+      "id": "node/5798758793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5798758794",
+        "direction": "285",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "4305112669555896",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1390806,
+          51.1212193
+        ]
+      },
+      "id": "node/5798758794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5830443808",
+        "colour": "black",
+        "direction": "50;200",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "column",
+        "mapillary": "370922432468239",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4739025,
+          50.6763186
+        ]
+      },
+      "id": "node/5830443808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5918639805",
+        "direction": "90",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9451267,
+          51.0353411
+        ]
+      },
+      "id": "node/5918639805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922827368",
+        "direction": "270",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "280886360412205",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1827554,
+          50.9356423
+        ]
+      },
+      "id": "node/5922827368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5936661129",
+        "colour": "grey",
+        "direction": "95;295",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50",
+        "note": "Blitzer für Rotlicht (Fußgängerampel) und Geschwindigkeit in beide Richtungen.",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3994236,
+          50.6726411
+        ]
+      },
+      "id": "node/5936661129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6150042392",
+        "colour": "black",
+        "direction": "350",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "2020656818087302",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1041379,
+          50.7051094
+        ]
+      },
+      "id": "node/6150042392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6166540380",
+        "colour": "black",
+        "direction": "270",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1399882693729761",
+        "mast:type": "column",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.112546,
+          51.1205118
+        ]
+      },
+      "id": "node/6166540380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180305125",
+        "colour": "black",
+        "direction": "170",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "2020656818087302",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.104353,
+          50.7051921
+        ]
+      },
+      "id": "node/6180305125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6297522259",
+        "direction": "190",
+        "highway": "speed_camera",
+        "mapillary": "2007542239709711",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7443338,
+          51.0478928
+        ]
+      },
+      "id": "node/6297522259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6524650206",
+        "direction": "0",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "604706565968922",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5162394,
+          50.6400999
+        ]
+      },
+      "id": "node/6524650206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6524650207",
+        "direction": "180",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "841527348625992",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5163214,
+          50.6403686
+        ]
+      },
+      "id": "node/6524650207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6524913554",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7151711,
+          50.9757836
+        ]
+      },
+      "id": "node/6524913554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548391801",
+        "colour": "black",
+        "direction": "30;210",
+        "height": "4",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1567416,
+          50.5075148
+        ]
+      },
+      "id": "node/6548391801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548439356",
+        "colour": "black",
+        "direction": "150;300",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "820767735217908",
+        "mast:type": "column",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (Mo-Fr 06:00-17:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1346677,
+          50.5099674
+        ]
+      },
+      "id": "node/6548439356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578512328",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8265804,
+          51.0406077
+        ]
+      },
+      "id": "node/6578512328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6629398177",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5772623,
+          50.9855181
+        ]
+      },
+      "id": "node/6629398177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6679562808",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7972131,
+          51.066058
+        ]
+      },
+      "id": "node/6679562808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6681785634",
+        "direction": "310",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7658151,
+          51.0730556
+        ]
+      },
+      "id": "node/6681785634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6787776817",
+        "direction": "85",
+        "highway": "speed_camera",
+        "mapillary": "194089802456213",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7972202,
+          50.8993278
+        ]
+      },
+      "id": "node/6787776817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6862258106",
+        "direction": "185",
+        "highway": "speed_camera",
+        "maxspeed": "30",
+        "removed:highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.990047,
+          50.8821797
+        ]
+      },
+      "id": "node/6862258106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6913423170",
+        "direction": "230",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583285,
+          51.2866241
+        ]
+      },
+      "id": "node/6913423170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6935004048",
+        "direction": "160;310",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "3909964835752483",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9081526,
+          50.9944193
+        ]
+      },
+      "id": "node/6935004048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034405923",
+        "colour": "black",
+        "direction": "5;165",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "152427773513751",
+        "maxspeed": "50",
+        "source": "https://www.freiepresse.de/mittelsachsen/freiberg/an-der-b-101-steht-jetzt-ein-stationaerer-blitzer-artikel10671726",
+        "start_date": "2019-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2934245,
+          51.0341141
+        ]
+      },
+      "id": "node/7034405923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7182641480",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7912025,
+          51.0379216
+        ]
+      },
+      "id": "node/7182641480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7228341324",
+        "direction": "280",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "removed:highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9902778,
+          50.8820126
+        ]
+      },
+      "id": "node/7228341324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313059816",
+        "direction": "340",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6947212,
+          51.0958921
+        ]
+      },
+      "id": "node/7313059816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7333188118",
+        "description:de": "Geschwindigkeitsanzeige",
+        "direction": "242",
+        "highway": "speed_camera",
+        "maxspeed": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.752989,
+          50.8920658
+        ]
+      },
+      "id": "node/7333188118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7341018784",
+        "colour": "grey",
+        "direction": "0;180",
+        "height": "3",
+        "highway": "speed_camera",
+        "mapillary": "333203521691644",
+        "maxspeed": "30",
+        "note": "definitiv in Betrieb (10/2021)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6379777,
+          50.7292533
+        ]
+      },
+      "id": "node/7341018784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7341531951",
+        "direction": "180",
+        "highway": "speed_camera",
+        "mapillary": "811371026408970",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9081161,
+          50.8331966
+        ]
+      },
+      "id": "node/7341531951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7341608278",
+        "direction": "0",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.940896,
+          50.826809
+        ]
+      },
+      "id": "node/7341608278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7376349386",
+        "highway": "speed_camera",
+        "maxspeed": "30",
+        "survey:date": "2020-04-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8032998,
+          50.905874
+        ]
+      },
+      "id": "node/7376349386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7506771096",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4748671,
+          50.7820407
+        ]
+      },
+      "id": "node/7506771096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7506782390",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4825954,
+          50.7810882
+        ]
+      },
+      "id": "node/7506782390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7762576205",
+        "direction": "175",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3711506,
+          50.7030885
+        ]
+      },
+      "id": "node/7762576205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7946406624",
+        "direction": "310",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5000602,
+          50.738147
+        ]
+      },
+      "id": "node/7946406624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7946426375",
+        "direction": "260",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4638662,
+          50.7522294
+        ]
+      },
+      "id": "node/7946426375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8068207195",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4664732,
+          50.8499316
+        ]
+      },
+      "id": "node/8068207195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8141554015",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4665005,
+          50.8499584
+        ]
+      },
+      "id": "node/8141554015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8433034444",
+        "direction": "110",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "338427700959598",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4262148,
+          51.3519042
+        ]
+      },
+      "id": "node/8433034444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8433034445",
+        "direction": "70",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "923918608444316",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.426063,
+          51.3517402
+        ]
+      },
+      "id": "node/8433034445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8434467594",
+        "direction": "325",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1425548814473751",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4174193,
+          51.3108653
+        ]
+      },
+      "id": "node/8434467594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8583257274",
+        "direction": "75",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "319026402966079",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3340989,
+          50.3957975
+        ]
+      },
+      "id": "node/8583257274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8619270578",
+        "direction": "0",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1202182946883844",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3450297,
+          51.3189078
+        ]
+      },
+      "id": "node/8619270578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8715792408",
+        "direction": "20;230",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4981456,
+          50.8365411
+        ]
+      },
+      "id": "node/8715792408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8842282337",
+        "direction": "125",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "257929136114062",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3614035,
+          51.3635369
+        ]
+      },
+      "id": "node/8842282337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8842398096",
+        "direction": "320",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "178848737450378",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3302392,
+          51.3356579
+        ]
+      },
+      "id": "node/8842398096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8843333493",
+        "direction": "310",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "291920535928193",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6942809,
+          50.805874
+        ]
+      },
+      "id": "node/8843333493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8843400774",
+        "colour": "darkgreen",
+        "direction": "110",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "515772706089675",
+        "maxspeed": "30",
+        "maxspeed:conditional": "50 @ (Mo-Fr,PH 00:00-06:00; 18:00-24:00; Sa-Su 00:00-24:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8235178,
+          50.7857311
+        ]
+      },
+      "id": "node/8843400774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8843473640",
+        "direction": "10",
+        "height": "3",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "521000319045033",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (Mo-Fr 06:00-18:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6777466,
+          51.0582063
+        ]
+      },
+      "id": "node/8843473640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9018323438",
+        "direction": "270",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8564778,
+          50.8321838
+        ]
+      },
+      "id": "node/9018323438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9043489378",
+        "direction": "310",
+        "highway": "speed_camera",
+        "mapillary": "544377686756121",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.707643,
+          51.0819956
+        ]
+      },
+      "id": "node/9043489378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9043823416",
+        "colour": "black",
+        "direction": "310",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "1220700315056595",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3376816,
+          51.3748631
+        ]
+      },
+      "id": "node/9043823416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9076259472",
+        "colour": "black",
+        "direction": "50;190",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "200877825656746",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1511891,
+          50.3956523
+        ]
+      },
+      "id": "node/9076259472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9205610767",
+        "colour": "black",
+        "direction": "15;215",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "380248646602575",
+        "mast:type": "column",
+        "maxspeed": "30",
+        "maxspeed:conditional": "50 @ (Mo-Fr 00:00-06:00,18:00-24:00, Sa,Su 00:00-24:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3356324,
+          50.9123038
+        ]
+      },
+      "id": "node/9205610767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288675295",
+        "colour": "black",
+        "direction": "170;320",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "422626563089557",
+        "mast:type": "column",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1793855,
+          50.4094801
+        ]
+      },
+      "id": "node/9288675295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288763116",
+        "colour": "black",
+        "direction": "100;250",
+        "highway": "speed_camera",
+        "mapillary": "736031212789535",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1979753,
+          50.4200704
+        ]
+      },
+      "id": "node/9288763116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9324733260",
+        "colour": "black",
+        "description": "fest installierter Blitzer mit beidseitiger Geschwindigkeitsüberwachung",
+        "direction": "0;180",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3770069,
+          50.9199434
+        ]
+      },
+      "id": "node/9324733260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9376263838",
+        "direction": "105",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "860422724544651",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6172086,
+          51.3596132
+        ]
+      },
+      "id": "node/9376263838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421583220",
+        "direction": "55",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5853613,
+          51.2882455
+        ]
+      },
+      "id": "node/9421583220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880409944",
+        "description": "Blitzer, beidseitig 50km/h",
+        "direction": "300;90",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.016206,
+          50.9198033
+        ]
+      },
+      "id": "node/9880409944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9979771451",
+        "direction": "60",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4175804,
+          50.9384709
+        ]
+      },
+      "id": "node/9979771451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10121135141",
+        "colour": "gray",
+        "direction": "160",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "mapillary": "161100937052164",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.966021,
+          50.80941
+        ]
+      },
+      "id": "node/10121135141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10152390090",
+        "direction": "280",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6745264,
+          51.1038039
+        ]
+      },
+      "id": "node/10152390090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10162792216",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5114294,
+          51.3865668
+        ]
+      },
+      "id": "node/10162792216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10941825127",
+        "direction": "90",
+        "highway": "speed_camera",
+        "mapillary": "910806070024522",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.349706,
+          51.3190534
+        ]
+      },
+      "id": "node/10941825127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10965482344",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "note": "beide Richtungen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8315889,
+          50.7823922
+        ]
+      },
+      "id": "node/10965482344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11084158801",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2565565,
+          51.2629018
+        ]
+      },
+      "id": "node/11084158801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11307139771",
+        "direction": "both",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9508794,
+          50.8778615
+        ]
+      },
+      "id": "node/11307139771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11330957046",
+        "direction": "10;160",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9873627,
+          50.8869784
+        ]
+      },
+      "id": "node/11330957046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11338384723",
+        "direction": "345",
+        "highway": "speed_camera",
+        "mapillary": "1049685599818184",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.97986,
+          51.1389903
+        ]
+      },
+      "id": "node/11338384723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11349422341",
+        "direction": "10",
+        "highway": "speed_camera",
+        "maxspeed": "30",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7181971,
+          51.5126307
+        ]
+      },
+      "id": "node/11349422341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350621325",
+        "direction": "345",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9721524,
+          51.164116
+        ]
+      },
+      "id": "node/11350621325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368223965",
+        "direction": "0-360",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3511273,
+          50.9125716
+        ]
+      },
+      "id": "node/11368223965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11372617585",
+        "colour": "black",
+        "direction": "15;160",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mast:type": "column",
+        "maxspeed": "50",
+        "support": "column"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1607677,
+          50.3435941
+        ]
+      },
+      "id": "node/11372617585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11379434650",
+        "direction": "275",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "support": "pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9445323,
+          51.1479181
+        ]
+      },
+      "id": "node/11379434650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11479274773",
+        "direction": "150",
+        "highway": "speed_camera",
+        "maxspeed": "100",
+        "support": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8385704,
+          50.9044917
+        ]
+      },
+      "id": "node/11479274773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11521542522",
+        "colour": "black",
+        "direction": "60;260",
+        "highway": "speed_camera",
+        "mapillary": "2867627710249820",
+        "maxspeed": "30",
+        "maxspeed:conditional": "50 @ (Mo-Fr 00:00-06:00,17:00-24:00, Sa,Su 00:00-24:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7990512,
+          50.7994061
+        ]
+      },
+      "id": "node/11521542522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11778341723",
+        "direction": "155",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.140427,
+          51.432738
+        ]
+      },
+      "id": "node/11778341723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11778341724",
+        "direction": "140;350",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (hgv)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1398779,
+          51.4332505
+        ]
+      },
+      "id": "node/11778341724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11863050048",
+        "direction": "310",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7069098,
+          51.521666
+        ]
+      },
+      "id": "node/11863050048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11873073611",
+        "description": "Blitzeranhänger, Blitzt in beide Richtungen",
+        "direction": "310",
+        "highway": "speed_camera",
+        "maxspeed": "30",
+        "start_date": "2024-04-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.818516,
+          51.0329981
+        ]
+      },
+      "id": "node/11873073611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11958280000",
+        "colour": "black",
+        "direction": "45",
+        "highway": "speed_camera",
+        "mapillary": "419518307299183",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3649086,
+          51.323478
+        ]
+      },
+      "id": "node/11958280000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11958319121",
+        "colour": "black",
+        "direction": "165;345",
+        "highway": "speed_camera",
+        "image": "https://kartaview.org/details/9016825/142",
+        "kartaview": "https://kartaview.org/details/9016825/142",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3953097,
+          51.3410796
+        ]
+      },
+      "id": "node/11958319121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12020213408",
+        "direction": "260;40",
+        "fixme": "Würde mal bitte jemand den von mir eingetragenen Standort betsätigen? Danke!",
+        "highway": "speed_camera",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7495447,
+          51.1257003
+        ]
+      },
+      "id": "node/12020213408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12047681306",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9126877,
+          51.1071212
+        ]
+      },
+      "id": "node/12047681306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12085681563",
+        "direction": "112",
+        "fixme": "Auf den Luftbildern sieht der Blitzer sehr neu aus. Kann es sein, daß der in beide Richtungen blitzt?",
+        "highway": "speed_camera",
+        "maxspeed": "30",
+        "support": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2803273,
+          51.4447895
+        ]
+      },
+      "id": "node/12085681563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12175355517",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (Mo-Fr 07:00-16:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8349907,
+          50.8611559
+        ]
+      },
+      "id": "node/12175355517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12230389900",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.71562,
+          51.0303825
+        ]
+      },
+      "id": "node/12230389900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12249792172",
+        "direction": "95",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.317811,
+          51.320493
+        ]
+      },
+      "id": "node/12249792172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12253931370",
+        "direction": "15",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4223781,
+          51.306481
+        ]
+      },
+      "id": "node/12253931370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12600451646",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3380456,
+          51.3694675
+        ]
+      },
+      "id": "node/12600451646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12628092573",
+        "direction": "90;270",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50",
+        "speed_camera": "maxspeed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4796372,
+          51.3519884
+        ]
+      },
+      "id": "node/12628092573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12650188928",
+        "colour": "grey",
+        "direction": "285",
+        "highway": "speed_camera",
+        "mapillary": "1272006660608507",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3038912,
+          51.3423824
+        ]
+      },
+      "id": "node/12650188928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12751992240",
+        "direction": "150;350",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2282712,
+          51.4173766
+        ]
+      },
+      "id": "node/12751992240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12772239422",
+        "direction": "15",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2193765,
+          50.5604276
+        ]
+      },
+      "id": "node/12772239422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840469853",
+        "direction": "20",
+        "highway": "speed_camera",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2193923,
+          50.5592839
+        ]
+      },
+      "id": "node/12840469853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12883367615",
+        "highway": "speed_camera",
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1567466,
+          51.2181584
+        ]
+      },
+      "id": "node/12883367615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12912454612",
+        "direction": "260",
+        "enforcement": "maxspeed",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "name": "Blitzer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4888768,
+          50.5354103
+        ]
+      },
+      "id": "node/12912454612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12915174411",
+        "direction": "275",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2617779,
+          51.3161094
+        ]
+      },
+      "id": "node/12915174411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13045909672",
+        "direction": "90",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3690922,
+          51.376179
+        ]
+      },
+      "id": "node/13045909672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13081634149",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7947222,
+          51.0662539
+        ]
+      },
+      "id": "node/13081634149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13257264510",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.068289,
+          51.1243491
+        ]
+      },
+      "id": "node/13257264510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13293985900",
+        "direction": "245",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9223824,
+          50.831021
+        ]
+      },
+      "id": "node/13293985900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13325743336",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4864028,
+          51.1078679
+        ]
+      },
+      "id": "node/13325743336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13401890624",
+        "colour": "black",
+        "direction": "35;215",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "maxspeed": "50",
+        "start_date": "2025-12",
+        "start_date:source": "https://archive.is/4RjYI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4507181,
+          50.7039547
+        ]
+      },
+      "id": "node/13401890624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13415589191",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0145813,
+          50.5811777
+        ]
+      },
+      "id": "node/13415589191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13434266273",
+        "highway": "speed_camera",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3740091,
+          51.1164657
+        ]
+      },
+      "id": "node/13434266273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13587066992",
+        "colour": "grey",
+        "direction": "225",
+        "highway": "speed_camera",
+        "mapillary": "748370788300755",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4379853,
+          51.3275961
+        ]
+      },
+      "id": "node/13587066992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13681471065",
+        "direction": "50",
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3752706,
+          50.5217195
+        ]
+      },
+      "id": "node/13681471065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13742040907",
+        "colour": "grey",
+        "direction": "100",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "mapillary": "962524442821746",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1400658,
+          50.5054274
+        ]
+      },
+      "id": "node/13742040907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13742107886",
+        "colour": "grey",
+        "direction": "175",
+        "height": "3.5",
+        "highway": "speed_camera",
+        "man_made": "mast",
+        "maxspeed": "50",
+        "speed_camera": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1715528,
+          50.498026
+        ]
+      },
+      "id": "node/13742107886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13785664408",
+        "direction": "0",
+        "fixme": "genaue Position",
+        "highway": "speed_camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.908303,
+          50.83215
+        ]
+      },
+      "id": "node/13785664408"
+    }
+  ]
+}

@@ -1,0 +1,2356 @@
+@prefix ex: <http://example.org/traffic/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:speed-camera-node_1004030175 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1004030175"@en ;
+    ex:direction "30" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.3829045 ;
+    ex:longitude 12.3229933 ;
+    ex:osmId "node/1004030175" ;
+    ex:source <https://www.openstreetmap.org/node/1004030175> .
+
+ex:speed-camera-node_1007839440 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1007839440"@en ;
+    ex:direction "190" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.3825966 ;
+    ex:longitude 12.3231216 ;
+    ex:osmId "node/1007839440" ;
+    ex:source <https://www.openstreetmap.org/node/1007839440> .
+
+ex:speed-camera-node_10121135141 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/10121135141"@en ;
+    ex:direction "160" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.80941 ;
+    ex:longitude 12.966021 ;
+    ex:osmId "node/10121135141" ;
+    ex:source <https://www.openstreetmap.org/node/10121135141> .
+
+ex:speed-camera-node_10152390090 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/10152390090"@en ;
+    ex:direction "280" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1038039 ;
+    ex:longitude 14.6745264 ;
+    ex:osmId "node/10152390090" ;
+    ex:source <https://www.openstreetmap.org/node/10152390090> .
+
+ex:speed-camera-node_10162792216 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/10162792216"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3865668 ;
+    ex:longitude 13.5114294 ;
+    ex:osmId "node/10162792216" ;
+    ex:source <https://www.openstreetmap.org/node/10162792216> .
+
+ex:speed-camera-node_10941825127 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/10941825127"@en ;
+    ex:direction "90" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3190534 ;
+    ex:longitude 12.349706 ;
+    ex:osmId "node/10941825127" ;
+    ex:source <https://www.openstreetmap.org/node/10941825127> .
+
+ex:speed-camera-node_10965482344 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/10965482344"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7823922 ;
+    ex:longitude 13.8315889 ;
+    ex:osmId "node/10965482344" ;
+    ex:source <https://www.openstreetmap.org/node/10965482344> .
+
+ex:speed-camera-node_11084158801 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11084158801"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.2629018 ;
+    ex:longitude 13.2565565 ;
+    ex:osmId "node/11084158801" ;
+    ex:source <https://www.openstreetmap.org/node/11084158801> .
+
+ex:speed-camera-node_1119339025 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1119339025"@en ;
+    ex:direction "0" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3284968 ;
+    ex:longitude 12.3991937 ;
+    ex:osmId "node/1119339025" ;
+    ex:source <https://www.openstreetmap.org/node/1119339025> .
+
+ex:speed-camera-node_11307139771 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11307139771"@en ;
+    ex:direction "both" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8778615 ;
+    ex:longitude 13.9508794 ;
+    ex:osmId "node/11307139771" ;
+    ex:source <https://www.openstreetmap.org/node/11307139771> .
+
+ex:speed-camera-node_11330957046 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11330957046"@en ;
+    ex:direction "10;160" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8869784 ;
+    ex:longitude 12.9873627 ;
+    ex:osmId "node/11330957046" ;
+    ex:source <https://www.openstreetmap.org/node/11330957046> .
+
+ex:speed-camera-node_11338384723 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11338384723"@en ;
+    ex:direction "345" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1389903 ;
+    ex:longitude 14.97986 ;
+    ex:osmId "node/11338384723" ;
+    ex:source <https://www.openstreetmap.org/node/11338384723> .
+
+ex:speed-camera-node_11349422341 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11349422341"@en ;
+    ex:direction "10" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.5126307 ;
+    ex:longitude 14.7181971 ;
+    ex:osmId "node/11349422341" ;
+    ex:source <https://www.openstreetmap.org/node/11349422341> .
+
+ex:speed-camera-node_11350621325 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11350621325"@en ;
+    ex:direction "345" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.164116 ;
+    ex:longitude 14.9721524 ;
+    ex:osmId "node/11350621325" ;
+    ex:source <https://www.openstreetmap.org/node/11350621325> .
+
+ex:speed-camera-node_11368223965 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11368223965"@en ;
+    ex:direction "0-360" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.9125716 ;
+    ex:longitude 13.3511273 ;
+    ex:osmId "node/11368223965" ;
+    ex:source <https://www.openstreetmap.org/node/11368223965> .
+
+ex:speed-camera-node_11372617585 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11372617585"@en ;
+    ex:direction "15;160" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.3435941 ;
+    ex:longitude 12.1607677 ;
+    ex:osmId "node/11372617585" ;
+    ex:source <https://www.openstreetmap.org/node/11372617585> .
+
+ex:speed-camera-node_11379434650 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11379434650"@en ;
+    ex:direction "275" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1479181 ;
+    ex:longitude 14.9445323 ;
+    ex:osmId "node/11379434650" ;
+    ex:source <https://www.openstreetmap.org/node/11379434650> .
+
+ex:speed-camera-node_11479274773 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11479274773"@en ;
+    ex:direction "150" ;
+    ex:hasMaxSpeed 100 ;
+    ex:latitude 50.9044917 ;
+    ex:longitude 14.8385704 ;
+    ex:osmId "node/11479274773" ;
+    ex:source <https://www.openstreetmap.org/node/11479274773> .
+
+ex:speed-camera-node_11521542522 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11521542522"@en ;
+    ex:direction "60;260" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.7994061 ;
+    ex:longitude 12.7990512 ;
+    ex:osmId "node/11521542522" ;
+    ex:source <https://www.openstreetmap.org/node/11521542522> .
+
+ex:speed-camera-node_11778341723 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11778341723"@en ;
+    ex:direction "155" ;
+    ex:latitude 51.432738 ;
+    ex:longitude 14.140427 ;
+    ex:osmId "node/11778341723" ;
+    ex:source <https://www.openstreetmap.org/node/11778341723> .
+
+ex:speed-camera-node_11778341724 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11778341724"@en ;
+    ex:direction "140;350" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.4332505 ;
+    ex:longitude 14.1398779 ;
+    ex:osmId "node/11778341724" ;
+    ex:source <https://www.openstreetmap.org/node/11778341724> .
+
+ex:speed-camera-node_11863050048 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11863050048"@en ;
+    ex:direction "310" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.521666 ;
+    ex:longitude 14.7069098 ;
+    ex:osmId "node/11863050048" ;
+    ex:source <https://www.openstreetmap.org/node/11863050048> .
+
+ex:speed-camera-node_11873073611 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11873073611"@en ;
+    ex:direction "310" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0329981 ;
+    ex:longitude 13.818516 ;
+    ex:osmId "node/11873073611" ;
+    ex:source <https://www.openstreetmap.org/node/11873073611> .
+
+ex:speed-camera-node_11958280000 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11958280000"@en ;
+    ex:direction "45" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.323478 ;
+    ex:longitude 12.3649086 ;
+    ex:osmId "node/11958280000" ;
+    ex:source <https://www.openstreetmap.org/node/11958280000> .
+
+ex:speed-camera-node_11958319121 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/11958319121"@en ;
+    ex:direction "165;345" ;
+    ex:latitude 51.3410796 ;
+    ex:longitude 12.3953097 ;
+    ex:osmId "node/11958319121" ;
+    ex:source <https://www.openstreetmap.org/node/11958319121> .
+
+ex:speed-camera-node_12020213408 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12020213408"@en ;
+    ex:direction "260;40" ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 51.1257003 ;
+    ex:longitude 14.7495447 ;
+    ex:osmId "node/12020213408" ;
+    ex:source <https://www.openstreetmap.org/node/12020213408> .
+
+ex:speed-camera-node_12047681306 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12047681306"@en ;
+    ex:latitude 51.1071212 ;
+    ex:longitude 13.9126877 ;
+    ex:osmId "node/12047681306" ;
+    ex:source <https://www.openstreetmap.org/node/12047681306> .
+
+ex:speed-camera-node_12085681563 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12085681563"@en ;
+    ex:direction "112" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.4447895 ;
+    ex:longitude 14.2803273 ;
+    ex:osmId "node/12085681563" ;
+    ex:source <https://www.openstreetmap.org/node/12085681563> .
+
+ex:speed-camera-node_12175355517 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12175355517"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8611559 ;
+    ex:longitude 12.8349907 ;
+    ex:osmId "node/12175355517" ;
+    ex:source <https://www.openstreetmap.org/node/12175355517> .
+
+ex:speed-camera-node_12230389900 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12230389900"@en ;
+    ex:latitude 51.0303825 ;
+    ex:longitude 13.71562 ;
+    ex:osmId "node/12230389900" ;
+    ex:source <https://www.openstreetmap.org/node/12230389900> .
+
+ex:speed-camera-node_12249792172 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12249792172"@en ;
+    ex:direction "95" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.320493 ;
+    ex:longitude 12.317811 ;
+    ex:osmId "node/12249792172" ;
+    ex:source <https://www.openstreetmap.org/node/12249792172> .
+
+ex:speed-camera-node_12253931370 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12253931370"@en ;
+    ex:direction "15" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.306481 ;
+    ex:longitude 12.4223781 ;
+    ex:osmId "node/12253931370" ;
+    ex:source <https://www.openstreetmap.org/node/12253931370> .
+
+ex:speed-camera-node_1237939094 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1237939094"@en ;
+    ex:latitude 51.4633116 ;
+    ex:longitude 12.2531532 ;
+    ex:osmId "node/1237939094" ;
+    ex:source <https://www.openstreetmap.org/node/1237939094> .
+
+ex:speed-camera-node_12600451646 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12600451646"@en ;
+    ex:latitude 51.3694675 ;
+    ex:longitude 12.3380456 ;
+    ex:osmId "node/12600451646" ;
+    ex:source <https://www.openstreetmap.org/node/12600451646> .
+
+ex:speed-camera-node_12628092573 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12628092573"@en ;
+    ex:direction "90;270" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3519884 ;
+    ex:longitude 12.4796372 ;
+    ex:osmId "node/12628092573" ;
+    ex:source <https://www.openstreetmap.org/node/12628092573> .
+
+ex:speed-camera-node_12650188928 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12650188928"@en ;
+    ex:direction "285" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3423824 ;
+    ex:longitude 12.3038912 ;
+    ex:osmId "node/12650188928" ;
+    ex:source <https://www.openstreetmap.org/node/12650188928> .
+
+ex:speed-camera-node_12751992240 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12751992240"@en ;
+    ex:direction "150;350" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.4173766 ;
+    ex:longitude 14.2282712 ;
+    ex:osmId "node/12751992240" ;
+    ex:source <https://www.openstreetmap.org/node/12751992240> .
+
+ex:speed-camera-node_12772239422 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12772239422"@en ;
+    ex:direction "15" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.5604276 ;
+    ex:longitude 13.2193765 ;
+    ex:osmId "node/12772239422" ;
+    ex:source <https://www.openstreetmap.org/node/12772239422> .
+
+ex:speed-camera-node_1277236977 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1277236977"@en ;
+    ex:direction "30" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0525355 ;
+    ex:longitude 13.7580383 ;
+    ex:osmId "node/1277236977" ;
+    ex:source <https://www.openstreetmap.org/node/1277236977> .
+
+ex:speed-camera-node_1283640669 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1283640669"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2958728 ;
+    ex:longitude 13.5567339 ;
+    ex:osmId "node/1283640669" ;
+    ex:source <https://www.openstreetmap.org/node/1283640669> .
+
+ex:speed-camera-node_12840469853 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12840469853"@en ;
+    ex:direction "20" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.5592839 ;
+    ex:longitude 13.2193923 ;
+    ex:osmId "node/12840469853" ;
+    ex:source <https://www.openstreetmap.org/node/12840469853> .
+
+ex:speed-camera-node_12883367615 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12883367615"@en ;
+    ex:hasMaxSpeed 60 ;
+    ex:latitude 51.2181584 ;
+    ex:longitude 13.1567466 ;
+    ex:osmId "node/12883367615" ;
+    ex:source <https://www.openstreetmap.org/node/12883367615> .
+
+ex:speed-camera-node_12912454612 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12912454612"@en ;
+    ex:direction "260" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5354103 ;
+    ex:longitude 12.4888768 ;
+    ex:osmId "node/12912454612" ;
+    ex:source <https://www.openstreetmap.org/node/12912454612> .
+
+ex:speed-camera-node_12915174411 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/12915174411"@en ;
+    ex:direction "275" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3161094 ;
+    ex:longitude 12.2617779 ;
+    ex:osmId "node/12915174411" ;
+    ex:source <https://www.openstreetmap.org/node/12915174411> .
+
+ex:speed-camera-node_1301029138 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1301029138"@en ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 50.8059039 ;
+    ex:longitude 12.6699425 ;
+    ex:osmId "node/1301029138" ;
+    ex:source <https://www.openstreetmap.org/node/1301029138> .
+
+ex:speed-camera-node_13045909672 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13045909672"@en ;
+    ex:direction "90" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.376179 ;
+    ex:longitude 12.3690922 ;
+    ex:osmId "node/13045909672" ;
+    ex:source <https://www.openstreetmap.org/node/13045909672> .
+
+ex:speed-camera-node_13081634149 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13081634149"@en ;
+    ex:latitude 51.0662539 ;
+    ex:longitude 13.7947222 ;
+    ex:osmId "node/13081634149" ;
+    ex:source <https://www.openstreetmap.org/node/13081634149> .
+
+ex:speed-camera-node_13257264510 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13257264510"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1243491 ;
+    ex:longitude 13.068289 ;
+    ex:osmId "node/13257264510" ;
+    ex:source <https://www.openstreetmap.org/node/13257264510> .
+
+ex:speed-camera-node_13293985900 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13293985900"@en ;
+    ex:direction "245" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.831021 ;
+    ex:longitude 12.9223824 ;
+    ex:osmId "node/13293985900" ;
+    ex:source <https://www.openstreetmap.org/node/13293985900> .
+
+ex:speed-camera-node_13311368 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13311368"@en ;
+    ex:direction "270" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1035275 ;
+    ex:longitude 14.6717153 ;
+    ex:osmId "node/13311368" ;
+    ex:source <https://www.openstreetmap.org/node/13311368> .
+
+ex:speed-camera-node_13325743336 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13325743336"@en ;
+    ex:latitude 51.1078679 ;
+    ex:longitude 13.4864028 ;
+    ex:osmId "node/13325743336" ;
+    ex:source <https://www.openstreetmap.org/node/13325743336> .
+
+ex:speed-camera-node_13401890624 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13401890624"@en ;
+    ex:direction "35;215" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7039547 ;
+    ex:longitude 12.4507181 ;
+    ex:osmId "node/13401890624" ;
+    ex:source <https://www.openstreetmap.org/node/13401890624> .
+
+ex:speed-camera-node_13415589191 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13415589191"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5811777 ;
+    ex:longitude 13.0145813 ;
+    ex:osmId "node/13415589191" ;
+    ex:source <https://www.openstreetmap.org/node/13415589191> .
+
+ex:speed-camera-node_13434266273 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13434266273"@en ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 51.1164657 ;
+    ex:longitude 13.3740091 ;
+    ex:osmId "node/13434266273" ;
+    ex:source <https://www.openstreetmap.org/node/13434266273> .
+
+ex:speed-camera-node_13587066992 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13587066992"@en ;
+    ex:direction "225" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3275961 ;
+    ex:longitude 12.4379853 ;
+    ex:osmId "node/13587066992" ;
+    ex:source <https://www.openstreetmap.org/node/13587066992> .
+
+ex:speed-camera-node_13681471065 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13681471065"@en ;
+    ex:direction "50" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5217195 ;
+    ex:longitude 12.3752706 ;
+    ex:osmId "node/13681471065" ;
+    ex:source <https://www.openstreetmap.org/node/13681471065> .
+
+ex:speed-camera-node_13742040907 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13742040907"@en ;
+    ex:direction "100" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5054274 ;
+    ex:longitude 12.1400658 ;
+    ex:osmId "node/13742040907" ;
+    ex:source <https://www.openstreetmap.org/node/13742040907> .
+
+ex:speed-camera-node_13742107886 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13742107886"@en ;
+    ex:direction "175" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.498026 ;
+    ex:longitude 12.1715528 ;
+    ex:osmId "node/13742107886" ;
+    ex:source <https://www.openstreetmap.org/node/13742107886> .
+
+ex:speed-camera-node_13785664408 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/13785664408"@en ;
+    ex:direction "0" ;
+    ex:latitude 50.83215 ;
+    ex:longitude 12.908303 ;
+    ex:osmId "node/13785664408" ;
+    ex:source <https://www.openstreetmap.org/node/13785664408> .
+
+ex:speed-camera-node_1396441848 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1396441848"@en ;
+    ex:direction "300" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.9144793 ;
+    ex:longitude 14.1690622 ;
+    ex:osmId "node/1396441848" ;
+    ex:source <https://www.openstreetmap.org/node/1396441848> .
+
+ex:speed-camera-node_1396554415 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1396554415"@en ;
+    ex:direction "135" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3749992 ;
+    ex:longitude 12.3377972 ;
+    ex:osmId "node/1396554415" ;
+    ex:source <https://www.openstreetmap.org/node/1396554415> .
+
+ex:speed-camera-node_1415327027 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1415327027"@en ;
+    ex:direction "140;280" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2348719 ;
+    ex:longitude 14.1920231 ;
+    ex:osmId "node/1415327027" ;
+    ex:source <https://www.openstreetmap.org/node/1415327027> .
+
+ex:speed-camera-node_1437576799 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1437576799"@en ;
+    ex:direction "90;290" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.5256003 ;
+    ex:longitude 14.221041 ;
+    ex:osmId "node/1437576799" ;
+    ex:source <https://www.openstreetmap.org/node/1437576799> .
+
+ex:speed-camera-node_1437613112 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1437613112"@en ;
+    ex:direction "350" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2705293 ;
+    ex:longitude 13.9102246 ;
+    ex:osmId "node/1437613112" ;
+    ex:source <https://www.openstreetmap.org/node/1437613112> .
+
+ex:speed-camera-node_1479213813 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1479213813"@en ;
+    ex:direction "275;70" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1473205 ;
+    ex:longitude 14.8899561 ;
+    ex:osmId "node/1479213813" ;
+    ex:source <https://www.openstreetmap.org/node/1479213813> .
+
+ex:speed-camera-node_1482280711 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1482280711"@en ;
+    ex:direction "150;290" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2281512 ;
+    ex:longitude 14.8981111 ;
+    ex:osmId "node/1482280711" ;
+    ex:source <https://www.openstreetmap.org/node/1482280711> .
+
+ex:speed-camera-node_1537327787 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1537327787"@en ;
+    ex:direction "355" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3727688 ;
+    ex:longitude 12.3925948 ;
+    ex:osmId "node/1537327787" ;
+    ex:source <https://www.openstreetmap.org/node/1537327787> .
+
+ex:speed-camera-node_1543411822 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1543411822"@en ;
+    ex:direction "10" ;
+    ex:latitude 51.3461971 ;
+    ex:longitude 12.3919255 ;
+    ex:osmId "node/1543411822" ;
+    ex:source <https://www.openstreetmap.org/node/1543411822> .
+
+ex:speed-camera-node_1572760263 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1572760263"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1141876 ;
+    ex:longitude 13.9291807 ;
+    ex:osmId "node/1572760263" ;
+    ex:source <https://www.openstreetmap.org/node/1572760263> .
+
+ex:speed-camera-node_1584823992 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1584823992"@en ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 51.0638197 ;
+    ex:longitude 13.9421166 ;
+    ex:osmId "node/1584823992" ;
+    ex:source <https://www.openstreetmap.org/node/1584823992> .
+
+ex:speed-camera-node_1592207560 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1592207560"@en ;
+    ex:direction "0" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1608667 ;
+    ex:longitude 13.8771875 ;
+    ex:osmId "node/1592207560" ;
+    ex:source <https://www.openstreetmap.org/node/1592207560> .
+
+ex:speed-camera-node_1605727511 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1605727511"@en ;
+    ex:direction "190" ;
+    ex:latitude 51.3177089 ;
+    ex:longitude 12.3735974 ;
+    ex:osmId "node/1605727511" ;
+    ex:source <https://www.openstreetmap.org/node/1605727511> .
+
+ex:speed-camera-node_1607797826 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1607797826"@en ;
+    ex:direction "225" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6076939 ;
+    ex:longitude 12.4179946 ;
+    ex:osmId "node/1607797826" ;
+    ex:source <https://www.openstreetmap.org/node/1607797826> .
+
+ex:speed-camera-node_1610314592 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1610314592"@en ;
+    ex:direction "290" ;
+    ex:latitude 51.320404 ;
+    ex:longitude 12.3785951 ;
+    ex:osmId "node/1610314592" ;
+    ex:source <https://www.openstreetmap.org/node/1610314592> .
+
+ex:speed-camera-node_1614238177 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1614238177"@en ;
+    ex:latitude 51.2939962 ;
+    ex:longitude 13.740425 ;
+    ex:osmId "node/1614238177" ;
+    ex:source <https://www.openstreetmap.org/node/1614238177> .
+
+ex:speed-camera-node_1616489409 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1616489409"@en ;
+    ex:direction "350" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1526206 ;
+    ex:longitude 14.0199163 ;
+    ex:osmId "node/1616489409" ;
+    ex:source <https://www.openstreetmap.org/node/1616489409> .
+
+ex:speed-camera-node_1617895543 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1617895543"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1814872 ;
+    ex:longitude 14.023899 ;
+    ex:osmId "node/1617895543" ;
+    ex:source <https://www.openstreetmap.org/node/1617895543> .
+
+ex:speed-camera-node_1617895803 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1617895803"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1977495 ;
+    ex:longitude 14.0208237 ;
+    ex:osmId "node/1617895803" ;
+    ex:source <https://www.openstreetmap.org/node/1617895803> .
+
+ex:speed-camera-node_1621457359 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1621457359"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.1480571 ;
+    ex:longitude 13.8006342 ;
+    ex:osmId "node/1621457359" ;
+    ex:source <https://www.openstreetmap.org/node/1621457359> .
+
+ex:speed-camera-node_1623788629 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1623788629"@en ;
+    ex:direction "25;175" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1945405 ;
+    ex:longitude 13.8343258 ;
+    ex:osmId "node/1623788629" ;
+    ex:source <https://www.openstreetmap.org/node/1623788629> .
+
+ex:speed-camera-node_1629440622 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1629440622"@en ;
+    ex:direction "65;270" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.4238574 ;
+    ex:longitude 14.2150518 ;
+    ex:osmId "node/1629440622" ;
+    ex:source <https://www.openstreetmap.org/node/1629440622> .
+
+ex:speed-camera-node_1656970761 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1656970761"@en ;
+    ex:direction "255" ;
+    ex:latitude 51.3615898 ;
+    ex:longitude 12.3900435 ;
+    ex:osmId "node/1656970761" ;
+    ex:source <https://www.openstreetmap.org/node/1656970761> .
+
+ex:speed-camera-node_1714709854 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1714709854"@en ;
+    ex:direction "290" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8935904 ;
+    ex:longitude 14.8049427 ;
+    ex:osmId "node/1714709854" ;
+    ex:source <https://www.openstreetmap.org/node/1714709854> .
+
+ex:speed-camera-node_1714709857 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1714709857"@en ;
+    ex:direction "90" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8987987 ;
+    ex:longitude 14.8027487 ;
+    ex:osmId "node/1714709857" ;
+    ex:source <https://www.openstreetmap.org/node/1714709857> .
+
+ex:speed-camera-node_1725338841 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1725338841"@en ;
+    ex:direction "350" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7895374 ;
+    ex:longitude 12.681933 ;
+    ex:osmId "node/1725338841" ;
+    ex:source <https://www.openstreetmap.org/node/1725338841> .
+
+ex:speed-camera-node_1744052846 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1744052846"@en ;
+    ex:direction "300" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6996418 ;
+    ex:longitude 12.5201192 ;
+    ex:osmId "node/1744052846" ;
+    ex:source <https://www.openstreetmap.org/node/1744052846> .
+
+ex:speed-camera-node_1763499195 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1763499195"@en ;
+    ex:direction "15" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7179044 ;
+    ex:longitude 12.5011492 ;
+    ex:osmId "node/1763499195" ;
+    ex:source <https://www.openstreetmap.org/node/1763499195> .
+
+ex:speed-camera-node_1784414116 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1784414116"@en ;
+    ex:direction "240" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8212683 ;
+    ex:longitude 12.8978759 ;
+    ex:osmId "node/1784414116" ;
+    ex:source <https://www.openstreetmap.org/node/1784414116> .
+
+ex:speed-camera-node_1819286485 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1819286485"@en ;
+    ex:direction "10" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2317507 ;
+    ex:longitude 14.0490673 ;
+    ex:osmId "node/1819286485" ;
+    ex:source <https://www.openstreetmap.org/node/1819286485> .
+
+ex:speed-camera-node_1863165228 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1863165228"@en ;
+    ex:direction "150" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.2420824 ;
+    ex:longitude 13.4150105 ;
+    ex:osmId "node/1863165228" ;
+    ex:source <https://www.openstreetmap.org/node/1863165228> .
+
+ex:speed-camera-node_1900966523 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1900966523"@en ;
+    ex:direction "230" ;
+    ex:latitude 50.7069759 ;
+    ex:longitude 12.4592807 ;
+    ex:osmId "node/1900966523" ;
+    ex:source <https://www.openstreetmap.org/node/1900966523> .
+
+ex:speed-camera-node_1902988324 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1902988324"@en ;
+    ex:direction "315" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8567483 ;
+    ex:longitude 12.8741375 ;
+    ex:osmId "node/1902988324" ;
+    ex:source <https://www.openstreetmap.org/node/1902988324> .
+
+ex:speed-camera-node_1965182847 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/1965182847"@en ;
+    ex:direction "150" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1624515 ;
+    ex:longitude 13.6289598 ;
+    ex:osmId "node/1965182847" ;
+    ex:source <https://www.openstreetmap.org/node/1965182847> .
+
+ex:speed-camera-node_2016303123 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2016303123"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0014116 ;
+    ex:longitude 13.7942639 ;
+    ex:osmId "node/2016303123" ;
+    ex:source <https://www.openstreetmap.org/node/2016303123> .
+
+ex:speed-camera-node_2016309093 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2016309093"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0020685 ;
+    ex:longitude 13.7932812 ;
+    ex:osmId "node/2016309093" ;
+    ex:source <https://www.openstreetmap.org/node/2016309093> .
+
+ex:speed-camera-node_2183917665 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2183917665"@en ;
+    ex:direction "240" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5014592 ;
+    ex:longitude 12.1337542 ;
+    ex:osmId "node/2183917665" ;
+    ex:source <https://www.openstreetmap.org/node/2183917665> .
+
+ex:speed-camera-node_2241118966 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2241118966"@en ;
+    ex:direction "250" ;
+    ex:latitude 51.052628 ;
+    ex:longitude 13.80834 ;
+    ex:osmId "node/2241118966" ;
+    ex:source <https://www.openstreetmap.org/node/2241118966> .
+
+ex:speed-camera-node_2379417661 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2379417661"@en ;
+    ex:direction "10" ;
+    ex:latitude 51.0648614 ;
+    ex:longitude 13.7766329 ;
+    ex:osmId "node/2379417661" ;
+    ex:source <https://www.openstreetmap.org/node/2379417661> .
+
+ex:speed-camera-node_2379417665 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2379417665"@en ;
+    ex:direction "190" ;
+    ex:latitude 51.0648686 ;
+    ex:longitude 13.7768581 ;
+    ex:osmId "node/2379417665" ;
+    ex:source <https://www.openstreetmap.org/node/2379417665> .
+
+ex:speed-camera-node_2421223993 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2421223993"@en ;
+    ex:hasMaxSpeed 60 ;
+    ex:latitude 51.1009807 ;
+    ex:longitude 13.73543 ;
+    ex:osmId "node/2421223993" ;
+    ex:source <https://www.openstreetmap.org/node/2421223993> .
+
+ex:speed-camera-node_2422652844 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2422652844"@en ;
+    ex:direction "90" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.365664 ;
+    ex:longitude 14.5012145 ;
+    ex:osmId "node/2422652844" ;
+    ex:source <https://www.openstreetmap.org/node/2422652844> .
+
+ex:speed-camera-node_2422652845 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2422652845"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.5100981 ;
+    ex:longitude 14.6480311 ;
+    ex:osmId "node/2422652845" ;
+    ex:source <https://www.openstreetmap.org/node/2422652845> .
+
+ex:speed-camera-node_2457862862 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2457862862"@en ;
+    ex:hasMaxSpeed 60 ;
+    ex:latitude 51.2002495 ;
+    ex:longitude 13.154853 ;
+    ex:osmId "node/2457862862" ;
+    ex:source <https://www.openstreetmap.org/node/2457862862> .
+
+ex:speed-camera-node_2502924833 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2502924833"@en ;
+    ex:direction "35" ;
+    ex:latitude 51.3232444 ;
+    ex:longitude 12.2884612 ;
+    ex:osmId "node/2502924833" ;
+    ex:source <https://www.openstreetmap.org/node/2502924833> .
+
+ex:speed-camera-node_2526898751 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2526898751"@en ;
+    ex:direction "200" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9090945 ;
+    ex:longitude 12.8080598 ;
+    ex:osmId "node/2526898751" ;
+    ex:source <https://www.openstreetmap.org/node/2526898751> .
+
+ex:speed-camera-node_2526898755 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2526898755"@en ;
+    ex:direction "40" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9094322 ;
+    ex:longitude 12.8081022 ;
+    ex:osmId "node/2526898755" ;
+    ex:source <https://www.openstreetmap.org/node/2526898755> .
+
+ex:speed-camera-node_253776281 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/253776281"@en ;
+    ex:direction "160" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8060615 ;
+    ex:longitude 12.6940908 ;
+    ex:osmId "node/253776281" ;
+    ex:source <https://www.openstreetmap.org/node/253776281> .
+
+ex:speed-camera-node_2545477252 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2545477252"@en ;
+    ex:direction "340" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.7688022 ;
+    ex:longitude 12.4743532 ;
+    ex:osmId "node/2545477252" ;
+    ex:source <https://www.openstreetmap.org/node/2545477252> .
+
+ex:speed-camera-node_2548774250 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2548774250"@en ;
+    ex:direction "100" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.342142 ;
+    ex:longitude 12.3584356 ;
+    ex:osmId "node/2548774250" ;
+    ex:source <https://www.openstreetmap.org/node/2548774250> .
+
+ex:speed-camera-node_2579839765 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2579839765"@en ;
+    ex:direction "120" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6998317 ;
+    ex:longitude 12.5198171 ;
+    ex:osmId "node/2579839765" ;
+    ex:source <https://www.openstreetmap.org/node/2579839765> .
+
+ex:speed-camera-node_2585834179 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2585834179"@en ;
+    ex:direction "160" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1251752 ;
+    ex:longitude 13.9163053 ;
+    ex:osmId "node/2585834179" ;
+    ex:source <https://www.openstreetmap.org/node/2585834179> .
+
+ex:speed-camera-node_2675387809 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2675387809"@en ;
+    ex:direction "190;340" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0668585 ;
+    ex:longitude 14.4294047 ;
+    ex:osmId "node/2675387809" ;
+    ex:source <https://www.openstreetmap.org/node/2675387809> .
+
+ex:speed-camera-node_2675388052 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2675388052"@en ;
+    ex:direction "20;160" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1316442 ;
+    ex:longitude 14.4412437 ;
+    ex:osmId "node/2675388052" ;
+    ex:source <https://www.openstreetmap.org/node/2675388052> .
+
+ex:speed-camera-node_2714780719 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2714780719"@en ;
+    ex:direction "180" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0792501 ;
+    ex:longitude 13.7322827 ;
+    ex:osmId "node/2714780719" ;
+    ex:source <https://www.openstreetmap.org/node/2714780719> .
+
+ex:speed-camera-node_279792540 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/279792540"@en ;
+    ex:direction "105;250" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0545483 ;
+    ex:longitude 14.4019584 ;
+    ex:osmId "node/279792540" ;
+    ex:source <https://www.openstreetmap.org/node/279792540> .
+
+ex:speed-camera-node_281782433 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/281782433"@en ;
+    ex:direction "250" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7398209 ;
+    ex:longitude 12.4577392 ;
+    ex:osmId "node/281782433" ;
+    ex:source <https://www.openstreetmap.org/node/281782433> .
+
+ex:speed-camera-node_290022550 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/290022550"@en ;
+    ex:direction "110;260" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1789422 ;
+    ex:longitude 14.3225104 ;
+    ex:osmId "node/290022550" ;
+    ex:source <https://www.openstreetmap.org/node/290022550> .
+
+ex:speed-camera-node_294631930 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/294631930"@en ;
+    ex:direction "90;300" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1435387 ;
+    ex:longitude 14.1695904 ;
+    ex:osmId "node/294631930" ;
+    ex:source <https://www.openstreetmap.org/node/294631930> .
+
+ex:speed-camera-node_296512382 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/296512382"@en ;
+    ex:direction "75;200" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0990058 ;
+    ex:longitude 14.2376018 ;
+    ex:osmId "node/296512382" ;
+    ex:source <https://www.openstreetmap.org/node/296512382> .
+
+ex:speed-camera-node_2973031651 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2973031651"@en ;
+    ex:direction "70" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.046711 ;
+    ex:longitude 13.7331874 ;
+    ex:osmId "node/2973031651" ;
+    ex:source <https://www.openstreetmap.org/node/2973031651> .
+
+ex:speed-camera-node_2974162479 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2974162479"@en ;
+    ex:direction "backward" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1686975 ;
+    ex:longitude 13.4691146 ;
+    ex:osmId "node/2974162479" ;
+    ex:source <https://www.openstreetmap.org/node/2974162479> .
+
+ex:speed-camera-node_2986559602 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2986559602"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9148267 ;
+    ex:longitude 13.8200445 ;
+    ex:osmId "node/2986559602" ;
+    ex:source <https://www.openstreetmap.org/node/2986559602> .
+
+ex:speed-camera-node_298747560 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/298747560"@en ;
+    ex:direction "220;60" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.02718 ;
+    ex:longitude 13.8073357 ;
+    ex:osmId "node/298747560" ;
+    ex:source <https://www.openstreetmap.org/node/298747560> .
+
+ex:speed-camera-node_2990281032 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/2990281032"@en ;
+    ex:latitude 51.3041254 ;
+    ex:longitude 13.3791147 ;
+    ex:osmId "node/2990281032" ;
+    ex:source <https://www.openstreetmap.org/node/2990281032> .
+
+ex:speed-camera-node_3028390850 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3028390850"@en ;
+    ex:direction "220" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.106951 ;
+    ex:longitude 13.6903165 ;
+    ex:osmId "node/3028390850" ;
+    ex:source <https://www.openstreetmap.org/node/3028390850> .
+
+ex:speed-camera-node_3035384137 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3035384137"@en ;
+    ex:direction "50" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.107063 ;
+    ex:longitude 13.6902627 ;
+    ex:osmId "node/3035384137" ;
+    ex:source <https://www.openstreetmap.org/node/3035384137> .
+
+ex:speed-camera-node_3046367678 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3046367678"@en ;
+    ex:direction "110;310" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0220121 ;
+    ex:longitude 13.6268377 ;
+    ex:osmId "node/3046367678" ;
+    ex:source <https://www.openstreetmap.org/node/3046367678> .
+
+ex:speed-camera-node_3048478798 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3048478798"@en ;
+    ex:direction "140" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.106954 ;
+    ex:longitude 13.6263639 ;
+    ex:osmId "node/3048478798" ;
+    ex:source <https://www.openstreetmap.org/node/3048478798> .
+
+ex:speed-camera-node_313972769 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/313972769"@en ;
+    ex:direction "105" ;
+    ex:latitude 51.3147234 ;
+    ex:longitude 12.3680899 ;
+    ex:osmId "node/313972769" ;
+    ex:source <https://www.openstreetmap.org/node/313972769> .
+
+ex:speed-camera-node_3139737958 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3139737958"@en ;
+    ex:latitude 51.4380236 ;
+    ex:longitude 14.2672841 ;
+    ex:osmId "node/3139737958" ;
+    ex:source <https://www.openstreetmap.org/node/3139737958> .
+
+ex:speed-camera-node_3139737963 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3139737963"@en ;
+    ex:latitude 51.4381612 ;
+    ex:longitude 14.2671528 ;
+    ex:osmId "node/3139737963" ;
+    ex:source <https://www.openstreetmap.org/node/3139737963> .
+
+ex:speed-camera-node_3140874211 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3140874211"@en ;
+    ex:direction "290" ;
+    ex:latitude 51.351462 ;
+    ex:longitude 12.4059195 ;
+    ex:osmId "node/3140874211" ;
+    ex:source <https://www.openstreetmap.org/node/3140874211> .
+
+ex:speed-camera-node_3141402325 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3141402325"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2682685 ;
+    ex:longitude 13.2566943 ;
+    ex:osmId "node/3141402325" ;
+    ex:source <https://www.openstreetmap.org/node/3141402325> .
+
+ex:speed-camera-node_3152318054 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3152318054"@en ;
+    ex:direction "330" ;
+    ex:latitude 51.0822707 ;
+    ex:longitude 13.653019 ;
+    ex:osmId "node/3152318054" ;
+    ex:source <https://www.openstreetmap.org/node/3152318054> .
+
+ex:speed-camera-node_3152321158 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3152321158"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0574824 ;
+    ex:longitude 13.6679208 ;
+    ex:osmId "node/3152321158" ;
+    ex:source <https://www.openstreetmap.org/node/3152321158> .
+
+ex:speed-camera-node_315236230 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/315236230"@en ;
+    ex:direction "120" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0620028 ;
+    ex:longitude 13.8305624 ;
+    ex:osmId "node/315236230" ;
+    ex:source <https://www.openstreetmap.org/node/315236230> .
+
+ex:speed-camera-node_3178359661 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3178359661"@en ;
+    ex:direction "120" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5994375 ;
+    ex:longitude 12.6247903 ;
+    ex:osmId "node/3178359661" ;
+    ex:source <https://www.openstreetmap.org/node/3178359661> .
+
+ex:speed-camera-node_32162982 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/32162982"@en ;
+    ex:direction "130;270" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1134728 ;
+    ex:longitude 13.6166403 ;
+    ex:osmId "node/32162982" ;
+    ex:source <https://www.openstreetmap.org/node/32162982> .
+
+ex:speed-camera-node_3217887154 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3217887154"@en ;
+    ex:latitude 51.1012161 ;
+    ex:longitude 13.1019579 ;
+    ex:osmId "node/3217887154" ;
+    ex:source <https://www.openstreetmap.org/node/3217887154> .
+
+ex:speed-camera-node_3224230996 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3224230996"@en ;
+    ex:direction "150" ;
+    ex:hasMaxSpeed 60 ;
+    ex:latitude 50.7878002 ;
+    ex:longitude 12.6838151 ;
+    ex:osmId "node/3224230996" ;
+    ex:source <https://www.openstreetmap.org/node/3224230996> .
+
+ex:speed-camera-node_3253524680 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3253524680"@en ;
+    ex:direction "80" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8550582 ;
+    ex:longitude 12.9661476 ;
+    ex:osmId "node/3253524680" ;
+    ex:source <https://www.openstreetmap.org/node/3253524680> .
+
+ex:speed-camera-node_32601580 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/32601580"@en ;
+    ex:direction "355;220" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2174219 ;
+    ex:longitude 14.7713664 ;
+    ex:osmId "node/32601580" ;
+    ex:source <https://www.openstreetmap.org/node/32601580> .
+
+ex:speed-camera-node_3287405248 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3287405248"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0180141 ;
+    ex:longitude 13.9539772 ;
+    ex:osmId "node/3287405248" ;
+    ex:source <https://www.openstreetmap.org/node/3287405248> .
+
+ex:speed-camera-node_3354717793 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3354717793"@en ;
+    ex:direction "270" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0633934 ;
+    ex:longitude 13.758355 ;
+    ex:osmId "node/3354717793" ;
+    ex:source <https://www.openstreetmap.org/node/3354717793> .
+
+ex:speed-camera-node_3367603899 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3367603899"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9287926 ;
+    ex:longitude 13.979517 ;
+    ex:osmId "node/3367603899" ;
+    ex:source <https://www.openstreetmap.org/node/3367603899> .
+
+ex:speed-camera-node_3413184258 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3413184258"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0510891 ;
+    ex:longitude 13.530346 ;
+    ex:osmId "node/3413184258" ;
+    ex:source <https://www.openstreetmap.org/node/3413184258> .
+
+ex:speed-camera-node_34747356 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/34747356"@en ;
+    ex:abandoned "yes" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6361596 ;
+    ex:longitude 12.3231367 ;
+    ex:osmId "node/34747356" ;
+    ex:source <https://www.openstreetmap.org/node/34747356> .
+
+ex:speed-camera-node_3569851428 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3569851428"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1078946 ;
+    ex:longitude 13.4863641 ;
+    ex:osmId "node/3569851428" ;
+    ex:source <https://www.openstreetmap.org/node/3569851428> .
+
+ex:speed-camera-node_3578784511 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3578784511"@en ;
+    ex:direction "210" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1261096 ;
+    ex:longitude 14.9840803 ;
+    ex:osmId "node/3578784511" ;
+    ex:source <https://www.openstreetmap.org/node/3578784511> .
+
+ex:speed-camera-node_360343761 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/360343761"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9579045 ;
+    ex:longitude 13.9355877 ;
+    ex:osmId "node/360343761" ;
+    ex:source <https://www.openstreetmap.org/node/360343761> .
+
+ex:speed-camera-node_360723892 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/360723892"@en ;
+    ex:direction "285" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3595152 ;
+    ex:longitude 12.6172934 ;
+    ex:osmId "node/360723892" ;
+    ex:source <https://www.openstreetmap.org/node/360723892> .
+
+ex:speed-camera-node_3682439508 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3682439508"@en ;
+    ex:direction "170" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7164954 ;
+    ex:longitude 12.5006543 ;
+    ex:osmId "node/3682439508" ;
+    ex:source <https://www.openstreetmap.org/node/3682439508> .
+
+ex:speed-camera-node_3687509571 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3687509571"@en ;
+    ex:direction "145" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3846064 ;
+    ex:longitude 14.4068634 ;
+    ex:osmId "node/3687509571" ;
+    ex:source <https://www.openstreetmap.org/node/3687509571> .
+
+ex:speed-camera-node_3706926422 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3706926422"@en ;
+    ex:direction "75" ;
+    ex:latitude 51.3488189 ;
+    ex:longitude 12.377362 ;
+    ex:osmId "node/3706926422" ;
+    ex:source <https://www.openstreetmap.org/node/3706926422> .
+
+ex:speed-camera-node_3759376470 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3759376470"@en ;
+    ex:direction "-10" ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 50.5722579 ;
+    ex:longitude 12.719204 ;
+    ex:osmId "node/3759376470" ;
+    ex:source <https://www.openstreetmap.org/node/3759376470> .
+
+ex:speed-camera-node_3759376511 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3759376511"@en ;
+    ex:direction "300" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5924517 ;
+    ex:longitude 12.6881863 ;
+    ex:osmId "node/3759376511" ;
+    ex:source <https://www.openstreetmap.org/node/3759376511> .
+
+ex:speed-camera-node_3781993108 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3781993108"@en ;
+    ex:direction "330" ;
+    ex:latitude 51.3587036 ;
+    ex:longitude 12.4738673 ;
+    ex:osmId "node/3781993108" ;
+    ex:source <https://www.openstreetmap.org/node/3781993108> .
+
+ex:speed-camera-node_3851199509 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3851199509"@en ;
+    ex:direction "125;270" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0250153 ;
+    ex:longitude 13.1154637 ;
+    ex:osmId "node/3851199509" ;
+    ex:source <https://www.openstreetmap.org/node/3851199509> .
+
+ex:speed-camera-node_3861276372 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3861276372"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2224287 ;
+    ex:longitude 14.388133 ;
+    ex:osmId "node/3861276372" ;
+    ex:source <https://www.openstreetmap.org/node/3861276372> .
+
+ex:speed-camera-node_3939088589 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3939088589"@en ;
+    ex:direction "350" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.514653 ;
+    ex:longitude 12.1201728 ;
+    ex:osmId "node/3939088589" ;
+    ex:source <https://www.openstreetmap.org/node/3939088589> .
+
+ex:speed-camera-node_3998627318 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/3998627318"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.975337 ;
+    ex:longitude 13.7149993 ;
+    ex:osmId "node/3998627318" ;
+    ex:source <https://www.openstreetmap.org/node/3998627318> .
+
+ex:speed-camera-node_4008163330 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4008163330"@en ;
+    ex:direction "215" ;
+    ex:latitude 51.3300643 ;
+    ex:longitude 12.3400759 ;
+    ex:osmId "node/4008163330" ;
+    ex:source <https://www.openstreetmap.org/node/4008163330> .
+
+ex:speed-camera-node_4280846349 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4280846349"@en ;
+    ex:direction "15;165" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0135449 ;
+    ex:longitude 14.9313184 ;
+    ex:osmId "node/4280846349" ;
+    ex:source <https://www.openstreetmap.org/node/4280846349> .
+
+ex:speed-camera-node_4281051357 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4281051357"@en ;
+    ex:direction "220" ;
+    ex:latitude 51.1550914 ;
+    ex:longitude 14.9742435 ;
+    ex:osmId "node/4281051357" ;
+    ex:source <https://www.openstreetmap.org/node/4281051357> .
+
+ex:speed-camera-node_4294273110 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4294273110"@en ;
+    ex:direction "265" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1433239 ;
+    ex:longitude 14.9728346 ;
+    ex:osmId "node/4294273110" ;
+    ex:source <https://www.openstreetmap.org/node/4294273110> .
+
+ex:speed-camera-node_4322952453 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4322952453"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.4581058 ;
+    ex:longitude 14.231907 ;
+    ex:osmId "node/4322952453" ;
+    ex:source <https://www.openstreetmap.org/node/4322952453> .
+
+ex:speed-camera-node_4413881927 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4413881927"@en ;
+    ex:direction "275" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3186617 ;
+    ex:longitude 12.342887 ;
+    ex:osmId "node/4413881927" ;
+    ex:source <https://www.openstreetmap.org/node/4413881927> .
+
+ex:speed-camera-node_441908996 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/441908996"@en ;
+    ex:direction "295" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.1550454 ;
+    ex:longitude 12.9205784 ;
+    ex:osmId "node/441908996" ;
+    ex:source <https://www.openstreetmap.org/node/441908996> .
+
+ex:speed-camera-node_448149947 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/448149947"@en ;
+    ex:direction "50" ;
+    ex:latitude 50.706878 ;
+    ex:longitude 12.4589192 ;
+    ex:osmId "node/448149947" ;
+    ex:source <https://www.openstreetmap.org/node/448149947> .
+
+ex:speed-camera-node_4580061769 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4580061769"@en ;
+    ex:direction "200" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5392681 ;
+    ex:longitude 11.9252406 ;
+    ex:osmId "node/4580061769" ;
+    ex:source <https://www.openstreetmap.org/node/4580061769> .
+
+ex:speed-camera-node_4693549995 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4693549995"@en ;
+    ex:direction "30;170" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5901307 ;
+    ex:longitude 12.1376074 ;
+    ex:osmId "node/4693549995" ;
+    ex:source <https://www.openstreetmap.org/node/4693549995> .
+
+ex:speed-camera-node_4693550320 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4693550320"@en ;
+    ex:direction "170" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.514799 ;
+    ex:longitude 12.120373 ;
+    ex:osmId "node/4693550320" ;
+    ex:source <https://www.openstreetmap.org/node/4693550320> .
+
+ex:speed-camera-node_4718954276 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4718954276"@en ;
+    ex:latitude 51.1009951 ;
+    ex:longitude 13.1021849 ;
+    ex:osmId "node/4718954276" ;
+    ex:source <https://www.openstreetmap.org/node/4718954276> .
+
+ex:speed-camera-node_478858052 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/478858052"@en ;
+    ex:direction "205;355" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3981237 ;
+    ex:longitude 14.295225 ;
+    ex:osmId "node/478858052" ;
+    ex:source <https://www.openstreetmap.org/node/478858052> .
+
+ex:speed-camera-node_4839779287 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4839779287"@en ;
+    ex:direction "140" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0879281 ;
+    ex:longitude 13.7359819 ;
+    ex:osmId "node/4839779287" ;
+    ex:source <https://www.openstreetmap.org/node/4839779287> .
+
+ex:speed-camera-node_4891785592 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4891785592"@en ;
+    ex:direction "95" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3445229 ;
+    ex:longitude 12.3766796 ;
+    ex:osmId "node/4891785592" ;
+    ex:source <https://www.openstreetmap.org/node/4891785592> .
+
+ex:speed-camera-node_4945827011 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4945827011"@en ;
+    ex:direction "165" ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 50.5825704 ;
+    ex:longitude 12.877814 ;
+    ex:osmId "node/4945827011" ;
+    ex:source <https://www.openstreetmap.org/node/4945827011> .
+
+ex:speed-camera-node_4945827012 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4945827012"@en ;
+    ex:direction "340" ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 50.5828721 ;
+    ex:longitude 12.8773446 ;
+    ex:osmId "node/4945827012" ;
+    ex:source <https://www.openstreetmap.org/node/4945827012> .
+
+ex:speed-camera-node_4947067120 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/4947067120"@en ;
+    ex:direction "75" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0477609 ;
+    ex:longitude 14.0774585 ;
+    ex:osmId "node/4947067120" ;
+    ex:source <https://www.openstreetmap.org/node/4947067120> .
+
+ex:speed-camera-node_5159282655 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5159282655"@en ;
+    ex:direction "forward" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8080509 ;
+    ex:longitude 12.7509059 ;
+    ex:osmId "node/5159282655" ;
+    ex:source <https://www.openstreetmap.org/node/5159282655> .
+
+ex:speed-camera-node_5165169548 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5165169548"@en ;
+    ex:direction "220" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.497924 ;
+    ex:longitude 12.1256903 ;
+    ex:osmId "node/5165169548" ;
+    ex:source <https://www.openstreetmap.org/node/5165169548> .
+
+ex:speed-camera-node_5165169549 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5165169549"@en ;
+    ex:direction "35" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.4977518 ;
+    ex:longitude 12.1252668 ;
+    ex:osmId "node/5165169549" ;
+    ex:source <https://www.openstreetmap.org/node/5165169549> .
+
+ex:speed-camera-node_5178464885 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5178464885"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.917546 ;
+    ex:longitude 12.8169499 ;
+    ex:osmId "node/5178464885" ;
+    ex:source <https://www.openstreetmap.org/node/5178464885> .
+
+ex:speed-camera-node_519753164 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/519753164"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7909929 ;
+    ex:longitude 12.7616098 ;
+    ex:osmId "node/519753164" ;
+    ex:source <https://www.openstreetmap.org/node/519753164> .
+
+ex:speed-camera-node_5300589956 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5300589956"@en ;
+    ex:direction "90" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.935637 ;
+    ex:longitude 14.182233 ;
+    ex:osmId "node/5300589956" ;
+    ex:source <https://www.openstreetmap.org/node/5300589956> .
+
+ex:speed-camera-node_5315036018 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5315036018"@en ;
+    ex:direction "220" ;
+    ex:latitude 51.3595361 ;
+    ex:longitude 12.3795837 ;
+    ex:osmId "node/5315036018" ;
+    ex:source <https://www.openstreetmap.org/node/5315036018> .
+
+ex:speed-camera-node_536284471 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/536284471"@en ;
+    ex:direction "135" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7234022 ;
+    ex:longitude 13.0935966 ;
+    ex:osmId "node/536284471" ;
+    ex:source <https://www.openstreetmap.org/node/536284471> .
+
+ex:speed-camera-node_5370503155 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5370503155"@en ;
+    ex:direction "120" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2631138 ;
+    ex:longitude 12.5051261 ;
+    ex:osmId "node/5370503155" ;
+    ex:source <https://www.openstreetmap.org/node/5370503155> .
+
+ex:speed-camera-node_5396616292 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5396616292"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0261753 ;
+    ex:longitude 13.7316153 ;
+    ex:osmId "node/5396616292" ;
+    ex:source <https://www.openstreetmap.org/node/5396616292> .
+
+ex:speed-camera-node_5446100628 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5446100628"@en ;
+    ex:direction "240" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6373709 ;
+    ex:longitude 12.4433773 ;
+    ex:osmId "node/5446100628" ;
+    ex:source <https://www.openstreetmap.org/node/5446100628> .
+
+ex:speed-camera-node_5446100629 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5446100629"@en ;
+    ex:direction "160" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6375529 ;
+    ex:longitude 12.443186 ;
+    ex:osmId "node/5446100629" ;
+    ex:source <https://www.openstreetmap.org/node/5446100629> .
+
+ex:speed-camera-node_5446100630 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5446100630"@en ;
+    ex:direction "50" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6373028 ;
+    ex:longitude 12.442983 ;
+    ex:osmId "node/5446100630" ;
+    ex:source <https://www.openstreetmap.org/node/5446100630> .
+
+ex:speed-camera-node_5548848820 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5548848820"@en ;
+    ex:direction "340" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6371532 ;
+    ex:longitude 12.4432163 ;
+    ex:osmId "node/5548848820" ;
+    ex:source <https://www.openstreetmap.org/node/5548848820> .
+
+ex:speed-camera-node_5641961968 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5641961968"@en ;
+    ex:direction "140;280" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1382338 ;
+    ex:longitude 14.5958424 ;
+    ex:osmId "node/5641961968" ;
+    ex:source <https://www.openstreetmap.org/node/5641961968> .
+
+ex:speed-camera-node_5659046032 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5659046032"@en ;
+    ex:direction "290" ;
+    ex:latitude 51.3750509 ;
+    ex:longitude 12.4128507 ;
+    ex:osmId "node/5659046032" ;
+    ex:source <https://www.openstreetmap.org/node/5659046032> .
+
+ex:speed-camera-node_5677202254 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5677202254"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9978417 ;
+    ex:longitude 13.122875 ;
+    ex:osmId "node/5677202254" ;
+    ex:source <https://www.openstreetmap.org/node/5677202254> .
+
+ex:speed-camera-node_5697132446 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5697132446"@en ;
+    ex:direction "245" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7229558 ;
+    ex:longitude 13.0918857 ;
+    ex:osmId "node/5697132446" ;
+    ex:source <https://www.openstreetmap.org/node/5697132446> .
+
+ex:speed-camera-node_5721305561 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5721305561"@en ;
+    ex:direction "0-360" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8337762 ;
+    ex:longitude 12.9263819 ;
+    ex:osmId "node/5721305561" ;
+    ex:source <https://www.openstreetmap.org/node/5721305561> .
+
+ex:speed-camera-node_5798758793 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5798758793"@en ;
+    ex:direction "105" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1213517 ;
+    ex:longitude 13.1383985 ;
+    ex:osmId "node/5798758793" ;
+    ex:source <https://www.openstreetmap.org/node/5798758793> .
+
+ex:speed-camera-node_5798758794 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5798758794"@en ;
+    ex:direction "285" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.1212193 ;
+    ex:longitude 13.1390806 ;
+    ex:osmId "node/5798758794" ;
+    ex:source <https://www.openstreetmap.org/node/5798758794> .
+
+ex:speed-camera-node_5830443808 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5830443808"@en ;
+    ex:direction "50;200" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6763186 ;
+    ex:longitude 12.4739025 ;
+    ex:osmId "node/5830443808" ;
+    ex:source <https://www.openstreetmap.org/node/5830443808> .
+
+ex:speed-camera-node_5918639805 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5918639805"@en ;
+    ex:direction "90" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0353411 ;
+    ex:longitude 13.9451267 ;
+    ex:osmId "node/5918639805" ;
+    ex:source <https://www.openstreetmap.org/node/5918639805> .
+
+ex:speed-camera-node_5922827368 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5922827368"@en ;
+    ex:direction "270" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.9356423 ;
+    ex:longitude 14.1827554 ;
+    ex:osmId "node/5922827368" ;
+    ex:source <https://www.openstreetmap.org/node/5922827368> .
+
+ex:speed-camera-node_5936661129 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/5936661129"@en ;
+    ex:direction "95;295" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6726411 ;
+    ex:longitude 12.3994236 ;
+    ex:osmId "node/5936661129" ;
+    ex:source <https://www.openstreetmap.org/node/5936661129> .
+
+ex:speed-camera-node_605011902 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/605011902"@en ;
+    ex:direction "310" ;
+    ex:latitude 51.3611666 ;
+    ex:longitude 12.3707671 ;
+    ex:osmId "node/605011902" ;
+    ex:source <https://www.openstreetmap.org/node/605011902> .
+
+ex:speed-camera-node_6150042392 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6150042392"@en ;
+    ex:direction "350" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7051094 ;
+    ex:longitude 13.1041379 ;
+    ex:osmId "node/6150042392" ;
+    ex:source <https://www.openstreetmap.org/node/6150042392> .
+
+ex:speed-camera-node_6166540380 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6166540380"@en ;
+    ex:direction "270" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.1205118 ;
+    ex:longitude 13.112546 ;
+    ex:osmId "node/6166540380" ;
+    ex:source <https://www.openstreetmap.org/node/6166540380> .
+
+ex:speed-camera-node_6180305125 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6180305125"@en ;
+    ex:direction "170" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7051921 ;
+    ex:longitude 13.104353 ;
+    ex:osmId "node/6180305125" ;
+    ex:source <https://www.openstreetmap.org/node/6180305125> .
+
+ex:speed-camera-node_619219628 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/619219628"@en ;
+    ex:direction "310" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.087834 ;
+    ex:longitude 13.7358979 ;
+    ex:osmId "node/619219628" ;
+    ex:source <https://www.openstreetmap.org/node/619219628> .
+
+ex:speed-camera-node_6297522259 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6297522259"@en ;
+    ex:direction "190" ;
+    ex:latitude 51.0478928 ;
+    ex:longitude 13.7443338 ;
+    ex:osmId "node/6297522259" ;
+    ex:source <https://www.openstreetmap.org/node/6297522259> .
+
+ex:speed-camera-node_651616788 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/651616788"@en ;
+    ex:direction "30" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7982541 ;
+    ex:longitude 12.8827233 ;
+    ex:osmId "node/651616788" ;
+    ex:source <https://www.openstreetmap.org/node/651616788> .
+
+ex:speed-camera-node_651948725 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/651948725"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0777426 ;
+    ex:longitude 13.5058514 ;
+    ex:osmId "node/651948725" ;
+    ex:source <https://www.openstreetmap.org/node/651948725> .
+
+ex:speed-camera-node_6524650206 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6524650206"@en ;
+    ex:direction "0" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6400999 ;
+    ex:longitude 12.5162394 ;
+    ex:osmId "node/6524650206" ;
+    ex:source <https://www.openstreetmap.org/node/6524650206> .
+
+ex:speed-camera-node_6524650207 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6524650207"@en ;
+    ex:direction "180" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.6403686 ;
+    ex:longitude 12.5163214 ;
+    ex:osmId "node/6524650207" ;
+    ex:source <https://www.openstreetmap.org/node/6524650207> .
+
+ex:speed-camera-node_6524913554 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6524913554"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9757836 ;
+    ex:longitude 13.7151711 ;
+    ex:osmId "node/6524913554" ;
+    ex:source <https://www.openstreetmap.org/node/6524913554> .
+
+ex:speed-camera-node_6548391801 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6548391801"@en ;
+    ex:direction "30;210" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5075148 ;
+    ex:longitude 12.1567416 ;
+    ex:osmId "node/6548391801" ;
+    ex:source <https://www.openstreetmap.org/node/6548391801> .
+
+ex:speed-camera-node_6548439356 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6548439356"@en ;
+    ex:direction "150;300" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.5099674 ;
+    ex:longitude 12.1346677 ;
+    ex:osmId "node/6548439356" ;
+    ex:source <https://www.openstreetmap.org/node/6548439356> .
+
+ex:speed-camera-node_6578512328 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6578512328"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.0406077 ;
+    ex:longitude 13.8265804 ;
+    ex:osmId "node/6578512328" ;
+    ex:source <https://www.openstreetmap.org/node/6578512328> .
+
+ex:speed-camera-node_659768161 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/659768161"@en ;
+    ex:direction "330" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.2137382 ;
+    ex:longitude 13.3734745 ;
+    ex:osmId "node/659768161" ;
+    ex:source <https://www.openstreetmap.org/node/659768161> .
+
+ex:speed-camera-node_662561137 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/662561137"@en ;
+    ex:direction "140" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.030431 ;
+    ex:longitude 13.7154905 ;
+    ex:osmId "node/662561137" ;
+    ex:source <https://www.openstreetmap.org/node/662561137> .
+
+ex:speed-camera-node_6629398177 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6629398177"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.9855181 ;
+    ex:longitude 13.5772623 ;
+    ex:osmId "node/6629398177" ;
+    ex:source <https://www.openstreetmap.org/node/6629398177> .
+
+ex:speed-camera-node_663410258 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/663410258"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0299203 ;
+    ex:longitude 13.5442961 ;
+    ex:osmId "node/663410258" ;
+    ex:source <https://www.openstreetmap.org/node/663410258> .
+
+ex:speed-camera-node_6679562808 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6679562808"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.066058 ;
+    ex:longitude 13.7972131 ;
+    ex:osmId "node/6679562808" ;
+    ex:source <https://www.openstreetmap.org/node/6679562808> .
+
+ex:speed-camera-node_6681785634 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6681785634"@en ;
+    ex:direction "310" ;
+    ex:latitude 51.0730556 ;
+    ex:longitude 13.7658151 ;
+    ex:osmId "node/6681785634" ;
+    ex:source <https://www.openstreetmap.org/node/6681785634> .
+
+ex:speed-camera-node_675539226 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/675539226"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 51.4237058 ;
+    ex:longitude 14.2773632 ;
+    ex:osmId "node/675539226" ;
+    ex:source <https://www.openstreetmap.org/node/675539226> .
+
+ex:speed-camera-node_675540382 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/675540382"@en ;
+    ex:direction "250" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.4370434 ;
+    ex:longitude 14.2649336 ;
+    ex:osmId "node/675540382" ;
+    ex:source <https://www.openstreetmap.org/node/675540382> .
+
+ex:speed-camera-node_677376091 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/677376091"@en ;
+    ex:direction "145" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0769174 ;
+    ex:longitude 13.0284748 ;
+    ex:osmId "node/677376091" ;
+    ex:source <https://www.openstreetmap.org/node/677376091> .
+
+ex:speed-camera-node_677376110 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/677376110"@en ;
+    ex:direction "320" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0766065 ;
+    ex:longitude 13.0287576 ;
+    ex:osmId "node/677376110" ;
+    ex:source <https://www.openstreetmap.org/node/677376110> .
+
+ex:speed-camera-node_6787776817 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6787776817"@en ;
+    ex:direction "85" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8993278 ;
+    ex:longitude 14.7972202 ;
+    ex:osmId "node/6787776817" ;
+    ex:source <https://www.openstreetmap.org/node/6787776817> .
+
+ex:speed-camera-node_6862258106 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6862258106"@en ;
+    ex:direction "185" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.8821797 ;
+    ex:longitude 12.990047 ;
+    ex:osmId "node/6862258106" ;
+    ex:source <https://www.openstreetmap.org/node/6862258106> .
+
+ex:speed-camera-node_6913423170 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6913423170"@en ;
+    ex:direction "230" ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 51.2866241 ;
+    ex:longitude 12.583285 ;
+    ex:osmId "node/6913423170" ;
+    ex:source <https://www.openstreetmap.org/node/6913423170> .
+
+ex:speed-camera-node_6935004048 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/6935004048"@en ;
+    ex:direction "160;310" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.9944193 ;
+    ex:longitude 13.9081526 ;
+    ex:osmId "node/6935004048" ;
+    ex:source <https://www.openstreetmap.org/node/6935004048> .
+
+ex:speed-camera-node_7034405923 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7034405923"@en ;
+    ex:direction "5;165" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0341141 ;
+    ex:longitude 13.2934245 ;
+    ex:osmId "node/7034405923" ;
+    ex:source <https://www.openstreetmap.org/node/7034405923> .
+
+ex:speed-camera-node_7182641480 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7182641480"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0379216 ;
+    ex:longitude 13.7912025 ;
+    ex:osmId "node/7182641480" ;
+    ex:source <https://www.openstreetmap.org/node/7182641480> .
+
+ex:speed-camera-node_7228341324 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7228341324"@en ;
+    ex:direction "280" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8820126 ;
+    ex:longitude 12.9902778 ;
+    ex:osmId "node/7228341324" ;
+    ex:source <https://www.openstreetmap.org/node/7228341324> .
+
+ex:speed-camera-node_7313059816 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7313059816"@en ;
+    ex:direction "340" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0958921 ;
+    ex:longitude 13.6947212 ;
+    ex:osmId "node/7313059816" ;
+    ex:source <https://www.openstreetmap.org/node/7313059816> .
+
+ex:speed-camera-node_7333188118 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7333188118"@en ;
+    ex:direction "242" ;
+    ex:hasMaxSpeed 40 ;
+    ex:latitude 50.8920658 ;
+    ex:longitude 13.752989 ;
+    ex:osmId "node/7333188118" ;
+    ex:source <https://www.openstreetmap.org/node/7333188118> .
+
+ex:speed-camera-node_7341018784 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7341018784"@en ;
+    ex:direction "0;180" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.7292533 ;
+    ex:longitude 12.6379777 ;
+    ex:osmId "node/7341018784" ;
+    ex:source <https://www.openstreetmap.org/node/7341018784> .
+
+ex:speed-camera-node_7341531951 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7341531951"@en ;
+    ex:direction "180" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8331966 ;
+    ex:longitude 12.9081161 ;
+    ex:osmId "node/7341531951" ;
+    ex:source <https://www.openstreetmap.org/node/7341531951> .
+
+ex:speed-camera-node_7341608278 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7341608278"@en ;
+    ex:direction "0" ;
+    ex:latitude 50.826809 ;
+    ex:longitude 12.940896 ;
+    ex:osmId "node/7341608278" ;
+    ex:source <https://www.openstreetmap.org/node/7341608278> .
+
+ex:speed-camera-node_7376349386 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7376349386"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.905874 ;
+    ex:longitude 12.8032998 ;
+    ex:osmId "node/7376349386" ;
+    ex:source <https://www.openstreetmap.org/node/7376349386> .
+
+ex:speed-camera-node_7506771096 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7506771096"@en ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7820407 ;
+    ex:longitude 12.4748671 ;
+    ex:osmId "node/7506771096" ;
+    ex:source <https://www.openstreetmap.org/node/7506771096> .
+
+ex:speed-camera-node_7506782390 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7506782390"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.7810882 ;
+    ex:longitude 12.4825954 ;
+    ex:osmId "node/7506782390" ;
+    ex:source <https://www.openstreetmap.org/node/7506782390> .
+
+ex:speed-camera-node_7762576205 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7762576205"@en ;
+    ex:direction "175" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.7030885 ;
+    ex:longitude 12.3711506 ;
+    ex:osmId "node/7762576205" ;
+    ex:source <https://www.openstreetmap.org/node/7762576205> .
+
+ex:speed-camera-node_7946406624 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7946406624"@en ;
+    ex:direction "310" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.738147 ;
+    ex:longitude 12.5000602 ;
+    ex:osmId "node/7946406624" ;
+    ex:source <https://www.openstreetmap.org/node/7946406624> .
+
+ex:speed-camera-node_7946426375 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/7946426375"@en ;
+    ex:direction "260" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.7522294 ;
+    ex:longitude 12.4638662 ;
+    ex:osmId "node/7946426375" ;
+    ex:source <https://www.openstreetmap.org/node/7946426375> .
+
+ex:speed-camera-node_8068207195 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8068207195"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.8499316 ;
+    ex:longitude 12.4664732 ;
+    ex:osmId "node/8068207195" ;
+    ex:source <https://www.openstreetmap.org/node/8068207195> .
+
+ex:speed-camera-node_8141554015 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8141554015"@en ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.8499584 ;
+    ex:longitude 12.4665005 ;
+    ex:osmId "node/8141554015" ;
+    ex:source <https://www.openstreetmap.org/node/8141554015> .
+
+ex:speed-camera-node_8433034444 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8433034444"@en ;
+    ex:direction "110" ;
+    ex:latitude 51.3519042 ;
+    ex:longitude 12.4262148 ;
+    ex:osmId "node/8433034444" ;
+    ex:source <https://www.openstreetmap.org/node/8433034444> .
+
+ex:speed-camera-node_8433034445 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8433034445"@en ;
+    ex:direction "70" ;
+    ex:latitude 51.3517402 ;
+    ex:longitude 12.426063 ;
+    ex:osmId "node/8433034445" ;
+    ex:source <https://www.openstreetmap.org/node/8433034445> .
+
+ex:speed-camera-node_8434467594 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8434467594"@en ;
+    ex:direction "325" ;
+    ex:latitude 51.3108653 ;
+    ex:longitude 12.4174193 ;
+    ex:osmId "node/8434467594" ;
+    ex:source <https://www.openstreetmap.org/node/8434467594> .
+
+ex:speed-camera-node_8583257274 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8583257274"@en ;
+    ex:direction "75" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.3957975 ;
+    ex:longitude 12.3340989 ;
+    ex:osmId "node/8583257274" ;
+    ex:source <https://www.openstreetmap.org/node/8583257274> .
+
+ex:speed-camera-node_8619270578 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8619270578"@en ;
+    ex:direction "0" ;
+    ex:latitude 51.3189078 ;
+    ex:longitude 12.3450297 ;
+    ex:osmId "node/8619270578" ;
+    ex:source <https://www.openstreetmap.org/node/8619270578> .
+
+ex:speed-camera-node_8715792408 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8715792408"@en ;
+    ex:direction "20;230" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.8365411 ;
+    ex:longitude 12.4981456 ;
+    ex:osmId "node/8715792408" ;
+    ex:source <https://www.openstreetmap.org/node/8715792408> .
+
+ex:speed-camera-node_8842282337 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8842282337"@en ;
+    ex:direction "125" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3635369 ;
+    ex:longitude 12.3614035 ;
+    ex:osmId "node/8842282337" ;
+    ex:source <https://www.openstreetmap.org/node/8842282337> .
+
+ex:speed-camera-node_8842398096 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8842398096"@en ;
+    ex:direction "320" ;
+    ex:latitude 51.3356579 ;
+    ex:longitude 12.3302392 ;
+    ex:osmId "node/8842398096" ;
+    ex:source <https://www.openstreetmap.org/node/8842398096> .
+
+ex:speed-camera-node_8843333493 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8843333493"@en ;
+    ex:direction "310" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.805874 ;
+    ex:longitude 12.6942809 ;
+    ex:osmId "node/8843333493" ;
+    ex:source <https://www.openstreetmap.org/node/8843333493> .
+
+ex:speed-camera-node_8843400774 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8843400774"@en ;
+    ex:direction "110" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.7857311 ;
+    ex:longitude 13.8235178 ;
+    ex:osmId "node/8843400774" ;
+    ex:source <https://www.openstreetmap.org/node/8843400774> .
+
+ex:speed-camera-node_8843473640 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/8843473640"@en ;
+    ex:direction "10" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0582063 ;
+    ex:longitude 13.6777466 ;
+    ex:osmId "node/8843473640" ;
+    ex:source <https://www.openstreetmap.org/node/8843473640> .
+
+ex:speed-camera-node_9018323438 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9018323438"@en ;
+    ex:direction "270" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.8321838 ;
+    ex:longitude 12.8564778 ;
+    ex:osmId "node/9018323438" ;
+    ex:source <https://www.openstreetmap.org/node/9018323438> .
+
+ex:speed-camera-node_9043489378 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9043489378"@en ;
+    ex:direction "310" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.0819956 ;
+    ex:longitude 13.707643 ;
+    ex:osmId "node/9043489378" ;
+    ex:source <https://www.openstreetmap.org/node/9043489378> .
+
+ex:speed-camera-node_9043823416 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9043823416"@en ;
+    ex:direction "310" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3748631 ;
+    ex:longitude 12.3376816 ;
+    ex:osmId "node/9043823416" ;
+    ex:source <https://www.openstreetmap.org/node/9043823416> .
+
+ex:speed-camera-node_9076259472 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9076259472"@en ;
+    ex:direction "50;190" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.3956523 ;
+    ex:longitude 12.1511891 ;
+    ex:osmId "node/9076259472" ;
+    ex:source <https://www.openstreetmap.org/node/9076259472> .
+
+ex:speed-camera-node_9205610767 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9205610767"@en ;
+    ex:direction "15;215" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.9123038 ;
+    ex:longitude 13.3356324 ;
+    ex:osmId "node/9205610767" ;
+    ex:source <https://www.openstreetmap.org/node/9205610767> .
+
+ex:speed-camera-node_9288675295 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9288675295"@en ;
+    ex:direction "170;320" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.4094801 ;
+    ex:longitude 12.1793855 ;
+    ex:osmId "node/9288675295" ;
+    ex:source <https://www.openstreetmap.org/node/9288675295> .
+
+ex:speed-camera-node_9288763116 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9288763116"@en ;
+    ex:direction "100;250" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.4200704 ;
+    ex:longitude 12.1979753 ;
+    ex:osmId "node/9288763116" ;
+    ex:source <https://www.openstreetmap.org/node/9288763116> .
+
+ex:speed-camera-node_9324733260 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9324733260"@en ;
+    ex:direction "0;180" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 50.9199434 ;
+    ex:longitude 13.3770069 ;
+    ex:osmId "node/9324733260" ;
+    ex:source <https://www.openstreetmap.org/node/9324733260> .
+
+ex:speed-camera-node_9376263838 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9376263838"@en ;
+    ex:direction "105" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.3596132 ;
+    ex:longitude 12.6172086 ;
+    ex:osmId "node/9376263838" ;
+    ex:source <https://www.openstreetmap.org/node/9376263838> .
+
+ex:speed-camera-node_9421583220 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9421583220"@en ;
+    ex:direction "55" ;
+    ex:hasMaxSpeed 70 ;
+    ex:latitude 51.2882455 ;
+    ex:longitude 12.5853613 ;
+    ex:osmId "node/9421583220" ;
+    ex:source <https://www.openstreetmap.org/node/9421583220> .
+
+ex:speed-camera-node_984759890 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/984759890"@en ;
+    ex:direction "15" ;
+    ex:latitude 51.3531183 ;
+    ex:longitude 12.3764527 ;
+    ex:osmId "node/984759890" ;
+    ex:source <https://www.openstreetmap.org/node/984759890> .
+
+ex:speed-camera-node_9880409944 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9880409944"@en ;
+    ex:direction "300;90" ;
+    ex:latitude 50.9198033 ;
+    ex:longitude 14.016206 ;
+    ex:osmId "node/9880409944" ;
+    ex:source <https://www.openstreetmap.org/node/9880409944> .
+
+ex:speed-camera-node_993122835 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/993122835"@en ;
+    ex:direction "135;270" ;
+    ex:hasMaxSpeed 50 ;
+    ex:latitude 51.100928 ;
+    ex:longitude 13.5858244 ;
+    ex:osmId "node/993122835" ;
+    ex:source <https://www.openstreetmap.org/node/993122835> .
+
+ex:speed-camera-node_9979771451 a ex:SpeedCamera ;
+    rdfs:label "Speed camera node/9979771451"@en ;
+    ex:direction "60" ;
+    ex:hasMaxSpeed 30 ;
+    ex:latitude 50.9384709 ;
+    ex:longitude 13.4175804 ;
+    ex:osmId "node/9979771451" ;
+    ex:source <https://www.openstreetmap.org/node/9979771451> .
+
