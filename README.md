@@ -20,7 +20,7 @@ Planned and partially implemented sources:
    - traffic accidents with personal injury
    - accident category, year and coordinates
 
-3. **Regional statistics**
+3. **Open Data Sachsen**
    - municipalities in Saxony
    - population and area data
 
