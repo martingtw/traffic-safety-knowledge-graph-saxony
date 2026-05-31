@@ -1,0 +1,3076 @@
+@prefix ex: <http://example.org/genesis/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:14
+    a ex:Datensatz ;
+    ex:name "Freistaat Sachsen" ;
+    ex:flache_in_qm_qm "18449885380" ;
+    ex:flache_in_ha_ha "1844988,54" ;
+    ex:flache_in_qkm_qkm "18449,89" .
+
+ex:145
+    a ex:Datensatz ;
+    ex:name "Chemnitz, NUTS 2-Region" ;
+    ex:flache_in_qm_qm "6527969151" ;
+    ex:flache_in_ha_ha "652796,92" ;
+    ex:flache_in_qkm_qkm "6527,97" .
+
+ex:14511
+    a ex:Datensatz ;
+    ex:name "Chemnitz, Stadt" ;
+    ex:flache_in_qm_qm "221027915" ;
+    ex:flache_in_ha_ha "22102,79" ;
+    ex:flache_in_qkm_qkm "221,03" .
+
+ex:14511000
+    a ex:Datensatz ;
+    ex:name "Chemnitz, Stadt" ;
+    ex:flache_in_qm_qm "221027915" ;
+    ex:flache_in_ha_ha "22102,79" ;
+    ex:flache_in_qkm_qkm "221,03" .
+
+ex:14521
+    a ex:Datensatz ;
+    ex:name "Erzgebirgskreis" ;
+    ex:flache_in_qm_qm "1827919539" ;
+    ex:flache_in_ha_ha "182791,95" ;
+    ex:flache_in_qkm_qkm "1827,92" .
+
+ex:14521010
+    a ex:Datensatz ;
+    ex:name "Amtsberg" ;
+    ex:flache_in_qm_qm "23267794" ;
+    ex:flache_in_ha_ha "2326,78" ;
+    ex:flache_in_qkm_qkm "23,27" .
+
+ex:14521020
+    a ex:Datensatz ;
+    ex:name "Annaberg-Buchholz, Stadt" ;
+    ex:flache_in_qm_qm "28151228" ;
+    ex:flache_in_ha_ha "2815,12" ;
+    ex:flache_in_qkm_qkm "28,15" .
+
+ex:14521035
+    a ex:Datensatz ;
+    ex:name "Aue-Bad Schlema, Stadt" ;
+    ex:flache_in_qm_qm "36428091" ;
+    ex:flache_in_ha_ha "3642,81" ;
+    ex:flache_in_qkm_qkm "36,43" .
+
+ex:14521040
+    a ex:Datensatz ;
+    ex:name "Auerbach" ;
+    ex:flache_in_qm_qm "8280551" ;
+    ex:flache_in_ha_ha "828,06" ;
+    ex:flache_in_qkm_qkm "8,28" .
+
+ex:14521060
+    a ex:Datensatz ;
+    ex:name "Bärenstein" ;
+    ex:flache_in_qm_qm "5472267" ;
+    ex:flache_in_ha_ha "547,23" ;
+    ex:flache_in_qkm_qkm "5,47" .
+
+ex:14521080
+    a ex:Datensatz ;
+    ex:name "Bockau" ;
+    ex:flache_in_qm_qm "19143610" ;
+    ex:flache_in_ha_ha "1914,36" ;
+    ex:flache_in_qkm_qkm "19,14" .
+
+ex:14521090
+    a ex:Datensatz ;
+    ex:name "Börnichen/Erzgeb." ;
+    ex:flache_in_qm_qm "15459985" ;
+    ex:flache_in_ha_ha "1546,00" ;
+    ex:flache_in_qkm_qkm "15,46" .
+
+ex:14521110
+    a ex:Datensatz ;
+    ex:name "Breitenbrunn/Erzgeb., Hochschulstadt" ;
+    ex:flache_in_qm_qm "60002760" ;
+    ex:flache_in_ha_ha "6000,28" ;
+    ex:flache_in_qkm_qkm "60,00" .
+
+ex:14521120
+    a ex:Datensatz ;
+    ex:name "Burkhardtsdorf" ;
+    ex:flache_in_qm_qm "21218978" ;
+    ex:flache_in_ha_ha "2121,90" ;
+    ex:flache_in_qkm_qkm "21,22" .
+
+ex:14521130
+    a ex:Datensatz ;
+    ex:name "Crottendorf" ;
+    ex:flache_in_qm_qm "36424973" ;
+    ex:flache_in_ha_ha "3642,50" ;
+    ex:flache_in_qkm_qkm "36,42" .
+
+ex:14521140
+    a ex:Datensatz ;
+    ex:name "Deutschneudorf" ;
+    ex:flache_in_qm_qm "8054394" ;
+    ex:flache_in_ha_ha "805,44" ;
+    ex:flache_in_qkm_qkm "8,05" .
+
+ex:14521150
+    a ex:Datensatz ;
+    ex:name "Drebach" ;
+    ex:flache_in_qm_qm "32862390" ;
+    ex:flache_in_ha_ha "3286,24" ;
+    ex:flache_in_qkm_qkm "32,86" .
+
+ex:14521160
+    a ex:Datensatz ;
+    ex:name "Ehrenfriedersdorf, Stadt" ;
+    ex:flache_in_qm_qm "15890046" ;
+    ex:flache_in_ha_ha "1589,00" ;
+    ex:flache_in_qkm_qkm "15,89" .
+
+ex:14521170
+    a ex:Datensatz ;
+    ex:name "Eibenstock, Stadt" ;
+    ex:flache_in_qm_qm "112238844" ;
+    ex:flache_in_ha_ha "11223,88" ;
+    ex:flache_in_qkm_qkm "112,24" .
+
+ex:14521180
+    a ex:Datensatz ;
+    ex:name "Elterlein, Stadt" ;
+    ex:flache_in_qm_qm "45740554" ;
+    ex:flache_in_ha_ha "4574,06" ;
+    ex:flache_in_qkm_qkm "45,74" .
+
+ex:14521200
+    a ex:Datensatz ;
+    ex:name "Gelenau/Erzgeb." ;
+    ex:flache_in_qm_qm "21104147" ;
+    ex:flache_in_ha_ha "2110,41" ;
+    ex:flache_in_qkm_qkm "21,10" .
+
+ex:14521210
+    a ex:Datensatz ;
+    ex:name "Geyer, Stadt" ;
+    ex:flache_in_qm_qm "18560839" ;
+    ex:flache_in_ha_ha "1856,08" ;
+    ex:flache_in_qkm_qkm "18,56" .
+
+ex:14521220
+    a ex:Datensatz ;
+    ex:name "Gornau/Erzgeb." ;
+    ex:flache_in_qm_qm "19777784" ;
+    ex:flache_in_ha_ha "1977,78" ;
+    ex:flache_in_qkm_qkm "19,78" .
+
+ex:14521230
+    a ex:Datensatz ;
+    ex:name "Gornsdorf" ;
+    ex:flache_in_qm_qm "4186407" ;
+    ex:flache_in_ha_ha "418,64" ;
+    ex:flache_in_qkm_qkm "4,19" .
+
+ex:14521240
+    a ex:Datensatz ;
+    ex:name "Großolbersdorf" ;
+    ex:flache_in_qm_qm "22576119" ;
+    ex:flache_in_ha_ha "2257,61" ;
+    ex:flache_in_qkm_qkm "22,58" .
+
+ex:14521250
+    a ex:Datensatz ;
+    ex:name "Großrückerswalde" ;
+    ex:flache_in_qm_qm "26654168" ;
+    ex:flache_in_ha_ha "2665,42" ;
+    ex:flache_in_qkm_qkm "26,65" .
+
+ex:14521260
+    a ex:Datensatz ;
+    ex:name "Grünhain-Beierfeld, Stadt" ;
+    ex:flache_in_qm_qm "22253915" ;
+    ex:flache_in_ha_ha "2225,39" ;
+    ex:flache_in_qkm_qkm "22,25" .
+
+ex:14521270
+    a ex:Datensatz ;
+    ex:name "Grünhainichen" ;
+    ex:flache_in_qm_qm "28722515" ;
+    ex:flache_in_ha_ha "2872,25" ;
+    ex:flache_in_qkm_qkm "28,72" .
+
+ex:14521280
+    a ex:Datensatz ;
+    ex:name "Heidersdorf" ;
+    ex:flache_in_qm_qm "9505061" ;
+    ex:flache_in_ha_ha "950,51" ;
+    ex:flache_in_qkm_qkm "9,51" .
+
+ex:14521290
+    a ex:Datensatz ;
+    ex:name "Hohndorf" ;
+    ex:flache_in_qm_qm "5249080" ;
+    ex:flache_in_ha_ha "524,91" ;
+    ex:flache_in_qkm_qkm "5,25" .
+
+ex:14521310
+    a ex:Datensatz ;
+    ex:name "Jahnsdorf/Erzgeb." ;
+    ex:flache_in_qm_qm "26225470" ;
+    ex:flache_in_ha_ha "2622,55" ;
+    ex:flache_in_qkm_qkm "26,23" .
+
+ex:14521320
+    a ex:Datensatz ;
+    ex:name "Johanngeorgenstadt, Stadt" ;
+    ex:flache_in_qm_qm "29587245" ;
+    ex:flache_in_ha_ha "2958,72" ;
+    ex:flache_in_qkm_qkm "29,59" .
+
+ex:14521330
+    a ex:Datensatz ;
+    ex:name "Jöhstadt, Stadt" ;
+    ex:flache_in_qm_qm "49692915" ;
+    ex:flache_in_ha_ha "4969,29" ;
+    ex:flache_in_qkm_qkm "49,69" .
+
+ex:14521340
+    a ex:Datensatz ;
+    ex:name "Königswalde" ;
+    ex:flache_in_qm_qm "19510521" ;
+    ex:flache_in_ha_ha "1951,05" ;
+    ex:flache_in_qkm_qkm "19,51" .
+
+ex:14521355
+    a ex:Datensatz ;
+    ex:name "Lauter-Bernsbach, Stadt" ;
+    ex:flache_in_qm_qm "30277356" ;
+    ex:flache_in_ha_ha "3027,74" ;
+    ex:flache_in_qkm_qkm "30,28" .
+
+ex:14521370
+    a ex:Datensatz ;
+    ex:name "Lößnitz, Stadt" ;
+    ex:flache_in_qm_qm "30489646" ;
+    ex:flache_in_ha_ha "3048,96" ;
+    ex:flache_in_qkm_qkm "30,49" .
+
+ex:14521380
+    a ex:Datensatz ;
+    ex:name "Lugau/Erzgeb., Stadt" ;
+    ex:flache_in_qm_qm "22289825" ;
+    ex:flache_in_ha_ha "2228,98" ;
+    ex:flache_in_qkm_qkm "22,29" .
+
+ex:14521390
+    a ex:Datensatz ;
+    ex:name "Marienberg, Stadt" ;
+    ex:flache_in_qm_qm "133493630" ;
+    ex:flache_in_ha_ha "13349,36" ;
+    ex:flache_in_qkm_qkm "133,49" .
+
+ex:14521400
+    a ex:Datensatz ;
+    ex:name "Mildenau" ;
+    ex:flache_in_qm_qm "31667108" ;
+    ex:flache_in_ha_ha "3166,71" ;
+    ex:flache_in_qkm_qkm "31,67" .
+
+ex:14521410
+    a ex:Datensatz ;
+    ex:name "Neukirchen/Erzgeb." ;
+    ex:flache_in_qm_qm "20144200" ;
+    ex:flache_in_ha_ha "2014,42" ;
+    ex:flache_in_qkm_qkm "20,14" .
+
+ex:14521420
+    a ex:Datensatz ;
+    ex:name "Niederdorf" ;
+    ex:flache_in_qm_qm "13059500" ;
+    ex:flache_in_ha_ha "1305,95" ;
+    ex:flache_in_qkm_qkm "13,06" .
+
+ex:14521430
+    a ex:Datensatz ;
+    ex:name "Niederwürschnitz" ;
+    ex:flache_in_qm_qm "6042135" ;
+    ex:flache_in_ha_ha "604,21" ;
+    ex:flache_in_qkm_qkm "6,04" .
+
+ex:14521440
+    a ex:Datensatz ;
+    ex:name "Oberwiesenthal, Kurort, Stadt" ;
+    ex:flache_in_qm_qm "40036826" ;
+    ex:flache_in_ha_ha "4003,68" ;
+    ex:flache_in_qkm_qkm "40,04" .
+
+ex:14521450
+    a ex:Datensatz ;
+    ex:name "Oelsnitz/Erzgeb., Stadt" ;
+    ex:flache_in_qm_qm "26277125" ;
+    ex:flache_in_ha_ha "2627,71" ;
+    ex:flache_in_qkm_qkm "26,28" .
+
+ex:14521460
+    a ex:Datensatz ;
+    ex:name "Olbernhau, Stadt" ;
+    ex:flache_in_qm_qm "125345289" ;
+    ex:flache_in_ha_ha "12534,53" ;
+    ex:flache_in_qkm_qkm "125,35" .
+
+ex:14521495
+    a ex:Datensatz ;
+    ex:name "Pockau-Lengefeld, Stadt" ;
+    ex:flache_in_qm_qm "83421783" ;
+    ex:flache_in_ha_ha "8342,18" ;
+    ex:flache_in_qkm_qkm "83,42" .
+
+ex:14521500
+    a ex:Datensatz ;
+    ex:name "Raschau-Markersbach" ;
+    ex:flache_in_qm_qm "39551774" ;
+    ex:flache_in_ha_ha "3955,18" ;
+    ex:flache_in_qkm_qkm "39,55" .
+
+ex:14521510
+    a ex:Datensatz ;
+    ex:name "Scheibenberg, Stadt" ;
+    ex:flache_in_qm_qm "9003674" ;
+    ex:flache_in_ha_ha "900,37" ;
+    ex:flache_in_qkm_qkm "9,00" .
+
+ex:14521520
+    a ex:Datensatz ;
+    ex:name "Schlettau, Stadt" ;
+    ex:flache_in_qm_qm "21215884" ;
+    ex:flache_in_ha_ha "2121,59" ;
+    ex:flache_in_qkm_qkm "21,22" .
+
+ex:14521530
+    a ex:Datensatz ;
+    ex:name "Schneeberg, Stadt" ;
+    ex:flache_in_qm_qm "23353408" ;
+    ex:flache_in_ha_ha "2335,34" ;
+    ex:flache_in_qkm_qkm "23,35" .
+
+ex:14521540
+    a ex:Datensatz ;
+    ex:name "Schönheide" ;
+    ex:flache_in_qm_qm "28148527" ;
+    ex:flache_in_ha_ha "2814,85" ;
+    ex:flache_in_qkm_qkm "28,15" .
+
+ex:14521550
+    a ex:Datensatz ;
+    ex:name "Schwarzenberg/Erzgeb., Stadt" ;
+    ex:flache_in_qm_qm "46311406" ;
+    ex:flache_in_ha_ha "4631,14" ;
+    ex:flache_in_qkm_qkm "46,31" .
+
+ex:14521560
+    a ex:Datensatz ;
+    ex:name "Sehmatal" ;
+    ex:flache_in_qm_qm "44507122" ;
+    ex:flache_in_ha_ha "4450,71" ;
+    ex:flache_in_qkm_qkm "44,51" .
+
+ex:14521570
+    a ex:Datensatz ;
+    ex:name "Seiffen/Erzgeb., Kurort" ;
+    ex:flache_in_qm_qm "12430067" ;
+    ex:flache_in_ha_ha "1243,01" ;
+    ex:flache_in_qkm_qkm "12,43" .
+
+ex:14521590
+    a ex:Datensatz ;
+    ex:name "Stollberg/Erzgeb., Stadt" ;
+    ex:flache_in_qm_qm "38993311" ;
+    ex:flache_in_ha_ha "3899,33" ;
+    ex:flache_in_qkm_qkm "38,99" .
+
+ex:14521600
+    a ex:Datensatz ;
+    ex:name "Stützengrün" ;
+    ex:flache_in_qm_qm "28287040" ;
+    ex:flache_in_ha_ha "2828,70" ;
+    ex:flache_in_qkm_qkm "28,29" .
+
+ex:14521610
+    a ex:Datensatz ;
+    ex:name "Tannenberg" ;
+    ex:flache_in_qm_qm "7970316" ;
+    ex:flache_in_ha_ha "797,03" ;
+    ex:flache_in_qkm_qkm "7,97" .
+
+ex:14521620
+    a ex:Datensatz ;
+    ex:name "Thalheim/Erzgeb., Stadt" ;
+    ex:flache_in_qm_qm "10794701" ;
+    ex:flache_in_ha_ha "1079,47" ;
+    ex:flache_in_qkm_qkm "10,79" .
+
+ex:14521630
+    a ex:Datensatz ;
+    ex:name "Thermalbad Wiesenbad" ;
+    ex:flache_in_qm_qm "24210386" ;
+    ex:flache_in_ha_ha "2421,04" ;
+    ex:flache_in_qkm_qkm "24,21" .
+
+ex:14521640
+    a ex:Datensatz ;
+    ex:name "Thum, Stadt" ;
+    ex:flache_in_qm_qm "18902668" ;
+    ex:flache_in_ha_ha "1890,27" ;
+    ex:flache_in_qkm_qkm "18,90" .
+
+ex:14521670
+    a ex:Datensatz ;
+    ex:name "Wolkenstein, Stadt" ;
+    ex:flache_in_qm_qm "30503926" ;
+    ex:flache_in_ha_ha "3050,39" ;
+    ex:flache_in_qkm_qkm "30,50" .
+
+ex:14521690
+    a ex:Datensatz ;
+    ex:name "Zschopau, Stadt, Motorradstadt" ;
+    ex:flache_in_qm_qm "22779957" ;
+    ex:flache_in_ha_ha "2278,00" ;
+    ex:flache_in_qkm_qkm "22,78" .
+
+ex:14521700
+    a ex:Datensatz ;
+    ex:name "Zschorlau" ;
+    ex:flache_in_qm_qm "21924768" ;
+    ex:flache_in_ha_ha "2192,48" ;
+    ex:flache_in_qkm_qkm "21,92" .
+
+ex:14521710
+    a ex:Datensatz ;
+    ex:name "Zwönitz, Stadt" ;
+    ex:flache_in_qm_qm "64243530" ;
+    ex:flache_in_ha_ha "6424,35" ;
+    ex:flache_in_qkm_qkm "64,24" .
+
+ex:14522
+    a ex:Datensatz ;
+    ex:name "Mittelsachsen, Landkreis" ;
+    ex:flache_in_qm_qm "2116845763" ;
+    ex:flache_in_ha_ha "211684,58" ;
+    ex:flache_in_qkm_qkm "2116,85" .
+
+ex:14522010
+    a ex:Datensatz ;
+    ex:name "Altmittweida" ;
+    ex:flache_in_qm_qm "14078561" ;
+    ex:flache_in_ha_ha "1407,86" ;
+    ex:flache_in_qkm_qkm "14,08" .
+
+ex:14522020
+    a ex:Datensatz ;
+    ex:name "Augustusburg, Stadt" ;
+    ex:flache_in_qm_qm "23378084" ;
+    ex:flache_in_ha_ha "2337,81" ;
+    ex:flache_in_qkm_qkm "23,38" .
+
+ex:14522035
+    a ex:Datensatz ;
+    ex:name "Bobritzsch-Hilbersdorf" ;
+    ex:flache_in_qm_qm "55122922" ;
+    ex:flache_in_ha_ha "5512,29" ;
+    ex:flache_in_qkm_qkm "55,12" .
+
+ex:14522050
+    a ex:Datensatz ;
+    ex:name "Brand-Erbisdorf, Stadt" ;
+    ex:flache_in_qm_qm "46328482" ;
+    ex:flache_in_ha_ha "4632,85" ;
+    ex:flache_in_qkm_qkm "46,33" .
+
+ex:14522060
+    a ex:Datensatz ;
+    ex:name "Burgstädt, Stadt" ;
+    ex:flache_in_qm_qm "25879182" ;
+    ex:flache_in_ha_ha "2587,92" ;
+    ex:flache_in_qkm_qkm "25,88" .
+
+ex:14522070
+    a ex:Datensatz ;
+    ex:name "Claußnitz" ;
+    ex:flache_in_qm_qm "21377457" ;
+    ex:flache_in_ha_ha "2137,75" ;
+    ex:flache_in_qkm_qkm "21,38" .
+
+ex:14522080
+    a ex:Datensatz ;
+    ex:name "Döbeln, Stadt" ;
+    ex:flache_in_qm_qm "91751343" ;
+    ex:flache_in_ha_ha "9175,13" ;
+    ex:flache_in_qkm_qkm "91,75" .
+
+ex:14522090
+    a ex:Datensatz ;
+    ex:name "Dorfchemnitz" ;
+    ex:flache_in_qm_qm "29583399" ;
+    ex:flache_in_ha_ha "2958,34" ;
+    ex:flache_in_qkm_qkm "29,58" .
+
+ex:14522110
+    a ex:Datensatz ;
+    ex:name "Eppendorf" ;
+    ex:flache_in_qm_qm "33873968" ;
+    ex:flache_in_ha_ha "3387,40" ;
+    ex:flache_in_qkm_qkm "33,87" .
+
+ex:14522120
+    a ex:Datensatz ;
+    ex:name "Erlau" ;
+    ex:flache_in_qm_qm "37829452" ;
+    ex:flache_in_ha_ha "3782,95" ;
+    ex:flache_in_qkm_qkm "37,83" .
+
+ex:14522140
+    a ex:Datensatz ;
+    ex:name "Flöha, Stadt" ;
+    ex:flache_in_qm_qm "27757906" ;
+    ex:flache_in_ha_ha "2775,79" ;
+    ex:flache_in_qkm_qkm "27,76" .
+
+ex:14522150
+    a ex:Datensatz ;
+    ex:name "Frankenberg/Sa., Stadt, Garnisonsstadt" ;
+    ex:flache_in_qm_qm "65620582" ;
+    ex:flache_in_ha_ha "6562,06" ;
+    ex:flache_in_qkm_qkm "65,62" .
+
+ex:14522170
+    a ex:Datensatz ;
+    ex:name "Frauenstein, Stadt" ;
+    ex:flache_in_qm_qm "58981178" ;
+    ex:flache_in_ha_ha "5898,12" ;
+    ex:flache_in_qkm_qkm "58,98" .
+
+ex:14522180
+    a ex:Datensatz ;
+    ex:name "Freiberg, Stadt, Universitätsstadt" ;
+    ex:flache_in_qm_qm "48314778" ;
+    ex:flache_in_ha_ha "4831,48" ;
+    ex:flache_in_qkm_qkm "48,31" .
+
+ex:14522190
+    a ex:Datensatz ;
+    ex:name "Geringswalde, Stadt" ;
+    ex:flache_in_qm_qm "30053987" ;
+    ex:flache_in_ha_ha "3005,40" ;
+    ex:flache_in_qkm_qkm "30,05" .
+
+ex:14522200
+    a ex:Datensatz ;
+    ex:name "Großhartmannsdorf" ;
+    ex:flache_in_qm_qm "32204453" ;
+    ex:flache_in_ha_ha "3220,45" ;
+    ex:flache_in_qkm_qkm "32,20" .
+
+ex:14522210
+    a ex:Datensatz ;
+    ex:name "Großschirma, Stadt" ;
+    ex:flache_in_qm_qm "61626501" ;
+    ex:flache_in_ha_ha "6162,65" ;
+    ex:flache_in_qkm_qkm "61,63" .
+
+ex:14522220
+    a ex:Datensatz ;
+    ex:name "Großweitzschen" ;
+    ex:flache_in_qm_qm "44449412" ;
+    ex:flache_in_ha_ha "4444,94" ;
+    ex:flache_in_qkm_qkm "44,45" .
+
+ex:14522230
+    a ex:Datensatz ;
+    ex:name "Hainichen, Stadt" ;
+    ex:flache_in_qm_qm "51732817" ;
+    ex:flache_in_ha_ha "5173,28" ;
+    ex:flache_in_qkm_qkm "51,73" .
+
+ex:14522240
+    a ex:Datensatz ;
+    ex:name "Halsbrücke" ;
+    ex:flache_in_qm_qm "41040919" ;
+    ex:flache_in_ha_ha "4104,09" ;
+    ex:flache_in_qkm_qkm "41,04" .
+
+ex:14522250
+    a ex:Datensatz ;
+    ex:name "Hartha, Stadt" ;
+    ex:flache_in_qm_qm "54398030" ;
+    ex:flache_in_ha_ha "5439,80" ;
+    ex:flache_in_qkm_qkm "54,40" .
+
+ex:14522260
+    a ex:Datensatz ;
+    ex:name "Hartmannsdorf" ;
+    ex:flache_in_qm_qm "10282473" ;
+    ex:flache_in_ha_ha "1028,25" ;
+    ex:flache_in_qkm_qkm "10,28" .
+
+ex:14522275
+    a ex:Datensatz ;
+    ex:name "Jahnatal" ;
+    ex:flache_in_qm_qm "70954283" ;
+    ex:flache_in_ha_ha "7095,43" ;
+    ex:flache_in_qkm_qkm "70,95" .
+
+ex:14522280
+    a ex:Datensatz ;
+    ex:name "Königsfeld" ;
+    ex:flache_in_qm_qm "28418778" ;
+    ex:flache_in_ha_ha "2841,88" ;
+    ex:flache_in_qkm_qkm "28,42" .
+
+ex:14522290
+    a ex:Datensatz ;
+    ex:name "Königshain-Wiederau" ;
+    ex:flache_in_qm_qm "31032165" ;
+    ex:flache_in_ha_ha "3103,22" ;
+    ex:flache_in_qkm_qkm "31,03" .
+
+ex:14522300
+    a ex:Datensatz ;
+    ex:name "Kriebstein" ;
+    ex:flache_in_qm_qm "31079680" ;
+    ex:flache_in_ha_ha "3107,97" ;
+    ex:flache_in_qkm_qkm "31,08" .
+
+ex:14522310
+    a ex:Datensatz ;
+    ex:name "Leisnig, Stadt" ;
+    ex:flache_in_qm_qm "78087544" ;
+    ex:flache_in_ha_ha "7808,75" ;
+    ex:flache_in_qkm_qkm "78,09" .
+
+ex:14522320
+    a ex:Datensatz ;
+    ex:name "Leubsdorf" ;
+    ex:flache_in_qm_qm "34473196" ;
+    ex:flache_in_ha_ha "3447,32" ;
+    ex:flache_in_qkm_qkm "34,47" .
+
+ex:14522330
+    a ex:Datensatz ;
+    ex:name "Lichtenau" ;
+    ex:flache_in_qm_qm "49142317" ;
+    ex:flache_in_ha_ha "4914,23" ;
+    ex:flache_in_qkm_qkm "49,14" .
+
+ex:14522340
+    a ex:Datensatz ;
+    ex:name "Lichtenberg/Erzgeb." ;
+    ex:flache_in_qm_qm "33389879" ;
+    ex:flache_in_ha_ha "3338,99" ;
+    ex:flache_in_qkm_qkm "33,39" .
+
+ex:14522350
+    a ex:Datensatz ;
+    ex:name "Lunzenau, Stadt" ;
+    ex:flache_in_qm_qm "28339006" ;
+    ex:flache_in_ha_ha "2833,90" ;
+    ex:flache_in_qkm_qkm "28,34" .
+
+ex:14522360
+    a ex:Datensatz ;
+    ex:name "Mittweida, Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "41261793" ;
+    ex:flache_in_ha_ha "4126,18" ;
+    ex:flache_in_qkm_qkm "41,26" .
+
+ex:14522380
+    a ex:Datensatz ;
+    ex:name "Mühlau" ;
+    ex:flache_in_qm_qm "8070735" ;
+    ex:flache_in_ha_ha "807,07" ;
+    ex:flache_in_qkm_qkm "8,07" .
+
+ex:14522390
+    a ex:Datensatz ;
+    ex:name "Mulda/Sa." ;
+    ex:flache_in_qm_qm "43139020" ;
+    ex:flache_in_ha_ha "4313,90" ;
+    ex:flache_in_qkm_qkm "43,14" .
+
+ex:14522400
+    a ex:Datensatz ;
+    ex:name "Neuhausen/Erzgeb." ;
+    ex:flache_in_qm_qm "48103776" ;
+    ex:flache_in_ha_ha "4810,38" ;
+    ex:flache_in_qkm_qkm "48,10" .
+
+ex:14522420
+    a ex:Datensatz ;
+    ex:name "Niederwiesa" ;
+    ex:flache_in_qm_qm "16393859" ;
+    ex:flache_in_ha_ha "1639,39" ;
+    ex:flache_in_qkm_qkm "16,39" .
+
+ex:14522430
+    a ex:Datensatz ;
+    ex:name "Oberschöna" ;
+    ex:flache_in_qm_qm "44297184" ;
+    ex:flache_in_ha_ha "4429,72" ;
+    ex:flache_in_qkm_qkm "44,30" .
+
+ex:14522440
+    a ex:Datensatz ;
+    ex:name "Oederan, Stadt" ;
+    ex:flache_in_qm_qm "77332117" ;
+    ex:flache_in_ha_ha "7733,21" ;
+    ex:flache_in_qkm_qkm "77,33" .
+
+ex:14522460
+    a ex:Datensatz ;
+    ex:name "Penig, Stadt" ;
+    ex:flache_in_qm_qm "63357848" ;
+    ex:flache_in_ha_ha "6335,78" ;
+    ex:flache_in_qkm_qkm "63,36" .
+
+ex:14522470
+    a ex:Datensatz ;
+    ex:name "Rechenberg-Bienenmühle" ;
+    ex:flache_in_qm_qm "52655712" ;
+    ex:flache_in_ha_ha "5265,57" ;
+    ex:flache_in_qkm_qkm "52,66" .
+
+ex:14522480
+    a ex:Datensatz ;
+    ex:name "Reinsberg" ;
+    ex:flache_in_qm_qm "49712147" ;
+    ex:flache_in_ha_ha "4971,21" ;
+    ex:flache_in_qkm_qkm "49,71" .
+
+ex:14522490
+    a ex:Datensatz ;
+    ex:name "Rochlitz, Stadt, Stadt des Roten Porphyr" ;
+    ex:flache_in_qm_qm "23760500" ;
+    ex:flache_in_ha_ha "2376,05" ;
+    ex:flache_in_qkm_qkm "23,76" .
+
+ex:14522500
+    a ex:Datensatz ;
+    ex:name "Rossau" ;
+    ex:flache_in_qm_qm "53592379" ;
+    ex:flache_in_ha_ha "5359,24" ;
+    ex:flache_in_qkm_qkm "53,59" .
+
+ex:14522510
+    a ex:Datensatz ;
+    ex:name "Roßwein, Stadt" ;
+    ex:flache_in_qm_qm "44107701" ;
+    ex:flache_in_ha_ha "4410,77" ;
+    ex:flache_in_qkm_qkm "44,11" .
+
+ex:14522520
+    a ex:Datensatz ;
+    ex:name "Sayda, Stadt" ;
+    ex:flache_in_qm_qm "35301619" ;
+    ex:flache_in_ha_ha "3530,16" ;
+    ex:flache_in_qkm_qkm "35,30" .
+
+ex:14522530
+    a ex:Datensatz ;
+    ex:name "Seelitz" ;
+    ex:flache_in_qm_qm "31224296" ;
+    ex:flache_in_ha_ha "3122,43" ;
+    ex:flache_in_qkm_qkm "31,22" .
+
+ex:14522540
+    a ex:Datensatz ;
+    ex:name "Striegistal" ;
+    ex:flache_in_qm_qm "77237042" ;
+    ex:flache_in_ha_ha "7723,70" ;
+    ex:flache_in_qkm_qkm "77,24" .
+
+ex:14522550
+    a ex:Datensatz ;
+    ex:name "Taura" ;
+    ex:flache_in_qm_qm "11108597" ;
+    ex:flache_in_ha_ha "1110,86" ;
+    ex:flache_in_qkm_qkm "11,11" .
+
+ex:14522570
+    a ex:Datensatz ;
+    ex:name "Waldheim, Stadt" ;
+    ex:flache_in_qm_qm "41705263" ;
+    ex:flache_in_ha_ha "4170,53" ;
+    ex:flache_in_qkm_qkm "41,71" .
+
+ex:14522580
+    a ex:Datensatz ;
+    ex:name "Wechselburg" ;
+    ex:flache_in_qm_qm "25654744" ;
+    ex:flache_in_ha_ha "2565,47" ;
+    ex:flache_in_qkm_qkm "25,65" .
+
+ex:14522590
+    a ex:Datensatz ;
+    ex:name "Weißenborn/Erzgeb." ;
+    ex:flache_in_qm_qm "22570282" ;
+    ex:flache_in_ha_ha "2257,03" ;
+    ex:flache_in_qkm_qkm "22,57" .
+
+ex:14522600
+    a ex:Datensatz ;
+    ex:name "Zettlitz" ;
+    ex:flache_in_qm_qm "15676415" ;
+    ex:flache_in_ha_ha "1567,64" ;
+    ex:flache_in_qkm_qkm "15,68" .
+
+ex:14523
+    a ex:Datensatz ;
+    ex:name "Vogtlandkreis" ;
+    ex:flache_in_qm_qm "1412389223" ;
+    ex:flache_in_ha_ha "141238,92" ;
+    ex:flache_in_qkm_qkm "1412,39" .
+
+ex:14523010
+    a ex:Datensatz ;
+    ex:name "Adorf/Vogtl., Stadt" ;
+    ex:flache_in_qm_qm "42967646" ;
+    ex:flache_in_ha_ha "4296,76" ;
+    ex:flache_in_qkm_qkm "42,97" .
+
+ex:14523020
+    a ex:Datensatz ;
+    ex:name "Auerbach/Vogtl., Stadt" ;
+    ex:flache_in_qm_qm "55517935" ;
+    ex:flache_in_ha_ha "5551,79" ;
+    ex:flache_in_qkm_qkm "55,52" .
+
+ex:14523030
+    a ex:Datensatz ;
+    ex:name "Bad Brambach" ;
+    ex:flache_in_qm_qm "43918375" ;
+    ex:flache_in_ha_ha "4391,84" ;
+    ex:flache_in_qkm_qkm "43,92" .
+
+ex:14523040
+    a ex:Datensatz ;
+    ex:name "Bad Elster, Stadt" ;
+    ex:flache_in_qm_qm "19765709" ;
+    ex:flache_in_ha_ha "1976,57" ;
+    ex:flache_in_qkm_qkm "19,77" .
+
+ex:14523050
+    a ex:Datensatz ;
+    ex:name "Bergen" ;
+    ex:flache_in_qm_qm "8336529" ;
+    ex:flache_in_ha_ha "833,65" ;
+    ex:flache_in_qkm_qkm "8,34" .
+
+ex:14523060
+    a ex:Datensatz ;
+    ex:name "Bösenbrunn" ;
+    ex:flache_in_qm_qm "34205944" ;
+    ex:flache_in_ha_ha "3420,59" ;
+    ex:flache_in_qkm_qkm "34,21" .
+
+ex:14523080
+    a ex:Datensatz ;
+    ex:name "Eichigt" ;
+    ex:flache_in_qm_qm "32728169" ;
+    ex:flache_in_ha_ha "3272,82" ;
+    ex:flache_in_qkm_qkm "32,73" .
+
+ex:14523090
+    a ex:Datensatz ;
+    ex:name "Ellefeld" ;
+    ex:flache_in_qm_qm "4548137" ;
+    ex:flache_in_ha_ha "454,81" ;
+    ex:flache_in_qkm_qkm "4,55" .
+
+ex:14523100
+    a ex:Datensatz ;
+    ex:name "Elsterberg, Stadt" ;
+    ex:flache_in_qm_qm "25102803" ;
+    ex:flache_in_ha_ha "2510,28" ;
+    ex:flache_in_qkm_qkm "25,10" .
+
+ex:14523120
+    a ex:Datensatz ;
+    ex:name "Falkenstein/Vogtl., Stadt" ;
+    ex:flache_in_qm_qm "31057463" ;
+    ex:flache_in_ha_ha "3105,75" ;
+    ex:flache_in_qkm_qkm "31,06" .
+
+ex:14523130
+    a ex:Datensatz ;
+    ex:name "Grünbach" ;
+    ex:flache_in_qm_qm "27545507" ;
+    ex:flache_in_ha_ha "2754,55" ;
+    ex:flache_in_qkm_qkm "27,55" .
+
+ex:14523150
+    a ex:Datensatz ;
+    ex:name "Heinsdorfergrund" ;
+    ex:flache_in_qm_qm "21859588" ;
+    ex:flache_in_ha_ha "2185,96" ;
+    ex:flache_in_qkm_qkm "21,86" .
+
+ex:14523160
+    a ex:Datensatz ;
+    ex:name "Klingenthal, Stadt" ;
+    ex:flache_in_qm_qm "50441651" ;
+    ex:flache_in_ha_ha "5044,17" ;
+    ex:flache_in_qkm_qkm "50,44" .
+
+ex:14523170
+    a ex:Datensatz ;
+    ex:name "Lengenfeld, Stadt" ;
+    ex:flache_in_qm_qm "46997195" ;
+    ex:flache_in_ha_ha "4699,72" ;
+    ex:flache_in_qkm_qkm "47,00" .
+
+ex:14523190
+    a ex:Datensatz ;
+    ex:name "Limbach" ;
+    ex:flache_in_qm_qm "14209645" ;
+    ex:flache_in_ha_ha "1420,96" ;
+    ex:flache_in_qkm_qkm "14,21" .
+
+ex:14523200
+    a ex:Datensatz ;
+    ex:name "Markneukirchen, Stadt" ;
+    ex:flache_in_qm_qm "69041191" ;
+    ex:flache_in_ha_ha "6904,12" ;
+    ex:flache_in_qkm_qkm "69,04" .
+
+ex:14523230
+    a ex:Datensatz ;
+    ex:name "Mühlental" ;
+    ex:flache_in_qm_qm "39586927" ;
+    ex:flache_in_ha_ha "3958,69" ;
+    ex:flache_in_qkm_qkm "39,59" .
+
+ex:14523245
+    a ex:Datensatz ;
+    ex:name "Muldenhammer" ;
+    ex:flache_in_qm_qm "56069332" ;
+    ex:flache_in_ha_ha "5606,93" ;
+    ex:flache_in_qkm_qkm "56,07" .
+
+ex:14523260
+    a ex:Datensatz ;
+    ex:name "Netzschkau, Stadt" ;
+    ex:flache_in_qm_qm "12509119" ;
+    ex:flache_in_ha_ha "1250,91" ;
+    ex:flache_in_qkm_qkm "12,51" .
+
+ex:14523270
+    a ex:Datensatz ;
+    ex:name "Neuensalz" ;
+    ex:flache_in_qm_qm "33491441" ;
+    ex:flache_in_ha_ha "3349,14" ;
+    ex:flache_in_qkm_qkm "33,49" .
+
+ex:14523280
+    a ex:Datensatz ;
+    ex:name "Neumark" ;
+    ex:flache_in_qm_qm "17305907" ;
+    ex:flache_in_ha_ha "1730,59" ;
+    ex:flache_in_qkm_qkm "17,31" .
+
+ex:14523290
+    a ex:Datensatz ;
+    ex:name "Neustadt/Vogtl." ;
+    ex:flache_in_qm_qm "13018019" ;
+    ex:flache_in_ha_ha "1301,80" ;
+    ex:flache_in_qkm_qkm "13,02" .
+
+ex:14523300
+    a ex:Datensatz ;
+    ex:name "Oelsnitz/Vogtl., Stadt" ;
+    ex:flache_in_qm_qm "53655270" ;
+    ex:flache_in_ha_ha "5365,53" ;
+    ex:flache_in_qkm_qkm "53,66" .
+
+ex:14523310
+    a ex:Datensatz ;
+    ex:name "Pausa-Mühltroff, Stadt" ;
+    ex:flache_in_qm_qm "64132535" ;
+    ex:flache_in_ha_ha "6413,25" ;
+    ex:flache_in_qkm_qkm "64,13" .
+
+ex:14523320
+    a ex:Datensatz ;
+    ex:name "Plauen, Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "102110030" ;
+    ex:flache_in_ha_ha "10211,00" ;
+    ex:flache_in_qkm_qkm "102,11" .
+
+ex:14523330
+    a ex:Datensatz ;
+    ex:name "Pöhl" ;
+    ex:flache_in_qm_qm "36640474" ;
+    ex:flache_in_ha_ha "3664,05" ;
+    ex:flache_in_qkm_qkm "36,64" .
+
+ex:14523340
+    a ex:Datensatz ;
+    ex:name "Reichenbach im Vogtland, Stadt" ;
+    ex:flache_in_qm_qm "34466421" ;
+    ex:flache_in_ha_ha "3446,64" ;
+    ex:flache_in_qkm_qkm "34,47" .
+
+ex:14523360
+    a ex:Datensatz ;
+    ex:name "Rodewisch, Stadt" ;
+    ex:flache_in_qm_qm "26864106" ;
+    ex:flache_in_ha_ha "2686,41" ;
+    ex:flache_in_qkm_qkm "26,86" .
+
+ex:14523365
+    a ex:Datensatz ;
+    ex:name "Rosenbach/Vogtl." ;
+    ex:flache_in_qm_qm "67337714" ;
+    ex:flache_in_ha_ha "6733,77" ;
+    ex:flache_in_qkm_qkm "67,34" .
+
+ex:14523370
+    a ex:Datensatz ;
+    ex:name "Schöneck/Vogtl., Stadt" ;
+    ex:flache_in_qm_qm "55034237" ;
+    ex:flache_in_ha_ha "5503,42" ;
+    ex:flache_in_qkm_qkm "55,03" .
+
+ex:14523380
+    a ex:Datensatz ;
+    ex:name "Steinberg" ;
+    ex:flache_in_qm_qm "20371525" ;
+    ex:flache_in_ha_ha "2037,15" ;
+    ex:flache_in_qkm_qkm "20,37" .
+
+ex:14523410
+    a ex:Datensatz ;
+    ex:name "Theuma" ;
+    ex:flache_in_qm_qm "9942995" ;
+    ex:flache_in_ha_ha "994,30" ;
+    ex:flache_in_qkm_qkm "9,94" .
+
+ex:14523420
+    a ex:Datensatz ;
+    ex:name "Tirpersdorf" ;
+    ex:flache_in_qm_qm "19565558" ;
+    ex:flache_in_ha_ha "1956,56" ;
+    ex:flache_in_qkm_qkm "19,57" .
+
+ex:14523430
+    a ex:Datensatz ;
+    ex:name "Treuen, Stadt" ;
+    ex:flache_in_qm_qm "43736659" ;
+    ex:flache_in_ha_ha "4373,67" ;
+    ex:flache_in_qkm_qkm "43,74" .
+
+ex:14523440
+    a ex:Datensatz ;
+    ex:name "Triebel/Vogtl." ;
+    ex:flache_in_qm_qm "43089279" ;
+    ex:flache_in_ha_ha "4308,93" ;
+    ex:flache_in_qkm_qkm "43,09" .
+
+ex:14523450
+    a ex:Datensatz ;
+    ex:name "Weischlitz" ;
+    ex:flache_in_qm_qm "121626004" ;
+    ex:flache_in_ha_ha "12162,60" ;
+    ex:flache_in_qkm_qkm "121,63" .
+
+ex:14523460
+    a ex:Datensatz ;
+    ex:name "Werda" ;
+    ex:flache_in_qm_qm "13592184" ;
+    ex:flache_in_ha_ha "1359,22" ;
+    ex:flache_in_qkm_qkm "13,59" .
+
+ex:14524
+    a ex:Datensatz ;
+    ex:name "Zwickau, Landkreis" ;
+    ex:flache_in_qm_qm "949786711" ;
+    ex:flache_in_ha_ha "94978,67" ;
+    ex:flache_in_qkm_qkm "949,79" .
+
+ex:14524010
+    a ex:Datensatz ;
+    ex:name "Bernsdorf" ;
+    ex:flache_in_qm_qm "14816542" ;
+    ex:flache_in_ha_ha "1481,65" ;
+    ex:flache_in_qkm_qkm "14,82" .
+
+ex:14524020
+    a ex:Datensatz ;
+    ex:name "Callenberg" ;
+    ex:flache_in_qm_qm "39861288" ;
+    ex:flache_in_ha_ha "3986,13" ;
+    ex:flache_in_qkm_qkm "39,86" .
+
+ex:14524030
+    a ex:Datensatz ;
+    ex:name "Crimmitschau, Stadt" ;
+    ex:flache_in_qm_qm "61143893" ;
+    ex:flache_in_ha_ha "6114,39" ;
+    ex:flache_in_qkm_qkm "61,14" .
+
+ex:14524040
+    a ex:Datensatz ;
+    ex:name "Crinitzberg" ;
+    ex:flache_in_qm_qm "18812517" ;
+    ex:flache_in_ha_ha "1881,25" ;
+    ex:flache_in_qkm_qkm "18,81" .
+
+ex:14524050
+    a ex:Datensatz ;
+    ex:name "Dennheritz" ;
+    ex:flache_in_qm_qm "13365632" ;
+    ex:flache_in_ha_ha "1336,56" ;
+    ex:flache_in_qkm_qkm "13,37" .
+
+ex:14524060
+    a ex:Datensatz ;
+    ex:name "Fraureuth" ;
+    ex:flache_in_qm_qm "22604692" ;
+    ex:flache_in_ha_ha "2260,47" ;
+    ex:flache_in_qkm_qkm "22,60" .
+
+ex:14524070
+    a ex:Datensatz ;
+    ex:name "Gersdorf" ;
+    ex:flache_in_qm_qm "9694715" ;
+    ex:flache_in_ha_ha "969,47" ;
+    ex:flache_in_qkm_qkm "9,69" .
+
+ex:14524080
+    a ex:Datensatz ;
+    ex:name "Glauchau, Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "51623927" ;
+    ex:flache_in_ha_ha "5162,39" ;
+    ex:flache_in_qkm_qkm "51,62" .
+
+ex:14524090
+    a ex:Datensatz ;
+    ex:name "Hartenstein, Stadt" ;
+    ex:flache_in_qm_qm "36700277" ;
+    ex:flache_in_ha_ha "3670,03" ;
+    ex:flache_in_qkm_qkm "36,70" .
+
+ex:14524100
+    a ex:Datensatz ;
+    ex:name "Hartmannsdorf b. Kirchberg" ;
+    ex:flache_in_qm_qm "27167145" ;
+    ex:flache_in_ha_ha "2716,71" ;
+    ex:flache_in_qkm_qkm "27,17" .
+
+ex:14524110
+    a ex:Datensatz ;
+    ex:name "Hirschfeld" ;
+    ex:flache_in_qm_qm "18980452" ;
+    ex:flache_in_ha_ha "1898,05" ;
+    ex:flache_in_qkm_qkm "18,98" .
+
+ex:14524120
+    a ex:Datensatz ;
+    ex:name "Hohenstein-Ernstthal, Stadt" ;
+    ex:flache_in_qm_qm "18581932" ;
+    ex:flache_in_ha_ha "1858,19" ;
+    ex:flache_in_qkm_qkm "18,58" .
+
+ex:14524130
+    a ex:Datensatz ;
+    ex:name "Kirchberg, Stadt" ;
+    ex:flache_in_qm_qm "39564737" ;
+    ex:flache_in_ha_ha "3956,47" ;
+    ex:flache_in_qkm_qkm "39,56" .
+
+ex:14524140
+    a ex:Datensatz ;
+    ex:name "Langenbernsdorf" ;
+    ex:flache_in_qm_qm "36369919" ;
+    ex:flache_in_ha_ha "3636,99" ;
+    ex:flache_in_qkm_qkm "36,37" .
+
+ex:14524150
+    a ex:Datensatz ;
+    ex:name "Langenweißbach" ;
+    ex:flache_in_qm_qm "22623550" ;
+    ex:flache_in_ha_ha "2262,36" ;
+    ex:flache_in_qkm_qkm "22,62" .
+
+ex:14524160
+    a ex:Datensatz ;
+    ex:name "Lichtenstein/Sa., Stadt" ;
+    ex:flache_in_qm_qm "15470352" ;
+    ex:flache_in_ha_ha "1547,04" ;
+    ex:flache_in_qkm_qkm "15,47" .
+
+ex:14524170
+    a ex:Datensatz ;
+    ex:name "Lichtentanne" ;
+    ex:flache_in_qm_qm "27325212" ;
+    ex:flache_in_ha_ha "2732,52" ;
+    ex:flache_in_qkm_qkm "27,33" .
+
+ex:14524180
+    a ex:Datensatz ;
+    ex:name "Limbach-Oberfrohna, Stadt" ;
+    ex:flache_in_qm_qm "50211773" ;
+    ex:flache_in_ha_ha "5021,18" ;
+    ex:flache_in_qkm_qkm "50,21" .
+
+ex:14524190
+    a ex:Datensatz ;
+    ex:name "Meerane, Stadt" ;
+    ex:flache_in_qm_qm "19811472" ;
+    ex:flache_in_ha_ha "1981,15" ;
+    ex:flache_in_qkm_qkm "19,81" .
+
+ex:14524200
+    a ex:Datensatz ;
+    ex:name "Mülsen" ;
+    ex:flache_in_qm_qm "49695545" ;
+    ex:flache_in_ha_ha "4969,55" ;
+    ex:flache_in_qkm_qkm "49,70" .
+
+ex:14524210
+    a ex:Datensatz ;
+    ex:name "Neukirchen/Pleiße" ;
+    ex:flache_in_qm_qm "16889792" ;
+    ex:flache_in_ha_ha "1688,98" ;
+    ex:flache_in_qkm_qkm "16,89" .
+
+ex:14524220
+    a ex:Datensatz ;
+    ex:name "Niederfrohna" ;
+    ex:flache_in_qm_qm "10130805" ;
+    ex:flache_in_ha_ha "1013,08" ;
+    ex:flache_in_qkm_qkm "10,13" .
+
+ex:14524230
+    a ex:Datensatz ;
+    ex:name "Oberlungwitz, Stadt" ;
+    ex:flache_in_qm_qm "14675676" ;
+    ex:flache_in_ha_ha "1467,57" ;
+    ex:flache_in_qkm_qkm "14,68" .
+
+ex:14524240
+    a ex:Datensatz ;
+    ex:name "Oberwiera" ;
+    ex:flache_in_qm_qm "14330513" ;
+    ex:flache_in_ha_ha "1433,05" ;
+    ex:flache_in_qkm_qkm "14,33" .
+
+ex:14524250
+    a ex:Datensatz ;
+    ex:name "Reinsdorf" ;
+    ex:flache_in_qm_qm "21250389" ;
+    ex:flache_in_ha_ha "2125,04" ;
+    ex:flache_in_qkm_qkm "21,25" .
+
+ex:14524260
+    a ex:Datensatz ;
+    ex:name "Remse" ;
+    ex:flache_in_qm_qm "14792301" ;
+    ex:flache_in_ha_ha "1479,23" ;
+    ex:flache_in_qkm_qkm "14,79" .
+
+ex:14524270
+    a ex:Datensatz ;
+    ex:name "Schönberg" ;
+    ex:flache_in_qm_qm "15427491" ;
+    ex:flache_in_ha_ha "1542,75" ;
+    ex:flache_in_qkm_qkm "15,43" .
+
+ex:14524280
+    a ex:Datensatz ;
+    ex:name "St. Egidien" ;
+    ex:flache_in_qm_qm "21263921" ;
+    ex:flache_in_ha_ha "2126,39" ;
+    ex:flache_in_qkm_qkm "21,26" .
+
+ex:14524290
+    a ex:Datensatz ;
+    ex:name "Waldenburg, Stadt" ;
+    ex:flache_in_qm_qm "25062665" ;
+    ex:flache_in_ha_ha "2506,27" ;
+    ex:flache_in_qkm_qkm "25,06" .
+
+ex:14524300
+    a ex:Datensatz ;
+    ex:name "Werdau, Stadt" ;
+    ex:flache_in_qm_qm "65622209" ;
+    ex:flache_in_ha_ha "6562,22" ;
+    ex:flache_in_qkm_qkm "65,62" .
+
+ex:14524310
+    a ex:Datensatz ;
+    ex:name "Wildenfels, Stadt" ;
+    ex:flache_in_qm_qm "20680665" ;
+    ex:flache_in_ha_ha "2068,07" ;
+    ex:flache_in_qkm_qkm "20,68" .
+
+ex:14524320
+    a ex:Datensatz ;
+    ex:name "Wilkau-Haßlau, Stadt" ;
+    ex:flache_in_qm_qm "12651125" ;
+    ex:flache_in_ha_ha "1265,11" ;
+    ex:flache_in_qkm_qkm "12,65" .
+
+ex:14524330
+    a ex:Datensatz ;
+    ex:name "Zwickau, Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "102583587" ;
+    ex:flache_in_ha_ha "10258,36" ;
+    ex:flache_in_qkm_qkm "102,58" .
+
+ex:146
+    a ex:Datensatz ;
+    ex:name "Dresden, NUTS 2-Region" ;
+    ex:flache_in_qm_qm "7944306914" ;
+    ex:flache_in_ha_ha "794430,69" ;
+    ex:flache_in_qkm_qkm "7944,31" .
+
+ex:14612
+    a ex:Datensatz ;
+    ex:name "Dresden, Stadt" ;
+    ex:flache_in_qm_qm "328480608" ;
+    ex:flache_in_ha_ha "32848,06" ;
+    ex:flache_in_qkm_qkm "328,48" .
+
+ex:14612000
+    a ex:Datensatz ;
+    ex:name "Dresden, Stadt" ;
+    ex:flache_in_qm_qm "328480608" ;
+    ex:flache_in_ha_ha "32848,06" ;
+    ex:flache_in_qkm_qkm "328,48" .
+
+ex:14625
+    a ex:Datensatz ;
+    ex:name "Bautzen, Landkreis" ;
+    ex:flache_in_qm_qm "2395592752" ;
+    ex:flache_in_ha_ha "239559,28" ;
+    ex:flache_in_qkm_qkm "2395,59" .
+
+ex:14625010
+    a ex:Datensatz ;
+    ex:name "Arnsdorf" ;
+    ex:flache_in_qm_qm "35864885" ;
+    ex:flache_in_ha_ha "3586,49" ;
+    ex:flache_in_qkm_qkm "35,86" .
+
+ex:14625020
+    a ex:Datensatz ;
+    ex:name "Bautzen, Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "66655226" ;
+    ex:flache_in_ha_ha "6665,52" ;
+    ex:flache_in_qkm_qkm "66,66" .
+
+ex:14625030
+    a ex:Datensatz ;
+    ex:name "Bernsdorf, Stadt" ;
+    ex:flache_in_qm_qm "59856809" ;
+    ex:flache_in_ha_ha "5985,68" ;
+    ex:flache_in_qkm_qkm "59,86" .
+
+ex:14625040
+    a ex:Datensatz ;
+    ex:name "Bischofswerda, Stadt" ;
+    ex:flache_in_qm_qm "46210842" ;
+    ex:flache_in_ha_ha "4621,08" ;
+    ex:flache_in_qkm_qkm "46,21" .
+
+ex:14625060
+    a ex:Datensatz ;
+    ex:name "Burkau" ;
+    ex:flache_in_qm_qm "31897765" ;
+    ex:flache_in_ha_ha "3189,78" ;
+    ex:flache_in_qkm_qkm "31,90" .
+
+ex:14625080
+    a ex:Datensatz ;
+    ex:name "Crostwitz" ;
+    ex:flache_in_qm_qm "13327844" ;
+    ex:flache_in_ha_ha "1332,78" ;
+    ex:flache_in_qkm_qkm "13,33" .
+
+ex:14625090
+    a ex:Datensatz ;
+    ex:name "Cunewalde" ;
+    ex:flache_in_qm_qm "26642760" ;
+    ex:flache_in_ha_ha "2664,28" ;
+    ex:flache_in_qkm_qkm "26,64" .
+
+ex:14625100
+    a ex:Datensatz ;
+    ex:name "Demitz-Thumitz" ;
+    ex:flache_in_qm_qm "21107348" ;
+    ex:flache_in_ha_ha "2110,73" ;
+    ex:flache_in_qkm_qkm "21,11" .
+
+ex:14625110
+    a ex:Datensatz ;
+    ex:name "Doberschau-Gaußig" ;
+    ex:flache_in_qm_qm "40476039" ;
+    ex:flache_in_ha_ha "4047,60" ;
+    ex:flache_in_qkm_qkm "40,48" .
+
+ex:14625120
+    a ex:Datensatz ;
+    ex:name "Elsterheide" ;
+    ex:flache_in_qm_qm "127606485" ;
+    ex:flache_in_ha_ha "12760,65" ;
+    ex:flache_in_qkm_qkm "127,61" .
+
+ex:14625130
+    a ex:Datensatz ;
+    ex:name "Elstra, Stadt" ;
+    ex:flache_in_qm_qm "32631835" ;
+    ex:flache_in_ha_ha "3263,18" ;
+    ex:flache_in_qkm_qkm "32,63" .
+
+ex:14625140
+    a ex:Datensatz ;
+    ex:name "Frankenthal" ;
+    ex:flache_in_qm_qm "9421984" ;
+    ex:flache_in_ha_ha "942,20" ;
+    ex:flache_in_qkm_qkm "9,42" .
+
+ex:14625150
+    a ex:Datensatz ;
+    ex:name "Göda" ;
+    ex:flache_in_qm_qm "43264107" ;
+    ex:flache_in_ha_ha "4326,41" ;
+    ex:flache_in_qkm_qkm "43,26" .
+
+ex:14625160
+    a ex:Datensatz ;
+    ex:name "Großdubrau" ;
+    ex:flache_in_qm_qm "54220151" ;
+    ex:flache_in_ha_ha "5422,02" ;
+    ex:flache_in_qkm_qkm "54,22" .
+
+ex:14625170
+    a ex:Datensatz ;
+    ex:name "Großharthau" ;
+    ex:flache_in_qm_qm "37278760" ;
+    ex:flache_in_ha_ha "3727,88" ;
+    ex:flache_in_qkm_qkm "37,28" .
+
+ex:14625180
+    a ex:Datensatz ;
+    ex:name "Großnaundorf" ;
+    ex:flache_in_qm_qm "14990639" ;
+    ex:flache_in_ha_ha "1499,06" ;
+    ex:flache_in_qkm_qkm "14,99" .
+
+ex:14625190
+    a ex:Datensatz ;
+    ex:name "Großpostwitz/O.L." ;
+    ex:flache_in_qm_qm "16478191" ;
+    ex:flache_in_ha_ha "1647,82" ;
+    ex:flache_in_qkm_qkm "16,48" .
+
+ex:14625200
+    a ex:Datensatz ;
+    ex:name "Großröhrsdorf, Stadt" ;
+    ex:flache_in_qm_qm "40952200" ;
+    ex:flache_in_ha_ha "4095,22" ;
+    ex:flache_in_qkm_qkm "40,95" .
+
+ex:14625220
+    a ex:Datensatz ;
+    ex:name "Haselbachtal" ;
+    ex:flache_in_qm_qm "37503095" ;
+    ex:flache_in_ha_ha "3750,31" ;
+    ex:flache_in_qkm_qkm "37,50" .
+
+ex:14625230
+    a ex:Datensatz ;
+    ex:name "Hochkirch" ;
+    ex:flache_in_qm_qm "41755986" ;
+    ex:flache_in_ha_ha "4175,60" ;
+    ex:flache_in_qkm_qkm "41,76" .
+
+ex:14625240
+    a ex:Datensatz ;
+    ex:name "Hoyerswerda, Stadt" ;
+    ex:flache_in_qm_qm "94993938" ;
+    ex:flache_in_ha_ha "9499,39" ;
+    ex:flache_in_qkm_qkm "94,99" .
+
+ex:14625250
+    a ex:Datensatz ;
+    ex:name "Kamenz, Stadt" ;
+    ex:flache_in_qm_qm "98298139" ;
+    ex:flache_in_ha_ha "9829,81" ;
+    ex:flache_in_qkm_qkm "98,30" .
+
+ex:14625270
+    a ex:Datensatz ;
+    ex:name "Königsbrück, Stadt" ;
+    ex:flache_in_qm_qm "78478312" ;
+    ex:flache_in_ha_ha "7847,83" ;
+    ex:flache_in_qkm_qkm "78,48" .
+
+ex:14625280
+    a ex:Datensatz ;
+    ex:name "Königswartha" ;
+    ex:flache_in_qm_qm "47166144" ;
+    ex:flache_in_ha_ha "4716,61" ;
+    ex:flache_in_qkm_qkm "47,17" .
+
+ex:14625290
+    a ex:Datensatz ;
+    ex:name "Kubschütz" ;
+    ex:flache_in_qm_qm "43640466" ;
+    ex:flache_in_ha_ha "4364,05" ;
+    ex:flache_in_qkm_qkm "43,64" .
+
+ex:14625300
+    a ex:Datensatz ;
+    ex:name "Laußnitz" ;
+    ex:flache_in_qm_qm "63812345" ;
+    ex:flache_in_ha_ha "6381,23" ;
+    ex:flache_in_qkm_qkm "63,81" .
+
+ex:14625310
+    a ex:Datensatz ;
+    ex:name "Lauta, Stadt" ;
+    ex:flache_in_qm_qm "42144059" ;
+    ex:flache_in_ha_ha "4214,41" ;
+    ex:flache_in_qkm_qkm "42,14" .
+
+ex:14625320
+    a ex:Datensatz ;
+    ex:name "Lichtenberg" ;
+    ex:flache_in_qm_qm "14724913" ;
+    ex:flache_in_ha_ha "1472,49" ;
+    ex:flache_in_qkm_qkm "14,72" .
+
+ex:14625330
+    a ex:Datensatz ;
+    ex:name "Lohsa" ;
+    ex:flache_in_qm_qm "134948696" ;
+    ex:flache_in_ha_ha "13494,87" ;
+    ex:flache_in_qkm_qkm "134,95" .
+
+ex:14625340
+    a ex:Datensatz ;
+    ex:name "Malschwitz" ;
+    ex:flache_in_qm_qm "93274264" ;
+    ex:flache_in_ha_ha "9327,43" ;
+    ex:flache_in_qkm_qkm "93,27" .
+
+ex:14625350
+    a ex:Datensatz ;
+    ex:name "Nebelschütz" ;
+    ex:flache_in_qm_qm "22930673" ;
+    ex:flache_in_ha_ha "2293,07" ;
+    ex:flache_in_qkm_qkm "22,93" .
+
+ex:14625360
+    a ex:Datensatz ;
+    ex:name "Neschwitz" ;
+    ex:flache_in_qm_qm "46009072" ;
+    ex:flache_in_ha_ha "4600,91" ;
+    ex:flache_in_qkm_qkm "46,01" .
+
+ex:14625370
+    a ex:Datensatz ;
+    ex:name "Neukirch" ;
+    ex:flache_in_qm_qm "39468479" ;
+    ex:flache_in_ha_ha "3946,85" ;
+    ex:flache_in_qkm_qkm "39,47" .
+
+ex:14625380
+    a ex:Datensatz ;
+    ex:name "Neukirch/Lausitz" ;
+    ex:flache_in_qm_qm "21301604" ;
+    ex:flache_in_ha_ha "2130,16" ;
+    ex:flache_in_qkm_qkm "21,30" .
+
+ex:14625390
+    a ex:Datensatz ;
+    ex:name "Obergurig" ;
+    ex:flache_in_qm_qm "9815801" ;
+    ex:flache_in_ha_ha "981,58" ;
+    ex:flache_in_qkm_qkm "9,82" .
+
+ex:14625410
+    a ex:Datensatz ;
+    ex:name "Ohorn" ;
+    ex:flache_in_qm_qm "11993374" ;
+    ex:flache_in_ha_ha "1199,34" ;
+    ex:flache_in_qkm_qkm "11,99" .
+
+ex:14625420
+    a ex:Datensatz ;
+    ex:name "Oßling" ;
+    ex:flache_in_qm_qm "43706554" ;
+    ex:flache_in_ha_ha "4370,66" ;
+    ex:flache_in_qkm_qkm "43,71" .
+
+ex:14625430
+    a ex:Datensatz ;
+    ex:name "Ottendorf-Okrilla" ;
+    ex:flache_in_qm_qm "25931050" ;
+    ex:flache_in_ha_ha "2593,11" ;
+    ex:flache_in_qkm_qkm "25,93" .
+
+ex:14625440
+    a ex:Datensatz ;
+    ex:name "Panschwitz-Kuckau" ;
+    ex:flache_in_qm_qm "23350639" ;
+    ex:flache_in_ha_ha "2335,06" ;
+    ex:flache_in_qkm_qkm "23,35" .
+
+ex:14625450
+    a ex:Datensatz ;
+    ex:name "Pulsnitz, Stadt" ;
+    ex:flache_in_qm_qm "26755404" ;
+    ex:flache_in_ha_ha "2675,54" ;
+    ex:flache_in_qkm_qkm "26,76" .
+
+ex:14625460
+    a ex:Datensatz ;
+    ex:name "Puschwitz" ;
+    ex:flache_in_qm_qm "11789400" ;
+    ex:flache_in_ha_ha "1178,94" ;
+    ex:flache_in_qkm_qkm "11,79" .
+
+ex:14625470
+    a ex:Datensatz ;
+    ex:name "Räckelwitz" ;
+    ex:flache_in_qm_qm "11508859" ;
+    ex:flache_in_ha_ha "1150,89" ;
+    ex:flache_in_qkm_qkm "11,51" .
+
+ex:14625480
+    a ex:Datensatz ;
+    ex:name "Radeberg, Stadt" ;
+    ex:flache_in_qm_qm "29829005" ;
+    ex:flache_in_ha_ha "2982,90" ;
+    ex:flache_in_qkm_qkm "29,83" .
+
+ex:14625490
+    a ex:Datensatz ;
+    ex:name "Radibor" ;
+    ex:flache_in_qm_qm "62003481" ;
+    ex:flache_in_ha_ha "6200,35" ;
+    ex:flache_in_qkm_qkm "62,00" .
+
+ex:14625500
+    a ex:Datensatz ;
+    ex:name "Ralbitz-Rosenthal" ;
+    ex:flache_in_qm_qm "31735828" ;
+    ex:flache_in_ha_ha "3173,58" ;
+    ex:flache_in_qkm_qkm "31,74" .
+
+ex:14625510
+    a ex:Datensatz ;
+    ex:name "Rammenau" ;
+    ex:flache_in_qm_qm "10761781" ;
+    ex:flache_in_ha_ha "1076,18" ;
+    ex:flache_in_qkm_qkm "10,76" .
+
+ex:14625525
+    a ex:Datensatz ;
+    ex:name "Schirgiswalde-Kirschau, Stadt" ;
+    ex:flache_in_qm_qm "24340961" ;
+    ex:flache_in_ha_ha "2434,10" ;
+    ex:flache_in_qkm_qkm "24,34" .
+
+ex:14625530
+    a ex:Datensatz ;
+    ex:name "Schmölln-Putzkau" ;
+    ex:flache_in_qm_qm "32929761" ;
+    ex:flache_in_ha_ha "3292,98" ;
+    ex:flache_in_qkm_qkm "32,93" .
+
+ex:14625550
+    a ex:Datensatz ;
+    ex:name "Schwepnitz" ;
+    ex:flache_in_qm_qm "56031872" ;
+    ex:flache_in_ha_ha "5603,19" ;
+    ex:flache_in_qkm_qkm "56,03" .
+
+ex:14625560
+    a ex:Datensatz ;
+    ex:name "Sohland a. d. Spree" ;
+    ex:flache_in_qm_qm "37299119" ;
+    ex:flache_in_ha_ha "3729,91" ;
+    ex:flache_in_qkm_qkm "37,30" .
+
+ex:14625570
+    a ex:Datensatz ;
+    ex:name "Spreetal" ;
+    ex:flache_in_qm_qm "108803077" ;
+    ex:flache_in_ha_ha "10880,31" ;
+    ex:flache_in_qkm_qkm "108,80" .
+
+ex:14625580
+    a ex:Datensatz ;
+    ex:name "Steina" ;
+    ex:flache_in_qm_qm "12509763" ;
+    ex:flache_in_ha_ha "1250,98" ;
+    ex:flache_in_qkm_qkm "12,51" .
+
+ex:14625590
+    a ex:Datensatz ;
+    ex:name "Steinigtwolmsdorf" ;
+    ex:flache_in_qm_qm "18035357" ;
+    ex:flache_in_ha_ha "1803,54" ;
+    ex:flache_in_qkm_qkm "18,04" .
+
+ex:14625600
+    a ex:Datensatz ;
+    ex:name "Wachau" ;
+    ex:flache_in_qm_qm "38106337" ;
+    ex:flache_in_ha_ha "3810,63" ;
+    ex:flache_in_qkm_qkm "38,11" .
+
+ex:14625610
+    a ex:Datensatz ;
+    ex:name "Weißenberg, Stadt" ;
+    ex:flache_in_qm_qm "50960405" ;
+    ex:flache_in_ha_ha "5096,04" ;
+    ex:flache_in_qkm_qkm "50,96" .
+
+ex:14625630
+    a ex:Datensatz ;
+    ex:name "Wilthen, Stadt" ;
+    ex:flache_in_qm_qm "17040601" ;
+    ex:flache_in_ha_ha "1704,06" ;
+    ex:flache_in_qkm_qkm "17,04" .
+
+ex:14625640
+    a ex:Datensatz ;
+    ex:name "Wittichenau, Stadt" ;
+    ex:flache_in_qm_qm "61020268" ;
+    ex:flache_in_ha_ha "6102,03" ;
+    ex:flache_in_qkm_qkm "61,02" .
+
+ex:14626
+    a ex:Datensatz ;
+    ex:name "Görlitz, Landkreis" ;
+    ex:flache_in_qm_qm "2111402909" ;
+    ex:flache_in_ha_ha "211140,29" ;
+    ex:flache_in_qkm_qkm "2111,40" .
+
+ex:14626010
+    a ex:Datensatz ;
+    ex:name "Bad Muskau, Stadt" ;
+    ex:flache_in_qm_qm "15381261" ;
+    ex:flache_in_ha_ha "1538,13" ;
+    ex:flache_in_qkm_qkm "15,38" .
+
+ex:14626020
+    a ex:Datensatz ;
+    ex:name "Beiersdorf" ;
+    ex:flache_in_qm_qm "6454563" ;
+    ex:flache_in_ha_ha "645,46" ;
+    ex:flache_in_qkm_qkm "6,45" .
+
+ex:14626030
+    a ex:Datensatz ;
+    ex:name "Bernstadt a. d. Eigen, Stadt" ;
+    ex:flache_in_qm_qm "51997795" ;
+    ex:flache_in_ha_ha "5199,78" ;
+    ex:flache_in_qkm_qkm "52,00" .
+
+ex:14626050
+    a ex:Datensatz ;
+    ex:name "Bertsdorf-Hörnitz" ;
+    ex:flache_in_qm_qm "17999786" ;
+    ex:flache_in_ha_ha "1799,98" ;
+    ex:flache_in_qkm_qkm "18,00" .
+
+ex:14626060
+    a ex:Datensatz ;
+    ex:name "Boxberg/O.L." ;
+    ex:flache_in_qm_qm "217672827" ;
+    ex:flache_in_ha_ha "21767,28" ;
+    ex:flache_in_qkm_qkm "217,67" .
+
+ex:14626070
+    a ex:Datensatz ;
+    ex:name "Dürrhennersdorf" ;
+    ex:flache_in_qm_qm "10714113" ;
+    ex:flache_in_ha_ha "1071,41" ;
+    ex:flache_in_qkm_qkm "10,71" .
+
+ex:14626085
+    a ex:Datensatz ;
+    ex:name "Ebersbach-Neugersdorf, Stadt" ;
+    ex:flache_in_qm_qm "20452546" ;
+    ex:flache_in_ha_ha "2045,25" ;
+    ex:flache_in_qkm_qkm "20,45" .
+
+ex:14626100
+    a ex:Datensatz ;
+    ex:name "Gablenz" ;
+    ex:flache_in_qm_qm "14740825" ;
+    ex:flache_in_ha_ha "1474,08" ;
+    ex:flache_in_qkm_qkm "14,74" .
+
+ex:14626110
+    a ex:Datensatz ;
+    ex:name "Görlitz, Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "67525740" ;
+    ex:flache_in_ha_ha "6752,57" ;
+    ex:flache_in_qkm_qkm "67,53" .
+
+ex:14626120
+    a ex:Datensatz ;
+    ex:name "Groß Düben" ;
+    ex:flache_in_qm_qm "15066489" ;
+    ex:flache_in_ha_ha "1506,65" ;
+    ex:flache_in_qkm_qkm "15,07" .
+
+ex:14626140
+    a ex:Datensatz ;
+    ex:name "Großschönau" ;
+    ex:flache_in_qm_qm "23818673" ;
+    ex:flache_in_ha_ha "2381,87" ;
+    ex:flache_in_qkm_qkm "23,82" .
+
+ex:14626150
+    a ex:Datensatz ;
+    ex:name "Großschweidnitz" ;
+    ex:flache_in_qm_qm "7473844" ;
+    ex:flache_in_ha_ha "747,38" ;
+    ex:flache_in_qkm_qkm "7,47" .
+
+ex:14626160
+    a ex:Datensatz ;
+    ex:name "Hähnichen" ;
+    ex:flache_in_qm_qm "49763466" ;
+    ex:flache_in_ha_ha "4976,35" ;
+    ex:flache_in_qkm_qkm "49,76" .
+
+ex:14626170
+    a ex:Datensatz ;
+    ex:name "Hainewalde" ;
+    ex:flache_in_qm_qm "12956879" ;
+    ex:flache_in_ha_ha "1295,69" ;
+    ex:flache_in_qkm_qkm "12,96" .
+
+ex:14626180
+    a ex:Datensatz ;
+    ex:name "Herrnhut, Stadt" ;
+    ex:flache_in_qm_qm "74125445" ;
+    ex:flache_in_ha_ha "7412,54" ;
+    ex:flache_in_qkm_qkm "74,13" .
+
+ex:14626190
+    a ex:Datensatz ;
+    ex:name "Hohendubrau" ;
+    ex:flache_in_qm_qm "45542366" ;
+    ex:flache_in_ha_ha "4554,24" ;
+    ex:flache_in_qkm_qkm "45,54" .
+
+ex:14626200
+    a ex:Datensatz ;
+    ex:name "Horka" ;
+    ex:flache_in_qm_qm "41016433" ;
+    ex:flache_in_ha_ha "4101,64" ;
+    ex:flache_in_qkm_qkm "41,02" .
+
+ex:14626210
+    a ex:Datensatz ;
+    ex:name "Jonsdorf, Kurort" ;
+    ex:flache_in_qm_qm "9034203" ;
+    ex:flache_in_ha_ha "903,42" ;
+    ex:flache_in_qkm_qkm "9,03" .
+
+ex:14626230
+    a ex:Datensatz ;
+    ex:name "Kodersdorf" ;
+    ex:flache_in_qm_qm "42538329" ;
+    ex:flache_in_ha_ha "4253,83" ;
+    ex:flache_in_qkm_qkm "42,54" .
+
+ex:14626240
+    a ex:Datensatz ;
+    ex:name "Königshain" ;
+    ex:flache_in_qm_qm "19579722" ;
+    ex:flache_in_ha_ha "1957,97" ;
+    ex:flache_in_qkm_qkm "19,58" .
+
+ex:14626245
+    a ex:Datensatz ;
+    ex:name "Kottmar" ;
+    ex:flache_in_qm_qm "47342608" ;
+    ex:flache_in_ha_ha "4734,26" ;
+    ex:flache_in_qkm_qkm "47,34" .
+
+ex:14626250
+    a ex:Datensatz ;
+    ex:name "Krauschwitz i.d. O.L." ;
+    ex:flache_in_qm_qm "106825863" ;
+    ex:flache_in_ha_ha "10682,59" ;
+    ex:flache_in_qkm_qkm "106,83" .
+
+ex:14626260
+    a ex:Datensatz ;
+    ex:name "Kreba-Neudorf" ;
+    ex:flache_in_qm_qm "31653185" ;
+    ex:flache_in_ha_ha "3165,32" ;
+    ex:flache_in_qkm_qkm "31,65" .
+
+ex:14626270
+    a ex:Datensatz ;
+    ex:name "Lawalde" ;
+    ex:flache_in_qm_qm "14546956" ;
+    ex:flache_in_ha_ha "1454,70" ;
+    ex:flache_in_qkm_qkm "14,55" .
+
+ex:14626280
+    a ex:Datensatz ;
+    ex:name "Leutersdorf" ;
+    ex:flache_in_qm_qm "17079397" ;
+    ex:flache_in_ha_ha "1707,94" ;
+    ex:flache_in_qkm_qkm "17,08" .
+
+ex:14626290
+    a ex:Datensatz ;
+    ex:name "Löbau, Stadt" ;
+    ex:flache_in_qm_qm "78895873" ;
+    ex:flache_in_ha_ha "7889,59" ;
+    ex:flache_in_qkm_qkm "78,90" .
+
+ex:14626300
+    a ex:Datensatz ;
+    ex:name "Markersdorf" ;
+    ex:flache_in_qm_qm "62540541" ;
+    ex:flache_in_ha_ha "6254,05" ;
+    ex:flache_in_qkm_qkm "62,54" .
+
+ex:14626310
+    a ex:Datensatz ;
+    ex:name "Mittelherwigsdorf" ;
+    ex:flache_in_qm_qm "36448401" ;
+    ex:flache_in_ha_ha "3644,84" ;
+    ex:flache_in_qkm_qkm "36,45" .
+
+ex:14626320
+    a ex:Datensatz ;
+    ex:name "Mücka" ;
+    ex:flache_in_qm_qm "24348399" ;
+    ex:flache_in_ha_ha "2434,84" ;
+    ex:flache_in_qkm_qkm "24,35" .
+
+ex:14626330
+    a ex:Datensatz ;
+    ex:name "Neißeaue" ;
+    ex:flache_in_qm_qm "47367903" ;
+    ex:flache_in_ha_ha "4736,79" ;
+    ex:flache_in_qkm_qkm "47,37" .
+
+ex:14626350
+    a ex:Datensatz ;
+    ex:name "Neusalza-Spremberg, Stadt" ;
+    ex:flache_in_qm_qm "22913148" ;
+    ex:flache_in_ha_ha "2291,31" ;
+    ex:flache_in_qkm_qkm "22,91" .
+
+ex:14626370
+    a ex:Datensatz ;
+    ex:name "Niesky, Stadt" ;
+    ex:flache_in_qm_qm "53808963" ;
+    ex:flache_in_ha_ha "5380,90" ;
+    ex:flache_in_qkm_qkm "53,81" .
+
+ex:14626390
+    a ex:Datensatz ;
+    ex:name "Oderwitz" ;
+    ex:flache_in_qm_qm "35905719" ;
+    ex:flache_in_ha_ha "3590,57" ;
+    ex:flache_in_qkm_qkm "35,91" .
+
+ex:14626400
+    a ex:Datensatz ;
+    ex:name "Olbersdorf" ;
+    ex:flache_in_qm_qm "15156104" ;
+    ex:flache_in_ha_ha "1515,61" ;
+    ex:flache_in_qkm_qkm "15,16" .
+
+ex:14626410
+    a ex:Datensatz ;
+    ex:name "Oppach" ;
+    ex:flache_in_qm_qm "7995782" ;
+    ex:flache_in_ha_ha "799,58" ;
+    ex:flache_in_qkm_qkm "8,00" .
+
+ex:14626420
+    a ex:Datensatz ;
+    ex:name "Ostritz, Stadt" ;
+    ex:flache_in_qm_qm "23480952" ;
+    ex:flache_in_ha_ha "2348,10" ;
+    ex:flache_in_qkm_qkm "23,48" .
+
+ex:14626430
+    a ex:Datensatz ;
+    ex:name "Oybin" ;
+    ex:flache_in_qm_qm "18282272" ;
+    ex:flache_in_ha_ha "1828,23" ;
+    ex:flache_in_qkm_qkm "18,28" .
+
+ex:14626440
+    a ex:Datensatz ;
+    ex:name "Quitzdorf am See" ;
+    ex:flache_in_qm_qm "36334511" ;
+    ex:flache_in_ha_ha "3633,45" ;
+    ex:flache_in_qkm_qkm "36,33" .
+
+ex:14626450
+    a ex:Datensatz ;
+    ex:name "Reichenbach/O.L., Stadt" ;
+    ex:flache_in_qm_qm "62639904" ;
+    ex:flache_in_ha_ha "6263,99" ;
+    ex:flache_in_qkm_qkm "62,64" .
+
+ex:14626460
+    a ex:Datensatz ;
+    ex:name "Rietschen" ;
+    ex:flache_in_qm_qm "73189526" ;
+    ex:flache_in_ha_ha "7318,95" ;
+    ex:flache_in_qkm_qkm "73,19" .
+
+ex:14626470
+    a ex:Datensatz ;
+    ex:name "Rosenbach" ;
+    ex:flache_in_qm_qm "23561082" ;
+    ex:flache_in_ha_ha "2356,11" ;
+    ex:flache_in_qkm_qkm "23,56" .
+
+ex:14626480
+    a ex:Datensatz ;
+    ex:name "Rothenburg/O.L., Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "72406232" ;
+    ex:flache_in_ha_ha "7240,62" ;
+    ex:flache_in_qkm_qkm "72,41" .
+
+ex:14626490
+    a ex:Datensatz ;
+    ex:name "Schleife" ;
+    ex:flache_in_qm_qm "41991156" ;
+    ex:flache_in_ha_ha "4199,12" ;
+    ex:flache_in_qkm_qkm "41,99" .
+
+ex:14626500
+    a ex:Datensatz ;
+    ex:name "Schönau-Berzdorf a. d. Eigen" ;
+    ex:flache_in_qm_qm "27810844" ;
+    ex:flache_in_ha_ha "2781,08" ;
+    ex:flache_in_qkm_qkm "27,81" .
+
+ex:14626510
+    a ex:Datensatz ;
+    ex:name "Schönbach" ;
+    ex:flache_in_qm_qm "9101558" ;
+    ex:flache_in_ha_ha "910,16" ;
+    ex:flache_in_qkm_qkm "9,10" .
+
+ex:14626520
+    a ex:Datensatz ;
+    ex:name "Schöpstal" ;
+    ex:flache_in_qm_qm "29724882" ;
+    ex:flache_in_ha_ha "2972,49" ;
+    ex:flache_in_qkm_qkm "29,72" .
+
+ex:14626530
+    a ex:Datensatz ;
+    ex:name "Seifhennersdorf, Stadt" ;
+    ex:flache_in_qm_qm "19118564" ;
+    ex:flache_in_ha_ha "1911,86" ;
+    ex:flache_in_qkm_qkm "19,12" .
+
+ex:14626560
+    a ex:Datensatz ;
+    ex:name "Trebendorf" ;
+    ex:flache_in_qm_qm "32051532" ;
+    ex:flache_in_ha_ha "3205,15" ;
+    ex:flache_in_qkm_qkm "32,05" .
+
+ex:14626570
+    a ex:Datensatz ;
+    ex:name "Vierkirchen" ;
+    ex:flache_in_qm_qm "35409666" ;
+    ex:flache_in_ha_ha "3540,97" ;
+    ex:flache_in_qkm_qkm "35,41" .
+
+ex:14626580
+    a ex:Datensatz ;
+    ex:name "Waldhufen" ;
+    ex:flache_in_qm_qm "58757724" ;
+    ex:flache_in_ha_ha "5875,77" ;
+    ex:flache_in_qkm_qkm "58,76" .
+
+ex:14626590
+    a ex:Datensatz ;
+    ex:name "Weißkeißel" ;
+    ex:flache_in_qm_qm "50679099" ;
+    ex:flache_in_ha_ha "5067,91" ;
+    ex:flache_in_qkm_qkm "50,68" .
+
+ex:14626600
+    a ex:Datensatz ;
+    ex:name "Weißwasser/O.L., Stadt" ;
+    ex:flache_in_qm_qm "63428961" ;
+    ex:flache_in_ha_ha "6342,90" ;
+    ex:flache_in_qkm_qkm "63,43" .
+
+ex:14626610
+    a ex:Datensatz ;
+    ex:name "Zittau, Stadt, Hochschulstadt" ;
+    ex:flache_in_qm_qm "66750297" ;
+    ex:flache_in_ha_ha "6675,03" ;
+    ex:flache_in_qkm_qkm "66,75" .
+
+ex:14627
+    a ex:Datensatz ;
+    ex:name "Meißen, Landkreis" ;
+    ex:flache_in_qm_qm "1454584850" ;
+    ex:flache_in_ha_ha "145458,49" ;
+    ex:flache_in_qkm_qkm "1454,58" .
+
+ex:14627010
+    a ex:Datensatz ;
+    ex:name "Coswig, Stadt" ;
+    ex:flache_in_qm_qm "25854927" ;
+    ex:flache_in_ha_ha "2585,49" ;
+    ex:flache_in_qkm_qkm "25,85" .
+
+ex:14627020
+    a ex:Datensatz ;
+    ex:name "Diera-Zehren" ;
+    ex:flache_in_qm_qm "43211471" ;
+    ex:flache_in_ha_ha "4321,15" ;
+    ex:flache_in_qkm_qkm "43,21" .
+
+ex:14627030
+    a ex:Datensatz ;
+    ex:name "Ebersbach" ;
+    ex:flache_in_qm_qm "84380917" ;
+    ex:flache_in_ha_ha "8438,09" ;
+    ex:flache_in_qkm_qkm "84,38" .
+
+ex:14627040
+    a ex:Datensatz ;
+    ex:name "Glaubitz" ;
+    ex:flache_in_qm_qm "14002536" ;
+    ex:flache_in_ha_ha "1400,25" ;
+    ex:flache_in_qkm_qkm "14,00" .
+
+ex:14627050
+    a ex:Datensatz ;
+    ex:name "Gröditz, Stadt" ;
+    ex:flache_in_qm_qm "28942855" ;
+    ex:flache_in_ha_ha "2894,29" ;
+    ex:flache_in_qkm_qkm "28,94" .
+
+ex:14627060
+    a ex:Datensatz ;
+    ex:name "Großenhain, Stadt" ;
+    ex:flache_in_qm_qm "130358509" ;
+    ex:flache_in_ha_ha "13035,85" ;
+    ex:flache_in_qkm_qkm "130,36" .
+
+ex:14627070
+    a ex:Datensatz ;
+    ex:name "Hirschstein" ;
+    ex:flache_in_qm_qm "34592160" ;
+    ex:flache_in_ha_ha "3459,22" ;
+    ex:flache_in_qkm_qkm "34,59" .
+
+ex:14627080
+    a ex:Datensatz ;
+    ex:name "Käbschütztal" ;
+    ex:flache_in_qm_qm "50480579" ;
+    ex:flache_in_ha_ha "5048,06" ;
+    ex:flache_in_qkm_qkm "50,48" .
+
+ex:14627100
+    a ex:Datensatz ;
+    ex:name "Klipphausen" ;
+    ex:flache_in_qm_qm "111667313" ;
+    ex:flache_in_ha_ha "11166,73" ;
+    ex:flache_in_qkm_qkm "111,67" .
+
+ex:14627110
+    a ex:Datensatz ;
+    ex:name "Lampertswalde" ;
+    ex:flache_in_qm_qm "63649057" ;
+    ex:flache_in_ha_ha "6364,91" ;
+    ex:flache_in_qkm_qkm "63,65" .
+
+ex:14627130
+    a ex:Datensatz ;
+    ex:name "Lommatzsch, Stadt" ;
+    ex:flache_in_qm_qm "66616194" ;
+    ex:flache_in_ha_ha "6661,62" ;
+    ex:flache_in_qkm_qkm "66,62" .
+
+ex:14627140
+    a ex:Datensatz ;
+    ex:name "Meißen, Stadt" ;
+    ex:flache_in_qm_qm "30917941" ;
+    ex:flache_in_ha_ha "3091,79" ;
+    ex:flache_in_qkm_qkm "30,92" .
+
+ex:14627150
+    a ex:Datensatz ;
+    ex:name "Moritzburg" ;
+    ex:flache_in_qm_qm "46489180" ;
+    ex:flache_in_ha_ha "4648,92" ;
+    ex:flache_in_qkm_qkm "46,49" .
+
+ex:14627170
+    a ex:Datensatz ;
+    ex:name "Niederau" ;
+    ex:flache_in_qm_qm "35269172" ;
+    ex:flache_in_ha_ha "3526,92" ;
+    ex:flache_in_qkm_qkm "35,27" .
+
+ex:14627180
+    a ex:Datensatz ;
+    ex:name "Nossen, Stadt" ;
+    ex:flache_in_qm_qm "122737862" ;
+    ex:flache_in_ha_ha "12273,79" ;
+    ex:flache_in_qkm_qkm "122,74" .
+
+ex:14627190
+    a ex:Datensatz ;
+    ex:name "Nünchritz" ;
+    ex:flache_in_qm_qm "31277951" ;
+    ex:flache_in_ha_ha "3127,80" ;
+    ex:flache_in_qkm_qkm "31,28" .
+
+ex:14627200
+    a ex:Datensatz ;
+    ex:name "Priestewitz" ;
+    ex:flache_in_qm_qm "61294490" ;
+    ex:flache_in_ha_ha "6129,45" ;
+    ex:flache_in_qkm_qkm "61,29" .
+
+ex:14627210
+    a ex:Datensatz ;
+    ex:name "Radebeul, Stadt" ;
+    ex:flache_in_qm_qm "26164888" ;
+    ex:flache_in_ha_ha "2616,49" ;
+    ex:flache_in_qkm_qkm "26,16" .
+
+ex:14627220
+    a ex:Datensatz ;
+    ex:name "Radeburg, Stadt" ;
+    ex:flache_in_qm_qm "54015829" ;
+    ex:flache_in_ha_ha "5401,58" ;
+    ex:flache_in_qkm_qkm "54,02" .
+
+ex:14627230
+    a ex:Datensatz ;
+    ex:name "Riesa, Stadt" ;
+    ex:flache_in_qm_qm "58910713" ;
+    ex:flache_in_ha_ha "5891,07" ;
+    ex:flache_in_qkm_qkm "58,91" .
+
+ex:14627240
+    a ex:Datensatz ;
+    ex:name "Röderaue" ;
+    ex:flache_in_qm_qm "28820617" ;
+    ex:flache_in_ha_ha "2882,06" ;
+    ex:flache_in_qkm_qkm "28,82" .
+
+ex:14627250
+    a ex:Datensatz ;
+    ex:name "Schönfeld" ;
+    ex:flache_in_qm_qm "39158583" ;
+    ex:flache_in_ha_ha "3915,86" ;
+    ex:flache_in_qkm_qkm "39,16" .
+
+ex:14627260
+    a ex:Datensatz ;
+    ex:name "Stauchitz" ;
+    ex:flache_in_qm_qm "32473782" ;
+    ex:flache_in_ha_ha "3247,38" ;
+    ex:flache_in_qkm_qkm "32,47" .
+
+ex:14627270
+    a ex:Datensatz ;
+    ex:name "Strehla, Stadt" ;
+    ex:flache_in_qm_qm "30272469" ;
+    ex:flache_in_ha_ha "3027,25" ;
+    ex:flache_in_qkm_qkm "30,27" .
+
+ex:14627290
+    a ex:Datensatz ;
+    ex:name "Thiendorf" ;
+    ex:flache_in_qm_qm "74476030" ;
+    ex:flache_in_ha_ha "7447,60" ;
+    ex:flache_in_qkm_qkm "74,48" .
+
+ex:14627310
+    a ex:Datensatz ;
+    ex:name "Weinböhla" ;
+    ex:flache_in_qm_qm "19015898" ;
+    ex:flache_in_ha_ha "1901,59" ;
+    ex:flache_in_qkm_qkm "19,02" .
+
+ex:14627340
+    a ex:Datensatz ;
+    ex:name "Wülknitz" ;
+    ex:flache_in_qm_qm "27908382" ;
+    ex:flache_in_ha_ha "2790,84" ;
+    ex:flache_in_qkm_qkm "27,91" .
+
+ex:14627360
+    a ex:Datensatz ;
+    ex:name "Zeithain" ;
+    ex:flache_in_qm_qm "81624545" ;
+    ex:flache_in_ha_ha "8162,45" ;
+    ex:flache_in_qkm_qkm "81,62" .
+
+ex:14628
+    a ex:Datensatz ;
+    ex:name "Sächsische Schweiz-Osterzgebirge, Landkreis" ;
+    ex:flache_in_qm_qm "1654245795" ;
+    ex:flache_in_ha_ha "165424,58" ;
+    ex:flache_in_qkm_qkm "1654,25" .
+
+ex:14628010
+    a ex:Datensatz ;
+    ex:name "Altenberg, Stadt" ;
+    ex:flache_in_qm_qm "145892473" ;
+    ex:flache_in_ha_ha "14589,25" ;
+    ex:flache_in_qkm_qkm "145,89" .
+
+ex:14628020
+    a ex:Datensatz ;
+    ex:name "Bad Gottleuba-Berggießhübel, Stadt" ;
+    ex:flache_in_qm_qm "88717521" ;
+    ex:flache_in_ha_ha "8871,75" ;
+    ex:flache_in_qkm_qkm "88,72" .
+
+ex:14628030
+    a ex:Datensatz ;
+    ex:name "Bad Schandau, Stadt" ;
+    ex:flache_in_qm_qm "46776516" ;
+    ex:flache_in_ha_ha "4677,65" ;
+    ex:flache_in_qkm_qkm "46,78" .
+
+ex:14628040
+    a ex:Datensatz ;
+    ex:name "Bahretal" ;
+    ex:flache_in_qm_qm "36455185" ;
+    ex:flache_in_ha_ha "3645,52" ;
+    ex:flache_in_qkm_qkm "36,46" .
+
+ex:14628050
+    a ex:Datensatz ;
+    ex:name "Bannewitz" ;
+    ex:flache_in_qm_qm "25750932" ;
+    ex:flache_in_ha_ha "2575,09" ;
+    ex:flache_in_qkm_qkm "25,75" .
+
+ex:14628060
+    a ex:Datensatz ;
+    ex:name "Dippoldiswalde, Stadt" ;
+    ex:flache_in_qm_qm "103987695" ;
+    ex:flache_in_ha_ha "10398,77" ;
+    ex:flache_in_qkm_qkm "103,99" .
+
+ex:14628070
+    a ex:Datensatz ;
+    ex:name "Dohma" ;
+    ex:flache_in_qm_qm "19533334" ;
+    ex:flache_in_ha_ha "1953,33" ;
+    ex:flache_in_qkm_qkm "19,53" .
+
+ex:14628080
+    a ex:Datensatz ;
+    ex:name "Dohna, Stadt" ;
+    ex:flache_in_qm_qm "28588519" ;
+    ex:flache_in_ha_ha "2858,85" ;
+    ex:flache_in_qkm_qkm "28,59" .
+
+ex:14628090
+    a ex:Datensatz ;
+    ex:name "Dorfhain" ;
+    ex:flache_in_qm_qm "6249927" ;
+    ex:flache_in_ha_ha "624,99" ;
+    ex:flache_in_qkm_qkm "6,25" .
+
+ex:14628100
+    a ex:Datensatz ;
+    ex:name "Dürrröhrsdorf-Dittersbach" ;
+    ex:flache_in_qm_qm "43506404" ;
+    ex:flache_in_ha_ha "4350,64" ;
+    ex:flache_in_qkm_qkm "43,51" .
+
+ex:14628110
+    a ex:Datensatz ;
+    ex:name "Freital, Stadt" ;
+    ex:flache_in_qm_qm "40458299" ;
+    ex:flache_in_ha_ha "4045,83" ;
+    ex:flache_in_qkm_qkm "40,46" .
+
+ex:14628130
+    a ex:Datensatz ;
+    ex:name "Glashütte, Stadt" ;
+    ex:flache_in_qm_qm "95641175" ;
+    ex:flache_in_ha_ha "9564,12" ;
+    ex:flache_in_qkm_qkm "95,64" .
+
+ex:14628140
+    a ex:Datensatz ;
+    ex:name "Gohrisch" ;
+    ex:flache_in_qm_qm "34865626" ;
+    ex:flache_in_ha_ha "3486,56" ;
+    ex:flache_in_qkm_qkm "34,87" .
+
+ex:14628150
+    a ex:Datensatz ;
+    ex:name "Hartmannsdorf-Reichenau" ;
+    ex:flache_in_qm_qm "28364298" ;
+    ex:flache_in_ha_ha "2836,43" ;
+    ex:flache_in_qkm_qkm "28,36" .
+
+ex:14628160
+    a ex:Datensatz ;
+    ex:name "Heidenau, Stadt" ;
+    ex:flache_in_qm_qm "11066703" ;
+    ex:flache_in_ha_ha "1106,67" ;
+    ex:flache_in_qkm_qkm "11,07" .
+
+ex:14628170
+    a ex:Datensatz ;
+    ex:name "Hermsdorf/Erzgeb." ;
+    ex:flache_in_qm_qm "20057609" ;
+    ex:flache_in_ha_ha "2005,76" ;
+    ex:flache_in_qkm_qkm "20,06" .
+
+ex:14628190
+    a ex:Datensatz ;
+    ex:name "Hohnstein, Stadt" ;
+    ex:flache_in_qm_qm "64637536" ;
+    ex:flache_in_ha_ha "6463,75" ;
+    ex:flache_in_qkm_qkm "64,64" .
+
+ex:14628205
+    a ex:Datensatz ;
+    ex:name "Klingenberg" ;
+    ex:flache_in_qm_qm "86751905" ;
+    ex:flache_in_ha_ha "8675,19" ;
+    ex:flache_in_qkm_qkm "86,75" .
+
+ex:14628210
+    a ex:Datensatz ;
+    ex:name "Königstein/Sächs. Schw., Stadt" ;
+    ex:flache_in_qm_qm "27045381" ;
+    ex:flache_in_ha_ha "2704,54" ;
+    ex:flache_in_qkm_qkm "27,05" .
+
+ex:14628220
+    a ex:Datensatz ;
+    ex:name "Kreischa" ;
+    ex:flache_in_qm_qm "28924500" ;
+    ex:flache_in_ha_ha "2892,45" ;
+    ex:flache_in_qkm_qkm "28,92" .
+
+ex:14628230
+    a ex:Datensatz ;
+    ex:name "Liebstadt, Stadt" ;
+    ex:flache_in_qm_qm "37364600" ;
+    ex:flache_in_ha_ha "3736,46" ;
+    ex:flache_in_qkm_qkm "37,36" .
+
+ex:14628240
+    a ex:Datensatz ;
+    ex:name "Lohmen" ;
+    ex:flache_in_qm_qm "25901325" ;
+    ex:flache_in_ha_ha "2590,13" ;
+    ex:flache_in_qkm_qkm "25,90" .
+
+ex:14628250
+    a ex:Datensatz ;
+    ex:name "Müglitztal" ;
+    ex:flache_in_qm_qm "21012784" ;
+    ex:flache_in_ha_ha "2101,28" ;
+    ex:flache_in_qkm_qkm "21,01" .
+
+ex:14628260
+    a ex:Datensatz ;
+    ex:name "Neustadt in Sachsen, Stadt" ;
+    ex:flache_in_qm_qm "83123577" ;
+    ex:flache_in_ha_ha "8312,36" ;
+    ex:flache_in_qkm_qkm "83,12" .
+
+ex:14628270
+    a ex:Datensatz ;
+    ex:name "Pirna, Stadt" ;
+    ex:flache_in_qm_qm "53061167" ;
+    ex:flache_in_ha_ha "5306,12" ;
+    ex:flache_in_qkm_qkm "53,06" .
+
+ex:14628300
+    a ex:Datensatz ;
+    ex:name "Rabenau, Stadt" ;
+    ex:flache_in_qm_qm "30726541" ;
+    ex:flache_in_ha_ha "3072,65" ;
+    ex:flache_in_qkm_qkm "30,73" .
+
+ex:14628310
+    a ex:Datensatz ;
+    ex:name "Rathen, Kurort" ;
+    ex:flache_in_qm_qm "3559627" ;
+    ex:flache_in_ha_ha "355,96" ;
+    ex:flache_in_qkm_qkm "3,56" .
+
+ex:14628320
+    a ex:Datensatz ;
+    ex:name "Rathmannsdorf" ;
+    ex:flache_in_qm_qm "4373737" ;
+    ex:flache_in_ha_ha "437,37" ;
+    ex:flache_in_qkm_qkm "4,37" .
+
+ex:14628330
+    a ex:Datensatz ;
+    ex:name "Reinhardtsdorf-Schöna" ;
+    ex:flache_in_qm_qm "31800858" ;
+    ex:flache_in_ha_ha "3180,09" ;
+    ex:flache_in_qkm_qkm "31,80" .
+
+ex:14628340
+    a ex:Datensatz ;
+    ex:name "Rosenthal-Bielatal" ;
+    ex:flache_in_qm_qm "46604312" ;
+    ex:flache_in_ha_ha "4660,43" ;
+    ex:flache_in_qkm_qkm "46,60" .
+
+ex:14628360
+    a ex:Datensatz ;
+    ex:name "Sebnitz, Stadt" ;
+    ex:flache_in_qm_qm "88234998" ;
+    ex:flache_in_ha_ha "8823,50" ;
+    ex:flache_in_qkm_qkm "88,23" .
+
+ex:14628370
+    a ex:Datensatz ;
+    ex:name "Stadt Wehlen, Stadt" ;
+    ex:flache_in_qm_qm "10851150" ;
+    ex:flache_in_ha_ha "1085,12" ;
+    ex:flache_in_qkm_qkm "10,85" .
+
+ex:14628380
+    a ex:Datensatz ;
+    ex:name "Stolpen, Stadt" ;
+    ex:flache_in_qm_qm "60892676" ;
+    ex:flache_in_ha_ha "6089,27" ;
+    ex:flache_in_qkm_qkm "60,89" .
+
+ex:14628390
+    a ex:Datensatz ;
+    ex:name "Struppen" ;
+    ex:flache_in_qm_qm "20644656" ;
+    ex:flache_in_ha_ha "2064,47" ;
+    ex:flache_in_qkm_qkm "20,64" .
+
+ex:14628400
+    a ex:Datensatz ;
+    ex:name "Tharandt, Stadt" ;
+    ex:flache_in_qm_qm "71224535" ;
+    ex:flache_in_ha_ha "7122,45" ;
+    ex:flache_in_qkm_qkm "71,22" .
+
+ex:14628410
+    a ex:Datensatz ;
+    ex:name "Wilsdruff, Stadt" ;
+    ex:flache_in_qm_qm "81597714" ;
+    ex:flache_in_ha_ha "8159,77" ;
+    ex:flache_in_qkm_qkm "81,60" .
+
+ex:147
+    a ex:Datensatz ;
+    ex:name "Leipzig, NUTS 2-Region" ;
+    ex:flache_in_qm_qm "3977609315" ;
+    ex:flache_in_ha_ha "397760,93" ;
+    ex:flache_in_qkm_qkm "3977,61" .
+
+ex:14713
+    a ex:Datensatz ;
+    ex:name "Leipzig, Stadt" ;
+    ex:flache_in_qm_qm "297799080" ;
+    ex:flache_in_ha_ha "29779,91" ;
+    ex:flache_in_qkm_qkm "297,80" .
+
+ex:14713000
+    a ex:Datensatz ;
+    ex:name "Leipzig, Stadt" ;
+    ex:flache_in_qm_qm "297799080" ;
+    ex:flache_in_ha_ha "29779,91" ;
+    ex:flache_in_qkm_qkm "297,80" .
+
+ex:14729
+    a ex:Datensatz ;
+    ex:name "Leipzig, Landkreis" ;
+    ex:flache_in_qm_qm "1651265743" ;
+    ex:flache_in_ha_ha "165126,57" ;
+    ex:flache_in_qkm_qkm "1651,27" .
+
+ex:14729010
+    a ex:Datensatz ;
+    ex:name "Bad Lausick, Stadt" ;
+    ex:flache_in_qm_qm "70025784" ;
+    ex:flache_in_ha_ha "7002,58" ;
+    ex:flache_in_qkm_qkm "70,03" .
+
+ex:14729020
+    a ex:Datensatz ;
+    ex:name "Belgershain" ;
+    ex:flache_in_qm_qm "22802515" ;
+    ex:flache_in_ha_ha "2280,25" ;
+    ex:flache_in_qkm_qkm "22,80" .
+
+ex:14729030
+    a ex:Datensatz ;
+    ex:name "Bennewitz" ;
+    ex:flache_in_qm_qm "46809512" ;
+    ex:flache_in_ha_ha "4680,95" ;
+    ex:flache_in_qkm_qkm "46,81" .
+
+ex:14729040
+    a ex:Datensatz ;
+    ex:name "Böhlen, Stadt" ;
+    ex:flache_in_qm_qm "25268118" ;
+    ex:flache_in_ha_ha "2526,81" ;
+    ex:flache_in_qkm_qkm "25,27" .
+
+ex:14729050
+    a ex:Datensatz ;
+    ex:name "Borna, Stadt" ;
+    ex:flache_in_qm_qm "62448081" ;
+    ex:flache_in_ha_ha "6244,81" ;
+    ex:flache_in_qkm_qkm "62,45" .
+
+ex:14729060
+    a ex:Datensatz ;
+    ex:name "Borsdorf" ;
+    ex:flache_in_qm_qm "15640834" ;
+    ex:flache_in_ha_ha "1564,08" ;
+    ex:flache_in_qkm_qkm "15,64" .
+
+ex:14729070
+    a ex:Datensatz ;
+    ex:name "Brandis, Stadt" ;
+    ex:flache_in_qm_qm "34892404" ;
+    ex:flache_in_ha_ha "3489,24" ;
+    ex:flache_in_qkm_qkm "34,89" .
+
+ex:14729080
+    a ex:Datensatz ;
+    ex:name "Colditz, Stadt" ;
+    ex:flache_in_qm_qm "84070973" ;
+    ex:flache_in_ha_ha "8407,10" ;
+    ex:flache_in_qkm_qkm "84,07" .
+
+ex:14729100
+    a ex:Datensatz ;
+    ex:name "Elstertrebnitz" ;
+    ex:flache_in_qm_qm "11657918" ;
+    ex:flache_in_ha_ha "1165,79" ;
+    ex:flache_in_qkm_qkm "11,66" .
+
+ex:14729140
+    a ex:Datensatz ;
+    ex:name "Frohburg, Stadt" ;
+    ex:flache_in_qm_qm "145295152" ;
+    ex:flache_in_ha_ha "14529,52" ;
+    ex:flache_in_qkm_qkm "145,30" .
+
+ex:14729150
+    a ex:Datensatz ;
+    ex:name "Geithain, Stadt" ;
+    ex:flache_in_qm_qm "54705944" ;
+    ex:flache_in_ha_ha "5470,59" ;
+    ex:flache_in_qkm_qkm "54,71" .
+
+ex:14729160
+    a ex:Datensatz ;
+    ex:name "Grimma, Stadt" ;
+    ex:flache_in_qm_qm "218234471" ;
+    ex:flache_in_ha_ha "21823,45" ;
+    ex:flache_in_qkm_qkm "218,23" .
+
+ex:14729170
+    a ex:Datensatz ;
+    ex:name "Groitzsch, Stadt" ;
+    ex:flache_in_qm_qm "70168088" ;
+    ex:flache_in_ha_ha "7016,81" ;
+    ex:flache_in_qkm_qkm "70,17" .
+
+ex:14729190
+    a ex:Datensatz ;
+    ex:name "Großpösna" ;
+    ex:flache_in_qm_qm "41556386" ;
+    ex:flache_in_ha_ha "4155,64" ;
+    ex:flache_in_qkm_qkm "41,56" .
+
+ex:14729220
+    a ex:Datensatz ;
+    ex:name "Kitzscher, Stadt" ;
+    ex:flache_in_qm_qm "29036515" ;
+    ex:flache_in_ha_ha "2903,65" ;
+    ex:flache_in_qkm_qkm "29,04" .
+
+ex:14729245
+    a ex:Datensatz ;
+    ex:name "Lossatal" ;
+    ex:flache_in_qm_qm "111168130" ;
+    ex:flache_in_ha_ha "11116,81" ;
+    ex:flache_in_qkm_qkm "111,17" .
+
+ex:14729250
+    a ex:Datensatz ;
+    ex:name "Machern" ;
+    ex:flache_in_qm_qm "38928387" ;
+    ex:flache_in_ha_ha "3892,84" ;
+    ex:flache_in_qkm_qkm "38,93" .
+
+ex:14729260
+    a ex:Datensatz ;
+    ex:name "Markkleeberg, Stadt" ;
+    ex:flache_in_qm_qm "31471648" ;
+    ex:flache_in_ha_ha "3147,16" ;
+    ex:flache_in_qkm_qkm "31,47" .
+
+ex:14729270
+    a ex:Datensatz ;
+    ex:name "Markranstädt, Stadt" ;
+    ex:flache_in_qm_qm "58461079" ;
+    ex:flache_in_ha_ha "5846,11" ;
+    ex:flache_in_qkm_qkm "58,46" .
+
+ex:14729300
+    a ex:Datensatz ;
+    ex:name "Naunhof, Stadt" ;
+    ex:flache_in_qm_qm "39714354" ;
+    ex:flache_in_ha_ha "3971,44" ;
+    ex:flache_in_qkm_qkm "39,71" .
+
+ex:14729320
+    a ex:Datensatz ;
+    ex:name "Neukieritzsch" ;
+    ex:flache_in_qm_qm "57093930" ;
+    ex:flache_in_ha_ha "5709,39" ;
+    ex:flache_in_qkm_qkm "57,09" .
+
+ex:14729330
+    a ex:Datensatz ;
+    ex:name "Otterwisch" ;
+    ex:flache_in_qm_qm "22760110" ;
+    ex:flache_in_ha_ha "2276,01" ;
+    ex:flache_in_qkm_qkm "22,76" .
+
+ex:14729340
+    a ex:Datensatz ;
+    ex:name "Parthenstein" ;
+    ex:flache_in_qm_qm "35053371" ;
+    ex:flache_in_ha_ha "3505,34" ;
+    ex:flache_in_qkm_qkm "35,05" .
+
+ex:14729350
+    a ex:Datensatz ;
+    ex:name "Pegau, Stadt" ;
+    ex:flache_in_qm_qm "48777427" ;
+    ex:flache_in_ha_ha "4877,74" ;
+    ex:flache_in_qkm_qkm "48,78" .
+
+ex:14729360
+    a ex:Datensatz ;
+    ex:name "Regis-Breitingen, Stadt" ;
+    ex:flache_in_qm_qm "26370849" ;
+    ex:flache_in_ha_ha "2637,08" ;
+    ex:flache_in_qkm_qkm "26,37" .
+
+ex:14729370
+    a ex:Datensatz ;
+    ex:name "Rötha, Stadt" ;
+    ex:flache_in_qm_qm "45405373" ;
+    ex:flache_in_ha_ha "4540,54" ;
+    ex:flache_in_qkm_qkm "45,41" .
+
+ex:14729380
+    a ex:Datensatz ;
+    ex:name "Thallwitz" ;
+    ex:flache_in_qm_qm "53093817" ;
+    ex:flache_in_ha_ha "5309,38" ;
+    ex:flache_in_qkm_qkm "53,09" .
+
+ex:14729400
+    a ex:Datensatz ;
+    ex:name "Trebsen/Mulde, Stadt" ;
+    ex:flache_in_qm_qm "35054198" ;
+    ex:flache_in_ha_ha "3505,42" ;
+    ex:flache_in_qkm_qkm "35,05" .
+
+ex:14729410
+    a ex:Datensatz ;
+    ex:name "Wurzen, Stadt" ;
+    ex:flache_in_qm_qm "69001023" ;
+    ex:flache_in_ha_ha "6900,10" ;
+    ex:flache_in_qkm_qkm "69,00" .
+
+ex:14729430
+    a ex:Datensatz ;
+    ex:name "Zwenkau, Stadt" ;
+    ex:flache_in_qm_qm "46299352" ;
+    ex:flache_in_ha_ha "4629,94" ;
+    ex:flache_in_qkm_qkm "46,30" .
+
+ex:14730
+    a ex:Datensatz ;
+    ex:name "Nordsachsen, Landkreis" ;
+    ex:flache_in_qm_qm "2028544492" ;
+    ex:flache_in_ha_ha "202854,45" ;
+    ex:flache_in_qkm_qkm "2028,54" .
+
+ex:14730010
+    a ex:Datensatz ;
+    ex:name "Arzberg" ;
+    ex:flache_in_qm_qm "58572063" ;
+    ex:flache_in_ha_ha "5857,21" ;
+    ex:flache_in_qkm_qkm "58,57" .
+
+ex:14730020
+    a ex:Datensatz ;
+    ex:name "Bad Düben, Stadt" ;
+    ex:flache_in_qm_qm "45800024" ;
+    ex:flache_in_ha_ha "4580,00" ;
+    ex:flache_in_qkm_qkm "45,80" .
+
+ex:14730030
+    a ex:Datensatz ;
+    ex:name "Beilrode" ;
+    ex:flache_in_qm_qm "93283917" ;
+    ex:flache_in_ha_ha "9328,39" ;
+    ex:flache_in_qkm_qkm "93,28" .
+
+ex:14730045
+    a ex:Datensatz ;
+    ex:name "Belgern-Schildau, Stadt" ;
+    ex:flache_in_qm_qm "158990927" ;
+    ex:flache_in_ha_ha "15899,09" ;
+    ex:flache_in_qkm_qkm "158,99" .
+
+ex:14730050
+    a ex:Datensatz ;
+    ex:name "Cavertitz" ;
+    ex:flache_in_qm_qm "69170787" ;
+    ex:flache_in_ha_ha "6917,08" ;
+    ex:flache_in_qkm_qkm "69,17" .
+
+ex:14730060
+    a ex:Datensatz ;
+    ex:name "Dahlen, Stadt" ;
+    ex:flache_in_qm_qm "71869608" ;
+    ex:flache_in_ha_ha "7186,96" ;
+    ex:flache_in_qkm_qkm "71,87" .
+
+ex:14730070
+    a ex:Datensatz ;
+    ex:name "Delitzsch, Stadt" ;
+    ex:flache_in_qm_qm "85918813" ;
+    ex:flache_in_ha_ha "8591,88" ;
+    ex:flache_in_qkm_qkm "85,92" .
+
+ex:14730080
+    a ex:Datensatz ;
+    ex:name "Doberschütz" ;
+    ex:flache_in_qm_qm "77774221" ;
+    ex:flache_in_ha_ha "7777,42" ;
+    ex:flache_in_qkm_qkm "77,77" .
+
+ex:14730090
+    a ex:Datensatz ;
+    ex:name "Dommitzsch, Stadt" ;
+    ex:flache_in_qm_qm "30435919" ;
+    ex:flache_in_ha_ha "3043,59" ;
+    ex:flache_in_qkm_qkm "30,44" .
+
+ex:14730100
+    a ex:Datensatz ;
+    ex:name "Dreiheide" ;
+    ex:flache_in_qm_qm "33620045" ;
+    ex:flache_in_ha_ha "3362,00" ;
+    ex:flache_in_qkm_qkm "33,62" .
+
+ex:14730110
+    a ex:Datensatz ;
+    ex:name "Eilenburg, Stadt" ;
+    ex:flache_in_qm_qm "46845598" ;
+    ex:flache_in_ha_ha "4684,56" ;
+    ex:flache_in_qkm_qkm "46,85" .
+
+ex:14730120
+    a ex:Datensatz ;
+    ex:name "Elsnig" ;
+    ex:flache_in_qm_qm "36905857" ;
+    ex:flache_in_ha_ha "3690,59" ;
+    ex:flache_in_qkm_qkm "36,91" .
+
+ex:14730140
+    a ex:Datensatz ;
+    ex:name "Jesewitz" ;
+    ex:flache_in_qm_qm "52440970" ;
+    ex:flache_in_ha_ha "5244,10" ;
+    ex:flache_in_qkm_qkm "52,44" .
+
+ex:14730150
+    a ex:Datensatz ;
+    ex:name "Krostitz" ;
+    ex:flache_in_qm_qm "43214331" ;
+    ex:flache_in_ha_ha "4321,43" ;
+    ex:flache_in_qkm_qkm "43,21" .
+
+ex:14730160
+    a ex:Datensatz ;
+    ex:name "Laußig" ;
+    ex:flache_in_qm_qm "103431716" ;
+    ex:flache_in_ha_ha "10343,17" ;
+    ex:flache_in_qkm_qkm "103,43" .
+
+ex:14730170
+    a ex:Datensatz ;
+    ex:name "Liebschützberg" ;
+    ex:flache_in_qm_qm "68659406" ;
+    ex:flache_in_ha_ha "6865,94" ;
+    ex:flache_in_qkm_qkm "68,66" .
+
+ex:14730180
+    a ex:Datensatz ;
+    ex:name "Löbnitz" ;
+    ex:flache_in_qm_qm "37386292" ;
+    ex:flache_in_ha_ha "3738,63" ;
+    ex:flache_in_qkm_qkm "37,39" .
+
+ex:14730190
+    a ex:Datensatz ;
+    ex:name "Mockrehna" ;
+    ex:flache_in_qm_qm "115806990" ;
+    ex:flache_in_ha_ha "11580,70" ;
+    ex:flache_in_qkm_qkm "115,81" .
+
+ex:14730200
+    a ex:Datensatz ;
+    ex:name "Mügeln, Stadt" ;
+    ex:flache_in_qm_qm "55079769" ;
+    ex:flache_in_ha_ha "5507,98" ;
+    ex:flache_in_qkm_qkm "55,08" .
+
+ex:14730210
+    a ex:Datensatz ;
+    ex:name "Naundorf" ;
+    ex:flache_in_qm_qm "36925638" ;
+    ex:flache_in_ha_ha "3692,56" ;
+    ex:flache_in_qkm_qkm "36,93" .
+
+ex:14730230
+    a ex:Datensatz ;
+    ex:name "Oschatz, Stadt" ;
+    ex:flache_in_qm_qm "55435449" ;
+    ex:flache_in_ha_ha "5543,54" ;
+    ex:flache_in_qkm_qkm "55,44" .
+
+ex:14730250
+    a ex:Datensatz ;
+    ex:name "Rackwitz" ;
+    ex:flache_in_qm_qm "35851169" ;
+    ex:flache_in_ha_ha "3585,12" ;
+    ex:flache_in_qkm_qkm "35,85" .
+
+ex:14730270
+    a ex:Datensatz ;
+    ex:name "Schkeuditz, Stadt" ;
+    ex:flache_in_qm_qm "81471088" ;
+    ex:flache_in_ha_ha "8147,11" ;
+    ex:flache_in_qkm_qkm "81,47" .
+
+ex:14730280
+    a ex:Datensatz ;
+    ex:name "Schönwölkau" ;
+    ex:flache_in_qm_qm "49408295" ;
+    ex:flache_in_ha_ha "4940,83" ;
+    ex:flache_in_qkm_qkm "49,41" .
+
+ex:14730300
+    a ex:Datensatz ;
+    ex:name "Taucha, Stadt" ;
+    ex:flache_in_qm_qm "33221998" ;
+    ex:flache_in_ha_ha "3322,20" ;
+    ex:flache_in_qkm_qkm "33,22" .
+
+ex:14730310
+    a ex:Datensatz ;
+    ex:name "Torgau, Stadt" ;
+    ex:flache_in_qm_qm "102817063" ;
+    ex:flache_in_ha_ha "10281,71" ;
+    ex:flache_in_qkm_qkm "102,82" .
+
+ex:14730320
+    a ex:Datensatz ;
+    ex:name "Trossin" ;
+    ex:flache_in_qm_qm "79681916" ;
+    ex:flache_in_ha_ha "7968,19" ;
+    ex:flache_in_qkm_qkm "79,68" .
+
+ex:14730330
+    a ex:Datensatz ;
+    ex:name "Wermsdorf" ;
+    ex:flache_in_qm_qm "104622574" ;
+    ex:flache_in_ha_ha "10462,26" ;
+    ex:flache_in_qkm_qkm "104,62" .
+
+ex:14730340
+    a ex:Datensatz ;
+    ex:name "Wiedemar" ;
+    ex:flache_in_qm_qm "95544393" ;
+    ex:flache_in_ha_ha "9554,44" ;
+    ex:flache_in_qkm_qkm "95,54" .
+
+ex:14730360
+    a ex:Datensatz ;
+    ex:name "Zschepplin" ;
+    ex:flache_in_qm_qm "68357656" ;
+    ex:flache_in_ha_ha "6835,77" ;
+    ex:flache_in_qkm_qkm "68,36" .
+
+ex:__________
+    a ex:Datensatz ;
+    ex:name "nan" .
+
+ex:1) Daten 31.12.2023 zum Gebietsstand 01.01.2024
+
+Die Flächenangaben (Katasterflächen) basieren auf den
+Angaben des Landesamtes für Geobasisinformation Sachsen.
+Flächenänderungen ergeben sich aus
+Grenzänderungen und Neuvermessungen.
+- Durch unabhängiges Runden können Differenzen im
+Zahlenmaterial enstehen.
+ 
+Aufgrund fachlicher und methodischer Umstellungen in der
+Vermessungsverwaltung ist der Vergleich der Flächendaten ab
+2015 mit den Flächendaten der vorangegangenen Jahre
+erheblich eingeschränkt.
+    a ex:Datensatz ;
+    ex:name "nan" .
+
+ex:© Statistisches Landesamt des Freistaates Sachsen, Kamenz, 2026
+    a ex:Datensatz ;
+    ex:name "nan" .
+
+ex:Stand: 31.05.2026 / 17:44:46
+    a ex:Datensatz ;
+    ex:name "nan" .
+
