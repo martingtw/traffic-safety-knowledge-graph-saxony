@@ -1,0 +1,4128 @@
+@prefix ex: <http://example.org/genesis/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:14
+    a ex:Datensatz ;
+    ex:name "Freistaat Sachsen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17263" ;
+    ex:unfalle_mit_personenschaden_anzahl "13343" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3229" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "691" ;
+    ex:getotete_anzahl "144" ;
+    ex:verletzte_anzahl "16721" .
+
+ex:145
+    a ex:Datensatz ;
+    ex:name "Chemnitz, NUTS 2-Region" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5681" ;
+    ex:unfalle_mit_personenschaden_anzahl "3935" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1500" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "246" ;
+    ex:getotete_anzahl "40" ;
+    ex:verletzte_anzahl "5071" .
+
+ex:14511
+    a ex:Datensatz ;
+    ex:name "Chemnitz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1007" ;
+    ex:unfalle_mit_personenschaden_anzahl "711" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "251" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "45" ;
+    ex:getotete_anzahl "6" ;
+    ex:verletzte_anzahl "862" .
+
+ex:14511000
+    a ex:Datensatz ;
+    ex:name "Chemnitz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1007" ;
+    ex:unfalle_mit_personenschaden_anzahl "711" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "251" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "45" ;
+    ex:getotete_anzahl "6" ;
+    ex:verletzte_anzahl "862" .
+
+ex:14521
+    a ex:Datensatz ;
+    ex:name "Erzgebirgskreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1248" ;
+    ex:unfalle_mit_personenschaden_anzahl "828" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "380" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "40" ;
+    ex:getotete_anzahl "12" ;
+    ex:verletzte_anzahl "1151" .
+
+ex:14521010
+    a ex:Datensatz ;
+    ex:name "Amtsberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14521020
+    a ex:Datensatz ;
+    ex:name "Annaberg-Buchholz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "82" ;
+    ex:unfalle_mit_personenschaden_anzahl "60" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "20" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "79" .
+
+ex:14521035
+    a ex:Datensatz ;
+    ex:name "Aue-Bad Schlema, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "96" ;
+    ex:unfalle_mit_personenschaden_anzahl "63" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "28" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:verletzte_anzahl "92" .
+
+ex:14521040
+    a ex:Datensatz ;
+    ex:name "Auerbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14521060
+    a ex:Datensatz ;
+    ex:name "Bärenstein" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14521080
+    a ex:Datensatz ;
+    ex:name "Bockau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14521110
+    a ex:Datensatz ;
+    ex:name "Breitenbrunn/Erzgeb., Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "23" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14521120
+    a ex:Datensatz ;
+    ex:name "Burkhardtsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14521130
+    a ex:Datensatz ;
+    ex:name "Crottendorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14521140
+    a ex:Datensatz ;
+    ex:name "Deutschneudorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14521150
+    a ex:Datensatz ;
+    ex:name "Drebach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14521160
+    a ex:Datensatz ;
+    ex:name "Ehrenfriedersdorf, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "33" .
+
+ex:14521170
+    a ex:Datensatz ;
+    ex:name "Eibenstock, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14521180
+    a ex:Datensatz ;
+    ex:name "Elterlein, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14521200
+    a ex:Datensatz ;
+    ex:name "Gelenau/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14521210
+    a ex:Datensatz ;
+    ex:name "Geyer, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14521220
+    a ex:Datensatz ;
+    ex:name "Gornau/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14521230
+    a ex:Datensatz ;
+    ex:name "Gornsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14521240
+    a ex:Datensatz ;
+    ex:name "Großolbersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14521250
+    a ex:Datensatz ;
+    ex:name "Großrückerswalde" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14521260
+    a ex:Datensatz ;
+    ex:name "Grünhain-Beierfeld, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "34" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "13" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14521270
+    a ex:Datensatz ;
+    ex:name "Grünhainichen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14521290
+    a ex:Datensatz ;
+    ex:name "Hohndorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14521310
+    a ex:Datensatz ;
+    ex:name "Jahnsdorf/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "38" ;
+    ex:unfalle_mit_personenschaden_anzahl "29" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:verletzte_anzahl "46" .
+
+ex:14521320
+    a ex:Datensatz ;
+    ex:name "Johanngeorgenstadt, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14521330
+    a ex:Datensatz ;
+    ex:name "Jöhstadt, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14521340
+    a ex:Datensatz ;
+    ex:name "Königswalde" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14521355
+    a ex:Datensatz ;
+    ex:name "Lauter-Bernsbach, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14521370
+    a ex:Datensatz ;
+    ex:name "Lößnitz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14521380
+    a ex:Datensatz ;
+    ex:name "Lugau/Erzgeb., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "21" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14521390
+    a ex:Datensatz ;
+    ex:name "Marienberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "56" ;
+    ex:unfalle_mit_personenschaden_anzahl "38" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "14" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "53" .
+
+ex:14521400
+    a ex:Datensatz ;
+    ex:name "Mildenau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14521410
+    a ex:Datensatz ;
+    ex:name "Neukirchen/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "15" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14521420
+    a ex:Datensatz ;
+    ex:name "Niederdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14521430
+    a ex:Datensatz ;
+    ex:name "Niederwürschnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14521440
+    a ex:Datensatz ;
+    ex:name "Oberwiesenthal, Kurort, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14521450
+    a ex:Datensatz ;
+    ex:name "Oelsnitz/Erzgeb., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "52" ;
+    ex:unfalle_mit_personenschaden_anzahl "38" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "14" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "45" .
+
+ex:14521460
+    a ex:Datensatz ;
+    ex:name "Olbernhau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "35" ;
+    ex:unfalle_mit_personenschaden_anzahl "21" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "14" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14521495
+    a ex:Datensatz ;
+    ex:name "Pockau-Lengefeld, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "32" ;
+    ex:unfalle_mit_personenschaden_anzahl "21" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14521500
+    a ex:Datensatz ;
+    ex:name "Raschau-Markersbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "21" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:verletzte_anzahl "20" .
+
+ex:14521510
+    a ex:Datensatz ;
+    ex:name "Scheibenberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14521520
+    a ex:Datensatz ;
+    ex:name "Schlettau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "25" .
+
+ex:14521530
+    a ex:Datensatz ;
+    ex:name "Schneeberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "49" ;
+    ex:unfalle_mit_personenschaden_anzahl "27" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "20" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "37" .
+
+ex:14521540
+    a ex:Datensatz ;
+    ex:name "Schönheide" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "13" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14521550
+    a ex:Datensatz ;
+    ex:name "Schwarzenberg/Erzgeb., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "56" ;
+    ex:unfalle_mit_personenschaden_anzahl "29" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "22" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:verletzte_anzahl "40" .
+
+ex:14521560
+    a ex:Datensatz ;
+    ex:name "Sehmatal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "39" .
+
+ex:14521570
+    a ex:Datensatz ;
+    ex:name "Seiffen/Erzgeb., Kurort" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14521590
+    a ex:Datensatz ;
+    ex:name "Stollberg/Erzgeb., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "44" ;
+    ex:unfalle_mit_personenschaden_anzahl "31" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "13" ;
+    ex:verletzte_anzahl "43" .
+
+ex:14521600
+    a ex:Datensatz ;
+    ex:name "Stützengrün" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14521610
+    a ex:Datensatz ;
+    ex:name "Tannenberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14521620
+    a ex:Datensatz ;
+    ex:name "Thalheim/Erzgeb., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14521630
+    a ex:Datensatz ;
+    ex:name "Thermalbad Wiesenbad" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "23" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "27" .
+
+ex:14521640
+    a ex:Datensatz ;
+    ex:name "Thum, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "14" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14521670
+    a ex:Datensatz ;
+    ex:name "Wolkenstein, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "29" .
+
+ex:14521690
+    a ex:Datensatz ;
+    ex:name "Zschopau, Stadt, Motorradstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "38" ;
+    ex:unfalle_mit_personenschaden_anzahl "27" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:verletzte_anzahl "36" .
+
+ex:14521700
+    a ex:Datensatz ;
+    ex:name "Zschorlau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14521710
+    a ex:Datensatz ;
+    ex:name "Zwönitz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "49" ;
+    ex:unfalle_mit_personenschaden_anzahl "32" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "16" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "46" .
+
+ex:14522
+    a ex:Datensatz ;
+    ex:name "Mittelsachsen, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1316" ;
+    ex:unfalle_mit_personenschaden_anzahl "881" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "377" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "58" ;
+    ex:getotete_anzahl "6" ;
+    ex:verletzte_anzahl "1174" .
+
+ex:14522010
+    a ex:Datensatz ;
+    ex:name "Altmittweida" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14522020
+    a ex:Datensatz ;
+    ex:name "Augustusburg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "18" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "25" .
+
+ex:14522035
+    a ex:Datensatz ;
+    ex:name "Bobritzsch-Hilbersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14522050
+    a ex:Datensatz ;
+    ex:name "Brand-Erbisdorf, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "31" ;
+    ex:unfalle_mit_personenschaden_anzahl "25" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "32" .
+
+ex:14522060
+    a ex:Datensatz ;
+    ex:name "Burgstädt, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "26" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14522070
+    a ex:Datensatz ;
+    ex:name "Claußnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14522080
+    a ex:Datensatz ;
+    ex:name "Döbeln, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "92" ;
+    ex:unfalle_mit_personenschaden_anzahl "70" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "19" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "83" .
+
+ex:14522090
+    a ex:Datensatz ;
+    ex:name "Dorfchemnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14522110
+    a ex:Datensatz ;
+    ex:name "Eppendorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14522120
+    a ex:Datensatz ;
+    ex:name "Erlau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14522140
+    a ex:Datensatz ;
+    ex:name "Flöha, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "42" ;
+    ex:unfalle_mit_personenschaden_anzahl "27" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "12" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "42" .
+
+ex:14522150
+    a ex:Datensatz ;
+    ex:name "Frankenberg/Sa., Stadt, Garnisonsstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "67" ;
+    ex:unfalle_mit_personenschaden_anzahl "40" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "24" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "55" .
+
+ex:14522170
+    a ex:Datensatz ;
+    ex:name "Frauenstein, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14522180
+    a ex:Datensatz ;
+    ex:name "Freiberg, Stadt, Universitätsstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "157" ;
+    ex:unfalle_mit_personenschaden_anzahl "118" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "34" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:verletzte_anzahl "147" .
+
+ex:14522190
+    a ex:Datensatz ;
+    ex:name "Geringswalde, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14522200
+    a ex:Datensatz ;
+    ex:name "Großhartmannsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14522210
+    a ex:Datensatz ;
+    ex:name "Großschirma, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "40" ;
+    ex:unfalle_mit_personenschaden_anzahl "28" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "41" .
+
+ex:14522220
+    a ex:Datensatz ;
+    ex:name "Großweitzschen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14522230
+    a ex:Datensatz ;
+    ex:name "Hainichen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "57" ;
+    ex:unfalle_mit_personenschaden_anzahl "31" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "21" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:verletzte_anzahl "45" .
+
+ex:14522240
+    a ex:Datensatz ;
+    ex:name "Halsbrücke" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "18" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14522250
+    a ex:Datensatz ;
+    ex:name "Hartha, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "30" ;
+    ex:unfalle_mit_personenschaden_anzahl "20" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "31" .
+
+ex:14522260
+    a ex:Datensatz ;
+    ex:name "Hartmannsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14522275
+    a ex:Datensatz ;
+    ex:name "Jahnatal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "18" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "17" .
+
+ex:14522280
+    a ex:Datensatz ;
+    ex:name "Königsfeld" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14522290
+    a ex:Datensatz ;
+    ex:name "Königshain-Wiederau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "6" .
+
+ex:14522300
+    a ex:Datensatz ;
+    ex:name "Kriebstein" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14522310
+    a ex:Datensatz ;
+    ex:name "Leisnig, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "44" ;
+    ex:unfalle_mit_personenschaden_anzahl "27" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "17" ;
+    ex:verletzte_anzahl "35" .
+
+ex:14522320
+    a ex:Datensatz ;
+    ex:name "Leubsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14522330
+    a ex:Datensatz ;
+    ex:name "Lichtenau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "54" ;
+    ex:unfalle_mit_personenschaden_anzahl "34" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "17" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "49" .
+
+ex:14522340
+    a ex:Datensatz ;
+    ex:name "Lichtenberg/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14522350
+    a ex:Datensatz ;
+    ex:name "Lunzenau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14522360
+    a ex:Datensatz ;
+    ex:name "Mittweida, Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "53" ;
+    ex:unfalle_mit_personenschaden_anzahl "33" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "15" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:verletzte_anzahl "39" .
+
+ex:14522380
+    a ex:Datensatz ;
+    ex:name "Mühlau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14522390
+    a ex:Datensatz ;
+    ex:name "Mulda/Sa." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14522400
+    a ex:Datensatz ;
+    ex:name "Neuhausen/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14522420
+    a ex:Datensatz ;
+    ex:name "Niederwiesa" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14522430
+    a ex:Datensatz ;
+    ex:name "Oberschöna" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14522440
+    a ex:Datensatz ;
+    ex:name "Oederan, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "28" ;
+    ex:unfalle_mit_personenschaden_anzahl "20" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:verletzte_anzahl "35" .
+
+ex:14522460
+    a ex:Datensatz ;
+    ex:name "Penig, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "50" ;
+    ex:unfalle_mit_personenschaden_anzahl "36" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "49" .
+
+ex:14522470
+    a ex:Datensatz ;
+    ex:name "Rechenberg-Bienenmühle" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14522480
+    a ex:Datensatz ;
+    ex:name "Reinsberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "18" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14522490
+    a ex:Datensatz ;
+    ex:name "Rochlitz, Stadt, Stadt des Roten Porphyr" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "21" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "20" .
+
+ex:14522500
+    a ex:Datensatz ;
+    ex:name "Rossau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "30" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "12" ;
+    ex:verletzte_anzahl "29" .
+
+ex:14522510
+    a ex:Datensatz ;
+    ex:name "Roßwein, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "35" ;
+    ex:unfalle_mit_personenschaden_anzahl "21" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "29" .
+
+ex:14522520
+    a ex:Datensatz ;
+    ex:name "Sayda, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14522530
+    a ex:Datensatz ;
+    ex:name "Seelitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14522540
+    a ex:Datensatz ;
+    ex:name "Striegistal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "48" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "30" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14522550
+    a ex:Datensatz ;
+    ex:name "Taura" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14522570
+    a ex:Datensatz ;
+    ex:name "Waldheim, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "26" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "22" .
+
+ex:14522580
+    a ex:Datensatz ;
+    ex:name "Wechselburg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14522590
+    a ex:Datensatz ;
+    ex:name "Weißenborn/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14523
+    a ex:Datensatz ;
+    ex:name "Vogtlandkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "881" ;
+    ex:unfalle_mit_personenschaden_anzahl "605" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "233" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "43" ;
+    ex:getotete_anzahl "7" ;
+    ex:verletzte_anzahl "779" .
+
+ex:14523010
+    a ex:Datensatz ;
+    ex:name "Adorf/Vogtl., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:verletzte_anzahl "27" .
+
+ex:14523020
+    a ex:Datensatz ;
+    ex:name "Auerbach/Vogtl., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "49" ;
+    ex:unfalle_mit_personenschaden_anzahl "34" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:verletzte_anzahl "41" .
+
+ex:14523030
+    a ex:Datensatz ;
+    ex:name "Bad Brambach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14523040
+    a ex:Datensatz ;
+    ex:name "Bad Elster, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14523050
+    a ex:Datensatz ;
+    ex:name "Bergen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14523060
+    a ex:Datensatz ;
+    ex:name "Bösenbrunn" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14523080
+    a ex:Datensatz ;
+    ex:name "Eichigt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14523090
+    a ex:Datensatz ;
+    ex:name "Ellefeld" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14523100
+    a ex:Datensatz ;
+    ex:name "Elsterberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14523120
+    a ex:Datensatz ;
+    ex:name "Falkenstein/Vogtl., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14523130
+    a ex:Datensatz ;
+    ex:name "Grünbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14523150
+    a ex:Datensatz ;
+    ex:name "Heinsdorfergrund" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14523160
+    a ex:Datensatz ;
+    ex:name "Klingenthal, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "21" .
+
+ex:14523170
+    a ex:Datensatz ;
+    ex:name "Lengenfeld, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "36" ;
+    ex:unfalle_mit_personenschaden_anzahl "26" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14523190
+    a ex:Datensatz ;
+    ex:name "Limbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14523200
+    a ex:Datensatz ;
+    ex:name "Markneukirchen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14523230
+    a ex:Datensatz ;
+    ex:name "Mühlental" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14523245
+    a ex:Datensatz ;
+    ex:name "Muldenhammer" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14523260
+    a ex:Datensatz ;
+    ex:name "Netzschkau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14523270
+    a ex:Datensatz ;
+    ex:name "Neuensalz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "20" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "38" .
+
+ex:14523280
+    a ex:Datensatz ;
+    ex:name "Neumark" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14523290
+    a ex:Datensatz ;
+    ex:name "Neustadt/Vogtl." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14523300
+    a ex:Datensatz ;
+    ex:name "Oelsnitz/Vogtl., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "39" ;
+    ex:unfalle_mit_personenschaden_anzahl "27" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "33" .
+
+ex:14523310
+    a ex:Datensatz ;
+    ex:name "Pausa-Mühltroff, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "21" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14523320
+    a ex:Datensatz ;
+    ex:name "Plauen, Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "266" ;
+    ex:unfalle_mit_personenschaden_anzahl "170" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "78" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "18" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "203" .
+
+ex:14523330
+    a ex:Datensatz ;
+    ex:name "Pöhl" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14523340
+    a ex:Datensatz ;
+    ex:name "Reichenbach im Vogtland, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "68" ;
+    ex:unfalle_mit_personenschaden_anzahl "50" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "15" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "62" .
+
+ex:14523360
+    a ex:Datensatz ;
+    ex:name "Rodewisch, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "32" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14523365
+    a ex:Datensatz ;
+    ex:name "Rosenbach/Vogtl." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14523370
+    a ex:Datensatz ;
+    ex:name "Schöneck/Vogtl., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14523380
+    a ex:Datensatz ;
+    ex:name "Steinberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14523410
+    a ex:Datensatz ;
+    ex:name "Theuma" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14523420
+    a ex:Datensatz ;
+    ex:name "Tirpersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14523430
+    a ex:Datensatz ;
+    ex:name "Treuen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14523440
+    a ex:Datensatz ;
+    ex:name "Triebel/Vogtl." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14523450
+    a ex:Datensatz ;
+    ex:name "Weischlitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "44" ;
+    ex:unfalle_mit_personenschaden_anzahl "25" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "17" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "31" .
+
+ex:14523460
+    a ex:Datensatz ;
+    ex:name "Werda" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14524
+    a ex:Datensatz ;
+    ex:name "Zwickau, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1229" ;
+    ex:unfalle_mit_personenschaden_anzahl "910" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "259" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "60" ;
+    ex:getotete_anzahl "9" ;
+    ex:verletzte_anzahl "1105" .
+
+ex:14524010
+    a ex:Datensatz ;
+    ex:name "Bernsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14524020
+    a ex:Datensatz ;
+    ex:name "Callenberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "20" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14524030
+    a ex:Datensatz ;
+    ex:name "Crimmitschau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "73" ;
+    ex:unfalle_mit_personenschaden_anzahl "47" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "23" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "57" .
+
+ex:14524040
+    a ex:Datensatz ;
+    ex:name "Crinitzberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "6" .
+
+ex:14524050
+    a ex:Datensatz ;
+    ex:name "Dennheritz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "23" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "25" .
+
+ex:14524060
+    a ex:Datensatz ;
+    ex:name "Fraureuth" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "15" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14524070
+    a ex:Datensatz ;
+    ex:name "Gersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14524080
+    a ex:Datensatz ;
+    ex:name "Glauchau, Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "93" ;
+    ex:unfalle_mit_personenschaden_anzahl "75" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "14" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "97" .
+
+ex:14524090
+    a ex:Datensatz ;
+    ex:name "Hartenstein, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "39" ;
+    ex:unfalle_mit_personenschaden_anzahl "29" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "39" .
+
+ex:14524100
+    a ex:Datensatz ;
+    ex:name "Hartmannsdorf b. Kirchberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14524110
+    a ex:Datensatz ;
+    ex:name "Hirschfeld" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14524120
+    a ex:Datensatz ;
+    ex:name "Hohenstein-Ernstthal, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "65" ;
+    ex:unfalle_mit_personenschaden_anzahl "41" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "18" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "6" ;
+    ex:verletzte_anzahl "52" .
+
+ex:14524130
+    a ex:Datensatz ;
+    ex:name "Kirchberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "23" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "22" .
+
+ex:14524140
+    a ex:Datensatz ;
+    ex:name "Langenbernsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14524150
+    a ex:Datensatz ;
+    ex:name "Langenweißbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14524160
+    a ex:Datensatz ;
+    ex:name "Lichtenstein/Sa., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "36" ;
+    ex:unfalle_mit_personenschaden_anzahl "27" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14524170
+    a ex:Datensatz ;
+    ex:name "Lichtentanne" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "35" ;
+    ex:unfalle_mit_personenschaden_anzahl "25" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14524180
+    a ex:Datensatz ;
+    ex:name "Limbach-Oberfrohna, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "62" ;
+    ex:unfalle_mit_personenschaden_anzahl "49" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "54" .
+
+ex:14524190
+    a ex:Datensatz ;
+    ex:name "Meerane, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "55" ;
+    ex:unfalle_mit_personenschaden_anzahl "38" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "15" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "42" .
+
+ex:14524200
+    a ex:Datensatz ;
+    ex:name "Mülsen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "36" ;
+    ex:unfalle_mit_personenschaden_anzahl "29" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "36" .
+
+ex:14524210
+    a ex:Datensatz ;
+    ex:name "Neukirchen/Pleiße" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "22" .
+
+ex:14524220
+    a ex:Datensatz ;
+    ex:name "Niederfrohna" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14524230
+    a ex:Datensatz ;
+    ex:name "Oberlungwitz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14524240
+    a ex:Datensatz ;
+    ex:name "Oberwiera" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14524250
+    a ex:Datensatz ;
+    ex:name "Reinsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "15" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14524260
+    a ex:Datensatz ;
+    ex:name "Remse" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14524270
+    a ex:Datensatz ;
+    ex:name "Schönberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14524280
+    a ex:Datensatz ;
+    ex:name "St. Egidien" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "17" .
+
+ex:14524290
+    a ex:Datensatz ;
+    ex:name "Waldenburg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14524300
+    a ex:Datensatz ;
+    ex:name "Werdau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "80" ;
+    ex:unfalle_mit_personenschaden_anzahl "65" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:verletzte_anzahl "70" .
+
+ex:14524310
+    a ex:Datensatz ;
+    ex:name "Wildenfels, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14524320
+    a ex:Datensatz ;
+    ex:name "Wilkau-Haßlau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "31" ;
+    ex:unfalle_mit_personenschaden_anzahl "20" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:verletzte_anzahl "21" .
+
+ex:14524330
+    a ex:Datensatz ;
+    ex:name "Zwickau, Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "344" ;
+    ex:unfalle_mit_personenschaden_anzahl "256" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "68" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "20" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "305" .
+
+ex:146
+    a ex:Datensatz ;
+    ex:name "Dresden, NUTS 2-Region" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7445" ;
+    ex:unfalle_mit_personenschaden_anzahl "6008" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1162" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "275" ;
+    ex:getotete_anzahl "66" ;
+    ex:verletzte_anzahl "7397" .
+
+ex:14612
+    a ex:Datensatz ;
+    ex:name "Dresden, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2649" ;
+    ex:unfalle_mit_personenschaden_anzahl "2299" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "252" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "98" ;
+    ex:getotete_anzahl "7" ;
+    ex:verletzte_anzahl "2702" .
+
+ex:14612000
+    a ex:Datensatz ;
+    ex:name "Dresden, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2649" ;
+    ex:unfalle_mit_personenschaden_anzahl "2299" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "252" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "98" ;
+    ex:getotete_anzahl "7" ;
+    ex:verletzte_anzahl "2702" .
+
+ex:14625
+    a ex:Datensatz ;
+    ex:name "Bautzen, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1432" ;
+    ex:unfalle_mit_personenschaden_anzahl "1105" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "274" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "53" ;
+    ex:getotete_anzahl "19" ;
+    ex:verletzte_anzahl "1428" .
+
+ex:14625010
+    a ex:Datensatz ;
+    ex:name "Arnsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14625020
+    a ex:Datensatz ;
+    ex:name "Bautzen, Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "240" ;
+    ex:unfalle_mit_personenschaden_anzahl "190" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "44" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "6" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "234" .
+
+ex:14625030
+    a ex:Datensatz ;
+    ex:name "Bernsdorf, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "26" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14625040
+    a ex:Datensatz ;
+    ex:name "Bischofswerda, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "59" ;
+    ex:unfalle_mit_personenschaden_anzahl "48" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "7" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "60" .
+
+ex:14625060
+    a ex:Datensatz ;
+    ex:name "Burkau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "30" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "12" ;
+    ex:verletzte_anzahl "32" .
+
+ex:14625080
+    a ex:Datensatz ;
+    ex:name "Crostwitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14625090
+    a ex:Datensatz ;
+    ex:name "Cunewalde" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "13" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14625100
+    a ex:Datensatz ;
+    ex:name "Demitz-Thumitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14625110
+    a ex:Datensatz ;
+    ex:name "Doberschau-Gaußig" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14625120
+    a ex:Datensatz ;
+    ex:name "Elsterheide" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "22" .
+
+ex:14625130
+    a ex:Datensatz ;
+    ex:name "Elstra, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14625140
+    a ex:Datensatz ;
+    ex:name "Frankenthal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14625150
+    a ex:Datensatz ;
+    ex:name "Göda" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14625160
+    a ex:Datensatz ;
+    ex:name "Großdubrau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "17" .
+
+ex:14625170
+    a ex:Datensatz ;
+    ex:name "Großharthau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14625180
+    a ex:Datensatz ;
+    ex:name "Großnaundorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14625190
+    a ex:Datensatz ;
+    ex:name "Großpostwitz/O.L." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14625200
+    a ex:Datensatz ;
+    ex:name "Großröhrsdorf, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "47" ;
+    ex:unfalle_mit_personenschaden_anzahl "36" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:verletzte_anzahl "43" .
+
+ex:14625220
+    a ex:Datensatz ;
+    ex:name "Haselbachtal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14625230
+    a ex:Datensatz ;
+    ex:name "Hochkirch" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14625240
+    a ex:Datensatz ;
+    ex:name "Hoyerswerda, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "145" ;
+    ex:unfalle_mit_personenschaden_anzahl "124" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "16" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:verletzte_anzahl "159" .
+
+ex:14625250
+    a ex:Datensatz ;
+    ex:name "Kamenz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "66" ;
+    ex:unfalle_mit_personenschaden_anzahl "51" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "61" .
+
+ex:14625270
+    a ex:Datensatz ;
+    ex:name "Königsbrück, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14625280
+    a ex:Datensatz ;
+    ex:name "Königswartha" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14625290
+    a ex:Datensatz ;
+    ex:name "Kubschütz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "21" .
+
+ex:14625300
+    a ex:Datensatz ;
+    ex:name "Laußnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "13" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14625310
+    a ex:Datensatz ;
+    ex:name "Lauta, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "26" ;
+    ex:unfalle_mit_personenschaden_anzahl "23" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "31" .
+
+ex:14625320
+    a ex:Datensatz ;
+    ex:name "Lichtenberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14625330
+    a ex:Datensatz ;
+    ex:name "Lohsa" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "21" .
+
+ex:14625340
+    a ex:Datensatz ;
+    ex:name "Malschwitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "23" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "39" .
+
+ex:14625350
+    a ex:Datensatz ;
+    ex:name "Nebelschütz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14625360
+    a ex:Datensatz ;
+    ex:name "Neschwitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14625370
+    a ex:Datensatz ;
+    ex:name "Neukirch" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14625380
+    a ex:Datensatz ;
+    ex:name "Neukirch/Lausitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "26" .
+
+ex:14625390
+    a ex:Datensatz ;
+    ex:name "Obergurig" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14625410
+    a ex:Datensatz ;
+    ex:name "Ohorn" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14625420
+    a ex:Datensatz ;
+    ex:name "Oßling" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14625430
+    a ex:Datensatz ;
+    ex:name "Ottendorf-Okrilla" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "61" ;
+    ex:unfalle_mit_personenschaden_anzahl "44" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "17" ;
+    ex:verletzte_anzahl "54" .
+
+ex:14625440
+    a ex:Datensatz ;
+    ex:name "Panschwitz-Kuckau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "13" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14625450
+    a ex:Datensatz ;
+    ex:name "Pulsnitz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "37" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "11" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "27" .
+
+ex:14625470
+    a ex:Datensatz ;
+    ex:name "Räckelwitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14625480
+    a ex:Datensatz ;
+    ex:name "Radeberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "80" ;
+    ex:unfalle_mit_personenschaden_anzahl "59" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "17" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:verletzte_anzahl "70" .
+
+ex:14625490
+    a ex:Datensatz ;
+    ex:name "Radibor" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14625500
+    a ex:Datensatz ;
+    ex:name "Ralbitz-Rosenthal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14625510
+    a ex:Datensatz ;
+    ex:name "Rammenau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14625525
+    a ex:Datensatz ;
+    ex:name "Schirgiswalde-Kirschau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "23" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14625530
+    a ex:Datensatz ;
+    ex:name "Schmölln-Putzkau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14625550
+    a ex:Datensatz ;
+    ex:name "Schwepnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14625560
+    a ex:Datensatz ;
+    ex:name "Sohland a. d. Spree" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "28" ;
+    ex:unfalle_mit_personenschaden_anzahl "25" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14625570
+    a ex:Datensatz ;
+    ex:name "Spreetal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14625580
+    a ex:Datensatz ;
+    ex:name "Steina" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14625590
+    a ex:Datensatz ;
+    ex:name "Steinigtwolmsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14625600
+    a ex:Datensatz ;
+    ex:name "Wachau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "46" ;
+    ex:unfalle_mit_personenschaden_anzahl "29" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "15" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "3" ;
+    ex:verletzte_anzahl "35" .
+
+ex:14625610
+    a ex:Datensatz ;
+    ex:name "Weißenberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "26" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "32" .
+
+ex:14625630
+    a ex:Datensatz ;
+    ex:name "Wilthen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14625640
+    a ex:Datensatz ;
+    ex:name "Wittichenau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14626
+    a ex:Datensatz ;
+    ex:name "Görlitz, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1146" ;
+    ex:unfalle_mit_personenschaden_anzahl "851" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "248" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "47" ;
+    ex:getotete_anzahl "10" ;
+    ex:verletzte_anzahl "1075" .
+
+ex:14626010
+    a ex:Datensatz ;
+    ex:name "Bad Muskau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "13" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14626020
+    a ex:Datensatz ;
+    ex:name "Beiersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" .
+
+ex:14626030
+    a ex:Datensatz ;
+    ex:name "Bernstadt a. d. Eigen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14626050
+    a ex:Datensatz ;
+    ex:name "Bertsdorf-Hörnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14626060
+    a ex:Datensatz ;
+    ex:name "Boxberg/O.L." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "12" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14626085
+    a ex:Datensatz ;
+    ex:name "Ebersbach-Neugersdorf, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "58" ;
+    ex:unfalle_mit_personenschaden_anzahl "40" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "16" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "45" .
+
+ex:14626100
+    a ex:Datensatz ;
+    ex:name "Gablenz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14626110
+    a ex:Datensatz ;
+    ex:name "Görlitz, Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "218" ;
+    ex:unfalle_mit_personenschaden_anzahl "176" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "29" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "13" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "205" .
+
+ex:14626120
+    a ex:Datensatz ;
+    ex:name "Groß Düben" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14626140
+    a ex:Datensatz ;
+    ex:name "Großschönau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14626150
+    a ex:Datensatz ;
+    ex:name "Großschweidnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "17" .
+
+ex:14626160
+    a ex:Datensatz ;
+    ex:name "Hähnichen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14626170
+    a ex:Datensatz ;
+    ex:name "Hainewalde" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14626180
+    a ex:Datensatz ;
+    ex:name "Herrnhut, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14626190
+    a ex:Datensatz ;
+    ex:name "Hohendubrau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14626200
+    a ex:Datensatz ;
+    ex:name "Horka" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "6" .
+
+ex:14626210
+    a ex:Datensatz ;
+    ex:name "Jonsdorf, Kurort" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14626230
+    a ex:Datensatz ;
+    ex:name "Kodersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14626240
+    a ex:Datensatz ;
+    ex:name "Königshain" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14626245
+    a ex:Datensatz ;
+    ex:name "Kottmar" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14626250
+    a ex:Datensatz ;
+    ex:name "Krauschwitz i.d. O.L." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "17" .
+
+ex:14626260
+    a ex:Datensatz ;
+    ex:name "Kreba-Neudorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14626270
+    a ex:Datensatz ;
+    ex:name "Lawalde" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14626280
+    a ex:Datensatz ;
+    ex:name "Leutersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14626290
+    a ex:Datensatz ;
+    ex:name "Löbau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "58" ;
+    ex:unfalle_mit_personenschaden_anzahl "42" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "13" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "63" .
+
+ex:14626300
+    a ex:Datensatz ;
+    ex:name "Markersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "28" ;
+    ex:unfalle_mit_personenschaden_anzahl "22" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "29" .
+
+ex:14626310
+    a ex:Datensatz ;
+    ex:name "Mittelherwigsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14626320
+    a ex:Datensatz ;
+    ex:name "Mücka" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14626330
+    a ex:Datensatz ;
+    ex:name "Neißeaue" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "6" .
+
+ex:14626350
+    a ex:Datensatz ;
+    ex:name "Neusalza-Spremberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14626370
+    a ex:Datensatz ;
+    ex:name "Niesky, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "43" ;
+    ex:unfalle_mit_personenschaden_anzahl "35" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "38" .
+
+ex:14626390
+    a ex:Datensatz ;
+    ex:name "Oderwitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "22" .
+
+ex:14626400
+    a ex:Datensatz ;
+    ex:name "Olbersdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14626410
+    a ex:Datensatz ;
+    ex:name "Oppach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14626420
+    a ex:Datensatz ;
+    ex:name "Ostritz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14626430
+    a ex:Datensatz ;
+    ex:name "Oybin" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14626450
+    a ex:Datensatz ;
+    ex:name "Reichenbach/O.L., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "23" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "29" .
+
+ex:14626460
+    a ex:Datensatz ;
+    ex:name "Rietschen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14626470
+    a ex:Datensatz ;
+    ex:name "Rosenbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14626480
+    a ex:Datensatz ;
+    ex:name "Rothenburg/O.L., Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14626490
+    a ex:Datensatz ;
+    ex:name "Schleife" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14626500
+    a ex:Datensatz ;
+    ex:name "Schönau-Berzdorf a. d. Eigen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14626510
+    a ex:Datensatz ;
+    ex:name "Schönbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "8" .
+
+ex:14626520
+    a ex:Datensatz ;
+    ex:name "Schöpstal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14626530
+    a ex:Datensatz ;
+    ex:name "Seifhennersdorf, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14626560
+    a ex:Datensatz ;
+    ex:name "Trebendorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14626570
+    a ex:Datensatz ;
+    ex:name "Vierkirchen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14626580
+    a ex:Datensatz ;
+    ex:name "Waldhufen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14626590
+    a ex:Datensatz ;
+    ex:name "Weißkeißel" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "21" .
+
+ex:14626600
+    a ex:Datensatz ;
+    ex:name "Weißwasser/O.L., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "85" ;
+    ex:unfalle_mit_personenschaden_anzahl "66" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "13" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "6" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "74" .
+
+ex:14626610
+    a ex:Datensatz ;
+    ex:name "Zittau, Stadt, Hochschulstadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "156" ;
+    ex:unfalle_mit_personenschaden_anzahl "122" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "27" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "7" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "159" .
+
+ex:14627
+    a ex:Datensatz ;
+    ex:name "Meißen, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1116" ;
+    ex:unfalle_mit_personenschaden_anzahl "842" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "236" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "38" ;
+    ex:getotete_anzahl "12" ;
+    ex:verletzte_anzahl "1034" .
+
+ex:14627010
+    a ex:Datensatz ;
+    ex:name "Coswig, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "72" ;
+    ex:unfalle_mit_personenschaden_anzahl "60" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "70" .
+
+ex:14627020
+    a ex:Datensatz ;
+    ex:name "Diera-Zehren" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "21" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "22" .
+
+ex:14627030
+    a ex:Datensatz ;
+    ex:name "Ebersbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14627040
+    a ex:Datensatz ;
+    ex:name "Glaubitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14627050
+    a ex:Datensatz ;
+    ex:name "Gröditz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14627060
+    a ex:Datensatz ;
+    ex:name "Großenhain, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "70" ;
+    ex:unfalle_mit_personenschaden_anzahl "55" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "13" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "64" .
+
+ex:14627070
+    a ex:Datensatz ;
+    ex:name "Hirschstein" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14627080
+    a ex:Datensatz ;
+    ex:name "Käbschütztal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14627100
+    a ex:Datensatz ;
+    ex:name "Klipphausen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "80" ;
+    ex:unfalle_mit_personenschaden_anzahl "62" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "14" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "99" .
+
+ex:14627110
+    a ex:Datensatz ;
+    ex:name "Lampertswalde" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14627130
+    a ex:Datensatz ;
+    ex:name "Lommatzsch, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "15" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "20" .
+
+ex:14627140
+    a ex:Datensatz ;
+    ex:name "Meißen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "116" ;
+    ex:unfalle_mit_personenschaden_anzahl "100" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "12" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:verletzte_anzahl "122" .
+
+ex:14627150
+    a ex:Datensatz ;
+    ex:name "Moritzburg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "32" ;
+    ex:unfalle_mit_personenschaden_anzahl "27" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "29" .
+
+ex:14627170
+    a ex:Datensatz ;
+    ex:name "Niederau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "21" .
+
+ex:14627180
+    a ex:Datensatz ;
+    ex:name "Nossen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "113" ;
+    ex:unfalle_mit_personenschaden_anzahl "63" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "45" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "79" .
+
+ex:14627190
+    a ex:Datensatz ;
+    ex:name "Nünchritz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14627200
+    a ex:Datensatz ;
+    ex:name "Priestewitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "26" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14627210
+    a ex:Datensatz ;
+    ex:name "Radebeul, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "130" ;
+    ex:unfalle_mit_personenschaden_anzahl "100" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "25" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:verletzte_anzahl "121" .
+
+ex:14627220
+    a ex:Datensatz ;
+    ex:name "Radeburg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "44" ;
+    ex:unfalle_mit_personenschaden_anzahl "31" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "12" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "41" .
+
+ex:14627230
+    a ex:Datensatz ;
+    ex:name "Riesa, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "124" ;
+    ex:unfalle_mit_personenschaden_anzahl "98" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "22" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:verletzte_anzahl "106" .
+
+ex:14627240
+    a ex:Datensatz ;
+    ex:name "Röderaue" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14627250
+    a ex:Datensatz ;
+    ex:name "Schönfeld" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14627260
+    a ex:Datensatz ;
+    ex:name "Stauchitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14627270
+    a ex:Datensatz ;
+    ex:name "Strehla, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14627290
+    a ex:Datensatz ;
+    ex:name "Thiendorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "20" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14627310
+    a ex:Datensatz ;
+    ex:name "Weinböhla" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "44" ;
+    ex:unfalle_mit_personenschaden_anzahl "33" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "40" .
+
+ex:14627340
+    a ex:Datensatz ;
+    ex:name "Wülknitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14627360
+    a ex:Datensatz ;
+    ex:name "Zeithain" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "26" .
+
+ex:14628
+    a ex:Datensatz ;
+    ex:name "Sächsische Schweiz-Osterzgebirge, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1102" ;
+    ex:unfalle_mit_personenschaden_anzahl "911" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "152" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "39" ;
+    ex:getotete_anzahl "18" ;
+    ex:verletzte_anzahl "1158" .
+
+ex:14628010
+    a ex:Datensatz ;
+    ex:name "Altenberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "42" ;
+    ex:unfalle_mit_personenschaden_anzahl "33" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "44" .
+
+ex:14628020
+    a ex:Datensatz ;
+    ex:name "Bad Gottleuba-Berggießhübel, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "34" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14628030
+    a ex:Datensatz ;
+    ex:name "Bad Schandau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "27" .
+
+ex:14628040
+    a ex:Datensatz ;
+    ex:name "Bahretal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "21" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "3" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14628050
+    a ex:Datensatz ;
+    ex:name "Bannewitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "53" ;
+    ex:unfalle_mit_personenschaden_anzahl "42" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "54" .
+
+ex:14628060
+    a ex:Datensatz ;
+    ex:name "Dippoldiswalde, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "59" ;
+    ex:unfalle_mit_personenschaden_anzahl "47" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "61" .
+
+ex:14628070
+    a ex:Datensatz ;
+    ex:name "Dohma" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14628080
+    a ex:Datensatz ;
+    ex:name "Dohna, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "32" ;
+    ex:unfalle_mit_personenschaden_anzahl "28" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "37" .
+
+ex:14628090
+    a ex:Datensatz ;
+    ex:name "Dorfhain" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14628100
+    a ex:Datensatz ;
+    ex:name "Dürrröhrsdorf-Dittersbach" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "26" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14628110
+    a ex:Datensatz ;
+    ex:name "Freital, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "128" ;
+    ex:unfalle_mit_personenschaden_anzahl "104" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "17" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "7" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "132" .
+
+ex:14628130
+    a ex:Datensatz ;
+    ex:name "Glashütte, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14628140
+    a ex:Datensatz ;
+    ex:name "Gohrisch" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14628160
+    a ex:Datensatz ;
+    ex:name "Heidenau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "51" ;
+    ex:unfalle_mit_personenschaden_anzahl "45" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "4" ;
+    ex:verletzte_anzahl "57" .
+
+ex:14628170
+    a ex:Datensatz ;
+    ex:name "Hermsdorf/Erzgeb." ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14628190
+    a ex:Datensatz ;
+    ex:name "Hohnstein, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14628205
+    a ex:Datensatz ;
+    ex:name "Klingenberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "27" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14628210
+    a ex:Datensatz ;
+    ex:name "Königstein/Sächs. Schw., Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "26" .
+
+ex:14628220
+    a ex:Datensatz ;
+    ex:name "Kreischa" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "21" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14628230
+    a ex:Datensatz ;
+    ex:name "Liebstadt, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14628240
+    a ex:Datensatz ;
+    ex:name "Lohmen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "10" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14628250
+    a ex:Datensatz ;
+    ex:name "Müglitztal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "9" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14628260
+    a ex:Datensatz ;
+    ex:name "Neustadt in Sachsen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "48" ;
+    ex:unfalle_mit_personenschaden_anzahl "40" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "52" .
+
+ex:14628270
+    a ex:Datensatz ;
+    ex:name "Pirna, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "202" ;
+    ex:unfalle_mit_personenschaden_anzahl "178" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "18" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "6" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "215" .
+
+ex:14628300
+    a ex:Datensatz ;
+    ex:name "Rabenau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "18" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14628320
+    a ex:Datensatz ;
+    ex:name "Rathmannsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14628330
+    a ex:Datensatz ;
+    ex:name "Reinhardtsdorf-Schöna" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "2" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "2" .
+
+ex:14628340
+    a ex:Datensatz ;
+    ex:name "Rosenthal-Bielatal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14628360
+    a ex:Datensatz ;
+    ex:name "Sebnitz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "26" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "32" .
+
+ex:14628370
+    a ex:Datensatz ;
+    ex:name "Stadt Wehlen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:verletzte_anzahl "6" .
+
+ex:14628380
+    a ex:Datensatz ;
+    ex:name "Stolpen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:getotete_anzahl "4" ;
+    ex:verletzte_anzahl "22" .
+
+ex:14628390
+    a ex:Datensatz ;
+    ex:name "Struppen" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "15" .
+
+ex:14628400
+    a ex:Datensatz ;
+    ex:name "Tharandt, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "23" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14628410
+    a ex:Datensatz ;
+    ex:name "Wilsdruff, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "86" ;
+    ex:unfalle_mit_personenschaden_anzahl "64" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "17" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:getotete_anzahl "3" ;
+    ex:verletzte_anzahl "93" .
+
+ex:147
+    a ex:Datensatz ;
+    ex:name "Leipzig, NUTS 2-Region" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4137" ;
+    ex:unfalle_mit_personenschaden_anzahl "3400" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "567" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "170" ;
+    ex:getotete_anzahl "38" ;
+    ex:verletzte_anzahl "4253" .
+
+ex:14713
+    a ex:Datensatz ;
+    ex:name "Leipzig, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2335" ;
+    ex:unfalle_mit_personenschaden_anzahl "1944" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "291" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "100" ;
+    ex:getotete_anzahl "11" ;
+    ex:verletzte_anzahl "2318" .
+
+ex:14713000
+    a ex:Datensatz ;
+    ex:name "Leipzig, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2335" ;
+    ex:unfalle_mit_personenschaden_anzahl "1944" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "291" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "100" ;
+    ex:getotete_anzahl "11" ;
+    ex:verletzte_anzahl "2318" .
+
+ex:14729
+    a ex:Datensatz ;
+    ex:name "Leipzig, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "990" ;
+    ex:unfalle_mit_personenschaden_anzahl "794" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "162" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "34" ;
+    ex:getotete_anzahl "11" ;
+    ex:verletzte_anzahl "1036" .
+
+ex:14729010
+    a ex:Datensatz ;
+    ex:name "Bad Lausick, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "23" ;
+    ex:unfalle_mit_personenschaden_anzahl "21" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "29" .
+
+ex:14729020
+    a ex:Datensatz ;
+    ex:name "Belgershain" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "7" ;
+    ex:unfalle_mit_personenschaden_anzahl "6" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "9" .
+
+ex:14729030
+    a ex:Datensatz ;
+    ex:name "Bennewitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "29" ;
+    ex:unfalle_mit_personenschaden_anzahl "23" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14729040
+    a ex:Datensatz ;
+    ex:name "Böhlen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "36" ;
+    ex:unfalle_mit_personenschaden_anzahl "26" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "35" .
+
+ex:14729050
+    a ex:Datensatz ;
+    ex:name "Borna, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "102" ;
+    ex:unfalle_mit_personenschaden_anzahl "84" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "15" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "107" .
+
+ex:14729060
+    a ex:Datensatz ;
+    ex:name "Borsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "17" .
+
+ex:14729070
+    a ex:Datensatz ;
+    ex:name "Brandis, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "41" ;
+    ex:unfalle_mit_personenschaden_anzahl "30" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "35" .
+
+ex:14729080
+    a ex:Datensatz ;
+    ex:name "Colditz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "31" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "30" .
+
+ex:14729140
+    a ex:Datensatz ;
+    ex:name "Frohburg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "54" ;
+    ex:unfalle_mit_personenschaden_anzahl "41" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "52" .
+
+ex:14729150
+    a ex:Datensatz ;
+    ex:name "Geithain, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14729160
+    a ex:Datensatz ;
+    ex:name "Grimma, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "120" ;
+    ex:unfalle_mit_personenschaden_anzahl "94" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "20" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "6" ;
+    ex:getotete_anzahl "3" ;
+    ex:verletzte_anzahl "129" .
+
+ex:14729170
+    a ex:Datensatz ;
+    ex:name "Groitzsch, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "24" ;
+    ex:unfalle_mit_personenschaden_anzahl "15" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14729190
+    a ex:Datensatz ;
+    ex:name "Großpösna" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "50" ;
+    ex:unfalle_mit_personenschaden_anzahl "41" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "60" .
+
+ex:14729220
+    a ex:Datensatz ;
+    ex:name "Kitzscher, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "8" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14729245
+    a ex:Datensatz ;
+    ex:name "Lossatal" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "19" .
+
+ex:14729250
+    a ex:Datensatz ;
+    ex:name "Machern" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "18" ;
+    ex:unfalle_mit_personenschaden_anzahl "16" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "24" .
+
+ex:14729260
+    a ex:Datensatz ;
+    ex:name "Markkleeberg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "95" ;
+    ex:unfalle_mit_personenschaden_anzahl "85" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "107" .
+
+ex:14729270
+    a ex:Datensatz ;
+    ex:name "Markranstädt, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "53" ;
+    ex:unfalle_mit_personenschaden_anzahl "44" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "64" .
+
+ex:14729300
+    a ex:Datensatz ;
+    ex:name "Naunhof, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "28" ;
+    ex:unfalle_mit_personenschaden_anzahl "25" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "33" .
+
+ex:14729320
+    a ex:Datensatz ;
+    ex:name "Neukieritzsch" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "32" ;
+    ex:unfalle_mit_personenschaden_anzahl "25" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "33" .
+
+ex:14729330
+    a ex:Datensatz ;
+    ex:name "Otterwisch" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14729340
+    a ex:Datensatz ;
+    ex:name "Parthenstein" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:verletzte_anzahl "14" .
+
+ex:14729350
+    a ex:Datensatz ;
+    ex:name "Pegau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "21" ;
+    ex:unfalle_mit_personenschaden_anzahl "18" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "26" .
+
+ex:14729360
+    a ex:Datensatz ;
+    ex:name "Regis-Breitingen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14729370
+    a ex:Datensatz ;
+    ex:name "Rötha, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "27" ;
+    ex:unfalle_mit_personenschaden_anzahl "17" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14729380
+    a ex:Datensatz ;
+    ex:name "Thallwitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14729400
+    a ex:Datensatz ;
+    ex:name "Trebsen/Mulde, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14729410
+    a ex:Datensatz ;
+    ex:name "Wurzen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "40" ;
+    ex:unfalle_mit_personenschaden_anzahl "37" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "45" .
+
+ex:14729430
+    a ex:Datensatz ;
+    ex:name "Zwenkau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "36" ;
+    ex:unfalle_mit_personenschaden_anzahl "31" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "37" .
+
+ex:14730
+    a ex:Datensatz ;
+    ex:name "Nordsachsen, Landkreis" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "812" ;
+    ex:unfalle_mit_personenschaden_anzahl "662" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "114" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "36" ;
+    ex:getotete_anzahl "16" ;
+    ex:verletzte_anzahl "899" .
+
+ex:14730010
+    a ex:Datensatz ;
+    ex:name "Arzberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "1" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14730020
+    a ex:Datensatz ;
+    ex:name "Bad Düben, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "21" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "23" .
+
+ex:14730030
+    a ex:Datensatz ;
+    ex:name "Beilrode" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "10" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "13" .
+
+ex:14730045
+    a ex:Datensatz ;
+    ex:name "Belgern-Schildau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "16" .
+
+ex:14730050
+    a ex:Datensatz ;
+    ex:name "Cavertitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "6" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "5" .
+
+ex:14730060
+    a ex:Datensatz ;
+    ex:name "Dahlen, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "15" ;
+    ex:unfalle_mit_personenschaden_anzahl "14" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "17" .
+
+ex:14730070
+    a ex:Datensatz ;
+    ex:name "Delitzsch, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "99" ;
+    ex:unfalle_mit_personenschaden_anzahl "81" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "8" ;
+    ex:verletzte_anzahl "108" .
+
+ex:14730080
+    a ex:Datensatz ;
+    ex:name "Doberschütz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "18" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "4" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14730090
+    a ex:Datensatz ;
+    ex:name "Dommitzsch, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "3" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14730100
+    a ex:Datensatz ;
+    ex:name "Dreiheide" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "4" ;
+    ex:unfalle_mit_personenschaden_anzahl "4" ;
+    ex:verletzte_anzahl "4" .
+
+ex:14730110
+    a ex:Datensatz ;
+    ex:name "Eilenburg, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "68" ;
+    ex:unfalle_mit_personenschaden_anzahl "57" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "8" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "3" ;
+    ex:verletzte_anzahl "73" .
+
+ex:14730120
+    a ex:Datensatz ;
+    ex:name "Elsnig" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "3" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "3" .
+
+ex:14730140
+    a ex:Datensatz ;
+    ex:name "Jesewitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "17" ;
+    ex:unfalle_mit_personenschaden_anzahl "11" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "18" .
+
+ex:14730150
+    a ex:Datensatz ;
+    ex:name "Krostitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "19" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "31" .
+
+ex:14730160
+    a ex:Datensatz ;
+    ex:name "Laußig" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "11" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14730170
+    a ex:Datensatz ;
+    ex:name "Liebschützberg" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "8" ;
+    ex:unfalle_mit_personenschaden_anzahl "7" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "11" .
+
+ex:14730180
+    a ex:Datensatz ;
+    ex:name "Löbnitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "2" ;
+    ex:verletzte_anzahl "12" .
+
+ex:14730190
+    a ex:Datensatz ;
+    ex:name "Mockrehna" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "16" ;
+    ex:unfalle_mit_personenschaden_anzahl "15" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "20" .
+
+ex:14730200
+    a ex:Datensatz ;
+    ex:name "Mügeln, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "19" ;
+    ex:unfalle_mit_personenschaden_anzahl "13" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "6" ;
+    ex:verletzte_anzahl "20" .
+
+ex:14730210
+    a ex:Datensatz ;
+    ex:name "Naundorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "5" ;
+    ex:unfalle_mit_personenschaden_anzahl "5" ;
+    ex:verletzte_anzahl "7" .
+
+ex:14730230
+    a ex:Datensatz ;
+    ex:name "Oschatz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "53" ;
+    ex:unfalle_mit_personenschaden_anzahl "47" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "5" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "58" .
+
+ex:14730250
+    a ex:Datensatz ;
+    ex:name "Rackwitz" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "25" ;
+    ex:unfalle_mit_personenschaden_anzahl "24" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "35" .
+
+ex:14730270
+    a ex:Datensatz ;
+    ex:name "Schkeuditz, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "114" ;
+    ex:unfalle_mit_personenschaden_anzahl "86" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "23" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "5" ;
+    ex:getotete_anzahl "2" ;
+    ex:verletzte_anzahl "106" .
+
+ex:14730280
+    a ex:Datensatz ;
+    ex:name "Schönwölkau" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "12" ;
+    ex:unfalle_mit_personenschaden_anzahl "9" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "3" ;
+    ex:verletzte_anzahl "10" .
+
+ex:14730300
+    a ex:Datensatz ;
+    ex:name "Taucha, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "48" ;
+    ex:unfalle_mit_personenschaden_anzahl "36" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "2" ;
+    ex:verletzte_anzahl "48" .
+
+ex:14730310
+    a ex:Datensatz ;
+    ex:name "Torgau, Stadt" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "91" ;
+    ex:unfalle_mit_personenschaden_anzahl "74" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "9" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "8" ;
+    ex:getotete_anzahl "3" ;
+    ex:verletzte_anzahl "88" .
+
+ex:14730320
+    a ex:Datensatz ;
+    ex:name "Trossin" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "2" ;
+    ex:unfalle_mit_personenschaden_anzahl "1" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:verletzte_anzahl "1" .
+
+ex:14730330
+    a ex:Datensatz ;
+    ex:name "Wermsdorf" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "22" ;
+    ex:unfalle_mit_personenschaden_anzahl "21" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:getotete_anzahl "1" ;
+    ex:verletzte_anzahl "28" .
+
+ex:14730340
+    a ex:Datensatz ;
+    ex:name "Wiedemar" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "49" ;
+    ex:unfalle_mit_personenschaden_anzahl "38" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "10" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:getotete_anzahl "8" ;
+    ex:verletzte_anzahl "97" .
+
+ex:14730360
+    a ex:Datensatz ;
+    ex:name "Zschepplin" ;
+    ex:wert_2 "2024" ;
+    ex:unfalle_insgesamt_o_so_sachsch_unf_anzahl "14" ;
+    ex:unfalle_mit_personenschaden_anzahl "12" ;
+    ex:schwerwiegende_unfalle_mit_sachschaden_i_e_s_anzahl "1" ;
+    ex:sonst_sachsch_unfall_unt_einwirk_berausch_mittel_anzahl "1" ;
+    ex:verletzte_anzahl "14" .
+
+ex:__________
+    a ex:Datensatz ;
+    ex:name "nan" .
+
+ex:© Statistisches Landesamt des Freistaates Sachsen, Kamenz, 2026
+    a ex:Datensatz ;
+    ex:name "nan" .
+
+ex:Stand: 31.05.2026 / 17:45:18
+    a ex:Datensatz ;
+    ex:name "nan" .
+
