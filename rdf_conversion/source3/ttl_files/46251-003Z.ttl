@@ -1,0 +1,4244 @@
+@prefix ex: <http://example.org/genesis/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:14
+    a ex:Dataset ;
+    ex:name "Freistaat Sachsen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2428237" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2061040" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "162891" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "49983" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "136179" .
+
+ex:145
+    a ex:Dataset ;
+    ex:name "Chemnitz, NUTS 2-Region" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "971905" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "820009" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "65045" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "22146" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "57899" .
+
+ex:14511
+    a ex:Dataset ;
+    ex:name "Chemnitz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "134995" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "117974" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "8799" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "900" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "6296" .
+
+ex:14511000
+    a ex:Dataset ;
+    ex:name "Chemnitz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "134995" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "117974" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "8799" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "900" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "6296" .
+
+ex:14521
+    a ex:Dataset ;
+    ex:name "Erzgebirgskreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "242138" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "203546" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "15639" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "5327" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "16038" .
+
+ex:14521010
+    a ex:Dataset ;
+    ex:name "Amtsberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2906" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2399" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "171" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "239" .
+
+ex:14521020
+    a ex:Dataset ;
+    ex:name "Annaberg-Buchholz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "12934" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10804" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "971" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "116" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "771" .
+
+ex:14521035
+    a ex:Dataset ;
+    ex:name "Aue-Bad Schlema, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "13120" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "11516" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "730" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "172" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "618" .
+
+ex:14521040
+    a ex:Dataset ;
+    ex:name "Auerbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1794" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1546" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "77" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "131" .
+
+ex:14521060
+    a ex:Dataset ;
+    ex:name "Bärenstein" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1563" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1312" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "83" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "25" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "132" .
+
+ex:14521080
+    a ex:Dataset ;
+    ex:name "Bockau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1693" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1384" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "123" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "127" .
+
+ex:14521090
+    a ex:Dataset ;
+    ex:name "Börnichen/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "759" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "593" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "49" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "86" .
+
+ex:14521110
+    a ex:Dataset ;
+    ex:name "Breitenbrunn/Erzgeb., Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3967" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3308" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "298" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "91" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "239" .
+
+ex:14521120
+    a ex:Dataset ;
+    ex:name "Burkhardtsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4483" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3771" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "303" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "93" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "305" .
+
+ex:14521130
+    a ex:Dataset ;
+    ex:name "Crottendorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2981" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2462" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "241" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "76" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "189" .
+
+ex:14521140
+    a ex:Dataset ;
+    ex:name "Deutschneudorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "801" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "639" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "92" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "44" .
+
+ex:14521150
+    a ex:Dataset ;
+    ex:name "Drebach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4126" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3276" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "316" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "156" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "344" .
+
+ex:14521160
+    a ex:Dataset ;
+    ex:name "Ehrenfriedersdorf, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3109" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2658" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "211" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "32" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "186" .
+
+ex:14521170
+    a ex:Dataset ;
+    ex:name "Eibenstock, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4739" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4068" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "291" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "275" .
+
+ex:14521180
+    a ex:Dataset ;
+    ex:name "Elterlein, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2355" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1846" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "187" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "120" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "187" .
+
+ex:14521200
+    a ex:Dataset ;
+    ex:name "Gelenau/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3019" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2608" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "159" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "34" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "205" .
+
+ex:14521210
+    a ex:Dataset ;
+    ex:name "Geyer, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2495" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2131" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "155" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "43" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "153" .
+
+ex:14521220
+    a ex:Dataset ;
+    ex:name "Gornau/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3056" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2455" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "205" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "89" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "295" .
+
+ex:14521230
+    a ex:Dataset ;
+    ex:name "Gornsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1466" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1213" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "104" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "111" .
+
+ex:14521240
+    a ex:Dataset ;
+    ex:name "Großolbersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2337" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1785" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "154" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "137" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "246" .
+
+ex:14521250
+    a ex:Dataset ;
+    ex:name "Großrückerswalde" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2590" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2140" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "150" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "94" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "194" .
+
+ex:14521260
+    a ex:Dataset ;
+    ex:name "Grünhain-Beierfeld, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4206" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3539" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "310" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "88" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "256" .
+
+ex:14521270
+    a ex:Dataset ;
+    ex:name "Grünhainichen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2696" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2200" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "169" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "254" .
+
+ex:14521280
+    a ex:Dataset ;
+    ex:name "Heidersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "627" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "504" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "43" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "49" .
+
+ex:14521290
+    a ex:Dataset ;
+    ex:name "Hohndorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2426" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2119" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "117" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "167" .
+
+ex:14521310
+    a ex:Dataset ;
+    ex:name "Jahnsdorf/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4237" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3514" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "324" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "304" .
+
+ex:14521320
+    a ex:Dataset ;
+    ex:name "Johanngeorgenstadt, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2768" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2389" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "154" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "47" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "166" .
+
+ex:14521330
+    a ex:Dataset ;
+    ex:name "Jöhstadt, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2065" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1716" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "101" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "43" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "193" .
+
+ex:14521340
+    a ex:Dataset ;
+    ex:name "Königswalde" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1545" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1305" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "75" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "97" .
+
+ex:14521355
+    a ex:Dataset ;
+    ex:name "Lauter-Bernsbach, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5983" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5120" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "377" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "399" .
+
+ex:14521370
+    a ex:Dataset ;
+    ex:name "Lößnitz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5931" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5081" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "369" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "123" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "330" .
+
+ex:14521380
+    a ex:Dataset ;
+    ex:name "Lugau/Erzgeb., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5694" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4899" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "287" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "367" .
+
+ex:14521390
+    a ex:Dataset ;
+    ex:name "Marienberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "12552" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10514" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "662" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "916" .
+
+ex:14521400
+    a ex:Dataset ;
+    ex:name "Mildenau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2585" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2166" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "109" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "103" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "196" .
+
+ex:14521410
+    a ex:Dataset ;
+    ex:name "Neukirchen/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5238" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4310" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "496" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "73" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "326" .
+
+ex:14521420
+    a ex:Dataset ;
+    ex:name "Niederdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1178" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "902" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "170" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "27" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "66" .
+
+ex:14521430
+    a ex:Dataset ;
+    ex:name "Niederwürschnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1845" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1544" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "120" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "25" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "139" .
+
+ex:14521440
+    a ex:Dataset ;
+    ex:name "Oberwiesenthal, Kurort, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1539" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1325" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "89" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "31" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "83" .
+
+ex:14521450
+    a ex:Dataset ;
+    ex:name "Oelsnitz/Erzgeb., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7783" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6592" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "535" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "101" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "503" .
+
+ex:14521460
+    a ex:Dataset ;
+    ex:name "Olbernhau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8311" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6971" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "550" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "212" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "522" .
+
+ex:14521495
+    a ex:Dataset ;
+    ex:name "Pockau-Lengefeld, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5948" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4810" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "375" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "246" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "476" .
+
+ex:14521500
+    a ex:Dataset ;
+    ex:name "Raschau-Markersbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3757" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3107" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "244" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "108" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "283" .
+
+ex:14521510
+    a ex:Dataset ;
+    ex:name "Scheibenberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1534" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1242" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "114" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "142" .
+
+ex:14521520
+    a ex:Dataset ;
+    ex:name "Schlettau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1732" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1417" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "112" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "95" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "92" .
+
+ex:14521530
+    a ex:Dataset ;
+    ex:name "Schneeberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9168" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7986" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "525" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "101" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "521" .
+
+ex:14521540
+    a ex:Dataset ;
+    ex:name "Schönheide" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3078" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2620" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "195" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "62" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "177" .
+
+ex:14521550
+    a ex:Dataset ;
+    ex:name "Schwarzenberg/Erzgeb., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "11959" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10197" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "838" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "187" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "672" .
+
+ex:14521560
+    a ex:Dataset ;
+    ex:name "Sehmatal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4439" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3796" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "283" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "67" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "273" .
+
+ex:14521570
+    a ex:Dataset ;
+    ex:name "Seiffen/Erzgeb., Kurort" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1657" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1394" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "116" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "108" .
+
+ex:14521590
+    a ex:Dataset ;
+    ex:name "Stollberg/Erzgeb., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7577" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6438" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "491" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "206" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "382" .
+
+ex:14521600
+    a ex:Dataset ;
+    ex:name "Stützengrün" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2672" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2162" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "202" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "122" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "169" .
+
+ex:14521610
+    a ex:Dataset ;
+    ex:name "Tannenberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "782" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "653" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "54" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "50" .
+
+ex:14521620
+    a ex:Dataset ;
+    ex:name "Thalheim/Erzgeb., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4089" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3575" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "224" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "41" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "238" .
+
+ex:14521630
+    a ex:Dataset ;
+    ex:name "Thermalbad Wiesenbad" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2572" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2084" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "180" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "66" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "205" .
+
+ex:14521640
+    a ex:Dataset ;
+    ex:name "Thum, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3654" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3059" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "222" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "91" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "265" .
+
+ex:14521670
+    a ex:Dataset ;
+    ex:name "Wolkenstein, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2947" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2405" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "164" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "113" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "251" .
+
+ex:14521690
+    a ex:Dataset ;
+    ex:name "Zschopau, Stadt, Motorradstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6547" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5507" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "368" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "61" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "527" .
+
+ex:14521700
+    a ex:Dataset ;
+    ex:name "Zschorlau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3882" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3374" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "189" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "96" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "202" .
+
+ex:14521710
+    a ex:Dataset ;
+    ex:name "Zwönitz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8642" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7096" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "616" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "595" .
+
+ex:14522
+    a ex:Dataset ;
+    ex:name "Mittelsachsen, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "218233" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "180974" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "14842" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "6665" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "14036" .
+
+ex:14522010
+    a ex:Dataset ;
+    ex:name "Altmittweida" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1663" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1360" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "125" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "62" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "103" .
+
+ex:14522020
+    a ex:Dataset ;
+    ex:name "Augustusburg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3411" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2871" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "202" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "286" .
+
+ex:14522035
+    a ex:Dataset ;
+    ex:name "Bobritzsch-Hilbersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4210" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3457" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "239" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "318" .
+
+ex:14522050
+    a ex:Dataset ;
+    ex:name "Brand-Erbisdorf, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7197" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6044" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "539" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "132" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "435" .
+
+ex:14522060
+    a ex:Dataset ;
+    ex:name "Burgstädt, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7369" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6225" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "500" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "123" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "429" .
+
+ex:14522070
+    a ex:Dataset ;
+    ex:name "Claußnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2571" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2057" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "214" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "90" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "197" .
+
+ex:14522080
+    a ex:Dataset ;
+    ex:name "Döbeln, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "14650" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "12383" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1144" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "736" .
+
+ex:14522090
+    a ex:Dataset ;
+    ex:name "Dorfchemnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1364" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1034" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "86" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "127" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "104" .
+
+ex:14522110
+    a ex:Dataset ;
+    ex:name "Eppendorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3062" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2507" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "208" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "125" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "202" .
+
+ex:14522120
+    a ex:Dataset ;
+    ex:name "Erlau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2786" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2151" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "262" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "161" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "191" .
+
+ex:14522140
+    a ex:Dataset ;
+    ex:name "Flöha, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6744" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5960" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "301" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "388" .
+
+ex:14522150
+    a ex:Dataset ;
+    ex:name "Frankenberg/Sa., Stadt, Garnisonsstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9768" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8295" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "595" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "179" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "645" .
+
+ex:14522170
+    a ex:Dataset ;
+    ex:name "Frauenstein, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2361" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1862" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "165" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "179" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "118" .
+
+ex:14522180
+    a ex:Dataset ;
+    ex:name "Freiberg, Stadt, Universitätsstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "21220" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "18603" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1168" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "132" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1148" .
+
+ex:14522190
+    a ex:Dataset ;
+    ex:name "Geringswalde, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3092" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2598" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "184" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "73" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "222" .
+
+ex:14522200
+    a ex:Dataset ;
+    ex:name "Großhartmannsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2049" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1688" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "100" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "133" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "116" .
+
+ex:14522210
+    a ex:Dataset ;
+    ex:name "Großschirma, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4656" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3662" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "388" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "230" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "355" .
+
+ex:14522220
+    a ex:Dataset ;
+    ex:name "Großweitzschen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2195" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1770" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "148" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "97" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "167" .
+
+ex:14522230
+    a ex:Dataset ;
+    ex:name "Hainichen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6316" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5140" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "531" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "169" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "391" .
+
+ex:14522240
+    a ex:Dataset ;
+    ex:name "Halsbrücke" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4002" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3218" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "305" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "175" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "283" .
+
+ex:14522250
+    a ex:Dataset ;
+    ex:name "Hartha, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5124" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4311" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "277" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "184" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "326" .
+
+ex:14522260
+    a ex:Dataset ;
+    ex:name "Hartmannsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3667" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2785" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "414" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "230" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "204" .
+
+ex:14522275
+    a ex:Dataset ;
+    ex:name "Jahnatal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4037" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3233" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "315" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "185" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "261" .
+
+ex:14522280
+    a ex:Dataset ;
+    ex:name "Königsfeld" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1252" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "980" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "81" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "93" .
+
+ex:14522290
+    a ex:Dataset ;
+    ex:name "Königshain-Wiederau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2195" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1776" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "153" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "167" .
+
+ex:14522300
+    a ex:Dataset ;
+    ex:name "Kriebstein" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1885" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1502" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "134" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "109" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "120" .
+
+ex:14522310
+    a ex:Dataset ;
+    ex:name "Leisnig, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6078" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4980" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "441" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "220" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "403" .
+
+ex:14522320
+    a ex:Dataset ;
+    ex:name "Leubsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2746" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2155" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "209" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "145" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "218" .
+
+ex:14522330
+    a ex:Dataset ;
+    ex:name "Lichtenau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6118" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4906" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "524" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "139" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "505" .
+
+ex:14522340
+    a ex:Dataset ;
+    ex:name "Lichtenberg/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2045" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1655" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "116" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "164" .
+
+ex:14522350
+    a ex:Dataset ;
+    ex:name "Lunzenau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3222" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2692" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "183" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "84" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "240" .
+
+ex:14522360
+    a ex:Dataset ;
+    ex:name "Mittweida, Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9086" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7748" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "496" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "133" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "546" .
+
+ex:14522380
+    a ex:Dataset ;
+    ex:name "Mühlau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1825" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1452" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "212" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "47" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "102" .
+
+ex:14522390
+    a ex:Dataset ;
+    ex:name "Mulda/Sa." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1941" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1578" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "133" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "128" .
+
+ex:14522400
+    a ex:Dataset ;
+    ex:name "Neuhausen/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2042" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1702" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "109" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "97" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "114" .
+
+ex:14522420
+    a ex:Dataset ;
+    ex:name "Niederwiesa" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3744" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3165" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "298" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "39" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "224" .
+
+ex:14522430
+    a ex:Dataset ;
+    ex:name "Oberschöna" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2689" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2237" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "133" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "110" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "193" .
+
+ex:14522440
+    a ex:Dataset ;
+    ex:name "Oederan, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6038" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4866" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "399" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "289" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "426" .
+
+ex:14522460
+    a ex:Dataset ;
+    ex:name "Penig, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6605" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5435" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "486" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "228" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "423" .
+
+ex:14522470
+    a ex:Dataset ;
+    ex:name "Rechenberg-Bienenmühle" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1608" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1297" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "125" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "101" .
+
+ex:14522480
+    a ex:Dataset ;
+    ex:name "Reinsberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2417" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1904" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "169" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "159" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "170" .
+
+ex:14522490
+    a ex:Dataset ;
+    ex:name "Rochlitz, Stadt, Stadt des Roten Porphyr" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4047" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3441" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "263" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "68" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "247" .
+
+ex:14522500
+    a ex:Dataset ;
+    ex:name "Rossau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2864" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2258" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "199" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "180" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "205" .
+
+ex:14522510
+    a ex:Dataset ;
+    ex:name "Roßwein, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5092" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4315" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "333" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "293" .
+
+ex:14522520
+    a ex:Dataset ;
+    ex:name "Sayda, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1380" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1090" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "87" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "93" .
+
+ex:14522530
+    a ex:Dataset ;
+    ex:name "Seelitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1544" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1243" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "95" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "124" .
+
+ex:14522540
+    a ex:Dataset ;
+    ex:name "Striegistal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3734" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3006" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "246" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "174" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "287" .
+
+ex:14522550
+    a ex:Dataset ;
+    ex:name "Taura" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1790" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1510" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "102" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "117" .
+
+ex:14522570
+    a ex:Dataset ;
+    ex:name "Waldheim, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6676" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5571" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "446" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "186" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "428" .
+
+ex:14522580
+    a ex:Dataset ;
+    ex:name "Wechselburg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1545" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1252" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "108" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "108" .
+
+ex:14522590
+    a ex:Dataset ;
+    ex:name "Weißenborn/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1736" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1514" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "73" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "120" .
+
+ex:14522600
+    a ex:Dataset ;
+    ex:name "Zettlitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "775" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "530" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "79" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "52" .
+
+ex:14523
+    a ex:Dataset ;
+    ex:name "Vogtlandkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "161631" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "135313" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "11018" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "5045" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "9126" .
+
+ex:14523010
+    a ex:Dataset ;
+    ex:name "Adorf/Vogtl., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3687" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3141" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "190" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "147" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "191" .
+
+ex:14523020
+    a ex:Dataset ;
+    ex:name "Auerbach/Vogtl., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "12553" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10906" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "803" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "180" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "616" .
+
+ex:14523030
+    a ex:Dataset ;
+    ex:name "Bad Brambach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1458" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1193" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "73" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "89" .
+
+ex:14523040
+    a ex:Dataset ;
+    ex:name "Bad Elster, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2606" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2229" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "111" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "82" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "170" .
+
+ex:14523050
+    a ex:Dataset ;
+    ex:name "Bergen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "769" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "665" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "34" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "45" .
+
+ex:14523060
+    a ex:Dataset ;
+    ex:name "Bösenbrunn" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1027" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "790" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "71" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "54" .
+
+ex:14523080
+    a ex:Dataset ;
+    ex:name "Eichigt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1230" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "892" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "84" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "171" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "67" .
+
+ex:14523090
+    a ex:Dataset ;
+    ex:name "Ellefeld" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1948" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1572" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "203" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "105" .
+
+ex:14523100
+    a ex:Dataset ;
+    ex:name "Elsterberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3052" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2508" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "211" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "97" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "211" .
+
+ex:14523120
+    a ex:Dataset ;
+    ex:name "Falkenstein/Vogtl., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5512" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4768" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "306" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "99" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "286" .
+
+ex:14523130
+    a ex:Dataset ;
+    ex:name "Grünbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1175" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1013" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "79" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "60" .
+
+ex:14523150
+    a ex:Dataset ;
+    ex:name "Heinsdorfergrund" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1933" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1502" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "181" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "149" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "80" .
+
+ex:14523160
+    a ex:Dataset ;
+    ex:name "Klingenthal, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6068" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5353" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "316" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "300" .
+
+ex:14523170
+    a ex:Dataset ;
+    ex:name "Lengenfeld, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5553" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4488" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "433" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "240" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "354" .
+
+ex:14523190
+    a ex:Dataset ;
+    ex:name "Limbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1125" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "905" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "86" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "86" .
+
+ex:14523200
+    a ex:Dataset ;
+    ex:name "Markneukirchen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5913" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4820" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "388" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "363" .
+
+ex:14523230
+    a ex:Dataset ;
+    ex:name "Mühlental" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1323" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "969" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "86" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "81" .
+
+ex:14523245
+    a ex:Dataset ;
+    ex:name "Muldenhammer" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2426" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2040" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "163" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "44" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "162" .
+
+ex:14523260
+    a ex:Dataset ;
+    ex:name "Netzschkau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2767" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2340" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "195" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "47" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "169" .
+
+ex:14523270
+    a ex:Dataset ;
+    ex:name "Neuensalz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2010" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1541" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "224" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "93" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "123" .
+
+ex:14523280
+    a ex:Dataset ;
+    ex:name "Neumark" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2533" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1906" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "403" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "55" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "137" .
+
+ex:14523290
+    a ex:Dataset ;
+    ex:name "Neustadt/Vogtl." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "776" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "643" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "47" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "39" .
+
+ex:14523300
+    a ex:Dataset ;
+    ex:name "Oelsnitz/Vogtl., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7834" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6480" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "552" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "261" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "487" .
+
+ex:14523310
+    a ex:Dataset ;
+    ex:name "Pausa-Mühltroff, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4088" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3268" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "284" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "282" .
+
+ex:14523320
+    a ex:Dataset ;
+    ex:name "Plauen, Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "37149" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "32319" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "2273" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "405" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1889" .
+
+ex:14523330
+    a ex:Dataset ;
+    ex:name "Pöhl" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1988" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1614" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "134" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "131" .
+
+ex:14523340
+    a ex:Dataset ;
+    ex:name "Reichenbach im Vogtland, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "14011" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "11997" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "961" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "760" .
+
+ex:14523360
+    a ex:Dataset ;
+    ex:name "Rodewisch, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5023" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4139" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "438" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "104" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "272" .
+
+ex:14523365
+    a ex:Dataset ;
+    ex:name "Rosenbach/Vogtl." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3686" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2849" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "289" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "255" .
+
+ex:14523370
+    a ex:Dataset ;
+    ex:name "Schöneck/Vogtl., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2540" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2056" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "152" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "160" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "160" .
+
+ex:14523380
+    a ex:Dataset ;
+    ex:name "Steinberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2115" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1691" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "179" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "89" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "138" .
+
+ex:14523410
+    a ex:Dataset ;
+    ex:name "Theuma" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "903" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "733" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "55" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "54" .
+
+ex:14523420
+    a ex:Dataset ;
+    ex:name "Tirpersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1301" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1001" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "91" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "109" .
+
+ex:14523430
+    a ex:Dataset ;
+    ex:name "Treuen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5989" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5036" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "418" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "185" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "318" .
+
+ex:14523440
+    a ex:Dataset ;
+    ex:name "Triebel/Vogtl." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1118" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "903" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "36" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "81" .
+
+ex:14523450
+    a ex:Dataset ;
+    ex:name "Weischlitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5264" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4067" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "389" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "347" .
+
+ex:14523460
+    a ex:Dataset ;
+    ex:name "Werda" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1178" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "976" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "80" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "55" .
+
+ex:14524
+    a ex:Dataset ;
+    ex:name "Zwickau, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "214908" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "182202" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "14747" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "4209" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "12403" .
+
+ex:14524010
+    a ex:Dataset ;
+    ex:name "Bernsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1999" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1570" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "149" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "109" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "157" .
+
+ex:14524020
+    a ex:Dataset ;
+    ex:name "Callenberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4211" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3274" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "344" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "236" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "331" .
+
+ex:14524030
+    a ex:Dataset ;
+    ex:name "Crimmitschau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "12431" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10496" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "877" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "338" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "655" .
+
+ex:14524040
+    a ex:Dataset ;
+    ex:name "Crinitzberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1546" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1205" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "114" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "125" .
+
+ex:14524050
+    a ex:Dataset ;
+    ex:name "Dennheritz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1165" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "902" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "94" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "55" .
+
+ex:14524060
+    a ex:Dataset ;
+    ex:name "Fraureuth" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3667" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3135" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "211" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "98" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "209" .
+
+ex:14524070
+    a ex:Dataset ;
+    ex:name "Gersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3048" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2531" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "208" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "63" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "233" .
+
+ex:14524080
+    a ex:Dataset ;
+    ex:name "Glauchau, Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "14876" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "12809" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1047" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "115" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "791" .
+
+ex:14524090
+    a ex:Dataset ;
+    ex:name "Hartenstein, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3187" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2668" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "183" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "206" .
+
+ex:14524100
+    a ex:Dataset ;
+    ex:name "Hartmannsdorf b. Kirchberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1153" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "841" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "141" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "70" .
+
+ex:14524110
+    a ex:Dataset ;
+    ex:name "Hirschfeld" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1091" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "795" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "126" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "74" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "84" .
+
+ex:14524120
+    a ex:Dataset ;
+    ex:name "Hohenstein-Ernstthal, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9376" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8068" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "597" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "65" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "614" .
+
+ex:14524130
+    a ex:Dataset ;
+    ex:name "Kirchberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5900" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4753" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "401" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "275" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "445" .
+
+ex:14524140
+    a ex:Dataset ;
+    ex:name "Langenbernsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3050" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2361" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "280" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "193" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "192" .
+
+ex:14524150
+    a ex:Dataset ;
+    ex:name "Langenweißbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1983" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1628" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "115" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "164" .
+
+ex:14524160
+    a ex:Dataset ;
+    ex:name "Lichtenstein/Sa., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7706" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6637" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "536" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "67" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "435" .
+
+ex:14524170
+    a ex:Dataset ;
+    ex:name "Lichtentanne" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4669" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3931" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "331" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "97" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "292" .
+
+ex:14524180
+    a ex:Dataset ;
+    ex:name "Limbach-Oberfrohna, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "15706" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "13417" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1030" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "242" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "968" .
+
+ex:14524190
+    a ex:Dataset ;
+    ex:name "Meerane, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9154" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8045" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "479" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "102" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "494" .
+
+ex:14524200
+    a ex:Dataset ;
+    ex:name "Mülsen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8566" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7074" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "641" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "211" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "596" .
+
+ex:14524210
+    a ex:Dataset ;
+    ex:name "Neukirchen/Pleiße" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2951" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2437" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "243" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "72" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "174" .
+
+ex:14524220
+    a ex:Dataset ;
+    ex:name "Niederfrohna" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1752" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1473" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "111" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "133" .
+
+ex:14524230
+    a ex:Dataset ;
+    ex:name "Oberlungwitz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4634" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3905" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "361" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "43" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "305" .
+
+ex:14524240
+    a ex:Dataset ;
+    ex:name "Oberwiera" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "934" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "709" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "89" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "59" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "61" .
+
+ex:14524250
+    a ex:Dataset ;
+    ex:name "Reinsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6257" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4695" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1022" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "171" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "335" .
+
+ex:14524260
+    a ex:Dataset ;
+    ex:name "Remse" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1395" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1155" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "115" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "34" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "77" .
+
+ex:14524270
+    a ex:Dataset ;
+    ex:name "Schönberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "798" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "614" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "44" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "62" .
+
+ex:14524280
+    a ex:Dataset ;
+    ex:name "St. Egidien" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2421" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1997" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "170" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "181" .
+
+ex:14524290
+    a ex:Dataset ;
+    ex:name "Waldenburg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2925" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2465" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "180" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "62" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "203" .
+
+ex:14524300
+    a ex:Dataset ;
+    ex:name "Werdau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "13989" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "12109" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "857" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "183" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "755" .
+
+ex:14524310
+    a ex:Dataset ;
+    ex:name "Wildenfels, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2771" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2247" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "193" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "116" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "190" .
+
+ex:14524320
+    a ex:Dataset ;
+    ex:name "Wilkau-Haßlau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6668" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5817" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "382" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "69" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "376" .
+
+ex:14524330
+    a ex:Dataset ;
+    ex:name "Zwickau, Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "52929" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "46439" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "3076" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "479" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "2435" .
+
+ex:146
+    a ex:Dataset ;
+    ex:name "Dresden, NUTS 2-Region" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "931173" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "793198" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "61400" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "18263" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "50939" .
+
+ex:14612
+    a ex:Dataset ;
+    ex:name "Dresden, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "230352" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "202669" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "14236" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "971" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "10712" .
+
+ex:14612000
+    a ex:Dataset ;
+    ex:name "Dresden, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "230352" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "202669" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "14236" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "971" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "10712" .
+
+ex:14625
+    a ex:Dataset ;
+    ex:name "Bautzen, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "213540" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "179345" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "14921" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "5526" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "12030" .
+
+ex:14625010
+    a ex:Dataset ;
+    ex:name "Arnsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3017" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2490" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "196" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "89" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "208" .
+
+ex:14625020
+    a ex:Dataset ;
+    ex:name "Bautzen, Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "23802" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "20457" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1655" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "295" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1024" .
+
+ex:14625030
+    a ex:Dataset ;
+    ex:name "Bernsdorf, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4562" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3898" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "224" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "331" .
+
+ex:14625040
+    a ex:Dataset ;
+    ex:name "Bischofswerda, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7148" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6171" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "436" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "158" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "326" .
+
+ex:14625060
+    a ex:Dataset ;
+    ex:name "Burkau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2129" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1753" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "152" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "96" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "117" .
+
+ex:14625080
+    a ex:Dataset ;
+    ex:name "Crostwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "790" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "666" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "45" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "35" .
+
+ex:14625090
+    a ex:Dataset ;
+    ex:name "Cunewalde" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3363" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2903" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "216" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "60" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "169" .
+
+ex:14625100
+    a ex:Dataset ;
+    ex:name "Demitz-Thumitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1952" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1663" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "121" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "48" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "108" .
+
+ex:14625110
+    a ex:Dataset ;
+    ex:name "Doberschau-Gaußig" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3112" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2560" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "241" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "112" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "181" .
+
+ex:14625120
+    a ex:Dataset ;
+    ex:name "Elsterheide" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3448" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2642" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "295" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "202" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "241" .
+
+ex:14625130
+    a ex:Dataset ;
+    ex:name "Elstra, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2299" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1796" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "190" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "122" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "166" .
+
+ex:14625140
+    a ex:Dataset ;
+    ex:name "Frankenthal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "729" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "597" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "53" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "50" .
+
+ex:14625150
+    a ex:Dataset ;
+    ex:name "Göda" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2450" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2038" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "173" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "90" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "127" .
+
+ex:14625160
+    a ex:Dataset ;
+    ex:name "Großdubrau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3200" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2665" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "218" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "112" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "187" .
+
+ex:14625170
+    a ex:Dataset ;
+    ex:name "Großharthau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2106" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1729" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "143" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "74" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "145" .
+
+ex:14625180
+    a ex:Dataset ;
+    ex:name "Großnaundorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "797" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "665" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "50" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "38" .
+
+ex:14625190
+    a ex:Dataset ;
+    ex:name "Großpostwitz/O.L." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2223" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1825" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "173" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "54" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "124" .
+
+ex:14625200
+    a ex:Dataset ;
+    ex:name "Großröhrsdorf, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6646" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5626" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "466" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "377" .
+
+ex:14625220
+    a ex:Dataset ;
+    ex:name "Haselbachtal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3231" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2678" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "175" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "166" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "184" .
+
+ex:14625230
+    a ex:Dataset ;
+    ex:name "Hochkirch" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1773" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1460" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "129" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "83" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "84" .
+
+ex:14625240
+    a ex:Dataset ;
+    ex:name "Hoyerswerda, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "20866" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "18608" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1023" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "162" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "939" .
+
+ex:14625250
+    a ex:Dataset ;
+    ex:name "Kamenz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "11583" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "9835" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "770" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "244" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "656" .
+
+ex:14625270
+    a ex:Dataset ;
+    ex:name "Königsbrück, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2959" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2511" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "199" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "179" .
+
+ex:14625280
+    a ex:Dataset ;
+    ex:name "Königswartha" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2628" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2132" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "206" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "125" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "148" .
+
+ex:14625290
+    a ex:Dataset ;
+    ex:name "Kubschütz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2281" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1799" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "241" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "98" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "120" .
+
+ex:14625300
+    a ex:Dataset ;
+    ex:name "Laußnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1545" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1241" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "113" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "74" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "95" .
+
+ex:14625310
+    a ex:Dataset ;
+    ex:name "Lauta, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5929" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5119" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "295" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "59" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "431" .
+
+ex:14625320
+    a ex:Dataset ;
+    ex:name "Lichtenberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1310" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1084" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "81" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "72" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "61" .
+
+ex:14625330
+    a ex:Dataset ;
+    ex:name "Lohsa" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4335" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3704" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "210" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "129" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "267" .
+
+ex:14625340
+    a ex:Dataset ;
+    ex:name "Malschwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3839" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3115" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "269" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "209" .
+
+ex:14625350
+    a ex:Dataset ;
+    ex:name "Nebelschütz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "930" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "768" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "57" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "47" .
+
+ex:14625360
+    a ex:Dataset ;
+    ex:name "Neschwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1878" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1560" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "142" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "113" .
+
+ex:14625370
+    a ex:Dataset ;
+    ex:name "Neukirch" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1350" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1085" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "116" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "70" .
+
+ex:14625380
+    a ex:Dataset ;
+    ex:name "Neukirch/Lausitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3386" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2863" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "231" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "63" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "215" .
+
+ex:14625390
+    a ex:Dataset ;
+    ex:name "Obergurig" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1538" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1295" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "107" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "115" .
+
+ex:14625410
+    a ex:Dataset ;
+    ex:name "Ohorn" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1732" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1502" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "112" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "86" .
+
+ex:14625420
+    a ex:Dataset ;
+    ex:name "Oßling" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1773" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1475" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "109" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "63" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "114" .
+
+ex:14625430
+    a ex:Dataset ;
+    ex:name "Ottendorf-Okrilla" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8389" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6124" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1544" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "236" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "454" .
+
+ex:14625440
+    a ex:Dataset ;
+    ex:name "Panschwitz-Kuckau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1559" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1232" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "104" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "122" .
+
+ex:14625450
+    a ex:Dataset ;
+    ex:name "Pulsnitz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4905" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4215" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "332" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "89" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "237" .
+
+ex:14625460
+    a ex:Dataset ;
+    ex:name "Puschwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "698" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "559" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "49" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "56" .
+
+ex:14625470
+    a ex:Dataset ;
+    ex:name "Räckelwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "784" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "624" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "75" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "59" .
+
+ex:14625480
+    a ex:Dataset ;
+    ex:name "Radeberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "11071" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "9669" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "640" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "97" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "612" .
+
+ex:14625490
+    a ex:Dataset ;
+    ex:name "Radibor" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2573" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1996" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "231" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "108" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "184" .
+
+ex:14625500
+    a ex:Dataset ;
+    ex:name "Ralbitz-Rosenthal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1383" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1071" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "107" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "100" .
+
+ex:14625510
+    a ex:Dataset ;
+    ex:name "Rammenau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1070" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "872" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "77" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "81" .
+
+ex:14625525
+    a ex:Dataset ;
+    ex:name "Schirgiswalde-Kirschau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4577" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3878" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "289" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "307" .
+
+ex:14625530
+    a ex:Dataset ;
+    ex:name "Schmölln-Putzkau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2475" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2000" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "216" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "77" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "167" .
+
+ex:14625550
+    a ex:Dataset ;
+    ex:name "Schwepnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1889" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1593" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "105" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "52" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "113" .
+
+ex:14625560
+    a ex:Dataset ;
+    ex:name "Sohland a. d. Spree" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4994" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4109" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "374" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "195" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "274" .
+
+ex:14625570
+    a ex:Dataset ;
+    ex:name "Spreetal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1548" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1326" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "64" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "113" .
+
+ex:14625580
+    a ex:Dataset ;
+    ex:name "Steina" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1361" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1150" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "59" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "97" .
+
+ex:14625590
+    a ex:Dataset ;
+    ex:name "Steinigtwolmsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2193" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1816" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "130" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "78" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "155" .
+
+ex:14625600
+    a ex:Dataset ;
+    ex:name "Wachau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3302" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2709" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "187" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "155" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "231" .
+
+ex:14625610
+    a ex:Dataset ;
+    ex:name "Weißenberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2615" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2056" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "250" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "164" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "124" .
+
+ex:14625630
+    a ex:Dataset ;
+    ex:name "Wilthen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3343" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2944" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "157" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "47" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "181" .
+
+ex:14625640
+    a ex:Dataset ;
+    ex:name "Wittichenau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4172" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3424" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "299" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "154" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "276" .
+
+ex:14626
+    a ex:Dataset ;
+    ex:name "Görlitz, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "169908" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "144730" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "10146" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "4206" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "9485" .
+
+ex:14626010
+    a ex:Dataset ;
+    ex:name "Bad Muskau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2454" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2093" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "173" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "145" .
+
+ex:14626020
+    a ex:Dataset ;
+    ex:name "Beiersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "839" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "711" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "46" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "57" .
+
+ex:14626030
+    a ex:Dataset ;
+    ex:name "Bernstadt a. d. Eigen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2530" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2112" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "151" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "127" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "127" .
+
+ex:14626050
+    a ex:Dataset ;
+    ex:name "Bertsdorf-Hörnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1587" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1370" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "72" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "104" .
+
+ex:14626060
+    a ex:Dataset ;
+    ex:name "Boxberg/O.L." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3756" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3081" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "295" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "149" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "194" .
+
+ex:14626070
+    a ex:Dataset ;
+    ex:name "Dürrhennersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "818" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "628" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "65" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "65" .
+
+ex:14626085
+    a ex:Dataset ;
+    ex:name "Ebersbach-Neugersdorf, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8356" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7261" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "575" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "94" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "391" .
+
+ex:14626100
+    a ex:Dataset ;
+    ex:name "Gablenz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1347" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1148" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "89" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "68" .
+
+ex:14626110
+    a ex:Dataset ;
+    ex:name "Görlitz, Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "26438" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "23698" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1321" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "80" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1191" .
+
+ex:14626120
+    a ex:Dataset ;
+    ex:name "Groß Düben" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1011" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "776" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "68" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "71" .
+
+ex:14626140
+    a ex:Dataset ;
+    ex:name "Großschönau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3976" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3421" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "227" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "35" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "276" .
+
+ex:14626150
+    a ex:Dataset ;
+    ex:name "Großschweidnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "876" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "748" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "59" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "56" .
+
+ex:14626160
+    a ex:Dataset ;
+    ex:name "Hähnichen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1014" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "811" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "59" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "51" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "71" .
+
+ex:14626170
+    a ex:Dataset ;
+    ex:name "Hainewalde" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1202" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "996" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "77" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "83" .
+
+ex:14626180
+    a ex:Dataset ;
+    ex:name "Herrnhut, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4122" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3439" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "244" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "260" .
+
+ex:14626190
+    a ex:Dataset ;
+    ex:name "Hohendubrau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1542" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1264" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "88" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "89" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "87" .
+
+ex:14626200
+    a ex:Dataset ;
+    ex:name "Horka" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1340" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1102" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "83" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "62" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "79" .
+
+ex:14626210
+    a ex:Dataset ;
+    ex:name "Jonsdorf, Kurort" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1152" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1014" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "56" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "74" .
+
+ex:14626230
+    a ex:Dataset ;
+    ex:name "Kodersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1953" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1584" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "111" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "118" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "125" .
+
+ex:14626240
+    a ex:Dataset ;
+    ex:name "Königshain" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "904" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "742" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "63" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "54" .
+
+ex:14626245
+    a ex:Dataset ;
+    ex:name "Kottmar" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5689" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4660" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "425" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "352" .
+
+ex:14626250
+    a ex:Dataset ;
+    ex:name "Krauschwitz i.d. O.L." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2786" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2271" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "224" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "102" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "171" .
+
+ex:14626260
+    a ex:Dataset ;
+    ex:name "Kreba-Neudorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "732" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "617" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "44" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "39" .
+
+ex:14626270
+    a ex:Dataset ;
+    ex:name "Lawalde" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1614" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1301" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "104" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "58" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "121" .
+
+ex:14626280
+    a ex:Dataset ;
+    ex:name "Leutersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2707" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2261" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "156" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "87" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "183" .
+
+ex:14626290
+    a ex:Dataset ;
+    ex:name "Löbau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "10318" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8882" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "628" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "206" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "480" .
+
+ex:14626300
+    a ex:Dataset ;
+    ex:name "Markersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3380" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2660" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "266" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "190" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "234" .
+
+ex:14626310
+    a ex:Dataset ;
+    ex:name "Mittelherwigsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2826" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2385" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "161" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "63" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "205" .
+
+ex:14626320
+    a ex:Dataset ;
+    ex:name "Mücka" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "834" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "688" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "43" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "73" .
+
+ex:14626330
+    a ex:Dataset ;
+    ex:name "Neißeaue" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1367" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1094" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "80" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "92" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "90" .
+
+ex:14626350
+    a ex:Dataset ;
+    ex:name "Neusalza-Spremberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2399" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2023" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "140" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "147" .
+
+ex:14626370
+    a ex:Dataset ;
+    ex:name "Niesky, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6517" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5576" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "441" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "92" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "366" .
+
+ex:14626390
+    a ex:Dataset ;
+    ex:name "Oderwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3533" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3010" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "204" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "79" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "225" .
+
+ex:14626400
+    a ex:Dataset ;
+    ex:name "Olbersdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3213" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2842" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "136" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "181" .
+
+ex:14626410
+    a ex:Dataset ;
+    ex:name "Oppach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1744" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1496" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "109" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "110" .
+
+ex:14626420
+    a ex:Dataset ;
+    ex:name "Ostritz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1541" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1363" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "68" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "34" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "65" .
+
+ex:14626430
+    a ex:Dataset ;
+    ex:name "Oybin" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1043" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "905" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "48" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "70" .
+
+ex:14626440
+    a ex:Dataset ;
+    ex:name "Quitzdorf am See" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "996" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "806" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "86" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "32" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "52" .
+
+ex:14626450
+    a ex:Dataset ;
+    ex:name "Reichenbach/O.L., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3545" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2942" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "203" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "227" .
+
+ex:14626460
+    a ex:Dataset ;
+    ex:name "Rietschen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1868" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1523" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "112" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "69" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "152" .
+
+ex:14626470
+    a ex:Dataset ;
+    ex:name "Rosenbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1234" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "999" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "68" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "71" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "83" .
+
+ex:14626480
+    a ex:Dataset ;
+    ex:name "Rothenburg/O.L., Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3303" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2793" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "209" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "101" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "172" .
+
+ex:14626490
+    a ex:Dataset ;
+    ex:name "Schleife" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2380" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1672" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "243" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "302" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "136" .
+
+ex:14626500
+    a ex:Dataset ;
+    ex:name "Schönau-Berzdorf a. d. Eigen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1190" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "983" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "58" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "79" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "59" .
+
+ex:14626510
+    a ex:Dataset ;
+    ex:name "Schönbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "898" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "746" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "66" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "37" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "37" .
+
+ex:14626520
+    a ex:Dataset ;
+    ex:name "Schöpstal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2022" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1582" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "148" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "118" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "162" .
+
+ex:14626530
+    a ex:Dataset ;
+    ex:name "Seifhennersdorf, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2595" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2232" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "115" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "78" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "159" .
+
+ex:14626560
+    a ex:Dataset ;
+    ex:name "Trebendorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "910" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "703" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "62" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "54" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "65" .
+
+ex:14626570
+    a ex:Dataset ;
+    ex:name "Vierkirchen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1382" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1117" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "86" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "110" .
+
+ex:14626580
+    a ex:Dataset ;
+    ex:name "Waldhufen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1998" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1616" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "146" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "97" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "121" .
+
+ex:14626590
+    a ex:Dataset ;
+    ex:name "Weißkeißel" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1040" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "879" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "48" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "70" .
+
+ex:14626600
+    a ex:Dataset ;
+    ex:name "Weißwasser/O.L., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9936" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8956" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "412" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "29" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "421" .
+
+ex:14626610
+    a ex:Dataset ;
+    ex:name "Zittau, Stadt, Hochschulstadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "15151" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "13148" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "885" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "163" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "769" .
+
+ex:14627
+    a ex:Dataset ;
+    ex:name "Meißen, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "155783" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "131172" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "11008" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "3772" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "8539" .
+
+ex:14627010
+    a ex:Dataset ;
+    ex:name "Coswig, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "11587" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10257" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "715" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "550" .
+
+ex:14627020
+    a ex:Dataset ;
+    ex:name "Diera-Zehren" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2635" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2172" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "198" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "86" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "162" .
+
+ex:14627030
+    a ex:Dataset ;
+    ex:name "Ebersbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3672" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2825" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "306" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "243" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "232" .
+
+ex:14627040
+    a ex:Dataset ;
+    ex:name "Glaubitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1458" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1187" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "116" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "46" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "93" .
+
+ex:14627050
+    a ex:Dataset ;
+    ex:name "Gröditz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4690" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4024" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "306" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "232" .
+
+ex:14627060
+    a ex:Dataset ;
+    ex:name "Großenhain, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "12152" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10216" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "903" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "319" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "593" .
+
+ex:14627070
+    a ex:Dataset ;
+    ex:name "Hirschstein" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1661" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1340" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "133" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "66" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "106" .
+
+ex:14627080
+    a ex:Dataset ;
+    ex:name "Käbschütztal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1991" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1596" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "160" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "65" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "154" .
+
+ex:14627100
+    a ex:Dataset ;
+    ex:name "Klipphausen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7861" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6260" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "716" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "282" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "562" .
+
+ex:14627110
+    a ex:Dataset ;
+    ex:name "Lampertswalde" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2406" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1797" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "244" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "196" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "122" .
+
+ex:14627130
+    a ex:Dataset ;
+    ex:name "Lommatzsch, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3490" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2830" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "298" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "153" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "184" .
+
+ex:14627140
+    a ex:Dataset ;
+    ex:name "Meißen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "14126" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "12256" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "915" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "115" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "659" .
+
+ex:14627150
+    a ex:Dataset ;
+    ex:name "Moritzburg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5568" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4681" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "414" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "128" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "312" .
+
+ex:14627170
+    a ex:Dataset ;
+    ex:name "Niederau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3030" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2452" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "284" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "84" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "166" .
+
+ex:14627180
+    a ex:Dataset ;
+    ex:name "Nossen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "7803" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "6243" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "582" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "420" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "493" .
+
+ex:14627190
+    a ex:Dataset ;
+    ex:name "Nünchritz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3955" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3374" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "179" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "84" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "268" .
+
+ex:14627200
+    a ex:Dataset ;
+    ex:name "Priestewitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2477" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1978" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "192" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "137" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "149" .
+
+ex:14627210
+    a ex:Dataset ;
+    ex:name "Radebeul, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "19186" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "16602" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1279" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "131" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1093" .
+
+ex:14627220
+    a ex:Dataset ;
+    ex:name "Radeburg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5192" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4246" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "443" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "175" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "292" .
+
+ex:14627230
+    a ex:Dataset ;
+    ex:name "Riesa, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "17805" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "15847" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "965" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "128" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "739" .
+
+ex:14627240
+    a ex:Dataset ;
+    ex:name "Röderaue" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2042" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1725" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "121" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "37" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "141" .
+
+ex:14627250
+    a ex:Dataset ;
+    ex:name "Schönfeld" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1536" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1158" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "150" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "117" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "93" .
+
+ex:14627260
+    a ex:Dataset ;
+    ex:name "Stauchitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2299" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1887" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "136" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "84" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "166" .
+
+ex:14627270
+    a ex:Dataset ;
+    ex:name "Strehla, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2572" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2096" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "236" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "91" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "131" .
+
+ex:14627290
+    a ex:Dataset ;
+    ex:name "Thiendorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3065" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2356" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "265" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "244" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "162" .
+
+ex:14627310
+    a ex:Dataset ;
+    ex:name "Weinböhla" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6174" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5372" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "363" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "36" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "377" .
+
+ex:14627340
+    a ex:Dataset ;
+    ex:name "Wülknitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1240" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "944" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "125" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "63" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "77" .
+
+ex:14627360
+    a ex:Dataset ;
+    ex:name "Zeithain" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4110" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3451" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "264" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "118" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "231" .
+
+ex:14628
+    a ex:Dataset ;
+    ex:name "Sächsische Schweiz-Osterzgebirge, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "161590" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "135282" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "11089" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "3788" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "10173" .
+
+ex:14628010
+    a ex:Dataset ;
+    ex:name "Altenberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5892" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4840" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "366" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "235" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "396" .
+
+ex:14628020
+    a ex:Dataset ;
+    ex:name "Bad Gottleuba-Berggießhübel, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4215" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3372" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "295" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "170" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "345" .
+
+ex:14628030
+    a ex:Dataset ;
+    ex:name "Bad Schandau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2519" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2134" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "185" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "157" .
+
+ex:14628040
+    a ex:Dataset ;
+    ex:name "Bahretal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1817" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1423" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "142" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "99" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "139" .
+
+ex:14628050
+    a ex:Dataset ;
+    ex:name "Bannewitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6862" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5841" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "473" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "66" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "458" .
+
+ex:14628060
+    a ex:Dataset ;
+    ex:name "Dippoldiswalde, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "10387" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8667" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "730" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "235" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "669" .
+
+ex:14628070
+    a ex:Dataset ;
+    ex:name "Dohma" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1448" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1211" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "101" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "111" .
+
+ex:14628080
+    a ex:Dataset ;
+    ex:name "Dohna, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4248" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3458" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "297" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "129" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "321" .
+
+ex:14628090
+    a ex:Dataset ;
+    ex:name "Dorfhain" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "842" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "706" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "72" .
+
+ex:14628100
+    a ex:Dataset ;
+    ex:name "Dürrröhrsdorf-Dittersbach" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3385" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2656" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "327" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "117" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "257" .
+
+ex:14628110
+    a ex:Dataset ;
+    ex:name "Freital, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "22183" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "19333" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1310" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "147" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1297" .
+
+ex:14628130
+    a ex:Dataset ;
+    ex:name "Glashütte, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5263" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4248" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "399" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "218" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "371" .
+
+ex:14628140
+    a ex:Dataset ;
+    ex:name "Gohrisch" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1424" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1182" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "99" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "113" .
+
+ex:14628150
+    a ex:Dataset ;
+    ex:name "Hartmannsdorf-Reichenau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "995" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "773" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "83" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "49" .
+
+ex:14628160
+    a ex:Dataset ;
+    ex:name "Heidenau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8217" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7205" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "471" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "48" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "424" .
+
+ex:14628170
+    a ex:Dataset ;
+    ex:name "Hermsdorf/Erzgeb." ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "658" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "538" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "31" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "38" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "39" .
+
+ex:14628190
+    a ex:Dataset ;
+    ex:name "Hohnstein, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2533" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2010" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "165" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "113" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "204" .
+
+ex:14628205
+    a ex:Dataset ;
+    ex:name "Klingenberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5374" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4346" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "348" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "305" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "347" .
+
+ex:14628210
+    a ex:Dataset ;
+    ex:name "Königstein/Sächs. Schw., Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1526" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1233" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "145" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "34" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "95" .
+
+ex:14628220
+    a ex:Dataset ;
+    ex:name "Kreischa" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3084" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2536" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "223" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "86" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "218" .
+
+ex:14628230
+    a ex:Dataset ;
+    ex:name "Liebstadt, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1011" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "832" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "59" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "61" .
+
+ex:14628240
+    a ex:Dataset ;
+    ex:name "Lohmen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2170" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1832" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "122" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "45" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "159" .
+
+ex:14628250
+    a ex:Dataset ;
+    ex:name "Müglitztal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1559" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1259" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "120" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "140" .
+
+ex:14628260
+    a ex:Dataset ;
+    ex:name "Neustadt in Sachsen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8434" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7230" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "463" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "253" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "444" .
+
+ex:14628270
+    a ex:Dataset ;
+    ex:name "Pirna, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "21554" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "18723" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1337" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "183" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1075" .
+
+ex:14628300
+    a ex:Dataset ;
+    ex:name "Rabenau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3262" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2655" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "238" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "77" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "275" .
+
+ex:14628310
+    a ex:Dataset ;
+    ex:name "Rathen, Kurort" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "231" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "204" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "11" .
+
+ex:14628320
+    a ex:Dataset ;
+    ex:name "Rathmannsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "656" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "530" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "44" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "67" .
+
+ex:14628330
+    a ex:Dataset ;
+    ex:name "Reinhardtsdorf-Schöna" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1103" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "897" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "70" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "80" .
+
+ex:14628340
+    a ex:Dataset ;
+    ex:name "Rosenthal-Bielatal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1278" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1052" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "84" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "106" .
+
+ex:14628360
+    a ex:Dataset ;
+    ex:name "Sebnitz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6222" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5288" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "378" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "147" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "370" .
+
+ex:14628370
+    a ex:Dataset ;
+    ex:name "Stadt Wehlen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1074" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "892" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "75" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "85" .
+
+ex:14628380
+    a ex:Dataset ;
+    ex:name "Stolpen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4192" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3365" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "313" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "206" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "257" .
+
+ex:14628390
+    a ex:Dataset ;
+    ex:name "Struppen" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1763" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1517" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "94" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "39" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "97" .
+
+ex:14628400
+    a ex:Dataset ;
+    ex:name "Tharandt, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3573" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2961" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "279" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "69" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "242" .
+
+ex:14628410
+    a ex:Dataset ;
+    ex:name "Wilsdruff, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "10636" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8333" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1181" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "364" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "622" .
+
+ex:147
+    a ex:Dataset ;
+    ex:name "Leipzig, NUTS 2-Region" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "525159" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "447833" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "36446" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "9574" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "27341" .
+
+ex:14713
+    a ex:Dataset ;
+    ex:name "Leipzig, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "217747" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "191975" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "13830" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "749" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "9803" .
+
+ex:14713000
+    a ex:Dataset ;
+    ex:name "Leipzig, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "217747" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "191975" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "13830" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "749" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "9803" .
+
+ex:14729
+    a ex:Dataset ;
+    ex:name "Leipzig, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "172749" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "144882" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "12355" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "4407" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "9790" .
+
+ex:14729010
+    a ex:Dataset ;
+    ex:name "Bad Lausick, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5834" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4730" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "497" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "202" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "353" .
+
+ex:14729020
+    a ex:Dataset ;
+    ex:name "Belgershain" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2473" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2086" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "162" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "177" .
+
+ex:14729030
+    a ex:Dataset ;
+    ex:name "Bennewitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3617" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2979" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "234" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "97" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "209" .
+
+ex:14729040
+    a ex:Dataset ;
+    ex:name "Böhlen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3796" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3330" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "259" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "12" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "167" .
+
+ex:14729050
+    a ex:Dataset ;
+    ex:name "Borna, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "12424" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10710" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "848" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "170" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "574" .
+
+ex:14729060
+    a ex:Dataset ;
+    ex:name "Borsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5014" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4414" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "249" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "44" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "282" .
+
+ex:14729070
+    a ex:Dataset ;
+    ex:name "Brandis, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "6102" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "5220" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "416" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "56" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "382" .
+
+ex:14729080
+    a ex:Dataset ;
+    ex:name "Colditz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5148" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4379" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "326" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "290" .
+
+ex:14729100
+    a ex:Dataset ;
+    ex:name "Elstertrebnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "909" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "783" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "45" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "68" .
+
+ex:14729140
+    a ex:Dataset ;
+    ex:name "Frohburg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9976" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7861" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "881" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "640" .
+
+ex:14729150
+    a ex:Dataset ;
+    ex:name "Geithain, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4901" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4004" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "337" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "287" .
+
+ex:14729160
+    a ex:Dataset ;
+    ex:name "Grimma, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "20753" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "17163" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "1528" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "1191" .
+
+ex:14729170
+    a ex:Dataset ;
+    ex:name "Groitzsch, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5027" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4242" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "258" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "203" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "298" .
+
+ex:14729190
+    a ex:Dataset ;
+    ex:name "Großpösna" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3946" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3223" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "375" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "64" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "256" .
+
+ex:14729220
+    a ex:Dataset ;
+    ex:name "Kitzscher, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3480" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2998" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "148" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "94" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "223" .
+
+ex:14729245
+    a ex:Dataset ;
+    ex:name "Lossatal" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4943" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3930" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "367" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "229" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "371" .
+
+ex:14729250
+    a ex:Dataset ;
+    ex:name "Machern" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5073" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4123" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "483" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "141" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "276" .
+
+ex:14729260
+    a ex:Dataset ;
+    ex:name "Markkleeberg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "13478" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "11921" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "845" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "56" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "598" .
+
+ex:14729270
+    a ex:Dataset ;
+    ex:name "Markranstädt, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "10168" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8410" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "885" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "193" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "586" .
+
+ex:14729300
+    a ex:Dataset ;
+    ex:name "Naunhof, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5710" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4727" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "507" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "117" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "336" .
+
+ex:14729320
+    a ex:Dataset ;
+    ex:name "Neukieritzsch" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4353" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3874" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "160" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "227" .
+
+ex:14729330
+    a ex:Dataset ;
+    ex:name "Otterwisch" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1096" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "869" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "96" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "72" .
+
+ex:14729340
+    a ex:Dataset ;
+    ex:name "Parthenstein" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2829" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2292" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "237" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "116" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "166" .
+
+ex:14729350
+    a ex:Dataset ;
+    ex:name "Pegau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4244" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3503" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "298" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "175" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "237" .
+
+ex:14729360
+    a ex:Dataset ;
+    ex:name "Regis-Breitingen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2451" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2060" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "138" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "76" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "165" .
+
+ex:14729370
+    a ex:Dataset ;
+    ex:name "Rötha, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4217" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3552" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "341" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "205" .
+
+ex:14729380
+    a ex:Dataset ;
+    ex:name "Thallwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2838" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2262" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "211" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "143" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "201" .
+
+ex:14729400
+    a ex:Dataset ;
+    ex:name "Trebsen/Mulde, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2671" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2292" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "172" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "50" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "132" .
+
+ex:14729410
+    a ex:Dataset ;
+    ex:name "Wurzen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9343" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "8012" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "609" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "183" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "479" .
+
+ex:14729430
+    a ex:Dataset ;
+    ex:name "Zwenkau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5935" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4933" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "443" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "121" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "342" .
+
+ex:14730
+    a ex:Dataset ;
+    ex:name "Nordsachsen, Landkreis" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "134663" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "110976" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "10261" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "4418" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "7748" .
+
+ex:14730010
+    a ex:Dataset ;
+    ex:name "Arzberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1579" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1277" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "83" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "106" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "97" .
+
+ex:14730020
+    a ex:Dataset ;
+    ex:name "Bad Düben, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5108" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4362" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "390" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "93" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "226" .
+
+ex:14730030
+    a ex:Dataset ;
+    ex:name "Beilrode" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3123" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2598" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "186" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "178" .
+
+ex:14730045
+    a ex:Dataset ;
+    ex:name "Belgern-Schildau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "5940" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "4852" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "438" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "248" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "369" .
+
+ex:14730050
+    a ex:Dataset ;
+    ex:name "Cavertitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1993" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1557" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "171" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "114" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "115" .
+
+ex:14730060
+    a ex:Dataset ;
+    ex:name "Dahlen, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3375" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2841" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "158" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "160" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "192" .
+
+ex:14730070
+    a ex:Dataset ;
+    ex:name "Delitzsch, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "14404" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "12473" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "977" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "133" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "709" .
+
+ex:14730080
+    a ex:Dataset ;
+    ex:name "Doberschütz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3313" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2629" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "294" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "149" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "211" .
+
+ex:14730090
+    a ex:Dataset ;
+    ex:name "Dommitzsch, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1863" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1593" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "112" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "95" .
+
+ex:14730100
+    a ex:Dataset ;
+    ex:name "Dreiheide" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1875" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1431" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "200" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "107" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "124" .
+
+ex:14730110
+    a ex:Dataset ;
+    ex:name "Eilenburg, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9063" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7692" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "593" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "212" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "455" .
+
+ex:14730120
+    a ex:Dataset ;
+    ex:name "Elsnig" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1254" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "968" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "90" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "94" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "88" .
+
+ex:14730140
+    a ex:Dataset ;
+    ex:name "Jesewitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2440" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1955" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "199" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "101" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "173" .
+
+ex:14730150
+    a ex:Dataset ;
+    ex:name "Krostitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3016" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2319" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "367" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "80" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "201" .
+
+ex:14730160
+    a ex:Dataset ;
+    ex:name "Laußig" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3128" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2500" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "235" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "151" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "216" .
+
+ex:14730170
+    a ex:Dataset ;
+    ex:name "Liebschützberg" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2563" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2070" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "178" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "133" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "154" .
+
+ex:14730180
+    a ex:Dataset ;
+    ex:name "Löbnitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1535" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1232" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "135" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "52" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "101" .
+
+ex:14730190
+    a ex:Dataset ;
+    ex:name "Mockrehna" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4171" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3217" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "338" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "262" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "328" .
+
+ex:14730200
+    a ex:Dataset ;
+    ex:name "Mügeln, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4439" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3652" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "318" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "177" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "246" .
+
+ex:14730210
+    a ex:Dataset ;
+    ex:name "Naundorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2139" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1519" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "234" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "263" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "104" .
+
+ex:14730230
+    a ex:Dataset ;
+    ex:name "Oschatz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "9353" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7898" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "621" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "167" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "495" .
+
+ex:14730250
+    a ex:Dataset ;
+    ex:name "Rackwitz" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3078" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "2611" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "231" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "37" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "181" .
+
+ex:14730270
+    a ex:Dataset ;
+    ex:name "Schkeuditz, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "11123" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "9263" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "903" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "195" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "686" .
+
+ex:14730280
+    a ex:Dataset ;
+    ex:name "Schönwölkau" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1851" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1523" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "118" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "83" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "114" .
+
+ex:14730300
+    a ex:Dataset ;
+    ex:name "Taucha, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "8707" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "7382" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "665" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "76" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "544" .
+
+ex:14730310
+    a ex:Dataset ;
+    ex:name "Torgau, Stadt" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "12068" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "10055" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "955" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "633" .
+
+ex:14730320
+    a ex:Dataset ;
+    ex:name "Trossin" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "1225" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "955" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "84" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "101" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "72" .
+
+ex:14730330
+    a ex:Dataset ;
+    ex:name "Wermsdorf" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "3924" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3276" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "286" ;
+    ex:kraftfahrzeugart_zugmaschinen_insgesamt "126" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "207" .
+
+ex:14730340
+    a ex:Dataset ;
+    ex:name "Wiedemar" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "4711" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "3415" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "529" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "301" .
+
+ex:14730360
+    a ex:Dataset ;
+    ex:name "Zschepplin" ;
+    ex:value_2 "01.01.2010" ;
+    ex:kraftfahrzeugart_insgesamt "2302" ;
+    ex:kraftfahrzeugart_pkw_insgesamt "1861" ;
+    ex:kraftfahrzeugart_lkw_insgesamt "173" ;
+    ex:kraftfahrzeugart_kraftrader_zwei_drei_und_leichte_vierradr_kfz "133" .
+
+ex:__________
+    a ex:Dataset ;
+    ex:name "nan" .
+
+ex:Quelle: Kraftfahrt-Bundesamt, Flensburg
+1) Für den Bestand an Kraftfahrzeugen und
+   Kraftfahrzeuganhängern ist ab 1. März 2007 nicht mehr der
+   Standort, sondern der Wohnort des Halters maßgebend.
+   Nur noch angemeldete Fahrzeuge ohne vorübergehende
+   Stilllegungen/Außerbetriebsetzungen.
+2) Kfz, die keinem Kreis zugeordnet werden können,
+   erscheinen nur in den Summen der NUTS 2-Regionen und
+   Sachsens.
+    a ex:Dataset ;
+    ex:name "nan" .
+
+ex:© Statistisches Landesamt des Freistaates Sachsen, Kamenz, 2026
+    a ex:Dataset ;
+    ex:name "nan" .
+
+ex:Stand: 31.05.2026 / 17:45:00
+    a ex:Dataset ;
+    ex:name "nan" .
+
