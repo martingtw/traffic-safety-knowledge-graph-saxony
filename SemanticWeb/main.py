@@ -11,7 +11,7 @@ Path(OUTPUT_DIR).mkdir(exist_ok=True)
 
 def normalize_predicate(text):
     """
-    RDF-kompatiblen Property-Namen erzeugen
+    create RDF-compatible Property-Name
     """
     text = str(text)
 
@@ -28,8 +28,8 @@ def normalize_predicate(text):
 
 def detect_header(lines):
     """
-    Sucht die letzte Headerzeile vor den eigentlichen Daten.
-    Daten beginnen mit:
+    Search for first Header-Line before the actual data.
+    Data starts with:
         14511;Chemnitz...
     """
     data_start = None
@@ -50,7 +50,7 @@ def detect_header(lines):
 
 for csv_file in Path(INPUT_DIR).glob("*.csv"):
 
-    print(f"\nVerarbeite: {csv_file.name}")
+    print(f"\nProcessing: {csv_file.name}")
 
     with open(csv_file, "r", encoding="ISO-8859-1") as f:
         lines = f.readlines()
@@ -58,12 +58,12 @@ for csv_file in Path(INPUT_DIR).glob("*.csv"):
     data_start, headers = detect_header(lines)
 
     if data_start is None:
-        print("Keine Daten gefunden.")
+        print("No data found.")
         continue
 
     header1, header2 = headers
 
-    # Daten einlesen
+    # read Data
     df = pd.read_csv(
         csv_file,
         sep=";",
@@ -73,7 +73,7 @@ for csv_file in Path(INPUT_DIR).glob("*.csv"):
         dtype=str
     )
 
-    # Spaltennamen erzeugen
+    # create Columnnames
     columns = ["code", "name"]
 
     if len(df.columns) > 2:
@@ -118,7 +118,7 @@ for csv_file in Path(INPUT_DIR).glob("*.csv"):
             name = name.replace('"', '\\"')
 
             ttl.write(f"ex:{code}\n")
-            ttl.write("    a ex:Datensatz ;\n")
+            ttl.write("    a ex:Dataset ;\n")
             ttl.write(f'    ex:name "{name}"')
 
             for col in df.columns[2:]:
@@ -141,6 +141,6 @@ for csv_file in Path(INPUT_DIR).glob("*.csv"):
 
             ttl.write(" .\n\n")
 
-    print(f"TTL erstellt: {ttl_path}")
+    print(f"TTL created: {ttl_path}")
 
-print("\nFertig.")
+print("\nDone.")
