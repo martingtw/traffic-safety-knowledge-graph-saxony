@@ -2,7 +2,7 @@
 
 This repository contains a Semantic Web project for integrating open traffic safety data about Saxony into an RDF knowledge graph.
 
-The project combines data about fixed speed cameras, traffic accidents and regional statistics. The goal is to make these heterogeneous datasets easier to connect, query and explore using RDF and SPARQL.
+The project combines data about fixed speed cameras, traffic accidents and regional statistics. The goal is to make these datasets easier to connect, query and explore using RDF and SPARQL.
 
 ## Project status
 
