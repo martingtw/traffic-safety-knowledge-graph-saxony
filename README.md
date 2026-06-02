@@ -34,3 +34,9 @@ Open data source
 → Triple store
 → SPARQL queries
 → visualization
+
+## Poster
+
+A work-in-progress project poster was created for the Leipziger Semantic Web Tag 2026 poster session.
+
+[View poster](poster/lswt-2026-traffic-safety-kg-saxony-poster.pdf)
