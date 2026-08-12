@@ -8,7 +8,7 @@ from geo.geo_utils import get_municipality
 
 BASE_DIR = os.path.dirname(__file__)
 INPUT_FILE = os.path.join(BASE_DIR, "../data/source1/source_1.geojson")
-OUTPUT_FILE = os.path.join(BASE_DIR, "../rdf_output/source1/source1_osm_speed_cameras.ttl")
+OUTPUT_FILE = os.path.join(BASE_DIR, "../rdf_output/source1_osm_speed_cameras.ttl")
 
 EX = Namespace("http://example.org/traffic/")
 OSM = Namespace("https://www.openstreetmap.org/")
@@ -31,6 +31,12 @@ def parse_int(value):
         return int(str(value).strip())
     except (ValueError, TypeError):
         return None
+
+def make_uri(name):
+    name = name.replace("/", "_")
+    name = name.replace(".", "")
+    name = name.replace(" ", "_")
+    return URIRef(EX[name])
 
 with open(INPUT_FILE, "r", encoding="utf-8") as file:
     data = json.load(file)
@@ -67,7 +73,7 @@ for feature in data["features"]:
         city = get_municipality(lat, lon)
 
         if city:
-            g.add((camera_uri, EX.locatedInMunicipality, Literal(city)))
+            g.add((camera_uri, EX.locatedInMunicipality, make_uri(city)))
 
     # OSM-Tags
     add_if_present(g, camera_uri, EX.direction, properties.get("direction"))
@@ -80,5 +86,5 @@ for feature in data["features"]:
 
 g.serialize(destination=OUTPUT_FILE, format="turtle")
 
-print(f"Converted {len(data['features'])} speed camera features to RDF.")
-print(f"Saved RDF to {OUTPUT_FILE}")
+# print(f"Converted {len(data['features'])} speed camera features to RDF.")
+print(f"Source 1: Saved RDF to {OUTPUT_FILE}\n")

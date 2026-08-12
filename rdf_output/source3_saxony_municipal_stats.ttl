@@ -1,0 +1,2511 @@
+@prefix ex: <http://example.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Adorf_Vogtl a ex:Municipality ;
+    ex:area_km2 42.97 ;
+    ex:cars_pkw_2025 3011 ;
+    ex:name "Adorf/Vogtl." ;
+    ex:population_2025 4376 .
+
+ex:Altenberg a ex:Municipality ;
+    ex:area_km2 145.89 ;
+    ex:cars_pkw_2025 4669 ;
+    ex:name "Altenberg" ;
+    ex:population_2025 7402 .
+
+ex:Altmittweida a ex:Municipality ;
+    ex:area_km2 14.08 ;
+    ex:cars_pkw_2025 1422 ;
+    ex:name "Altmittweida" ;
+    ex:population_2025 1831 .
+
+ex:Amtsberg a ex:Municipality ;
+    ex:area_km2 23.27 ;
+    ex:cars_pkw_2025 2383 ;
+    ex:name "Amtsberg" ;
+    ex:population_2025 3573 .
+
+ex:Annaberg-Buchholz a ex:Municipality ;
+    ex:area_km2 28.15 ;
+    ex:cars_pkw_2025 11184 ;
+    ex:name "Annaberg-Buchholz" ;
+    ex:population_2025 18882 .
+
+ex:Arnsdorf a ex:Municipality ;
+    ex:area_km2 35.86 ;
+    ex:cars_pkw_2025 2907 ;
+    ex:name "Arnsdorf" ;
+    ex:population_2025 4982 .
+
+ex:Arzberg a ex:Municipality ;
+    ex:area_km2 58.57 ;
+    ex:cars_pkw_2025 1163 ;
+    ex:name "Arzberg" ;
+    ex:population_2025 1741 .
+
+ex:Aue-Bad_Schlema a ex:Municipality ;
+    ex:area_km2 36.43 ;
+    ex:cars_pkw_2025 11681 ;
+    ex:name "Aue-Bad Schlema" ;
+    ex:population_2025 18968 .
+
+ex:Auerbach a ex:Municipality ;
+    ex:area_km2 8.28 ;
+    ex:cars_pkw_2025 1510 ;
+    ex:name "Auerbach" ;
+    ex:population_2025 2264 .
+
+ex:Auerbach_Vogtl a ex:Municipality ;
+    ex:area_km2 55.52 ;
+    ex:cars_pkw_2025 10889 ;
+    ex:name "Auerbach/Vogtl." ;
+    ex:population_2025 17061 .
+
+ex:Augustusburg a ex:Municipality ;
+    ex:area_km2 23.38 ;
+    ex:cars_pkw_2025 2895 ;
+    ex:name "Augustusburg" ;
+    ex:population_2025 4297 .
+
+ex:Bad_Brambach a ex:Municipality ;
+    ex:area_km2 43.92 ;
+    ex:cars_pkw_2025 1110 ;
+    ex:name "Bad Brambach" ;
+    ex:population_2025 1547 .
+
+ex:Bad_Düben a ex:Municipality ;
+    ex:area_km2 45.8 ;
+    ex:cars_pkw_2025 4671 ;
+    ex:name "Bad Düben" ;
+    ex:population_2025 7717 .
+
+ex:Bad_Elster a ex:Municipality ;
+    ex:area_km2 19.77 ;
+    ex:cars_pkw_2025 2255 ;
+    ex:name "Bad Elster" ;
+    ex:population_2025 3502 .
+
+ex:Bad_Gottleuba-Berggießhübel a ex:Municipality ;
+    ex:area_km2 88.72 ;
+    ex:cars_pkw_2025 3566 ;
+    ex:name "Bad Gottleuba-Berggießhübel" ;
+    ex:population_2025 5315 .
+
+ex:Bad_Lausick a ex:Municipality ;
+    ex:area_km2 70.03 ;
+    ex:cars_pkw_2025 5094 ;
+    ex:name "Bad Lausick" ;
+    ex:population_2025 8007 .
+
+ex:Bad_Muskau a ex:Municipality ;
+    ex:area_km2 15.38 ;
+    ex:cars_pkw_2025 1955 ;
+    ex:name "Bad Muskau" ;
+    ex:population_2025 3508 .
+
+ex:Bad_Schandau a ex:Municipality ;
+    ex:area_km2 46.78 ;
+    ex:cars_pkw_2025 2067 ;
+    ex:name "Bad Schandau" ;
+    ex:population_2025 3259 .
+
+ex:Bahretal a ex:Municipality ;
+    ex:area_km2 36.46 ;
+    ex:cars_pkw_2025 1487 ;
+    ex:name "Bahretal" ;
+    ex:population_2025 2076 .
+
+ex:Bannewitz a ex:Municipality ;
+    ex:area_km2 25.75 ;
+    ex:cars_pkw_2025 6765 ;
+    ex:name "Bannewitz" ;
+    ex:population_2025 11013 .
+
+ex:Bautzen a ex:Municipality ;
+    ex:area_km2 66.66 ;
+    ex:cars_pkw_2025 20627 ;
+    ex:name "Bautzen" ;
+    ex:population_2025 37306 .
+
+ex:Beiersdorf a ex:Municipality ;
+    ex:area_km2 6.45 ;
+    ex:cars_pkw_2025 757 ;
+    ex:name "Beiersdorf" ;
+    ex:population_2025 1013 .
+
+ex:Beilrode a ex:Municipality ;
+    ex:area_km2 93.28 ;
+    ex:cars_pkw_2025 2551 ;
+    ex:name "Beilrode" ;
+    ex:population_2025 4153 .
+
+ex:Belgern-Schildau a ex:Municipality ;
+    ex:area_km2 158.99 ;
+    ex:cars_pkw_2025 4752 ;
+    ex:name "Belgern-Schildau" ;
+    ex:population_2025 7371 .
+
+ex:Belgershain a ex:Municipality ;
+    ex:area_km2 22.8 ;
+    ex:cars_pkw_2025 2262 ;
+    ex:name "Belgershain" ;
+    ex:population_2025 3455 .
+
+ex:Bennewitz a ex:Municipality ;
+    ex:area_km2 46.81 ;
+    ex:cars_pkw_2025 3155 ;
+    ex:name "Bennewitz" ;
+    ex:population_2025 5102 .
+
+ex:Bergen a ex:Municipality ;
+    ex:area_km2 8.34 ;
+    ex:cars_pkw_2025 643 ;
+    ex:name "Bergen" ;
+    ex:population_2025 892 .
+
+ex:Bernsdorf a ex:Municipality ;
+    ex:area_km2 14.82,
+        59.86 ;
+    ex:cars_pkw_2025 1579,
+        4031 ;
+    ex:name "Bernsdorf" ;
+    ex:population_2025 2078,
+        6191 .
+
+ex:Bernstadt_a_d_Eigen a ex:Municipality ;
+    ex:area_km2 52.0 ;
+    ex:cars_pkw_2025 2087 ;
+    ex:name "Bernstadt a. d. Eigen" ;
+    ex:population_2025 3083 .
+
+ex:Bertsdorf-Hörnitz a ex:Municipality ;
+    ex:area_km2 18.0 ;
+    ex:cars_pkw_2025 1305 ;
+    ex:name "Bertsdorf-Hörnitz" ;
+    ex:population_2025 1978 .
+
+ex:Bischofswerda a ex:Municipality ;
+    ex:area_km2 46.21 ;
+    ex:cars_pkw_2025 6031 ;
+    ex:name "Bischofswerda" ;
+    ex:population_2025 10519 .
+
+ex:Bobritzsch-Hilbersdorf a ex:Municipality ;
+    ex:area_km2 55.12 ;
+    ex:cars_pkw_2025 3651 ;
+    ex:name "Bobritzsch-Hilbersdorf" ;
+    ex:population_2025 5651 .
+
+ex:Bockau a ex:Municipality ;
+    ex:area_km2 19.14 ;
+    ex:cars_pkw_2025 1391 ;
+    ex:name "Bockau" ;
+    ex:population_2025 2054 .
+
+ex:Borna a ex:Municipality ;
+    ex:area_km2 62.45 ;
+    ex:cars_pkw_2025 10760 ;
+    ex:name "Borna" ;
+    ex:population_2025 20129 .
+
+ex:Borsdorf a ex:Municipality ;
+    ex:area_km2 15.64 ;
+    ex:cars_pkw_2025 5064 ;
+    ex:name "Borsdorf" ;
+    ex:population_2025 8089 .
+
+ex:Boxberg_OL a ex:Municipality ;
+    ex:area_km2 217.67 ;
+    ex:cars_pkw_2025 2773 ;
+    ex:name "Boxberg/O.L." ;
+    ex:population_2025 4186 .
+
+ex:Brand-Erbisdorf a ex:Municipality ;
+    ex:area_km2 46.33 ;
+    ex:cars_pkw_2025 5626 ;
+    ex:name "Brand-Erbisdorf" ;
+    ex:population_2025 8695 .
+
+ex:Brandis a ex:Municipality ;
+    ex:area_km2 34.89 ;
+    ex:cars_pkw_2025 6183 ;
+    ex:name "Brandis" ;
+    ex:population_2025 9634 .
+
+ex:Breitenbrunn_Erzgeb a ex:Municipality ;
+    ex:area_km2 60.0 ;
+    ex:cars_pkw_2025 3011 ;
+    ex:name "Breitenbrunn/Erzgeb." ;
+    ex:population_2025 4684 .
+
+ex:Burgstädt a ex:Municipality ;
+    ex:area_km2 25.88 ;
+    ex:cars_pkw_2025 6416 ;
+    ex:name "Burgstädt" ;
+    ex:population_2025 10333 .
+
+ex:Burkau a ex:Municipality ;
+    ex:area_km2 31.9 ;
+    ex:cars_pkw_2025 1887 ;
+    ex:name "Burkau" ;
+    ex:population_2025 2540 .
+
+ex:Burkhardtsdorf a ex:Municipality ;
+    ex:area_km2 21.22 ;
+    ex:cars_pkw_2025 3818 ;
+    ex:name "Burkhardtsdorf" ;
+    ex:population_2025 5845 .
+
+ex:Bärenstein a ex:Municipality ;
+    ex:area_km2 5.47 ;
+    ex:cars_pkw_2025 1356 ;
+    ex:name "Bärenstein" ;
+    ex:population_2025 2134 .
+
+ex:Böhlen a ex:Municipality ;
+    ex:area_km2 25.27 ;
+    ex:cars_pkw_2025 3646 ;
+    ex:name "Böhlen" ;
+    ex:population_2025 6796 .
+
+ex:Börnichen_Erzgeb a ex:Municipality ;
+    ex:area_km2 15.46 ;
+    ex:cars_pkw_2025 595 ;
+    ex:name "Börnichen/Erzgeb." ;
+    ex:population_2025 947 .
+
+ex:Bösenbrunn a ex:Municipality ;
+    ex:area_km2 34.21 ;
+    ex:cars_pkw_2025 761 ;
+    ex:name "Bösenbrunn" ;
+    ex:population_2025 1037 .
+
+ex:Callenberg a ex:Municipality ;
+    ex:area_km2 39.86 ;
+    ex:cars_pkw_2025 3254 ;
+    ex:name "Callenberg" ;
+    ex:population_2025 4594 .
+
+ex:Cavertitz a ex:Municipality ;
+    ex:area_km2 69.17 ;
+    ex:cars_pkw_2025 1428 ;
+    ex:name "Cavertitz" ;
+    ex:population_2025 2061 .
+
+ex:Chemnitz a ex:Municipality ;
+    ex:area_km2 221.03 ;
+    ex:cars_pkw_2025 126488 ;
+    ex:name "Chemnitz" ;
+    ex:population_2025 247252 .
+
+ex:Claußnitz a ex:Municipality ;
+    ex:area_km2 21.38 ;
+    ex:cars_pkw_2025 2071 ;
+    ex:name "Claußnitz" ;
+    ex:population_2025 2868 .
+
+ex:Colditz a ex:Municipality ;
+    ex:area_km2 84.07 ;
+    ex:cars_pkw_2025 5103 ;
+    ex:name "Colditz" ;
+    ex:population_2025 8209 .
+
+ex:Coswig a ex:Municipality ;
+    ex:area_km2 25.85 ;
+    ex:cars_pkw_2025 11479 ;
+    ex:name "Coswig" ;
+    ex:population_2025 20479 .
+
+ex:Crimmitschau a ex:Municipality ;
+    ex:area_km2 61.14 ;
+    ex:cars_pkw_2025 10627 ;
+    ex:name "Crimmitschau" ;
+    ex:population_2025 17820 .
+
+ex:Crinitzberg a ex:Municipality ;
+    ex:area_km2 18.81 ;
+    ex:cars_pkw_2025 1169 ;
+    ex:name "Crinitzberg" ;
+    ex:population_2025 1716 .
+
+ex:Crostwitz a ex:Municipality ;
+    ex:area_km2 13.33 ;
+    ex:cars_pkw_2025 627 ;
+    ex:name "Crostwitz" ;
+    ex:population_2025 1034 .
+
+ex:Crottendorf a ex:Municipality ;
+    ex:area_km2 36.42 ;
+    ex:cars_pkw_2025 2431 ;
+    ex:name "Crottendorf" ;
+    ex:population_2025 3774 .
+
+ex:Cunewalde a ex:Municipality ;
+    ex:area_km2 26.64 ;
+    ex:cars_pkw_2025 2928 ;
+    ex:name "Cunewalde" ;
+    ex:population_2025 4417 .
+
+ex:Dahlen a ex:Municipality ;
+    ex:area_km2 71.87 ;
+    ex:cars_pkw_2025 2555 ;
+    ex:name "Dahlen" ;
+    ex:population_2025 4051 .
+
+ex:Delitzsch a ex:Municipality ;
+    ex:area_km2 85.92 ;
+    ex:cars_pkw_2025 14077 ;
+    ex:name "Delitzsch" ;
+    ex:population_2025 25750 .
+
+ex:Demitz-Thumitz a ex:Municipality ;
+    ex:area_km2 21.11 ;
+    ex:cars_pkw_2025 1673 ;
+    ex:name "Demitz-Thumitz" ;
+    ex:population_2025 2611 .
+
+ex:Dennheritz a ex:Municipality ;
+    ex:area_km2 13.37 ;
+    ex:cars_pkw_2025 888 ;
+    ex:name "Dennheritz" ;
+    ex:population_2025 1247 .
+
+ex:Deutschneudorf a ex:Municipality ;
+    ex:area_km2 8.05 ;
+    ex:cars_pkw_2025 576 ;
+    ex:name "Deutschneudorf" ;
+    ex:population_2025 814 .
+
+ex:Diera-Zehren a ex:Municipality ;
+    ex:area_km2 43.21 ;
+    ex:cars_pkw_2025 2169 ;
+    ex:name "Diera-Zehren" ;
+    ex:population_2025 3174 .
+
+ex:Dippoldiswalde a ex:Municipality ;
+    ex:area_km2 103.99 ;
+    ex:cars_pkw_2025 8967 ;
+    ex:name "Dippoldiswalde" ;
+    ex:population_2025 13880 .
+
+ex:Doberschau-Gaußig a ex:Municipality ;
+    ex:area_km2 40.48 ;
+    ex:cars_pkw_2025 2787 ;
+    ex:name "Doberschau-Gaußig" ;
+    ex:population_2025 4164 .
+
+ex:Doberschütz a ex:Municipality ;
+    ex:area_km2 77.77 ;
+    ex:cars_pkw_2025 2882 ;
+    ex:name "Doberschütz" ;
+    ex:population_2025 3985 .
+
+ex:Dohma a ex:Municipality ;
+    ex:area_km2 19.53 ;
+    ex:cars_pkw_2025 1317 ;
+    ex:name "Dohma" ;
+    ex:population_2025 1973 .
+
+ex:Dohna a ex:Municipality ;
+    ex:area_km2 28.59 ;
+    ex:cars_pkw_2025 3978 ;
+    ex:name "Dohna" ;
+    ex:population_2025 6029 .
+
+ex:Dommitzsch a ex:Municipality ;
+    ex:area_km2 30.44 ;
+    ex:cars_pkw_2025 1468 ;
+    ex:name "Dommitzsch" ;
+    ex:population_2025 2206 .
+
+ex:Dorfchemnitz a ex:Municipality ;
+    ex:area_km2 29.58 ;
+    ex:cars_pkw_2025 981 ;
+    ex:name "Dorfchemnitz" ;
+    ex:population_2025 1411 .
+
+ex:Dorfhain a ex:Municipality ;
+    ex:area_km2 6.25 ;
+    ex:cars_pkw_2025 721 ;
+    ex:name "Dorfhain" ;
+    ex:population_2025 1039 .
+
+ex:Drebach a ex:Municipality ;
+    ex:area_km2 32.86 ;
+    ex:cars_pkw_2025 3269 ;
+    ex:name "Drebach" ;
+    ex:population_2025 4788 .
+
+ex:Dreiheide a ex:Municipality ;
+    ex:area_km2 33.62 ;
+    ex:cars_pkw_2025 1467 ;
+    ex:name "Dreiheide" ;
+    ex:population_2025 2039 .
+
+ex:Dresden a ex:Municipality ;
+    ex:area_km2 328.48 ;
+    ex:cars_pkw_2025 229637 ;
+    ex:name "Dresden" ;
+    ex:population_2025 562764 .
+
+ex:Döbeln a ex:Municipality ;
+    ex:area_km2 91.75 ;
+    ex:cars_pkw_2025 13238 ;
+    ex:name "Döbeln" ;
+    ex:population_2025 23907 .
+
+ex:Dürrhennersdorf a ex:Municipality ;
+    ex:area_km2 10.71 ;
+    ex:cars_pkw_2025 608 ;
+    ex:name "Dürrhennersdorf" ;
+    ex:population_2025 835 .
+
+ex:Dürrröhrsdorf-Dittersbach a ex:Municipality ;
+    ex:area_km2 43.51 ;
+    ex:cars_pkw_2025 2880 ;
+    ex:name "Dürrröhrsdorf-Dittersbach" ;
+    ex:population_2025 4226 .
+
+ex:Ebersbach a ex:Municipality ;
+    ex:area_km2 84.38 ;
+    ex:cars_pkw_2025 2902 ;
+    ex:name "Ebersbach" ;
+    ex:population_2025 4282 .
+
+ex:Ebersbach-Neugersdorf a ex:Municipality ;
+    ex:area_km2 20.45 ;
+    ex:cars_pkw_2025 6746 ;
+    ex:name "Ebersbach-Neugersdorf" ;
+    ex:population_2025 10749 .
+
+ex:Ehrenfriedersdorf a ex:Municipality ;
+    ex:area_km2 15.89 ;
+    ex:cars_pkw_2025 2729 ;
+    ex:name "Ehrenfriedersdorf" ;
+    ex:population_2025 4320 .
+
+ex:Eibenstock a ex:Municipality ;
+    ex:area_km2 112.24 ;
+    ex:cars_pkw_2025 4013 ;
+    ex:name "Eibenstock" ;
+    ex:population_2025 6701 .
+
+ex:Eichigt a ex:Municipality ;
+    ex:area_km2 32.73 ;
+    ex:cars_pkw_2025 884 ;
+    ex:name "Eichigt" ;
+    ex:population_2025 1081 .
+
+ex:Eilenburg a ex:Municipality ;
+    ex:area_km2 46.85 ;
+    ex:cars_pkw_2025 8726 ;
+    ex:name "Eilenburg" ;
+    ex:population_2025 16507 .
+
+ex:Ellefeld a ex:Municipality ;
+    ex:area_km2 4.55 ;
+    ex:cars_pkw_2025 1562 ;
+    ex:name "Ellefeld" ;
+    ex:population_2025 2350 .
+
+ex:Elsnig a ex:Municipality ;
+    ex:area_km2 36.91 ;
+    ex:cars_pkw_2025 939 ;
+    ex:name "Elsnig" ;
+    ex:population_2025 1313 .
+
+ex:Elsterberg a ex:Municipality ;
+    ex:area_km2 25.1 ;
+    ex:cars_pkw_2025 2341 ;
+    ex:name "Elsterberg" ;
+    ex:population_2025 3570 .
+
+ex:Elsterheide a ex:Municipality ;
+    ex:area_km2 127.61 ;
+    ex:cars_pkw_2025 2558 ;
+    ex:name "Elsterheide" ;
+    ex:population_2025 3241 .
+
+ex:Elstertrebnitz a ex:Municipality ;
+    ex:area_km2 11.66 ;
+    ex:cars_pkw_2025 896 ;
+    ex:name "Elstertrebnitz" ;
+    ex:population_2025 1315 .
+
+ex:Elstra a ex:Municipality ;
+    ex:area_km2 32.63 ;
+    ex:cars_pkw_2025 1780 ;
+    ex:name "Elstra" ;
+    ex:population_2025 2657 .
+
+ex:Elterlein a ex:Municipality ;
+    ex:area_km2 45.74 ;
+    ex:cars_pkw_2025 1854 ;
+    ex:name "Elterlein" ;
+    ex:population_2025 2614 .
+
+ex:Eppendorf a ex:Municipality ;
+    ex:area_km2 33.87 ;
+    ex:cars_pkw_2025 2452 ;
+    ex:name "Eppendorf" ;
+    ex:population_2025 3740 .
+
+ex:Erlau a ex:Municipality ;
+    ex:area_km2 37.83 ;
+    ex:cars_pkw_2025 2165 ;
+    ex:name "Erlau" ;
+    ex:population_2025 3057 .
+
+ex:Falkenstein_Vogtl a ex:Municipality ;
+    ex:area_km2 31.06 ;
+    ex:cars_pkw_2025 4793 ;
+    ex:name "Falkenstein/Vogtl." ;
+    ex:population_2025 7321 .
+
+ex:Flöha a ex:Municipality ;
+    ex:area_km2 27.76 ;
+    ex:cars_pkw_2025 5847 ;
+    ex:name "Flöha" ;
+    ex:population_2025 10218 .
+
+ex:Frankenberg_Sa a ex:Municipality ;
+    ex:area_km2 65.62 ;
+    ex:cars_pkw_2025 8225 ;
+    ex:name "Frankenberg/Sa." ;
+    ex:population_2025 13635 .
+
+ex:Frankenthal a ex:Municipality ;
+    ex:area_km2 9.42 ;
+    ex:cars_pkw_2025 584 ;
+    ex:name "Frankenthal" ;
+    ex:population_2025 898 .
+
+ex:Frauenstein a ex:Municipality ;
+    ex:area_km2 58.98 ;
+    ex:cars_pkw_2025 1746 ;
+    ex:name "Frauenstein" ;
+    ex:population_2025 2667 .
+
+ex:Fraureuth a ex:Municipality ;
+    ex:area_km2 22.6 ;
+    ex:cars_pkw_2025 3250 ;
+    ex:name "Fraureuth" ;
+    ex:population_2025 4969 .
+
+ex:Freiberg a ex:Municipality ;
+    ex:area_km2 48.31 ;
+    ex:cars_pkw_2025 19464 ;
+    ex:name "Freiberg" ;
+    ex:population_2025 41205 .
+
+ex:Freital a ex:Municipality ;
+    ex:area_km2 40.46 ;
+    ex:cars_pkw_2025 22083 ;
+    ex:name "Freital" ;
+    ex:population_2025 39174 .
+
+ex:Frohburg a ex:Municipality ;
+    ex:area_km2 145.3 ;
+    ex:cars_pkw_2025 7960 ;
+    ex:name "Frohburg" ;
+    ex:population_2025 11975 .
+
+ex:Gablenz a ex:Municipality ;
+    ex:area_km2 14.74 ;
+    ex:cars_pkw_2025 1061 ;
+    ex:name "Gablenz" ;
+    ex:population_2025 1526 .
+
+ex:Geithain a ex:Municipality ;
+    ex:area_km2 54.71 ;
+    ex:cars_pkw_2025 3984 ;
+    ex:name "Geithain" ;
+    ex:population_2025 6774 .
+
+ex:Gelenau_Erzgeb a ex:Municipality ;
+    ex:area_km2 21.1 ;
+    ex:cars_pkw_2025 2632 ;
+    ex:name "Gelenau/Erzgeb." ;
+    ex:population_2025 3954 .
+
+ex:Geringswalde a ex:Municipality ;
+    ex:area_km2 30.05 ;
+    ex:cars_pkw_2025 2480 ;
+    ex:name "Geringswalde" ;
+    ex:population_2025 3994 .
+
+ex:Gersdorf a ex:Municipality ;
+    ex:area_km2 9.69 ;
+    ex:cars_pkw_2025 2430 ;
+    ex:name "Gersdorf" ;
+    ex:population_2025 3649 .
+
+ex:Geyer a ex:Municipality ;
+    ex:area_km2 18.56 ;
+    ex:cars_pkw_2025 2153 ;
+    ex:name "Geyer" ;
+    ex:population_2025 3239 .
+
+ex:Glashütte a ex:Municipality ;
+    ex:area_km2 95.64 ;
+    ex:cars_pkw_2025 4219 ;
+    ex:name "Glashütte" ;
+    ex:population_2025 6304 .
+
+ex:Glaubitz a ex:Municipality ;
+    ex:area_km2 14.0 ;
+    ex:cars_pkw_2025 1260 ;
+    ex:name "Glaubitz" ;
+    ex:population_2025 1942 .
+
+ex:Glauchau a ex:Municipality ;
+    ex:area_km2 51.62 ;
+    ex:cars_pkw_2025 13322 ;
+    ex:name "Glauchau" ;
+    ex:population_2025 21341 .
+
+ex:Gohrisch a ex:Municipality ;
+    ex:area_km2 34.87 ;
+    ex:cars_pkw_2025 1237 ;
+    ex:name "Gohrisch" ;
+    ex:population_2025 1732 .
+
+ex:Gornau_Erzgeb a ex:Municipality ;
+    ex:area_km2 19.78 ;
+    ex:cars_pkw_2025 2637 ;
+    ex:name "Gornau/Erzgeb." ;
+    ex:population_2025 3659 .
+
+ex:Gornsdorf a ex:Municipality ;
+    ex:area_km2 4.19 ;
+    ex:cars_pkw_2025 1226 ;
+    ex:name "Gornsdorf" ;
+    ex:population_2025 1889 .
+
+ex:Grimma a ex:Municipality ;
+    ex:area_km2 218.23 ;
+    ex:cars_pkw_2025 17730 ;
+    ex:name "Grimma" ;
+    ex:population_2025 27554 .
+
+ex:Groitzsch a ex:Municipality ;
+    ex:area_km2 70.17 ;
+    ex:cars_pkw_2025 4480 ;
+    ex:name "Groitzsch" ;
+    ex:population_2025 7352 .
+
+ex:Groß_Düben a ex:Municipality ;
+    ex:area_km2 15.07 ;
+    ex:cars_pkw_2025 754 ;
+    ex:name "Groß Düben" ;
+    ex:population_2025 1033 .
+
+ex:Großdubrau a ex:Municipality ;
+    ex:area_km2 54.22 ;
+    ex:cars_pkw_2025 2704 ;
+    ex:name "Großdubrau" ;
+    ex:population_2025 3978 .
+
+ex:Großenhain a ex:Municipality ;
+    ex:area_km2 130.36 ;
+    ex:cars_pkw_2025 10692 ;
+    ex:name "Großenhain" ;
+    ex:population_2025 17974 .
+
+ex:Großharthau a ex:Municipality ;
+    ex:area_km2 37.28 ;
+    ex:cars_pkw_2025 1891 ;
+    ex:name "Großharthau" ;
+    ex:population_2025 2945 .
+
+ex:Großhartmannsdorf a ex:Municipality ;
+    ex:area_km2 32.2 ;
+    ex:cars_pkw_2025 1671 ;
+    ex:name "Großhartmannsdorf" ;
+    ex:population_2025 2347 .
+
+ex:Großnaundorf a ex:Municipality ;
+    ex:area_km2 14.99 ;
+    ex:cars_pkw_2025 600 ;
+    ex:name "Großnaundorf" ;
+    ex:population_2025 885 .
+
+ex:Großolbersdorf a ex:Municipality ;
+    ex:area_km2 22.58 ;
+    ex:cars_pkw_2025 1759 ;
+    ex:name "Großolbersdorf" ;
+    ex:population_2025 2707 .
+
+ex:Großpostwitz_OL a ex:Municipality ;
+    ex:area_km2 16.48 ;
+    ex:cars_pkw_2025 1829 ;
+    ex:name "Großpostwitz/O.L." ;
+    ex:population_2025 2694 .
+
+ex:Großpösna a ex:Municipality ;
+    ex:area_km2 41.56 ;
+    ex:cars_pkw_2025 3824 ;
+    ex:name "Großpösna" ;
+    ex:population_2025 5716 .
+
+ex:Großröhrsdorf a ex:Municipality ;
+    ex:area_km2 40.95 ;
+    ex:cars_pkw_2025 5967 ;
+    ex:name "Großröhrsdorf" ;
+    ex:population_2025 9480 .
+
+ex:Großrückerswalde a ex:Municipality ;
+    ex:area_km2 26.65 ;
+    ex:cars_pkw_2025 2197 ;
+    ex:name "Großrückerswalde" ;
+    ex:population_2025 3121 .
+
+ex:Großschirma a ex:Municipality ;
+    ex:area_km2 61.63 ;
+    ex:cars_pkw_2025 3722 ;
+    ex:name "Großschirma" ;
+    ex:population_2025 5203 .
+
+ex:Großschweidnitz a ex:Municipality ;
+    ex:area_km2 7.47 ;
+    ex:cars_pkw_2025 729 ;
+    ex:name "Großschweidnitz" ;
+    ex:population_2025 1225 .
+
+ex:Großschönau a ex:Municipality ;
+    ex:area_km2 23.82 ;
+    ex:cars_pkw_2025 3400 ;
+    ex:name "Großschönau" ;
+    ex:population_2025 5081 .
+
+ex:Großweitzschen a ex:Municipality ;
+    ex:area_km2 44.45 ;
+    ex:cars_pkw_2025 1613 ;
+    ex:name "Großweitzschen" ;
+    ex:population_2025 2624 .
+
+ex:Gröditz a ex:Municipality ;
+    ex:area_km2 28.94 ;
+    ex:cars_pkw_2025 3659 ;
+    ex:name "Gröditz" ;
+    ex:population_2025 6587 .
+
+ex:Grünbach a ex:Municipality ;
+    ex:area_km2 27.55 ;
+    ex:cars_pkw_2025 1008 ;
+    ex:name "Grünbach" ;
+    ex:population_2025 1616 .
+
+ex:Grünhain-Beierfeld a ex:Municipality ;
+    ex:area_km2 22.25 ;
+    ex:cars_pkw_2025 3615 ;
+    ex:name "Grünhain-Beierfeld" ;
+    ex:population_2025 5483 .
+
+ex:Grünhainichen a ex:Municipality ;
+    ex:area_km2 28.72 ;
+    ex:cars_pkw_2025 2101 ;
+    ex:name "Grünhainichen" ;
+    ex:population_2025 2993 .
+
+ex:Göda a ex:Municipality ;
+    ex:area_km2 43.26 ;
+    ex:cars_pkw_2025 2043 ;
+    ex:name "Göda" ;
+    ex:population_2025 2907 .
+
+ex:Görlitz a ex:Municipality ;
+    ex:area_km2 67.53 ;
+    ex:cars_pkw_2025 25833 ;
+    ex:name "Görlitz" ;
+    ex:population_2025 55065 .
+
+ex:Hainewalde a ex:Municipality ;
+    ex:area_km2 12.96 ;
+    ex:cars_pkw_2025 1044 ;
+    ex:name "Hainewalde" ;
+    ex:population_2025 1501 .
+
+ex:Hainichen a ex:Municipality ;
+    ex:area_km2 51.73 ;
+    ex:cars_pkw_2025 5237 ;
+    ex:name "Hainichen" ;
+    ex:population_2025 8154 .
+
+ex:Halsbrücke a ex:Municipality ;
+    ex:area_km2 41.04 ;
+    ex:cars_pkw_2025 3440 ;
+    ex:name "Halsbrücke" ;
+    ex:population_2025 4965 .
+
+ex:Hartenstein a ex:Municipality ;
+    ex:area_km2 36.7 ;
+    ex:cars_pkw_2025 2730 ;
+    ex:name "Hartenstein" ;
+    ex:population_2025 4403 .
+
+ex:Hartha a ex:Municipality ;
+    ex:area_km2 54.4 ;
+    ex:cars_pkw_2025 3980 ;
+    ex:name "Hartha" ;
+    ex:population_2025 6402 .
+
+ex:Hartmannsdorf a ex:Municipality ;
+    ex:area_km2 10.28 ;
+    ex:cars_pkw_2025 3016 ;
+    ex:name "Hartmannsdorf" ;
+    ex:population_2025 4452 .
+
+ex:Hartmannsdorf-Reichenau a ex:Municipality ;
+    ex:area_km2 28.36 ;
+    ex:cars_pkw_2025 680 ;
+    ex:name "Hartmannsdorf-Reichenau" ;
+    ex:population_2025 1030 .
+
+ex:Hartmannsdorf_b_Kirchberg a ex:Municipality ;
+    ex:area_km2 27.17 ;
+    ex:cars_pkw_2025 881 ;
+    ex:name "Hartmannsdorf b. Kirchberg" ;
+    ex:population_2025 1316 .
+
+ex:Haselbachtal a ex:Municipality ;
+    ex:area_km2 37.5 ;
+    ex:cars_pkw_2025 2643 ;
+    ex:name "Haselbachtal" ;
+    ex:population_2025 3809 .
+
+ex:Heidenau a ex:Municipality ;
+    ex:area_km2 11.07 ;
+    ex:cars_pkw_2025 8680 ;
+    ex:name "Heidenau" ;
+    ex:population_2025 16597 .
+
+ex:Heidersdorf a ex:Municipality ;
+    ex:area_km2 9.51 ;
+    ex:cars_pkw_2025 507 ;
+    ex:name "Heidersdorf" ;
+    ex:population_2025 732 .
+
+ex:Heinsdorfergrund a ex:Municipality ;
+    ex:area_km2 21.86 ;
+    ex:cars_pkw_2025 1649 ;
+    ex:name "Heinsdorfergrund" ;
+    ex:population_2025 1903 .
+
+ex:Hermsdorf_Erzgeb a ex:Municipality ;
+    ex:area_km2 20.06 ;
+    ex:cars_pkw_2025 509 ;
+    ex:name "Hermsdorf/Erzgeb." ;
+    ex:population_2025 717 .
+
+ex:Herrnhut a ex:Municipality ;
+    ex:area_km2 74.13 ;
+    ex:cars_pkw_2025 3391 ;
+    ex:name "Herrnhut" ;
+    ex:population_2025 5654 .
+
+ex:Hirschfeld a ex:Municipality ;
+    ex:area_km2 18.98 ;
+    ex:cars_pkw_2025 788 ;
+    ex:name "Hirschfeld" ;
+    ex:population_2025 1011 .
+
+ex:Hirschstein a ex:Municipality ;
+    ex:area_km2 34.59 ;
+    ex:cars_pkw_2025 1337 ;
+    ex:name "Hirschstein" ;
+    ex:population_2025 1924 .
+
+ex:Hochkirch a ex:Municipality ;
+    ex:area_km2 41.76 ;
+    ex:cars_pkw_2025 1430 ;
+    ex:name "Hochkirch" ;
+    ex:population_2025 2161 .
+
+ex:Hohendubrau a ex:Municipality ;
+    ex:area_km2 45.54 ;
+    ex:cars_pkw_2025 1267 ;
+    ex:name "Hohendubrau" ;
+    ex:population_2025 1829 .
+
+ex:Hohenstein-Ernstthal a ex:Municipality ;
+    ex:area_km2 18.58 ;
+    ex:cars_pkw_2025 8287 ;
+    ex:name "Hohenstein-Ernstthal" ;
+    ex:population_2025 13681 .
+
+ex:Hohndorf a ex:Municipality ;
+    ex:area_km2 5.25 ;
+    ex:cars_pkw_2025 2185 ;
+    ex:name "Hohndorf" ;
+    ex:population_2025 3300 .
+
+ex:Hohnstein a ex:Municipality ;
+    ex:area_km2 64.64 ;
+    ex:cars_pkw_2025 1971 ;
+    ex:name "Hohnstein" ;
+    ex:population_2025 3076 .
+
+ex:Horka a ex:Municipality ;
+    ex:area_km2 41.02 ;
+    ex:cars_pkw_2025 1144 ;
+    ex:name "Horka" ;
+    ex:population_2025 1542 .
+
+ex:Hoyerswerda a ex:Municipality ;
+    ex:area_km2 94.99 ;
+    ex:cars_pkw_2025 17136 ;
+    ex:name "Hoyerswerda" ;
+    ex:population_2025 30458 .
+
+ex:Hähnichen a ex:Municipality ;
+    ex:area_km2 49.76 ;
+    ex:cars_pkw_2025 799 ;
+    ex:name "Hähnichen" ;
+    ex:population_2025 1147 .
+
+ex:Jahnatal a ex:Municipality ;
+    ex:area_km2 70.95 ;
+    ex:cars_pkw_2025 3149 ;
+    ex:name "Jahnatal" ;
+    ex:population_2025 4738 .
+
+ex:Jahnsdorf_Erzgeb a ex:Municipality ;
+    ex:area_km2 26.23 ;
+    ex:cars_pkw_2025 3606 ;
+    ex:name "Jahnsdorf/Erzgeb." ;
+    ex:population_2025 5208 .
+
+ex:Jesewitz a ex:Municipality ;
+    ex:area_km2 52.44 ;
+    ex:cars_pkw_2025 2108 ;
+    ex:name "Jesewitz" ;
+    ex:population_2025 3050 .
+
+ex:Johanngeorgenstadt a ex:Municipality ;
+    ex:area_km2 29.59 ;
+    ex:cars_pkw_2025 2075 ;
+    ex:name "Johanngeorgenstadt" ;
+    ex:population_2025 3471 .
+
+ex:Jonsdorf a ex:Municipality ;
+    ex:area_km2 9.03 ;
+    ex:cars_pkw_2025 933 ;
+    ex:name "Jonsdorf" ;
+    ex:population_2025 1408 .
+
+ex:Jöhstadt a ex:Municipality ;
+    ex:area_km2 49.69 ;
+    ex:cars_pkw_2025 1714 ;
+    ex:name "Jöhstadt" ;
+    ex:population_2025 2376 .
+
+ex:Kamenz a ex:Municipality ;
+    ex:area_km2 98.3 ;
+    ex:cars_pkw_2025 10127 ;
+    ex:name "Kamenz" ;
+    ex:population_2025 16878 .
+
+ex:Kirchberg a ex:Municipality ;
+    ex:area_km2 39.56 ;
+    ex:cars_pkw_2025 4881 ;
+    ex:name "Kirchberg" ;
+    ex:population_2025 7621 .
+
+ex:Kitzscher a ex:Municipality ;
+    ex:area_km2 29.04 ;
+    ex:cars_pkw_2025 3018 ;
+    ex:name "Kitzscher" ;
+    ex:population_2025 5226 .
+
+ex:Klingenberg a ex:Municipality ;
+    ex:area_km2 86.75 ;
+    ex:cars_pkw_2025 4387 ;
+    ex:name "Klingenberg" ;
+    ex:population_2025 6569 .
+
+ex:Klingenthal a ex:Municipality ;
+    ex:area_km2 50.44 ;
+    ex:cars_pkw_2025 4742 ;
+    ex:name "Klingenthal" ;
+    ex:population_2025 7211 .
+
+ex:Klipphausen a ex:Municipality ;
+    ex:area_km2 111.67 ;
+    ex:cars_pkw_2025 7096 ;
+    ex:name "Klipphausen" ;
+    ex:population_2025 10245 .
+
+ex:Kodersdorf a ex:Municipality ;
+    ex:area_km2 42.54 ;
+    ex:cars_pkw_2025 1659 ;
+    ex:name "Kodersdorf" ;
+    ex:population_2025 2237 .
+
+ex:Kottmar a ex:Municipality ;
+    ex:area_km2 47.34 ;
+    ex:cars_pkw_2025 4530 ;
+    ex:name "Kottmar" ;
+    ex:population_2025 6855 .
+
+ex:Krauschwitz_id_OL a ex:Municipality ;
+    ex:area_km2 106.83 ;
+    ex:cars_pkw_2025 2147 ;
+    ex:name "Krauschwitz i.d. O.L." ;
+    ex:population_2025 3130 .
+
+ex:Kreba-Neudorf a ex:Municipality ;
+    ex:area_km2 31.65 ;
+    ex:cars_pkw_2025 572 ;
+    ex:name "Kreba-Neudorf" ;
+    ex:population_2025 809 .
+
+ex:Kreischa a ex:Municipality ;
+    ex:area_km2 28.92 ;
+    ex:cars_pkw_2025 2905 ;
+    ex:name "Kreischa" ;
+    ex:population_2025 4587 .
+
+ex:Kriebstein a ex:Municipality ;
+    ex:area_km2 31.08 ;
+    ex:cars_pkw_2025 1393 ;
+    ex:name "Kriebstein" ;
+    ex:population_2025 1940 .
+
+ex:Krostitz a ex:Municipality ;
+    ex:area_km2 43.21 ;
+    ex:cars_pkw_2025 2876 ;
+    ex:name "Krostitz" ;
+    ex:population_2025 4160 .
+
+ex:Kubschütz a ex:Municipality ;
+    ex:area_km2 43.64 ;
+    ex:cars_pkw_2025 1808 ;
+    ex:name "Kubschütz" ;
+    ex:population_2025 2427 .
+
+ex:Käbschütztal a ex:Municipality ;
+    ex:area_km2 50.48 ;
+    ex:cars_pkw_2025 1807 ;
+    ex:name "Käbschütztal" ;
+    ex:population_2025 2725 .
+
+ex:Königsbrück a ex:Municipality ;
+    ex:area_km2 78.48 ;
+    ex:cars_pkw_2025 2924 ;
+    ex:name "Königsbrück" ;
+    ex:population_2025 4642 .
+
+ex:Königsfeld a ex:Municipality ;
+    ex:area_km2 28.42 ;
+    ex:cars_pkw_2025 953 ;
+    ex:name "Königsfeld" ;
+    ex:population_2025 1360 .
+
+ex:Königshain a ex:Municipality ;
+    ex:area_km2 19.58 ;
+    ex:cars_pkw_2025 845 ;
+    ex:name "Königshain" ;
+    ex:population_2025 1152 .
+
+ex:Königshain-Wiederau a ex:Municipality ;
+    ex:area_km2 31.03 ;
+    ex:cars_pkw_2025 1737 ;
+    ex:name "Königshain-Wiederau" ;
+    ex:population_2025 2481 .
+
+ex:Königstein_Sächs_Schw a ex:Municipality ;
+    ex:area_km2 27.05 ;
+    ex:cars_pkw_2025 1210 ;
+    ex:name "Königstein/Sächs. Schw." ;
+    ex:population_2025 2082 .
+
+ex:Königswalde a ex:Municipality ;
+    ex:area_km2 19.51 ;
+    ex:cars_pkw_2025 1341 ;
+    ex:name "Königswalde" ;
+    ex:population_2025 2037 .
+
+ex:Königswartha a ex:Municipality ;
+    ex:area_km2 47.17 ;
+    ex:cars_pkw_2025 2103 ;
+    ex:name "Königswartha" ;
+    ex:population_2025 3305 .
+
+ex:Lampertswalde a ex:Municipality ;
+    ex:area_km2 63.65 ;
+    ex:cars_pkw_2025 1617 ;
+    ex:name "Lampertswalde" ;
+    ex:population_2025 2476 .
+
+ex:Langenbernsdorf a ex:Municipality ;
+    ex:area_km2 36.37 ;
+    ex:cars_pkw_2025 2398 ;
+    ex:name "Langenbernsdorf" ;
+    ex:population_2025 3336 .
+
+ex:Langenweißbach a ex:Municipality ;
+    ex:area_km2 22.62 ;
+    ex:cars_pkw_2025 1640 ;
+    ex:name "Langenweißbach" ;
+    ex:population_2025 2311 .
+
+ex:Lauta a ex:Municipality ;
+    ex:area_km2 42.14 ;
+    ex:cars_pkw_2025 5007 ;
+    ex:name "Lauta" ;
+    ex:population_2025 7681 .
+
+ex:Lauter-Bernsbach a ex:Municipality ;
+    ex:area_km2 30.28 ;
+    ex:cars_pkw_2025 5251 ;
+    ex:name "Lauter-Bernsbach" ;
+    ex:population_2025 8107 .
+
+ex:Laußig a ex:Municipality ;
+    ex:area_km2 103.43 ;
+    ex:cars_pkw_2025 2391 ;
+    ex:name "Laußig" ;
+    ex:population_2025 3521 .
+
+ex:Laußnitz a ex:Municipality ;
+    ex:area_km2 63.81 ;
+    ex:cars_pkw_2025 1269 ;
+    ex:name "Laußnitz" ;
+    ex:population_2025 1792 .
+
+ex:Lawalde a ex:Municipality ;
+    ex:area_km2 14.55 ;
+    ex:cars_pkw_2025 1237 ;
+    ex:name "Lawalde" ;
+    ex:population_2025 1732 .
+
+ex:Leipzig a ex:Municipality ;
+    ex:area_km2 297.8 ;
+    ex:cars_pkw_2025 234947 ;
+    ex:name "Leipzig" ;
+    ex:population_2025 615932 .
+
+ex:Leisnig a ex:Municipality ;
+    ex:area_km2 78.09 ;
+    ex:cars_pkw_2025 5043 ;
+    ex:name "Leisnig" ;
+    ex:population_2025 7864 .
+
+ex:Lengenfeld a ex:Municipality ;
+    ex:area_km2 47.0 ;
+    ex:cars_pkw_2025 4590 ;
+    ex:name "Lengenfeld" ;
+    ex:population_2025 6786 .
+
+ex:Leubsdorf a ex:Municipality ;
+    ex:area_km2 34.47 ;
+    ex:cars_pkw_2025 2132 ;
+    ex:name "Leubsdorf" ;
+    ex:population_2025 3163 .
+
+ex:Leutersdorf a ex:Municipality ;
+    ex:area_km2 17.08 ;
+    ex:cars_pkw_2025 2197 ;
+    ex:name "Leutersdorf" ;
+    ex:population_2025 3292 .
+
+ex:Lichtenau a ex:Municipality ;
+    ex:area_km2 49.14 ;
+    ex:cars_pkw_2025 5020 ;
+    ex:name "Lichtenau" ;
+    ex:population_2025 6854 .
+
+ex:Lichtenberg a ex:Municipality ;
+    ex:area_km2 14.72 ;
+    ex:cars_pkw_2025 1036 ;
+    ex:name "Lichtenberg" ;
+    ex:population_2025 1590 .
+
+ex:Lichtenberg_Erzgeb a ex:Municipality ;
+    ex:area_km2 33.39 ;
+    ex:cars_pkw_2025 1735 ;
+    ex:name "Lichtenberg/Erzgeb." ;
+    ex:population_2025 2598 .
+
+ex:Lichtenstein_Sa a ex:Municipality ;
+    ex:area_km2 15.47 ;
+    ex:cars_pkw_2025 6563 ;
+    ex:name "Lichtenstein/Sa." ;
+    ex:population_2025 10773 .
+
+ex:Lichtentanne a ex:Municipality ;
+    ex:area_km2 27.33 ;
+    ex:cars_pkw_2025 3968 ;
+    ex:name "Lichtentanne" ;
+    ex:population_2025 5846 .
+
+ex:Liebschützberg a ex:Municipality ;
+    ex:area_km2 68.66 ;
+    ex:cars_pkw_2025 1976 ;
+    ex:name "Liebschützberg" ;
+    ex:population_2025 2807 .
+
+ex:Liebstadt a ex:Municipality ;
+    ex:area_km2 37.36 ;
+    ex:cars_pkw_2025 834 ;
+    ex:name "Liebstadt" ;
+    ex:population_2025 1190 .
+
+ex:Limbach a ex:Municipality ;
+    ex:area_km2 14.21 ;
+    ex:cars_pkw_2025 961 ;
+    ex:name "Limbach" ;
+    ex:population_2025 1374 .
+
+ex:Limbach-Oberfrohna a ex:Municipality ;
+    ex:area_km2 50.21 ;
+    ex:cars_pkw_2025 14763 ;
+    ex:name "Limbach-Oberfrohna" ;
+    ex:population_2025 23394 .
+
+ex:Lohmen a ex:Municipality ;
+    ex:area_km2 25.9 ;
+    ex:cars_pkw_2025 1907 ;
+    ex:name "Lohmen" ;
+    ex:population_2025 2987 .
+
+ex:Lohsa a ex:Municipality ;
+    ex:area_km2 134.95 ;
+    ex:cars_pkw_2025 3584 ;
+    ex:name "Lohsa" ;
+    ex:population_2025 4937 .
+
+ex:Lommatzsch a ex:Municipality ;
+    ex:area_km2 66.62 ;
+    ex:cars_pkw_2025 2877 ;
+    ex:name "Lommatzsch" ;
+    ex:population_2025 4672 .
+
+ex:Lossatal a ex:Municipality ;
+    ex:area_km2 111.17 ;
+    ex:cars_pkw_2025 4029 ;
+    ex:name "Lossatal" ;
+    ex:population_2025 6013 .
+
+ex:Lugau_Erzgeb a ex:Municipality ;
+    ex:area_km2 22.29 ;
+    ex:cars_pkw_2025 4874 ;
+    ex:name "Lugau/Erzgeb." ;
+    ex:population_2025 7345 .
+
+ex:Lunzenau a ex:Municipality ;
+    ex:area_km2 28.34 ;
+    ex:cars_pkw_2025 2495 ;
+    ex:name "Lunzenau" ;
+    ex:population_2025 3851 .
+
+ex:Löbau a ex:Municipality ;
+    ex:area_km2 78.9 ;
+    ex:cars_pkw_2025 8740 ;
+    ex:name "Löbau" ;
+    ex:population_2025 14469 .
+
+ex:Löbnitz a ex:Municipality ;
+    ex:area_km2 37.39 ;
+    ex:cars_pkw_2025 1328 ;
+    ex:name "Löbnitz" ;
+    ex:population_2025 2047 .
+
+ex:Lößnitz a ex:Municipality ;
+    ex:area_km2 30.49 ;
+    ex:cars_pkw_2025 4750 ;
+    ex:name "Lößnitz" ;
+    ex:population_2025 7445 .
+
+ex:Machern a ex:Municipality ;
+    ex:area_km2 38.93 ;
+    ex:cars_pkw_2025 4631 ;
+    ex:name "Machern" ;
+    ex:population_2025 6586 .
+
+ex:Malschwitz a ex:Municipality ;
+    ex:area_km2 93.27 ;
+    ex:cars_pkw_2025 3129 ;
+    ex:name "Malschwitz" ;
+    ex:population_2025 4735 .
+
+ex:Marienberg a ex:Municipality ;
+    ex:area_km2 133.49 ;
+    ex:cars_pkw_2025 10366 ;
+    ex:name "Marienberg" ;
+    ex:population_2025 15948 .
+
+ex:Markersdorf a ex:Municipality ;
+    ex:area_km2 62.54 ;
+    ex:cars_pkw_2025 2823 ;
+    ex:name "Markersdorf" ;
+    ex:population_2025 3667 .
+
+ex:Markkleeberg a ex:Municipality ;
+    ex:area_km2 31.47 ;
+    ex:cars_pkw_2025 14170 ;
+    ex:name "Markkleeberg" ;
+    ex:population_2025 25354 .
+
+ex:Markneukirchen a ex:Municipality ;
+    ex:area_km2 69.04 ;
+    ex:cars_pkw_2025 4743 ;
+    ex:name "Markneukirchen" ;
+    ex:population_2025 6951 .
+
+ex:Markranstädt a ex:Municipality ;
+    ex:area_km2 58.46 ;
+    ex:cars_pkw_2025 9959 ;
+    ex:name "Markranstädt" ;
+    ex:population_2025 16069 .
+
+ex:Meerane a ex:Municipality ;
+    ex:area_km2 19.81 ;
+    ex:cars_pkw_2025 8167 ;
+    ex:name "Meerane" ;
+    ex:population_2025 13708 .
+
+ex:Meißen a ex:Municipality ;
+    ex:area_km2 30.92 ;
+    ex:cars_pkw_2025 14213 ;
+    ex:name "Meißen" ;
+    ex:population_2025 28863 .
+
+ex:Mildenau a ex:Municipality ;
+    ex:area_km2 31.67 ;
+    ex:cars_pkw_2025 2225 ;
+    ex:name "Mildenau" ;
+    ex:population_2025 3292 .
+
+ex:Mittelherwigsdorf a ex:Municipality ;
+    ex:area_km2 36.45 ;
+    ex:cars_pkw_2025 2324 ;
+    ex:name "Mittelherwigsdorf" ;
+    ex:population_2025 3462 .
+
+ex:Mittweida a ex:Municipality ;
+    ex:area_km2 41.26 ;
+    ex:cars_pkw_2025 7693 ;
+    ex:name "Mittweida" ;
+    ex:population_2025 13730 .
+
+ex:Mockrehna a ex:Municipality ;
+    ex:area_km2 115.81 ;
+    ex:cars_pkw_2025 3185 ;
+    ex:name "Mockrehna" ;
+    ex:population_2025 4847 .
+
+ex:Moritzburg a ex:Municipality ;
+    ex:area_km2 46.49 ;
+    ex:cars_pkw_2025 5587 ;
+    ex:name "Moritzburg" ;
+    ex:population_2025 8171 .
+
+ex:Mulda_Sa a ex:Municipality ;
+    ex:area_km2 43.14 ;
+    ex:cars_pkw_2025 1538 ;
+    ex:name "Mulda/Sa." ;
+    ex:population_2025 2302 .
+
+ex:Muldenhammer a ex:Municipality ;
+    ex:area_km2 56.07 ;
+    ex:cars_pkw_2025 1935 ;
+    ex:name "Muldenhammer" ;
+    ex:population_2025 2778 .
+
+ex:Mücka a ex:Municipality ;
+    ex:area_km2 24.35 ;
+    ex:cars_pkw_2025 692 ;
+    ex:name "Mücka" ;
+    ex:population_2025 936 .
+
+ex:Mügeln a ex:Municipality ;
+    ex:area_km2 55.08 ;
+    ex:cars_pkw_2025 3546 ;
+    ex:name "Mügeln" ;
+    ex:population_2025 5474 .
+
+ex:Müglitztal a ex:Municipality ;
+    ex:area_km2 21.01 ;
+    ex:cars_pkw_2025 1319 ;
+    ex:name "Müglitztal" ;
+    ex:population_2025 1882 .
+
+ex:Mühlau a ex:Municipality ;
+    ex:area_km2 8.07 ;
+    ex:cars_pkw_2025 1562 ;
+    ex:name "Mühlau" ;
+    ex:population_2025 2060 .
+
+ex:Mühlental a ex:Municipality ;
+    ex:area_km2 39.59 ;
+    ex:cars_pkw_2025 954 ;
+    ex:name "Mühlental" ;
+    ex:population_2025 1151 .
+
+ex:Mülsen a ex:Municipality ;
+    ex:area_km2 49.7 ;
+    ex:cars_pkw_2025 6972 ;
+    ex:name "Mülsen" ;
+    ex:population_2025 10593 .
+
+ex:Naundorf a ex:Municipality ;
+    ex:area_km2 36.93 ;
+    ex:cars_pkw_2025 1452 ;
+    ex:name "Naundorf" ;
+    ex:population_2025 2148 .
+
+ex:Naunhof a ex:Municipality ;
+    ex:area_km2 39.71 ;
+    ex:cars_pkw_2025 5555 ;
+    ex:name "Naunhof" ;
+    ex:population_2025 8709 .
+
+ex:Nebelschütz a ex:Municipality ;
+    ex:area_km2 22.93 ;
+    ex:cars_pkw_2025 790 ;
+    ex:name "Nebelschütz" ;
+    ex:population_2025 1149 .
+
+ex:Neißeaue a ex:Municipality ;
+    ex:area_km2 47.37 ;
+    ex:cars_pkw_2025 1126 ;
+    ex:name "Neißeaue" ;
+    ex:population_2025 1608 .
+
+ex:Neschwitz a ex:Municipality ;
+    ex:area_km2 46.01 ;
+    ex:cars_pkw_2025 1559 ;
+    ex:name "Neschwitz" ;
+    ex:population_2025 2323 .
+
+ex:Netzschkau a ex:Municipality ;
+    ex:area_km2 12.51 ;
+    ex:cars_pkw_2025 2409 ;
+    ex:name "Netzschkau" ;
+    ex:population_2025 3570 .
+
+ex:Neuensalz a ex:Municipality ;
+    ex:area_km2 33.49 ;
+    ex:cars_pkw_2025 1522 ;
+    ex:name "Neuensalz" ;
+    ex:population_2025 2007 .
+
+ex:Neuhausen_Erzgeb a ex:Municipality ;
+    ex:area_km2 48.1 ;
+    ex:cars_pkw_2025 1587 ;
+    ex:name "Neuhausen/Erzgeb." ;
+    ex:population_2025 2418 .
+
+ex:Neukieritzsch a ex:Municipality ;
+    ex:area_km2 57.09 ;
+    ex:cars_pkw_2025 4018 ;
+    ex:name "Neukieritzsch" ;
+    ex:population_2025 7119 .
+
+ex:Neukirch a ex:Municipality ;
+    ex:area_km2 39.47 ;
+    ex:cars_pkw_2025 1083 ;
+    ex:name "Neukirch" ;
+    ex:population_2025 1585 .
+
+ex:Neukirch_Lausitz a ex:Municipality ;
+    ex:area_km2 21.3 ;
+    ex:cars_pkw_2025 3079 ;
+    ex:name "Neukirch/Lausitz" ;
+    ex:population_2025 4714 .
+
+ex:Neukirchen_Erzgeb a ex:Municipality ;
+    ex:area_km2 20.14 ;
+    ex:cars_pkw_2025 4654 ;
+    ex:name "Neukirchen/Erzgeb." ;
+    ex:population_2025 6846 .
+
+ex:Neukirchen_Pleiße a ex:Municipality ;
+    ex:area_km2 16.89 ;
+    ex:cars_pkw_2025 2461 ;
+    ex:name "Neukirchen/Pleiße" ;
+    ex:population_2025 3751 .
+
+ex:Neumark a ex:Municipality ;
+    ex:area_km2 17.31 ;
+    ex:cars_pkw_2025 2018 ;
+    ex:name "Neumark" ;
+    ex:population_2025 2844 .
+
+ex:Neusalza-Spremberg a ex:Municipality ;
+    ex:area_km2 22.91 ;
+    ex:cars_pkw_2025 2026 ;
+    ex:name "Neusalza-Spremberg" ;
+    ex:population_2025 3031 .
+
+ex:Neustadt_Vogtl a ex:Municipality ;
+    ex:area_km2 13.02 ;
+    ex:cars_pkw_2025 655 ;
+    ex:name "Neustadt/Vogtl." ;
+    ex:population_2025 940 .
+
+ex:Neustadt_in_Sachsen a ex:Municipality ;
+    ex:area_km2 83.12 ;
+    ex:cars_pkw_2025 7358 ;
+    ex:name "Neustadt in Sachsen" ;
+    ex:population_2025 11740 .
+
+ex:Niederau a ex:Municipality ;
+    ex:area_km2 35.27 ;
+    ex:cars_pkw_2025 2684 ;
+    ex:name "Niederau" ;
+    ex:population_2025 4050 .
+
+ex:Niederdorf a ex:Municipality ;
+    ex:area_km2 13.06 ;
+    ex:cars_pkw_2025 927 ;
+    ex:name "Niederdorf" ;
+    ex:population_2025 1254 .
+
+ex:Niederfrohna a ex:Municipality ;
+    ex:area_km2 10.13 ;
+    ex:cars_pkw_2025 1477 ;
+    ex:name "Niederfrohna" ;
+    ex:population_2025 2136 .
+
+ex:Niederwiesa a ex:Municipality ;
+    ex:area_km2 16.39 ;
+    ex:cars_pkw_2025 3178 ;
+    ex:name "Niederwiesa" ;
+    ex:population_2025 4693 .
+
+ex:Niederwürschnitz a ex:Municipality ;
+    ex:area_km2 6.04 ;
+    ex:cars_pkw_2025 1646 ;
+    ex:name "Niederwürschnitz" ;
+    ex:population_2025 2496 .
+
+ex:Niesky a ex:Municipality ;
+    ex:area_km2 53.81 ;
+    ex:cars_pkw_2025 5556 ;
+    ex:name "Niesky" ;
+    ex:population_2025 8870 .
+
+ex:Nossen a ex:Municipality ;
+    ex:area_km2 122.74 ;
+    ex:cars_pkw_2025 6678 ;
+    ex:name "Nossen" ;
+    ex:population_2025 10370 .
+
+ex:Nünchritz a ex:Municipality ;
+    ex:area_km2 31.28 ;
+    ex:cars_pkw_2025 3398 ;
+    ex:name "Nünchritz" ;
+    ex:population_2025 5285 .
+
+ex:Obergurig a ex:Municipality ;
+    ex:area_km2 9.82 ;
+    ex:cars_pkw_2025 1393 ;
+    ex:name "Obergurig" ;
+    ex:population_2025 2016 .
+
+ex:Oberlungwitz a ex:Municipality ;
+    ex:area_km2 14.68 ;
+    ex:cars_pkw_2025 4184 ;
+    ex:name "Oberlungwitz" ;
+    ex:population_2025 5672 .
+
+ex:Oberschöna a ex:Municipality ;
+    ex:area_km2 44.3 ;
+    ex:cars_pkw_2025 2169 ;
+    ex:name "Oberschöna" ;
+    ex:population_2025 3149 .
+
+ex:Oberwiera a ex:Municipality ;
+    ex:area_km2 14.33 ;
+    ex:cars_pkw_2025 700 ;
+    ex:name "Oberwiera" ;
+    ex:population_2025 1023 .
+
+ex:Oberwiesenthal a ex:Municipality ;
+    ex:area_km2 40.04 ;
+    ex:cars_pkw_2025 1215 ;
+    ex:name "Oberwiesenthal" ;
+    ex:population_2025 1907 .
+
+ex:Oderwitz a ex:Municipality ;
+    ex:area_km2 35.91 ;
+    ex:cars_pkw_2025 3138 ;
+    ex:name "Oderwitz" ;
+    ex:population_2025 4540 .
+
+ex:Oederan a ex:Municipality ;
+    ex:area_km2 77.33 ;
+    ex:cars_pkw_2025 4936 ;
+    ex:name "Oederan" ;
+    ex:population_2025 7490 .
+
+ex:Oelsnitz_Erzgeb a ex:Municipality ;
+    ex:area_km2 26.28 ;
+    ex:cars_pkw_2025 6971 ;
+    ex:name "Oelsnitz/Erzgeb." ;
+    ex:population_2025 10782 .
+
+ex:Oelsnitz_Vogtl a ex:Municipality ;
+    ex:area_km2 53.66 ;
+    ex:cars_pkw_2025 6505 ;
+    ex:name "Oelsnitz/Vogtl." ;
+    ex:population_2025 9930 .
+
+ex:Ohorn a ex:Municipality ;
+    ex:area_km2 11.99 ;
+    ex:cars_pkw_2025 1579 ;
+    ex:name "Ohorn" ;
+    ex:population_2025 2433 .
+
+ex:Olbernhau a ex:Municipality ;
+    ex:area_km2 125.35 ;
+    ex:cars_pkw_2025 6470 ;
+    ex:name "Olbernhau" ;
+    ex:population_2025 9800 .
+
+ex:Olbersdorf a ex:Municipality ;
+    ex:area_km2 15.16 ;
+    ex:cars_pkw_2025 2489 ;
+    ex:name "Olbersdorf" ;
+    ex:population_2025 4155 .
+
+ex:Oppach a ex:Municipality ;
+    ex:area_km2 8.0 ;
+    ex:cars_pkw_2025 1502 ;
+    ex:name "Oppach" ;
+    ex:population_2025 2174 .
+
+ex:Oschatz a ex:Municipality ;
+    ex:area_km2 55.44 ;
+    ex:cars_pkw_2025 7774 ;
+    ex:name "Oschatz" ;
+    ex:population_2025 14136 .
+
+ex:Ostritz a ex:Municipality ;
+    ex:area_km2 23.48 ;
+    ex:cars_pkw_2025 1266 ;
+    ex:name "Ostritz" ;
+    ex:population_2025 2204 .
+
+ex:Ottendorf-Okrilla a ex:Municipality ;
+    ex:area_km2 25.93 ;
+    ex:cars_pkw_2025 6482 ;
+    ex:name "Ottendorf-Okrilla" ;
+    ex:population_2025 9880 .
+
+ex:Otterwisch a ex:Municipality ;
+    ex:area_km2 22.76 ;
+    ex:cars_pkw_2025 915 ;
+    ex:name "Otterwisch" ;
+    ex:population_2025 1358 .
+
+ex:Oybin a ex:Municipality ;
+    ex:area_km2 18.28 ;
+    ex:cars_pkw_2025 824 ;
+    ex:name "Oybin" ;
+    ex:population_2025 1271 .
+
+ex:Oßling a ex:Municipality ;
+    ex:area_km2 43.71 ;
+    ex:cars_pkw_2025 1413 ;
+    ex:name "Oßling" ;
+    ex:population_2025 2187 .
+
+ex:Panschwitz-Kuckau a ex:Municipality ;
+    ex:area_km2 23.35 ;
+    ex:cars_pkw_2025 1250 ;
+    ex:name "Panschwitz-Kuckau" ;
+    ex:population_2025 2017 .
+
+ex:Parthenstein a ex:Municipality ;
+    ex:area_km2 35.05 ;
+    ex:cars_pkw_2025 2451 ;
+    ex:name "Parthenstein" ;
+    ex:population_2025 3495 .
+
+ex:Pausa-Mühltroff a ex:Municipality ;
+    ex:area_km2 64.13 ;
+    ex:cars_pkw_2025 3125 ;
+    ex:name "Pausa-Mühltroff" ;
+    ex:population_2025 4556 .
+
+ex:Pegau a ex:Municipality ;
+    ex:area_km2 48.78 ;
+    ex:cars_pkw_2025 3944 ;
+    ex:name "Pegau" ;
+    ex:population_2025 6546 .
+
+ex:Penig a ex:Municipality ;
+    ex:area_km2 63.36 ;
+    ex:cars_pkw_2025 5140 ;
+    ex:name "Penig" ;
+    ex:population_2025 7970 .
+
+ex:Pirna a ex:Municipality ;
+    ex:area_km2 53.06 ;
+    ex:cars_pkw_2025 21248 ;
+    ex:name "Pirna" ;
+    ex:population_2025 40039 .
+
+ex:Plauen a ex:Municipality ;
+    ex:area_km2 102.11 ;
+    ex:cars_pkw_2025 34848 ;
+    ex:name "Plauen" ;
+    ex:population_2025 64893 .
+
+ex:Pockau-Lengefeld a ex:Municipality ;
+    ex:area_km2 83.42 ;
+    ex:cars_pkw_2025 4677 ;
+    ex:name "Pockau-Lengefeld" ;
+    ex:population_2025 7197 .
+
+ex:Priestewitz a ex:Municipality ;
+    ex:area_km2 61.29 ;
+    ex:cars_pkw_2025 2116 ;
+    ex:name "Priestewitz" ;
+    ex:population_2025 3070 .
+
+ex:Pulsnitz a ex:Municipality ;
+    ex:area_km2 26.76 ;
+    ex:cars_pkw_2025 4524 ;
+    ex:name "Pulsnitz" ;
+    ex:population_2025 7250 .
+
+ex:Puschwitz a ex:Municipality ;
+    ex:area_km2 11.79 ;
+    ex:cars_pkw_2025 505 ;
+    ex:name "Puschwitz" ;
+    ex:population_2025 776 .
+
+ex:Pöhl a ex:Municipality ;
+    ex:area_km2 36.64 ;
+    ex:cars_pkw_2025 1654 ;
+    ex:name "Pöhl" ;
+    ex:population_2025 2320 .
+
+ex:Quitzdorf_am_See a ex:Municipality ;
+    ex:area_km2 36.33 ;
+    ex:cars_pkw_2025 828 ;
+    ex:name "Quitzdorf am See" ;
+    ex:population_2025 1209 .
+
+ex:Rabenau a ex:Municipality ;
+    ex:area_km2 30.73 ;
+    ex:cars_pkw_2025 2843 ;
+    ex:name "Rabenau" ;
+    ex:population_2025 4331 .
+
+ex:Rackwitz a ex:Municipality ;
+    ex:area_km2 35.85 ;
+    ex:cars_pkw_2025 3160 ;
+    ex:name "Rackwitz" ;
+    ex:population_2025 5474 .
+
+ex:Radeberg a ex:Municipality ;
+    ex:area_km2 29.83 ;
+    ex:cars_pkw_2025 11171 ;
+    ex:name "Radeberg" ;
+    ex:population_2025 18667 .
+
+ex:Radebeul a ex:Municipality ;
+    ex:area_km2 26.16 ;
+    ex:cars_pkw_2025 19423 ;
+    ex:name "Radebeul" ;
+    ex:population_2025 33081 .
+
+ex:Radeburg a ex:Municipality ;
+    ex:area_km2 54.02 ;
+    ex:cars_pkw_2025 4687 ;
+    ex:name "Radeburg" ;
+    ex:population_2025 7578 .
+
+ex:Radibor a ex:Municipality ;
+    ex:area_km2 62.0 ;
+    ex:cars_pkw_2025 1991 ;
+    ex:name "Radibor" ;
+    ex:population_2025 3060 .
+
+ex:Ralbitz-Rosenthal a ex:Municipality ;
+    ex:area_km2 31.74 ;
+    ex:cars_pkw_2025 1097 ;
+    ex:name "Ralbitz-Rosenthal" ;
+    ex:population_2025 1725 .
+
+ex:Rammenau a ex:Municipality ;
+    ex:area_km2 10.76 ;
+    ex:cars_pkw_2025 862 ;
+    ex:name "Rammenau" ;
+    ex:population_2025 1306 .
+
+ex:Raschau-Markersbach a ex:Municipality ;
+    ex:area_km2 39.55 ;
+    ex:cars_pkw_2025 3065 ;
+    ex:name "Raschau-Markersbach" ;
+    ex:population_2025 4688 .
+
+ex:Rathen a ex:Municipality ;
+    ex:area_km2 3.56 ;
+    ex:cars_pkw_2025 193 ;
+    ex:name "Rathen" ;
+    ex:population_2025 333 .
+
+ex:Rathmannsdorf a ex:Municipality ;
+    ex:area_km2 4.37 ;
+    ex:cars_pkw_2025 519 ;
+    ex:name "Rathmannsdorf" ;
+    ex:population_2025 869 .
+
+ex:Rechenberg-Bienenmühle a ex:Municipality ;
+    ex:area_km2 52.66 ;
+    ex:cars_pkw_2025 1200 ;
+    ex:name "Rechenberg-Bienenmühle" ;
+    ex:population_2025 1707 .
+
+ex:Regis-Breitingen a ex:Municipality ;
+    ex:area_km2 26.37 ;
+    ex:cars_pkw_2025 2176 ;
+    ex:name "Regis-Breitingen" ;
+    ex:population_2025 3697 .
+
+ex:Reichenbach_OL a ex:Municipality ;
+    ex:area_km2 62.64 ;
+    ex:cars_pkw_2025 2970 ;
+    ex:name "Reichenbach/O.L." ;
+    ex:population_2025 4520 .
+
+ex:Reichenbach_im_Vogtland a ex:Municipality ;
+    ex:area_km2 34.47 ;
+    ex:cars_pkw_2025 11785 ;
+    ex:name "Reichenbach im Vogtland" ;
+    ex:population_2025 19510 .
+
+ex:Reinhardtsdorf-Schöna a ex:Municipality ;
+    ex:area_km2 31.8 ;
+    ex:cars_pkw_2025 838 ;
+    ex:name "Reinhardtsdorf-Schöna" ;
+    ex:population_2025 1252 .
+
+ex:Reinsberg a ex:Municipality ;
+    ex:area_km2 49.71 ;
+    ex:cars_pkw_2025 1920 ;
+    ex:name "Reinsberg" ;
+    ex:population_2025 2773 .
+
+ex:Reinsdorf a ex:Municipality ;
+    ex:area_km2 21.25 ;
+    ex:cars_pkw_2025 4780 ;
+    ex:name "Reinsdorf" ;
+    ex:population_2025 6962 .
+
+ex:Remse a ex:Municipality ;
+    ex:area_km2 14.79 ;
+    ex:cars_pkw_2025 1184 ;
+    ex:name "Remse" ;
+    ex:population_2025 1590 .
+
+ex:Riesa a ex:Municipality ;
+    ex:area_km2 58.91 ;
+    ex:cars_pkw_2025 15239 ;
+    ex:name "Riesa" ;
+    ex:population_2025 29238 .
+
+ex:Rietschen a ex:Municipality ;
+    ex:area_km2 73.19 ;
+    ex:cars_pkw_2025 1538 ;
+    ex:name "Rietschen" ;
+    ex:population_2025 2385 .
+
+ex:Rochlitz a ex:Municipality ;
+    ex:area_km2 23.76 ;
+    ex:cars_pkw_2025 3280 ;
+    ex:name "Rochlitz" .
+
+ex:Rochlitz_des_Roten_Porphyr a ex:Municipality ;
+    ex:name "Rochlitz des Roten Porphyr" ;
+    ex:population_2025 5467 .
+
+ex:Rodewisch a ex:Municipality ;
+    ex:area_km2 26.86 ;
+    ex:cars_pkw_2025 4100 ;
+    ex:name "Rodewisch" ;
+    ex:population_2025 6014 .
+
+ex:Rosenbach a ex:Municipality ;
+    ex:area_km2 23.56 ;
+    ex:cars_pkw_2025 1022 ;
+    ex:name "Rosenbach" ;
+    ex:population_2025 1484 .
+
+ex:Rosenbach_Vogtl a ex:Municipality ;
+    ex:area_km2 67.34 ;
+    ex:cars_pkw_2025 2769 ;
+    ex:name "Rosenbach/Vogtl." ;
+    ex:population_2025 3918 .
+
+ex:Rosenthal-Bielatal a ex:Municipality ;
+    ex:area_km2 46.6 ;
+    ex:cars_pkw_2025 1028 ;
+    ex:name "Rosenthal-Bielatal" ;
+    ex:population_2025 1513 .
+
+ex:Rossau a ex:Municipality ;
+    ex:area_km2 53.59 ;
+    ex:cars_pkw_2025 2347 ;
+    ex:name "Rossau" ;
+    ex:population_2025 3281 .
+
+ex:Rothenburg_OL a ex:Municipality ;
+    ex:area_km2 72.41 ;
+    ex:cars_pkw_2025 2703 ;
+    ex:name "Rothenburg/O.L." ;
+    ex:population_2025 3953 .
+
+ex:Roßwein a ex:Municipality ;
+    ex:area_km2 44.11 ;
+    ex:cars_pkw_2025 4247 ;
+    ex:name "Roßwein" ;
+    ex:population_2025 7062 .
+
+ex:Räckelwitz a ex:Municipality ;
+    ex:area_km2 11.51 ;
+    ex:cars_pkw_2025 672 ;
+    ex:name "Räckelwitz" ;
+    ex:population_2025 1126 .
+
+ex:Röderaue a ex:Municipality ;
+    ex:area_km2 28.82 ;
+    ex:cars_pkw_2025 1680 ;
+    ex:name "Röderaue" ;
+    ex:population_2025 2377 .
+
+ex:Rötha a ex:Municipality ;
+    ex:area_km2 45.41 ;
+    ex:cars_pkw_2025 3986 ;
+    ex:name "Rötha" ;
+    ex:population_2025 6388 .
+
+ex:Sayda a ex:Municipality ;
+    ex:area_km2 35.3 ;
+    ex:cars_pkw_2025 1004 ;
+    ex:name "Sayda" ;
+    ex:population_2025 1642 .
+
+ex:Scheibenberg a ex:Municipality ;
+    ex:area_km2 9.0 ;
+    ex:cars_pkw_2025 1230 ;
+    ex:name "Scheibenberg" ;
+    ex:population_2025 1978 .
+
+ex:Schirgiswalde-Kirschau a ex:Municipality ;
+    ex:area_km2 24.34 ;
+    ex:cars_pkw_2025 3810 ;
+    ex:name "Schirgiswalde-Kirschau" ;
+    ex:population_2025 5754 .
+
+ex:Schkeuditz a ex:Municipality ;
+    ex:area_km2 81.47 ;
+    ex:cars_pkw_2025 11220 ;
+    ex:name "Schkeuditz" ;
+    ex:population_2025 19145 .
+
+ex:Schleife a ex:Municipality ;
+    ex:area_km2 41.99 ;
+    ex:cars_pkw_2025 1728 ;
+    ex:name "Schleife" ;
+    ex:population_2025 2503 .
+
+ex:Schlettau a ex:Municipality ;
+    ex:area_km2 21.22 ;
+    ex:cars_pkw_2025 1438 ;
+    ex:name "Schlettau" ;
+    ex:population_2025 2173 .
+
+ex:Schmölln-Putzkau a ex:Municipality ;
+    ex:area_km2 32.93 ;
+    ex:cars_pkw_2025 1980 ;
+    ex:name "Schmölln-Putzkau" ;
+    ex:population_2025 2964 .
+
+ex:Schneeberg a ex:Municipality ;
+    ex:area_km2 23.35 ;
+    ex:cars_pkw_2025 7803 ;
+    ex:name "Schneeberg" ;
+    ex:population_2025 13372 .
+
+ex:Schwarzenberg_Erzgeb a ex:Municipality ;
+    ex:area_km2 46.31 ;
+    ex:cars_pkw_2025 9747 ;
+    ex:name "Schwarzenberg/Erzgeb." ;
+    ex:population_2025 15158 .
+
+ex:Schwepnitz a ex:Municipality ;
+    ex:area_km2 56.03 ;
+    ex:cars_pkw_2025 1609 ;
+    ex:name "Schwepnitz" ;
+    ex:population_2025 2381 .
+
+ex:Schönau-Berzdorf_a_d_Eigen a ex:Municipality ;
+    ex:area_km2 27.81 ;
+    ex:cars_pkw_2025 1038 ;
+    ex:name "Schönau-Berzdorf a. d. Eigen" ;
+    ex:population_2025 1397 .
+
+ex:Schönbach a ex:Municipality ;
+    ex:area_km2 9.1 ;
+    ex:cars_pkw_2025 729 ;
+    ex:name "Schönbach" ;
+    ex:population_2025 995 .
+
+ex:Schönberg a ex:Municipality ;
+    ex:area_km2 15.43 ;
+    ex:cars_pkw_2025 630 ;
+    ex:name "Schönberg" ;
+    ex:population_2025 845 .
+
+ex:Schöneck_Vogtl a ex:Municipality ;
+    ex:area_km2 55.03 ;
+    ex:cars_pkw_2025 2217 ;
+    ex:name "Schöneck/Vogtl." ;
+    ex:population_2025 2850 .
+
+ex:Schönfeld a ex:Municipality ;
+    ex:area_km2 39.16 ;
+    ex:cars_pkw_2025 1231 ;
+    ex:name "Schönfeld" ;
+    ex:population_2025 1678 .
+
+ex:Schönheide a ex:Municipality ;
+    ex:area_km2 28.15 ;
+    ex:cars_pkw_2025 2601 ;
+    ex:name "Schönheide" ;
+    ex:population_2025 3964 .
+
+ex:Schönwölkau a ex:Municipality ;
+    ex:area_km2 49.41 ;
+    ex:cars_pkw_2025 1799 ;
+    ex:name "Schönwölkau" ;
+    ex:population_2025 2614 .
+
+ex:Schöpstal a ex:Municipality ;
+    ex:area_km2 29.72 ;
+    ex:cars_pkw_2025 1669 ;
+    ex:name "Schöpstal" ;
+    ex:population_2025 2258 .
+
+ex:Sebnitz a ex:Municipality ;
+    ex:area_km2 88.23 ;
+    ex:cars_pkw_2025 5194 ;
+    ex:name "Sebnitz" ;
+    ex:population_2025 9356 .
+
+ex:Seelitz a ex:Municipality ;
+    ex:area_km2 31.22 ;
+    ex:cars_pkw_2025 1192 ;
+    ex:name "Seelitz" ;
+    ex:population_2025 1591 .
+
+ex:Sehmatal a ex:Municipality ;
+    ex:area_km2 44.51 ;
+    ex:cars_pkw_2025 3762 ;
+    ex:name "Sehmatal" ;
+    ex:population_2025 5876 .
+
+ex:Seiffen_Erzgeb a ex:Municipality ;
+    ex:area_km2 12.43 ;
+    ex:cars_pkw_2025 1273 ;
+    ex:name "Seiffen/Erzgeb." ;
+    ex:population_2025 1800 .
+
+ex:Seifhennersdorf a ex:Municipality ;
+    ex:area_km2 19.12 ;
+    ex:cars_pkw_2025 2107 ;
+    ex:name "Seifhennersdorf" ;
+    ex:population_2025 3516 .
+
+ex:Sohland_a_d_Spree a ex:Municipality ;
+    ex:area_km2 37.3 ;
+    ex:cars_pkw_2025 4147 ;
+    ex:name "Sohland a. d. Spree" ;
+    ex:population_2025 6187 .
+
+ex:Spreetal a ex:Municipality ;
+    ex:area_km2 108.8 ;
+    ex:cars_pkw_2025 1240 ;
+    ex:name "Spreetal" ;
+    ex:population_2025 1674 .
+
+ex:St_Egidien a ex:Municipality ;
+    ex:area_km2 21.26 ;
+    ex:cars_pkw_2025 2130 ;
+    ex:name "St. Egidien" ;
+    ex:population_2025 3025 .
+
+ex:Stadt_Wehlen a ex:Municipality ;
+    ex:area_km2 10.85 ;
+    ex:cars_pkw_2025 963 ;
+    ex:name "Stadt Wehlen" ;
+    ex:population_2025 1500 .
+
+ex:Stauchitz a ex:Municipality ;
+    ex:area_km2 32.47 ;
+    ex:cars_pkw_2025 1962 ;
+    ex:name "Stauchitz" ;
+    ex:population_2025 2931 .
+
+ex:Steina a ex:Municipality ;
+    ex:area_km2 12.51 ;
+    ex:cars_pkw_2025 1142 ;
+    ex:name "Steina" ;
+    ex:population_2025 1646 .
+
+ex:Steinberg a ex:Municipality ;
+    ex:area_km2 20.37 ;
+    ex:cars_pkw_2025 1661 ;
+    ex:name "Steinberg" ;
+    ex:population_2025 2625 .
+
+ex:Steinigtwolmsdorf a ex:Municipality ;
+    ex:area_km2 18.04 ;
+    ex:cars_pkw_2025 1833 ;
+    ex:name "Steinigtwolmsdorf" ;
+    ex:population_2025 2595 .
+
+ex:Stollberg_Erzgeb a ex:Municipality ;
+    ex:area_km2 38.99 ;
+    ex:cars_pkw_2025 6707 ;
+    ex:name "Stollberg/Erzgeb." ;
+    ex:population_2025 11031 .
+
+ex:Stolpen a ex:Municipality ;
+    ex:area_km2 60.89 ;
+    ex:cars_pkw_2025 3577 ;
+    ex:name "Stolpen" ;
+    ex:population_2025 5405 .
+
+ex:Strehla a ex:Municipality ;
+    ex:area_km2 30.27 ;
+    ex:cars_pkw_2025 2158 ;
+    ex:name "Strehla" ;
+    ex:population_2025 3632 .
+
+ex:Striegistal a ex:Municipality ;
+    ex:area_km2 77.24 ;
+    ex:cars_pkw_2025 2984 ;
+    ex:name "Striegistal" ;
+    ex:population_2025 4496 .
+
+ex:Struppen a ex:Municipality ;
+    ex:area_km2 20.64 ;
+    ex:cars_pkw_2025 1595 ;
+    ex:name "Struppen" ;
+    ex:population_2025 2368 .
+
+ex:Stützengrün a ex:Municipality ;
+    ex:area_km2 28.29 ;
+    ex:cars_pkw_2025 2037 ;
+    ex:name "Stützengrün" ;
+    ex:population_2025 3015 .
+
+ex:Tannenberg a ex:Municipality ;
+    ex:area_km2 7.97 ;
+    ex:cars_pkw_2025 709 ;
+    ex:name "Tannenberg" ;
+    ex:population_2025 1008 .
+
+ex:Taucha a ex:Municipality ;
+    ex:area_km2 33.22 ;
+    ex:cars_pkw_2025 9408 ;
+    ex:name "Taucha" ;
+    ex:population_2025 15815 .
+
+ex:Taura a ex:Municipality ;
+    ex:area_km2 11.11 ;
+    ex:cars_pkw_2025 1512 ;
+    ex:name "Taura" ;
+    ex:population_2025 2251 .
+
+ex:Thalheim_Erzgeb a ex:Municipality ;
+    ex:area_km2 10.79 ;
+    ex:cars_pkw_2025 3525 ;
+    ex:name "Thalheim/Erzgeb." ;
+    ex:population_2025 5899 .
+
+ex:Thallwitz a ex:Municipality ;
+    ex:area_km2 53.09 ;
+    ex:cars_pkw_2025 2302 ;
+    ex:name "Thallwitz" ;
+    ex:population_2025 3512 .
+
+ex:Tharandt a ex:Municipality ;
+    ex:area_km2 71.22 ;
+    ex:cars_pkw_2025 3189 ;
+    ex:name "Tharandt" ;
+    ex:population_2025 5101 .
+
+ex:Thermalbad_Wiesenbad a ex:Municipality ;
+    ex:area_km2 24.21 ;
+    ex:cars_pkw_2025 2102 ;
+    ex:name "Thermalbad Wiesenbad" ;
+    ex:population_2025 3056 .
+
+ex:Theuma a ex:Municipality ;
+    ex:area_km2 9.94 ;
+    ex:cars_pkw_2025 733 ;
+    ex:name "Theuma" ;
+    ex:population_2025 945 .
+
+ex:Thiendorf a ex:Municipality ;
+    ex:area_km2 74.48 ;
+    ex:cars_pkw_2025 2637 ;
+    ex:name "Thiendorf" ;
+    ex:population_2025 3793 .
+
+ex:Thum a ex:Municipality ;
+    ex:area_km2 18.9 ;
+    ex:cars_pkw_2025 3130 ;
+    ex:name "Thum" ;
+    ex:population_2025 4655 .
+
+ex:Tirpersdorf a ex:Municipality ;
+    ex:area_km2 19.57 ;
+    ex:cars_pkw_2025 1022 ;
+    ex:name "Tirpersdorf" ;
+    ex:population_2025 1323 .
+
+ex:Torgau a ex:Municipality ;
+    ex:area_km2 102.82 ;
+    ex:cars_pkw_2025 10257 ;
+    ex:name "Torgau" ;
+    ex:population_2025 19855 .
+
+ex:Trebendorf a ex:Municipality ;
+    ex:area_km2 32.05 ;
+    ex:cars_pkw_2025 530 ;
+    ex:name "Trebendorf" ;
+    ex:population_2025 673 .
+
+ex:Trebsen_Mulde a ex:Municipality ;
+    ex:area_km2 35.05 ;
+    ex:cars_pkw_2025 2336 ;
+    ex:name "Trebsen/Mulde" ;
+    ex:population_2025 3726 .
+
+ex:Treuen a ex:Municipality ;
+    ex:area_km2 43.74 ;
+    ex:cars_pkw_2025 5106 ;
+    ex:name "Treuen" ;
+    ex:population_2025 7512 .
+
+ex:Triebel_Vogtl a ex:Municipality ;
+    ex:area_km2 43.09 ;
+    ex:cars_pkw_2025 855 ;
+    ex:name "Triebel/Vogtl." ;
+    ex:population_2025 1114 .
+
+ex:Trossin a ex:Municipality ;
+    ex:area_km2 79.68 ;
+    ex:cars_pkw_2025 897 ;
+    ex:name "Trossin" ;
+    ex:population_2025 1159 .
+
+ex:Vierkirchen a ex:Municipality ;
+    ex:area_km2 35.41 ;
+    ex:cars_pkw_2025 1121 ;
+    ex:name "Vierkirchen" ;
+    ex:population_2025 1592 .
+
+ex:Wachau a ex:Municipality ;
+    ex:area_km2 38.11 ;
+    ex:cars_pkw_2025 2912 ;
+    ex:name "Wachau" ;
+    ex:population_2025 4226 .
+
+ex:Waldenburg a ex:Municipality ;
+    ex:area_km2 25.06 ;
+    ex:cars_pkw_2025 2544 ;
+    ex:name "Waldenburg" ;
+    ex:population_2025 3903 .
+
+ex:Waldheim a ex:Municipality ;
+    ex:area_km2 41.71 ;
+    ex:cars_pkw_2025 4857 ;
+    ex:name "Waldheim" ;
+    ex:population_2025 8724 .
+
+ex:Waldhufen a ex:Municipality ;
+    ex:area_km2 58.76 ;
+    ex:cars_pkw_2025 1633 ;
+    ex:name "Waldhufen" ;
+    ex:population_2025 2308 .
+
+ex:Wechselburg a ex:Municipality ;
+    ex:area_km2 25.65 ;
+    ex:cars_pkw_2025 1240 ;
+    ex:name "Wechselburg" ;
+    ex:population_2025 1702 .
+
+ex:Weinböhla a ex:Municipality ;
+    ex:area_km2 19.02 ;
+    ex:cars_pkw_2025 6474 ;
+    ex:name "Weinböhla" ;
+    ex:population_2025 10660 .
+
+ex:Weischlitz a ex:Municipality ;
+    ex:area_km2 121.63 ;
+    ex:cars_pkw_2025 4074 ;
+    ex:name "Weischlitz" ;
+    ex:population_2025 5551 .
+
+ex:Weißenberg a ex:Municipality ;
+    ex:area_km2 50.96 ;
+    ex:cars_pkw_2025 2007 ;
+    ex:name "Weißenberg" ;
+    ex:population_2025 3004 .
+
+ex:Weißenborn_Erzgeb a ex:Municipality ;
+    ex:area_km2 22.57 ;
+    ex:cars_pkw_2025 1573 ;
+    ex:name "Weißenborn/Erzgeb." ;
+    ex:population_2025 2385 .
+
+ex:Weißkeißel a ex:Municipality ;
+    ex:area_km2 50.68 ;
+    ex:cars_pkw_2025 853 ;
+    ex:name "Weißkeißel" ;
+    ex:population_2025 1154 .
+
+ex:Weißwasser_OL a ex:Municipality ;
+    ex:area_km2 63.43 ;
+    ex:cars_pkw_2025 8242 ;
+    ex:name "Weißwasser/O.L." ;
+    ex:population_2025 14887 .
+
+ex:Werda a ex:Municipality ;
+    ex:area_km2 13.59 ;
+    ex:cars_pkw_2025 1022 ;
+    ex:name "Werda" ;
+    ex:population_2025 1458 .
+
+ex:Werdau a ex:Municipality ;
+    ex:area_km2 65.62 ;
+    ex:cars_pkw_2025 12249 ;
+    ex:name "Werdau" ;
+    ex:population_2025 20209 .
+
+ex:Wermsdorf a ex:Municipality ;
+    ex:area_km2 104.62 ;
+    ex:cars_pkw_2025 3174 ;
+    ex:name "Wermsdorf" ;
+    ex:population_2025 5074 .
+
+ex:Wiedemar a ex:Municipality ;
+    ex:area_km2 95.54 ;
+    ex:cars_pkw_2025 3738 ;
+    ex:name "Wiedemar" ;
+    ex:population_2025 5569 .
+
+ex:Wildenfels a ex:Municipality ;
+    ex:area_km2 20.68 ;
+    ex:cars_pkw_2025 2294 ;
+    ex:name "Wildenfels" ;
+    ex:population_2025 3388 .
+
+ex:Wilkau-Haßlau a ex:Municipality ;
+    ex:area_km2 12.65 ;
+    ex:cars_pkw_2025 5783 ;
+    ex:name "Wilkau-Haßlau" ;
+    ex:population_2025 9318 .
+
+ex:Wilsdruff a ex:Municipality ;
+    ex:area_km2 81.6 ;
+    ex:cars_pkw_2025 10103 ;
+    ex:name "Wilsdruff" ;
+    ex:population_2025 14525 .
+
+ex:Wilthen a ex:Municipality ;
+    ex:area_km2 17.04 ;
+    ex:cars_pkw_2025 2698 ;
+    ex:name "Wilthen" ;
+    ex:population_2025 4596 .
+
+ex:Wittichenau a ex:Municipality ;
+    ex:area_km2 61.02 ;
+    ex:cars_pkw_2025 3684 ;
+    ex:name "Wittichenau" ;
+    ex:population_2025 5505 .
+
+ex:Wolkenstein a ex:Municipality ;
+    ex:area_km2 30.5 ;
+    ex:cars_pkw_2025 2486 ;
+    ex:name "Wolkenstein" ;
+    ex:population_2025 3750 .
+
+ex:Wurzen a ex:Municipality ;
+    ex:area_km2 69.0 ;
+    ex:cars_pkw_2025 8633 ;
+    ex:name "Wurzen" ;
+    ex:population_2025 16159 .
+
+ex:Wülknitz a ex:Municipality ;
+    ex:area_km2 27.91 ;
+    ex:cars_pkw_2025 1034 ;
+    ex:name "Wülknitz" ;
+    ex:population_2025 1550 .
+
+ex:Zeithain a ex:Municipality ;
+    ex:area_km2 81.62 ;
+    ex:cars_pkw_2025 3517 ;
+    ex:name "Zeithain" ;
+    ex:population_2025 5527 .
+
+ex:Zettlitz a ex:Municipality ;
+    ex:area_km2 15.68 ;
+    ex:cars_pkw_2025 478 ;
+    ex:name "Zettlitz" ;
+    ex:population_2025 639 .
+
+ex:Zittau a ex:Municipality ;
+    ex:area_km2 66.75 ;
+    ex:cars_pkw_2025 12710 ;
+    ex:name "Zittau" ;
+    ex:population_2025 24958 .
+
+ex:Zschepplin a ex:Municipality ;
+    ex:area_km2 68.36 ;
+    ex:cars_pkw_2025 1939 ;
+    ex:name "Zschepplin" ;
+    ex:population_2025 2850 .
+
+ex:Zschopau a ex:Municipality ;
+    ex:area_km2 22.78 ;
+    ex:cars_pkw_2025 5251 ;
+    ex:name "Zschopau" ;
+    ex:population_2025 8692 .
+
+ex:Zschorlau a ex:Municipality ;
+    ex:area_km2 21.92 ;
+    ex:cars_pkw_2025 3260 ;
+    ex:name "Zschorlau" ;
+    ex:population_2025 4965 .
+
+ex:Zwenkau a ex:Municipality ;
+    ex:area_km2 46.3 ;
+    ex:cars_pkw_2025 5945 ;
+    ex:name "Zwenkau" ;
+    ex:population_2025 9452 .
+
+ex:Zwickau a ex:Municipality ;
+    ex:area_km2 102.58 ;
+    ex:cars_pkw_2025 48082 ;
+    ex:name "Zwickau" ;
+    ex:population_2025 86405 .
+
+ex:Zwönitz a ex:Municipality ;
+    ex:area_km2 64.24 ;
+    ex:cars_pkw_2025 7479 ;
+    ex:name "Zwönitz" ;
+    ex:population_2025 11244 .
+

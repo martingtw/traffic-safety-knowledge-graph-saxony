@@ -29,3 +29,7 @@ def get_municipality(lat, lon):
 # print(get_municipality(51.269050, 12.337527))
 # print(get_municipality(51.519164, 11.597279))
 # print(get_municipality(51.306956, 12.375438))
+# print(get_municipality(50.749148, 13.140965))
+# print(get_municipality(50.484138, 12.761706))
+# print(get_municipality(51.477911, 14.610763))
+# print(get_municipality(50.439238, 12.942456))

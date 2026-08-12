@@ -6,10 +6,7 @@ from geo.geo_utils import get_municipality
 
 BASE_DIR = os.path.dirname(__file__)
 INPUT_FILE = os.path.join(BASE_DIR, "../data/source2/Unfallorte_2025_LR_BasisDLM.csv")
-OUTPUT_FILE = os.path.join(BASE_DIR, "../rdf_output/source2/source2_saxony_accidents.ttl")
-
-#INPUT_FILE = "csv/Unfallorte2024_LinRef.csv"
-#OUTPUT_FILE = "source2_saxony_accidents.ttl"
+OUTPUT_FILE = os.path.join(BASE_DIR, "../rdf_output/source2_saxony_accidents.ttl")
 
 EX = Namespace("http://example.org/traffic/")
 
@@ -33,11 +30,17 @@ def add_if_present(graph, subject, predicate, value, datatype=None):
         else:
             graph.add((subject, predicate, Literal(str(value))))
 
+def make_uri(name):
+    name = name.replace("/", "_")
+    name = name.replace(".", "")
+    name = name.replace(" ", "_")
+    return URIRef(EX[name])
+
 df = pd.read_csv(INPUT_FILE, sep=";", encoding="utf-8-sig", dtype=str)
 saxony = df[df["ULAND"].str.zfill(2) == "14"].copy() # filter saxony (ULAND = 14)
 
-print("Loaded", len(df), "accident records.")
-print("Filtered", len(saxony), "accident records for Saxony.")
+# print("Loaded", len(df), "accident records.")
+# print("Filtered", len(saxony), "accident records for Saxony.")
 
 g = Graph()
 g.bind("ex", EX)
@@ -80,8 +83,8 @@ for _, row in saxony.iterrows():
         city = get_municipality(lat, lon)
 
         if city:
-            g.add((accident_uri, EX.locatedInMunicipality, Literal(city)))
+            g.add((accident_uri, EX.locatedInMunicipality, make_uri(city)))
 
 g.serialize(destination=OUTPUT_FILE, format="turtle")
 
-print("Saved RDF to", OUTPUT_FILE)
+print("Source 2: Saved RDF to", OUTPUT_FILE, "\n")
