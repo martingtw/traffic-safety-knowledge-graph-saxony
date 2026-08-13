@@ -1,0 +1,17 @@
+PREFIX ex: <http://example.org/traffic/>
+
+SELECT ?name ?population
+       (COUNT(?acc) AS ?accidents)
+       ((COUNT(?acc) / ?population) AS ?rate)
+WHERE {
+  ?m a ex:Municipality ;
+     ex:name ?name ;
+     ex:population_2025 ?population .
+
+  OPTIONAL {
+    ?acc a ex:TrafficAccident ;
+         ex:locatedInMunicipality ?m .
+  }
+}
+GROUP BY ?m ?name ?population
+ORDER BY DESC(?rate)

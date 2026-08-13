@@ -1,0 +1,12 @@
+PREFIX ex: <http://example.org/traffic/>
+
+SELECT ?m ?name (COUNT(?cam) AS ?cams)
+WHERE {
+  ?m a ex:Municipality ;
+     ex:name ?name .
+
+  ?cam a ex:SpeedCamera ;
+       ex:locatedInMunicipality ?m .
+}
+GROUP BY ?m ?name
+ORDER BY DESC(?cams)
