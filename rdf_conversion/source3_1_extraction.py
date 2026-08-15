@@ -30,7 +30,7 @@ def make_uri(name):
 for _, row in df.iterrows():
     code = str(row["Schlüssel- nummer"])
     name = str(row["Land Kreisfreie Stadt Landkreis Gemeinde"])
-    population = row["31. Dezember 2025"]
+    population = row["30. April 2026"]
     
     if not code.isdigit():
         continue
