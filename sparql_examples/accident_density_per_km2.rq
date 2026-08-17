@@ -6,7 +6,7 @@ SELECT ?name ?population ?area
 WHERE {
   ?m a ex:Municipality ;
      ex:name ?name ;
-     ex:population_2025 ?population ;
+     ex:population ?population ;
      ex:area_km2 ?area .
 
   OPTIONAL {

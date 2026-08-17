@@ -13,23 +13,16 @@ df = pd.read_excel(INPUT_FILE, skiprows=5)
 
 df = df.rename(columns={
     df.columns[0]: "code",
-    df.columns[1]: "municipality",
     df.columns[3]: "cars_total",
     df.columns[4]: "cars_pkw"
 })
 
-results = []
-
-def clean_name(name):
-    name = str(name)
-    name = name.split(",")[0].strip()
-    return name
-
-def make_uri(name):
-    name = name.replace("/", "_")
-    name = name.replace(".", "")
-    name = name.replace(" ", "_")
-    return URIRef(EX[name])
+def make_uri(code):
+    code = code.replace("/", "_")
+    code = code.replace(".", "")
+    code = code.replace(" ", "_")
+    code = "muni_" + code
+    return URIRef(EX[code])
 
 def to_int(value):
     try:
@@ -40,18 +33,13 @@ def to_int(value):
 # Iterate through rows
 for _, row in df.iterrows():
     code = str(row["code"])
-    municipality = str(row["municipality"])
     cars_pkw = to_int(row["cars_pkw"])
     
     if len(code) != 8 or not code.isdigit():
         continue
-
-    clean = clean_name(municipality)
-    results.append(clean)
-    
+   
     # RDF Triple
-    uri = make_uri(clean)
+    uri = make_uri(code)
 
     g.add((uri, RDF.type, EX.Municipality))
-    g.add((uri, EX.name, Literal(clean)))
-    g.add((uri, EX.cars_pkw_2025, Literal(cars_pkw, datatype=XSD.integer)))
+    g.add((uri, EX.cars_pkw, Literal(cars_pkw, datatype=XSD.integer)))

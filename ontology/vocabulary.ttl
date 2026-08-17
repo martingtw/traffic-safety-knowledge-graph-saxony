@@ -1,0 +1,109 @@
+@prefix ex: <http://example.org/traffic/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+#################################################
+# CLASSES
+#################################################
+
+ex:Municipality a owl:Class ;
+    rdfs:label "Municipality" .
+
+ex:SpeedCamera a owl:Class ;
+    rdfs:label "Speed Camera" .
+
+ex:TrafficAccident a owl:Class ;
+    rdfs:label "Traffic Accident" .
+
+#################################################
+# OBJECT PROPERTIES
+#################################################
+
+ex:locatedInMunicipality a owl:ObjectProperty ;
+    rdfs:label "located in municipality" ;
+    rdfs:domain [
+        a owl:Class ;
+        owl:unionOf (
+            ex:SpeedCamera
+            ex:TrafficAccident
+        )
+    ] ;
+    rdfs:range ex:Municipality .
+
+#################################################
+# DATATYPE PROPERTIES - MUNICIPALITY
+#################################################
+
+ex:name a owl:DatatypeProperty ;
+    rdfs:label "name" ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:string .
+
+ex:population_2025 a owl:DatatypeProperty ;
+    rdfs:label "population 2025" ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:integer .
+
+ex:area_km2 a owl:DatatypeProperty ;
+    rdfs:label "area in km²" ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:decimal .
+
+ex:cars_pkw_2025 a owl:DatatypeProperty ;
+    rdfs:label "car stock 2025 (PKW)" ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:integer .
+
+#################################################
+# DATATYPE PROPERTIES - SPEED CAMERA
+#################################################
+
+ex:latitude a owl:DatatypeProperty ;
+    rdfs:domain ex:SpeedCamera, ex:TrafficAccident ;
+    rdfs:range xsd:decimal .
+
+ex:longitude a owl:DatatypeProperty ;
+    rdfs:domain ex:SpeedCamera, ex:TrafficAccident ;
+    rdfs:range xsd:decimal .
+
+ex:hasMaxSpeed a owl:DatatypeProperty ;
+    rdfs:domain ex:SpeedCamera ;
+    rdfs:range xsd:integer .
+
+ex:direction a owl:DatatypeProperty ;
+    rdfs:domain ex:SpeedCamera ;
+    rdfs:range xsd:string .
+
+#################################################
+# DATATYPE PROPERTIES - ACCIDENTS
+#################################################
+
+ex:accidentYear a owl:DatatypeProperty ;
+    rdfs:domain ex:TrafficAccident ;
+    rdfs:range xsd:gYear .
+
+ex:accidentMonth a owl:DatatypeProperty ;
+    rdfs:domain ex:TrafficAccident ;
+    rdfs:range xsd:integer .
+
+ex:accidentCategoryCode a owl:DatatypeProperty ;
+    rdfs:domain ex:TrafficAccident ;
+    rdfs:range xsd:integer .
+
+ex:involvesCar a owl:DatatypeProperty ;
+    rdfs:domain ex:TrafficAccident ;
+    rdfs:range xsd:boolean .
+
+ex:involvesMotorcycle a owl:DatatypeProperty ;
+    rdfs:domain ex:TrafficAccident ;
+    rdfs:range xsd:boolean .
+
+#################################################
+# OPTIONAL GENERAL PROPERTY
+#################################################
+
+ex:source a owl:DatatypeProperty ;
+    rdfs:label "data source URL" ;
+    rdfs:range xsd:anyURI .

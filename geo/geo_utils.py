@@ -12,13 +12,14 @@ municipalities = municipalities.to_crs("EPSG:4326")
 # Core function
 def get_municipality(lat, lon):
     point = Point(lon, lat)
-
     match = municipalities[municipalities.contains(point)]
 
     if match.empty:
         return None
 
-    return match.iloc[0]["NAME_4"]  # municipality name
+    cc4 = str(match.iloc[0]["CC_4"])
+    ags = cc4[:5] + cc4[-3:]
+    return ags
 
 # Tests
 # print(get_municipality(51.3397, 12.3731))

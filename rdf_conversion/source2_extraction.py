@@ -30,25 +30,16 @@ def add_if_present(graph, subject, predicate, value, datatype=None):
         else:
             graph.add((subject, predicate, Literal(str(value))))
 
-def make_uri(name):
-    name = name.replace("/", "_")
-    name = name.replace(".", "")
-    name = name.replace(" ", "_")
-    return URIRef(EX[name])
+def make_uri(ags):
+    return URIRef(EX[f"muni_{ags}"])
 
 df = pd.read_csv(INPUT_FILE, sep=";", encoding="utf-8-sig", dtype=str)
 saxony = df[df["ULAND"].str.zfill(2) == "14"].copy() # filter saxony (ULAND = 14)
-
-# print("Loaded", len(df), "accident records.")
-# print("Filtered", len(saxony), "accident records for Saxony.")
 
 g = Graph()
 g.bind("ex", EX)
 g.bind("rdfs", RDFS)
 g.bind("xsd", XSD)
-
-#g.add((EX.saxony, RDF.type, EX.FederalState))
-#g.add((EX.saxony, RDFS.label, Literal("Sachsen", lang="de")))
 
 for _, row in saxony.iterrows():
     accident_id = row["UIDENTSTLAE"]
@@ -56,9 +47,7 @@ for _, row in saxony.iterrows():
 
     g.add((accident_uri, RDF.type, EX.TrafficAccident))
     g.add((accident_uri, RDFS.label, Literal(f"Traffic accident {accident_id}", lang="en")))
-    #g.add((accident_uri, EX.locatedIn, EX.saxony))
-    g.add((accident_uri, EX.source, URIRef("https://unfallatlas.statistikportal.de/")))
-
+    
     year = parse_int(row["UJAHR"])
     month = parse_int(row["UMONAT"])
   
@@ -80,10 +69,20 @@ for _, row in saxony.iterrows():
         g.add((accident_uri, EX.longitude, Literal(lon, datatype=XSD.decimal)))
         g.add((accident_uri, EX.latitude, Literal(lat, datatype=XSD.decimal)))
 
-        city = get_municipality(lat, lon)
+        ags = get_municipality(lat, lon)
 
-        if city:
-            g.add((accident_uri, EX.locatedInMunicipality, make_uri(city)))
+        if ags:
+            g.add((accident_uri, EX.locatedInMunicipality, make_uri(ags)))
+
+# Explanation accidentCategoryCode
+g.add((EX.accidentCategoryCode, RDF.type, RDF.Property))
+g.add((EX.accidentCategoryCode, RDFS.comment, Literal("1 = Unfall mit Getöteten, 2 = Unfall mit Schwerverletzten, 3 = Unfall mit Leichtverletzten", lang="de")))
+
+# Source description
+g.add((EX.Source2Dataset, RDF.type, EX.Dataset))
+g.add((EX.Source2Dataset, RDFS.label, Literal("Unfallatlas Sachsen 2025", lang="de")))
+g.add((EX.Source2Dataset, EX.source, URIRef("https://unfallatlas.statistikportal.de/")))
+g.add((EX.Source2Dataset, EX.retrievedOn, Literal("2026-08-17", datatype=XSD.date)))
 
 g.serialize(destination=OUTPUT_FILE, format="turtle")
 

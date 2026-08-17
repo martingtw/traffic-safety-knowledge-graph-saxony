@@ -32,11 +32,12 @@ def parse_int(value):
     except (ValueError, TypeError):
         return None
 
-def make_uri(name):
-    name = name.replace("/", "_")
-    name = name.replace(".", "")
-    name = name.replace(" ", "_")
-    return URIRef(EX[name])
+def make_uri(ags):
+    # name = name.replace("/", "_")
+    # name = name.replace(".", "")
+    # name = name.replace(" ", "_")
+    # return URIRef(EX[name])
+    return URIRef(EX[f"muni_{ags}"])
 
 with open(INPUT_FILE, "r", encoding="utf-8") as file:
     data = json.load(file)
@@ -70,10 +71,10 @@ for feature in data["features"]:
         g.add((camera_uri, EX.latitude, Literal(lat, datatype=XSD.decimal)))
         g.add((camera_uri, EX.longitude, Literal(lon, datatype=XSD.decimal)))
 
-        city = get_municipality(lat, lon)
+        ags = get_municipality(lat, lon)
 
-        if city:
-            g.add((camera_uri, EX.locatedInMunicipality, make_uri(city)))
+        if ags:
+            g.add((camera_uri, EX.locatedInMunicipality, make_uri(ags)))
 
     # OSM-Tags
     add_if_present(g, camera_uri, EX.direction, properties.get("direction"))
@@ -84,7 +85,12 @@ for feature in data["features"]:
 
     add_if_present(g, camera_uri, EX.abandoned, properties.get("abandoned"))
 
+# Source description
+g.add((EX.Source1Dataset, RDF.type, EX.Dataset))
+g.add((EX.Source1Dataset, RDFS.label, Literal("OpenStreetMap Speed Cameras Sachsen", lang="de")))
+g.add((EX.Source1Dataset, EX.source, URIRef("https://www.openstreetmap.org/")))
+g.add((EX.Source1Dataset, EX.retrievedOn, Literal("2026-05-21", datatype=XSD.date)))
+
 g.serialize(destination=OUTPUT_FILE, format="turtle")
 
-# print(f"Converted {len(data['features'])} speed camera features to RDF.")
 print(f"Source 1: Saved RDF to {OUTPUT_FILE}\n")

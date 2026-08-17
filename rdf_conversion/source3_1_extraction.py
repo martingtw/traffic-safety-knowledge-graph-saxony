@@ -12,46 +12,40 @@ OUTPUT_FILE = os.path.join(BASE_DIR, "../rdf_output/source3/source3_saxony_resid
 df = pd.read_excel(INPUT_FILE, skiprows=5)
 df.columns = df.columns.str.replace("\n", " ").str.strip()
 
-results = []
+df = df.rename(columns={
+    df.columns[0]: "code",
+    df.columns[1]: "name",
+    df.columns[6]: "population"
+})
 
-def clean_name(name):
-    name = str(name)
-    name = name.replace(", Stadt", "").strip()
-    name = name.split(",")[0].strip()
-    return name
-
-def make_uri(name):
-    name = name.replace("/", "_")
-    name = name.replace(".", "")
-    name = name.replace(" ", "_")
-    return URIRef(EX[name])
+def make_uri(code):
+    code = code.replace("/", "_")
+    code = code.replace(".", "")
+    code = code.replace(" ", "_")
+    code = "muni_" + code
+    return URIRef(EX[code])
 
 # Iterate through rows
 for _, row in df.iterrows():
-    code = str(row["Schlüssel- nummer"])
-    name = str(row["Land Kreisfreie Stadt Landkreis Gemeinde"])
-    population = row["30. April 2026"]
+    code = str(row["code"])
+    name = str(row["name"])
+    population = row["population"]
     
-    if not code.isdigit():
-        continue
-
     code_clean = code.replace(" ", "")
 
-    # Kreisfreie Städte
-    if len(code_clean) == 5:
-        if ", Stadt" not in name:
-            continue
-
-    # Gemeinden
-    elif len(code_clean) != 8:
+    if not code_clean.isdigit():
         continue
 
-    clean = clean_name(name)
-    results.append(clean)
-    
+    if len(code_clean) != 8:
+        if len(code_clean) == 5:  # Check Kreisfreie Städte
+            if ", Stadt" not in name:
+                continue
+            code_clean = code_clean + "000"
+        else:
+            continue
+  
     # RDF Triple
-    uri = make_uri(clean)
+    uri = make_uri(code_clean)
 
     g.add((uri, RDF.type, EX.Municipality))
-    g.add((uri, EX.name, Literal(clean)))
-    g.add((uri, EX.population_2025, Literal(population, datatype=XSD.integer)))
+    g.add((uri, EX.population, Literal(population, datatype=XSD.integer)))

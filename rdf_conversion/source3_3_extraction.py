@@ -12,21 +12,15 @@ df = pd.read_excel(INPUT_FILE, skiprows=4)
 
 df = df.rename(columns={
     df.columns[0]: "code",
-    df.columns[1]: "municipality",
+    df.columns[1]: "name",
 })
 
-results = []
-
-def clean_name(name):
-    name = str(name)
-    name = name.split(",")[0].strip()
-    return name
-
-def make_uri(name):
-    name = name.replace("/", "_")
-    name = name.replace(".", "")
-    name = name.replace(" ", "_")
-    return URIRef(EX[name])
+def make_uri(code):
+    code = code.replace("/", "_")
+    code = code.replace(".", "")
+    code = code.replace(" ", "_")
+    code = "muni_" + code
+    return URIRef(EX[code])
 
 def to_float(value):
     try:
@@ -37,18 +31,18 @@ def to_float(value):
 # Iterate through rows
 for _, row in df.iterrows():
     code = str(row["code"])
-    municipality = str(row["municipality"])
+    name = str(row["name"])
     area = to_float(row["qkm"])
     
     if len(code) != 8 or not code.isdigit():
         continue
 
-    clean = clean_name(municipality)
-    results.append(clean)
+    name = name.strip()
     
     # RDF Triple
-    uri = make_uri(clean)
+    uri = make_uri(code)
 
     g.add((uri, RDF.type, EX.Municipality))
-    g.add((uri, EX.name, Literal(clean)))
+    g.add((uri, EX.ags, Literal(code)))
+    g.add((uri, EX.name, Literal(name)))
     g.add((uri, EX.area_km2, Literal(area, datatype=XSD.decimal)))

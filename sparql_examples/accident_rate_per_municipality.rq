@@ -2,11 +2,11 @@ PREFIX ex: <http://example.org/traffic/>
 
 SELECT ?name ?population
        (COUNT(?acc) AS ?accidents)
-       ((COUNT(?acc) / ?population) AS ?rate)
+       ((COUNT(?acc) / ?population) * 1000 AS ?accidents_per_1000_inhabitants)
 WHERE {
   ?m a ex:Municipality ;
      ex:name ?name ;
-     ex:population_2025 ?population .
+     ex:population ?population .
 
   OPTIONAL {
     ?acc a ex:TrafficAccident ;
@@ -14,4 +14,4 @@ WHERE {
   }
 }
 GROUP BY ?m ?name ?population
-ORDER BY DESC(?rate)
+ORDER BY DESC(?accidents_per_1000_inhabitants)
