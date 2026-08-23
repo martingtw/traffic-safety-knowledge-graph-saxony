@@ -1,0 +1,18 @@
+zum Aufrufen:
+python3 -m http.server 8000
+im Ordner ausführen
+
+z.B. alle Dateien liegen in C:/Users/[user]/Documents/SemantikWeb/Querries
+dann cd C:/Users/[user]/Documents/SemantikWeb/Querries
+danach python3 -m http.server 8000
+
+dann im Browser http://localhost:8000/chartn.html aufrufen, z.B. http://localhost:8000/chart6.html
+
+Inhalt der Chats:
+1 - Unfälle pro 1000 Einwohner je Gemeinde (muss eventuell von der Menge angepasst werden)
+2 - Unfälle pro Monat in 2025
+3 - Unfallschwere-Verteilung (wie viel Leicht- Schwerverletzte und getötete)
+4 - Fahrzeugdichte vs Unfallzahl
+5 - Blitzerdichte je Gemeindefläche
+6 - Geoverteilung der Unfälle (jeder Unfall mit Latitude und Longitude, könnte man z.B. über Karte von Sachsen legen)
+7 - Motorrad- vs PKW-Beteiligung nach Unfallschwere

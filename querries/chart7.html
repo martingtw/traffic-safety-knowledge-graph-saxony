@@ -1,0 +1,102 @@
+<!-- Angepasst von d3-graph-gallery.com Grouped-Barplot-Beispiel -->
+<!-- Erwartet result7.csv im selben Ordner mit Spalten: accidentCategoryCode,pkw,motorrad -->
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<div id="my_dataviz"></div>
+
+<script src="https://d3js.org/d3.v4.js"></script>
+<script>
+
+var margin = {top: 30, right: 30, bottom: 40, left: 60},
+    width = 460 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
+
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// Label-Mapping (identisch zu chart3.html / chart6.html)
+var labels = {
+  "1": "Getötete",
+  "2": "Schwerverletzte",
+  "3": "Leichtverletzte"
+};
+
+d3.csv("result7.csv", function(data) {
+
+  // Subgroups = alle Spalten außer der ersten (accidentCategoryCode) -> hier: pkw, motorrad
+  var subgroups = data.columns.slice(1);
+
+  // Groups = Werte der ersten Spalte (accidentCategoryCode statt "group")
+  var groups = d3.map(data, function(d) { return d.accidentCategoryCode; }).keys();
+
+  var x = d3.scaleBand()
+      .domain(groups)
+      .range([0, width])
+      .padding([0.2]);
+  svg.append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x).tickSize(0)
+      // Codes durch lesbare Labels ersetzen statt "1", "2", "3" anzuzeigen
+      .tickFormat(function(d) { return labels[d] || d; }));
+
+  // Y-Achsen-Domain dynamisch statt fest auf 40 -> größter Wert aus pkw ODER motorrad je Kategorie
+  var maxVal = d3.max(data, function(d) {
+    return Math.max(+d.pkw, +d.motorrad);
+  });
+  var y = d3.scaleLinear()
+    .domain([0, maxVal])
+    .range([height, 0]);
+  svg.append("g")
+    .call(d3.axisLeft(y));
+
+  var xSubgroup = d3.scaleBand()
+    .domain(subgroups)
+    .range([0, x.bandwidth()])
+    .padding([0.05]);
+
+  var color = d3.scaleOrdinal()
+    .domain(subgroups)
+    .range(['#e41a1c', '#377eb8']);
+
+  svg.append("g")
+    .selectAll("g")
+    .data(data)
+    .enter()
+    .append("g")
+      .attr("transform", function(d) { return "translate(" + x(d.accidentCategoryCode) + ",0)"; })
+    .selectAll("rect")
+    .data(function(d) { return subgroups.map(function(key) { return { key: key, value: +d[key] }; }); })
+    .enter().append("rect")
+      .attr("x", function(d) { return xSubgroup(d.key); })
+      .attr("y", function(d) { return y(d.value); })
+      .attr("width", xSubgroup.bandwidth())
+      .attr("height", function(d) { return height - y(d.value); })
+      .attr("fill", function(d) { return color(d.key); });
+
+  // Legende (im Original-Beispiel nicht enthalten, hier ergänzt)
+  var legendLabels = { pkw: "PKW beteiligt", motorrad: "Motorrad beteiligt" };
+  svg.selectAll("mylegend")
+    .data(subgroups)
+    .enter()
+    .append("circle")
+      .attr("cx", width - 120)
+      .attr("cy", function(d, i) { return i * 22; })
+      .attr("r", 6)
+      .style("fill", function(d) { return color(d); });
+  svg.selectAll("mylegendtext")
+    .data(subgroups)
+    .enter()
+    .append("text")
+      .attr("x", width - 108)
+      .attr("y", function(d, i) { return i * 22 + 4; })
+      .text(function(d) { return legendLabels[d]; })
+      .style("font-size", 12);
+
+})
+
+</script>
