@@ -1,109 +1,126 @@
-@prefix ex: <http://example.org/traffic/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ex:   <http://example.org/traffic/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@base <http://example.org/traffic/> .
 
-#################################################
-# CLASSES
-#################################################
+<http://example.org/traffic/> rdf:type owl:Ontology ;
+    rdfs:label "Traffic Safety Knowledge Graph Saxony Vocabulary"@de .
 
-ex:Municipality a owl:Class ;
-    rdfs:label "Municipality" .
+# =========================================================
+# Classes
+# =========================================================
 
 ex:SpeedCamera a owl:Class ;
-    rdfs:label "Speed Camera" .
+    rdfs:label "Geschwindigkeitsmessstelle"@de ;
+    rdfs:comment "Eine stationäre Geschwindigkeitsmessstelle aus OpenStreetMap."@de .
 
 ex:TrafficAccident a owl:Class ;
-    rdfs:label "Traffic Accident" .
+    rdfs:label "Verkehrsunfall"@de ;
+    rdfs:comment "Ein Straßenverkehrsunfall mit Personenschaden aus dem Unfallatlas."@de .
 
-#################################################
-# OBJECT PROPERTIES
-#################################################
+ex:Municipality a owl:Class ;
+    rdfs:label "Gemeinde"@de ;
+    rdfs:comment "Eine sächsische Gemeinde, identifiziert über den amtlichen Gemeindeschlüssel (AGS)."@de .
+
+ex:Dataset a owl:Class ;
+    rdfs:label "Datenquelle"@de ;
+    rdfs:comment "Repräsentiert eine der drei im Projekt verwendeten Datenquellen."@de .
+
+# =========================================================
+# Object Properties
+# =========================================================
 
 ex:locatedInMunicipality a owl:ObjectProperty ;
-    rdfs:label "located in municipality" ;
-    rdfs:domain [
-        a owl:Class ;
-        owl:unionOf (
-            ex:SpeedCamera
-            ex:TrafficAccident
-        )
-    ] ;
+    rdfs:label "liegt in Gemeinde"@de ;
+    rdfs:comment "Verknüpft eine Geschwindigkeitsmessstelle oder einen Unfall mit der Gemeinde, in der sie/er sich befindet."@de ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (ex:SpeedCamera ex:TrafficAccident) ] ;
     rdfs:range ex:Municipality .
 
-#################################################
-# DATATYPE PROPERTIES - MUNICIPALITY
-#################################################
-
-ex:name a owl:DatatypeProperty ;
-    rdfs:label "name" ;
-    rdfs:domain ex:Municipality ;
-    rdfs:range xsd:string .
-
-ex:population_2025 a owl:DatatypeProperty ;
-    rdfs:label "population 2025" ;
-    rdfs:domain ex:Municipality ;
-    rdfs:range xsd:integer .
-
-ex:area_km2 a owl:DatatypeProperty ;
-    rdfs:label "area in km²" ;
-    rdfs:domain ex:Municipality ;
-    rdfs:range xsd:decimal .
-
-ex:cars_pkw_2025 a owl:DatatypeProperty ;
-    rdfs:label "car stock 2025 (PKW)" ;
-    rdfs:domain ex:Municipality ;
-    rdfs:range xsd:integer .
-
-#################################################
-# DATATYPE PROPERTIES - SPEED CAMERA
-#################################################
-
-ex:latitude a owl:DatatypeProperty ;
-    rdfs:domain ex:SpeedCamera, ex:TrafficAccident ;
-    rdfs:range xsd:decimal .
-
-ex:longitude a owl:DatatypeProperty ;
-    rdfs:domain ex:SpeedCamera, ex:TrafficAccident ;
-    rdfs:range xsd:decimal .
+# =========================================================
+# Datatype Properties
+# =========================================================
 
 ex:hasMaxSpeed a owl:DatatypeProperty ;
+    rdfs:label "zulässige Höchstgeschwindigkeit"@de ;
     rdfs:domain ex:SpeedCamera ;
     rdfs:range xsd:integer .
 
 ex:direction a owl:DatatypeProperty ;
+    rdfs:label "Fahrtrichtung"@de ;
     rdfs:domain ex:SpeedCamera ;
     rdfs:range xsd:string .
 
-#################################################
-# DATATYPE PROPERTIES - ACCIDENTS
-#################################################
+ex:accidentCategoryCode a owl:DatatypeProperty ;
+    rdfs:label "Unfallkategorie-Code"@de ;
+    rdfs:comment "1 = Unfall mit Getöteten, 2 = Unfall mit Schwerverletzten, 3 = Unfall mit Leichtverletzten."@de ;
+    rdfs:domain ex:TrafficAccident ;
+    rdfs:range xsd:string .
 
 ex:accidentYear a owl:DatatypeProperty ;
+    rdfs:label "Unfalljahr"@de ;
     rdfs:domain ex:TrafficAccident ;
     rdfs:range xsd:gYear .
 
 ex:accidentMonth a owl:DatatypeProperty ;
-    rdfs:domain ex:TrafficAccident ;
-    rdfs:range xsd:integer .
-
-ex:accidentCategoryCode a owl:DatatypeProperty ;
+    rdfs:label "Unfallmonat"@de ;
     rdfs:domain ex:TrafficAccident ;
     rdfs:range xsd:integer .
 
 ex:involvesCar a owl:DatatypeProperty ;
+    rdfs:label "PKW beteiligt"@de ;
     rdfs:domain ex:TrafficAccident ;
-    rdfs:range xsd:boolean .
+    rdfs:range xsd:integer .
 
 ex:involvesMotorcycle a owl:DatatypeProperty ;
+    rdfs:label "Kraftrad beteiligt"@de ;
     rdfs:domain ex:TrafficAccident ;
-    rdfs:range xsd:boolean .
+    rdfs:range xsd:integer .
 
-#################################################
-# OPTIONAL GENERAL PROPERTY
-#################################################
+ex:ags a owl:DatatypeProperty ;
+    rdfs:label "amtlicher Gemeindeschlüssel"@de ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:string .
+
+ex:name a owl:DatatypeProperty ;
+    rdfs:label "Name"@de ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:string .
+
+ex:population a owl:DatatypeProperty ;
+    rdfs:label "Einwohnerzahl"@de ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:integer .
+
+ex:cars_pkw a owl:DatatypeProperty ;
+    rdfs:label "PKW-Bestand"@de ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:integer .
+
+ex:area_km2 a owl:DatatypeProperty ;
+    rdfs:label "Gebietsfläche in km²"@de ;
+    rdfs:domain ex:Municipality ;
+    rdfs:range xsd:decimal .
+
+ex:latitude a owl:DatatypeProperty ;
+    rdfs:label "geografische Breite"@de ;
+    rdfs:range xsd:decimal .
+
+ex:longitude a owl:DatatypeProperty ;
+    rdfs:label "geografische Länge"@de ;
+    rdfs:range xsd:decimal .
 
 ex:source a owl:DatatypeProperty ;
-    rdfs:label "data source URL" ;
-    rdfs:range xsd:anyURI .
+    rdfs:label "Quelle"@de ;
+    rdfs:comment "Verweist auf die URL der Ursprungsquelle."@de .
+
+ex:retrievedOn a owl:DatatypeProperty ;
+    rdfs:label "abgerufen am"@de ;
+    rdfs:domain ex:Dataset ;
+    rdfs:range xsd:date .
+
+ex:asOf a owl:DatatypeProperty ;
+    rdfs:label "Stichtag"@de ;
+    rdfs:domain ex:Dataset ;
+    rdfs:range xsd:date .

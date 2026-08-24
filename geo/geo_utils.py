@@ -1,3 +1,5 @@
+# Point-in-Polygon-Logik zur Gemeindezuordnung mit Unterstützung von ChatGPT
+# (OpenAI) erstellt, anschließend manuell geprüft und angepasst.
 import geopandas as gpd
 from shapely.geometry import Point
 import os 
