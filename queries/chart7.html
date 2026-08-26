@@ -1,5 +1,6 @@
 <!-- Angepasst von d3-graph-gallery.com Grouped-Barplot-Beispiel -->
 <!-- Erwartet result7.csv im selben Ordner mit Spalten: accidentCategoryCode,pkw,motorrad -->
+<!-- Gruppierung nach Fahrzeugtyp (links PKW, rechts Motorrad), je 3 Balken für die Unfallschwere -->
 <!DOCTYPE html>
 <meta charset="utf-8">
 
@@ -19,58 +20,81 @@ var svg = d3.select("#my_dataviz")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-// Label-Mapping (identisch zu chart3.html / chart6.html)
-var labels = {
+var catLabels = {
   "1": "Getötete",
   "2": "Schwerverletzte",
   "3": "Leichtverletzte"
 };
+var vehicleLabels = {
+  pkw: "PKW-Unfälle",
+  motorrad: "Motorrad-Unfälle"
+};
 
-d3.csv("result7.csv", function(data) {
+d3.csv("result7.csv", function(rawData) {
 
-  // Subgroups = alle Spalten außer der ersten (accidentCategoryCode) -> hier: pkw, motorrad
-  var subgroups = data.columns.slice(1);
+  rawData.forEach(function(d) {
+    d.pkw = +d.pkw;
+    d.motorrad = +d.motorrad;
+  });
 
-  // Groups = Werte der ersten Spalte (accidentCategoryCode statt "group")
-  var groups = d3.map(data, function(d) { return d.accidentCategoryCode; }).keys();
+  var totalPkw = d3.sum(rawData, function(d) { return d.pkw; });
+  var totalMotorrad = d3.sum(rawData, function(d) { return d.motorrad; });
+
+  // Daten umformen: statt "eine Zeile pro Kategorie" jetzt "eine Zeile pro Fahrzeugtyp",
+  // mit den 3 Kategorie-Prozentwerten als Spalten (subgroups)
+  var subgroups = rawData.map(function(d) { return d.accidentCategoryCode; }); // ["1","2","3"]
+
+  var data = [
+    Object.assign({ vehicle: "pkw" }, ...rawData.map(function(d) {
+      var o = {};
+      o[d.accidentCategoryCode] = totalPkw > 0 ? (d.pkw / totalPkw) * 100 : 0;
+      return o;
+    })),
+    Object.assign({ vehicle: "motorrad" }, ...rawData.map(function(d) {
+      var o = {};
+      o[d.accidentCategoryCode] = totalMotorrad > 0 ? (d.motorrad / totalMotorrad) * 100 : 0;
+      return o;
+    }))
+  ];
+
+  var groups = data.map(function(d) { return d.vehicle; }); // ["pkw", "motorrad"]
 
   var x = d3.scaleBand()
       .domain(groups)
       .range([0, width])
-      .padding([0.2]);
+      .padding([0.3]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x).tickSize(0)
-      // Codes durch lesbare Labels ersetzen statt "1", "2", "3" anzuzeigen
-      .tickFormat(function(d) { return labels[d] || d; }));
+      .tickFormat(function(d) { return vehicleLabels[d] || d; }));
 
-  // Y-Achsen-Domain dynamisch statt fest auf 40 -> größter Wert aus pkw ODER motorrad je Kategorie
   var maxVal = d3.max(data, function(d) {
-    return Math.max(+d.pkw, +d.motorrad);
+    return d3.max(subgroups, function(key) { return d[key]; });
   });
   var y = d3.scaleLinear()
-    .domain([0, maxVal])
+    .domain([0, maxVal * 1.1])
     .range([height, 0]);
   svg.append("g")
-    .call(d3.axisLeft(y));
+    .call(d3.axisLeft(y).tickFormat(function(d) { return d + "%"; }));
 
   var xSubgroup = d3.scaleBand()
     .domain(subgroups)
     .range([0, x.bandwidth()])
     .padding([0.05]);
 
+  // 3 Farben, eine je Unfallschwere-Kategorie
   var color = d3.scaleOrdinal()
     .domain(subgroups)
-    .range(['#e41a1c', '#377eb8']);
+    .range(['#e41a1c', '#ff7f00', '#4daf4a']);
 
   svg.append("g")
     .selectAll("g")
     .data(data)
     .enter()
     .append("g")
-      .attr("transform", function(d) { return "translate(" + x(d.accidentCategoryCode) + ",0)"; })
+      .attr("transform", function(d) { return "translate(" + x(d.vehicle) + ",0)"; })
     .selectAll("rect")
-    .data(function(d) { return subgroups.map(function(key) { return { key: key, value: +d[key] }; }); })
+    .data(function(d) { return subgroups.map(function(key) { return { key: key, value: d[key] }; }); })
     .enter().append("rect")
       .attr("x", function(d) { return xSubgroup(d.key); })
       .attr("y", function(d) { return y(d.value); })
@@ -78,8 +102,23 @@ d3.csv("result7.csv", function(data) {
       .attr("height", function(d) { return height - y(d.value); })
       .attr("fill", function(d) { return color(d.key); });
 
-  // Legende (im Original-Beispiel nicht enthalten, hier ergänzt)
-  var legendLabels = { pkw: "PKW beteiligt", motorrad: "Motorrad beteiligt" };
+  // Prozentzahl über jedem Balken
+  svg.append("g")
+    .selectAll("g")
+    .data(data)
+    .enter()
+    .append("g")
+      .attr("transform", function(d) { return "translate(" + x(d.vehicle) + ",0)"; })
+    .selectAll("text")
+    .data(function(d) { return subgroups.map(function(key) { return { key: key, value: d[key] }; }); })
+    .enter().append("text")
+      .attr("x", function(d) { return xSubgroup(d.key) + xSubgroup.bandwidth() / 2; })
+      .attr("y", function(d) { return y(d.value) - 5; })
+      .attr("text-anchor", "middle")
+      .style("font-size", 10)
+      .text(function(d) { return d.value.toFixed(1) + "%"; });
+
+  // Legende: jetzt nach Unfallschwere-Kategorie (3 Einträge statt 2)
   svg.selectAll("mylegend")
     .data(subgroups)
     .enter()
@@ -94,7 +133,7 @@ d3.csv("result7.csv", function(data) {
     .append("text")
       .attr("x", width - 108)
       .attr("y", function(d, i) { return i * 22 + 4; })
-      .text(function(d) { return legendLabels[d]; })
+      .text(function(d) { return catLabels[d]; })
       .style("font-size", 12);
 
 })

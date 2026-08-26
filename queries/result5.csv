@@ -1,100 +1,31 @@
-name,area_km2,blitzer
-Großpösna,41.56,1
-Wachau,38.11,1
-Markersdorf,62.54,1
-"Meerane, Stadt",19.81,2
-"Auerbach/Vogtl., Stadt",55.52,1
-Ottendorf-Okrilla,25.93,1
-"Chemnitz, Stadt",221.03,14
-"Annaberg-Buchholz, Stadt",28.15,1
-"Wilsdruff, Stadt",81.6,2
-"Oberlungwitz, Stadt",14.68,1
-"Naunhof, Stadt",39.71,2
-Klipphausen,111.67,4
-"Bad Schandau, Stadt",46.78,1
-Sohland a. d. Spree,37.3,1
-Niederwiesa,16.39,2
-Eichigt,32.73,1
-"Sebnitz, Stadt",88.23,2
-"Großröhrsdorf, Stadt",40.95,1
-"Zwickau, Stadt, Hochschulstadt",102.58,14
-Hochkirch,41.76,1
-"Pirna, Stadt",53.06,3
-"Glauchau, Stadt, Hochschulstadt",51.62,1
-Dürrröhrsdorf-Dittersbach,43.51,1
-"Schirgiswalde-Kirschau, Stadt",24.34,1
-"Stolpen, Stadt",60.89,1
-"Plauen, Stadt, Hochschulstadt",102.11,9
-"Nossen, Stadt",122.74,1
-Moritzburg,46.49,1
-"Bischofswerda, Stadt",46.21,1
-Schmölln-Putzkau,32.93,1
-Kodersdorf,42.54,1
-Elsterheide,127.61,2
-"Radebeul, Stadt",26.16,5
-"Ostritz, Stadt",23.48,1
-Struppen,20.64,1
-"Marienberg, Stadt",133.49,2
-Göda,43.26,1
-"Großenhain, Stadt",130.36,1
-"Oelsnitz/Vogtl., Stadt",53.66,3
-"Altenberg, Stadt",145.89,2
-"Wittichenau, Stadt",61.02,1
-"Hohenstein-Ernstthal, Stadt",18.58,4
-"Döbeln, Stadt",91.75,6
-Radibor,62.0,1
-"Löbau, Stadt",78.9,2
-Panschwitz-Kuckau,23.35,1
-"Bad Gottleuba-Berggießhübel, Stadt",88.72,1
-"Freiberg, Stadt, Universitätsstadt",48.31,3
-"Tharandt, Stadt",71.22,1
-Haselbachtal,37.5,1
-Wiedemar,95.54,1
-"Zittau, Stadt, Hochschulstadt",66.75,4
-"Dresden, Stadt",328.48,30
-"Radeberg, Stadt",29.83,4
-"Leipzig, Stadt",297.8,40
-Röderaue,28.82,1
-"Freital, Stadt",40.46,1
-"Waldheim, Stadt",41.71,2
-"Görlitz, Stadt, Hochschulstadt",67.53,6
-"Elsterberg, Stadt",25.1,1
-Bannewitz,25.75,2
-"Lichtenstein/Sa., Stadt",15.47,1
-Boxberg/O.L.,217.67,1
-Hirschfeld,18.98,4
-Lichtentanne,27.33,1
-"Königsbrück, Stadt",78.48,1
-Müglitztal,21.01,1
-"Pulsnitz, Stadt",26.76,2
-Stauchitz,32.47,2
-"Kirchberg, Stadt",39.56,2
-Nünchritz,31.28,2
-"Meißen, Stadt",30.92,1
-Thiendorf,74.48,1
-"Glashütte, Stadt",95.64,1
-"Pausa-Mühltroff, Stadt",64.13,1
-"Lengenfeld, Stadt",47.0,1
-"Reichenbach im Vogtland, Stadt",34.47,1
-Großolbersdorf,22.58,4
-Waldhufen,58.76,1
-Käbschütztal,50.48,1
-Machern,38.93,2
-"Hainichen, Stadt",51.73,1
-"Schöneck/Vogtl., Stadt",55.03,1
-"Reichenbach/O.L., Stadt",62.64,1
-"Burgstädt, Stadt",25.88,4
-"Hoyerswerda, Stadt",94.99,9
-"Elterlein, Stadt",45.74,2
-Bobritzsch-Hilbersdorf,55.12,1
-Bernsdorf,14.82,2
-"Schneeberg, Stadt",23.35,1
-Fraureuth,22.6,1
-Rossau,53.59,1
-Lohsa,134.95,1
-"Leisnig, Stadt",78.09,1
-Diera-Zehren,43.21,1
-Steinberg,20.37,1
-"Weißwasser/O.L., Stadt",63.43,1
-Großpostwitz/O.L.,16.48,1
-Krauschwitz i.d. O.L.,106.83,2
+name,area_km2,blitzer,blitzer_pro_km2
+"Hohenstein-Ernstthal, Stadt",18.58,4,0.215285252960172228202368
+Hirschfeld,18.98,4,0.2107481559536354056902
+"Radebeul, Stadt",26.16,5,0.191131498470948012232416
+Großolbersdorf,22.58,4,0.177147918511957484499557
+"Burgstädt, Stadt",25.88,4,0.154559505409582689335394
+"Zwickau, Stadt, Hochschulstadt",102.58,14,0.136478845778904269838175
+Bernsdorf,14.82,2,0.134952766531713900134953
+"Leipzig, Stadt",297.8,40,0.13431833445265278710544
+"Radeberg, Stadt",29.83,4,0.134093194770365403955749
+Niederwiesa,16.39,2,0.122025625381330079316656
+"Meerane, Stadt",19.81,2,0.100959111559818273599192
+"Hoyerswerda, Stadt",94.99,9,0.094746815454258342983472
+"Dresden, Stadt",328.48,30,0.09132976132489040428641
+"Görlitz, Stadt, Hochschulstadt",67.53,6,0.088849400266548200799645
+"Plauen, Stadt, Hochschulstadt",102.11,9,0.088140240916658505533248
+Bannewitz,25.75,2,0.077669902912621359223301
+"Pulsnitz, Stadt",26.76,2,0.07473841554559043348281
+"Oberlungwitz, Stadt",14.68,1,0.068119891008174386920981
+"Döbeln, Stadt",91.75,6,0.065395095367847411444142
+"Lichtenstein/Sa., Stadt",15.47,1,0.064641241111829347123465
+Nünchritz,31.28,2,0.063938618925831202046036
+"Chemnitz, Stadt",221.03,14,0.063339818124236528977967
+"Freiberg, Stadt, Universitätsstadt",48.31,3,0.062098944317946594907887
+Stauchitz,32.47,2,0.061595318755774561133354
+Großpostwitz/O.L.,16.48,1,0.060679611650485436893204
+"Zittau, Stadt, Hochschulstadt",66.75,4,0.059925093632958801498127
+"Pirna, Stadt",53.06,3,0.056539766302299283829627
+"Oelsnitz/Vogtl., Stadt",53.66,3,0.055907566157286619455833
+Machern,38.93,2,0.051374261494991009504238
+"Kirchberg, Stadt",39.56,2,0.050556117290192113245703
