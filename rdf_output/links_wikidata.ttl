@@ -1,0 +1,840 @@
+@prefix ex: <http://example.org/traffic/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+ex:muni_14511000 owl:sameAs wd:Q2795 .
+
+ex:muni_14521010 owl:sameAs wd:Q57702 .
+
+ex:muni_14521020 owl:sameAs wd:Q57944 .
+
+ex:muni_14521035 owl:sameAs wd:Q59564401 .
+
+ex:muni_14521040 owl:sameAs wd:Q57707 .
+
+ex:muni_14521060 owl:sameAs wd:Q57714 .
+
+ex:muni_14521080 owl:sameAs wd:Q57720 .
+
+ex:muni_14521090 owl:sameAs wd:Q57725 .
+
+ex:muni_14521110 owl:sameAs wd:Q57731 .
+
+ex:muni_14521120 owl:sameAs wd:Q57736 .
+
+ex:muni_14521130 owl:sameAs wd:Q57739 .
+
+ex:muni_14521140 owl:sameAs wd:Q57744 .
+
+ex:muni_14521150 owl:sameAs wd:Q57749 .
+
+ex:muni_14521160 owl:sameAs wd:Q57876 .
+
+ex:muni_14521170 owl:sameAs wd:Q57881 .
+
+ex:muni_14521180 owl:sameAs wd:Q57885 .
+
+ex:muni_14521200 owl:sameAs wd:Q57757 .
+
+ex:muni_14521210 owl:sameAs wd:Q57891 .
+
+ex:muni_14521220 owl:sameAs wd:Q57761 .
+
+ex:muni_14521230 owl:sameAs wd:Q57765 .
+
+ex:muni_14521240 owl:sameAs wd:Q57769 .
+
+ex:muni_14521250 owl:sameAs wd:Q57773 .
+
+ex:muni_14521260 owl:sameAs wd:Q57897 .
+
+ex:muni_14521270 owl:sameAs wd:Q57776 .
+
+ex:muni_14521280 owl:sameAs wd:Q57779 .
+
+ex:muni_14521290 owl:sameAs wd:Q57782 .
+
+ex:muni_14521310 owl:sameAs wd:Q57790 .
+
+ex:muni_14521320 owl:sameAs wd:Q57903 .
+
+ex:muni_14521330 owl:sameAs wd:Q57908 .
+
+ex:muni_14521340 owl:sameAs wd:Q57797 .
+
+ex:muni_14521355 owl:sameAs wd:Q1326264 .
+
+ex:muni_14521370 owl:sameAs wd:Q57921 .
+
+ex:muni_14521380 owl:sameAs wd:Q57924 .
+
+ex:muni_14521390 owl:sameAs wd:Q57951 .
+
+ex:muni_14521400 owl:sameAs wd:Q57801 .
+
+ex:muni_14521410 owl:sameAs wd:Q57804 .
+
+ex:muni_14521420 owl:sameAs wd:Q57810 .
+
+ex:muni_14521430 owl:sameAs wd:Q57813 .
+
+ex:muni_14521440 owl:sameAs wd:Q57926 .
+
+ex:muni_14521450 owl:sameAs wd:Q57929 .
+
+ex:muni_14521460 owl:sameAs wd:Q57933 .
+
+ex:muni_14521495 owl:sameAs wd:Q15474520 .
+
+ex:muni_14521500 owl:sameAs wd:Q57825 .
+
+ex:muni_14521510 owl:sameAs wd:Q57936 .
+
+ex:muni_14521520 owl:sameAs wd:Q57939 .
+
+ex:muni_14521530 owl:sameAs wd:Q57941 .
+
+ex:muni_14521540 owl:sameAs wd:Q57828 .
+
+ex:muni_14521550 owl:sameAs wd:Q57953 .
+
+ex:muni_14521560 owl:sameAs wd:Q57832 .
+
+ex:muni_14521570 owl:sameAs wd:Q57837 .
+
+ex:muni_14521590 owl:sameAs wd:Q57955 .
+
+ex:muni_14521600 owl:sameAs wd:Q57842 .
+
+ex:muni_14521610 owl:sameAs wd:Q57846 .
+
+ex:muni_14521620 owl:sameAs wd:Q57993 .
+
+ex:muni_14521630 owl:sameAs wd:Q57851 .
+
+ex:muni_14521640 owl:sameAs wd:Q57996 .
+
+ex:muni_14521670 owl:sameAs wd:Q57997 .
+
+ex:muni_14521690 owl:sameAs wd:Q58006 .
+
+ex:muni_14521700 owl:sameAs wd:Q57857 .
+
+ex:muni_14521710 owl:sameAs wd:Q58002 .
+
+ex:muni_14522010 owl:sameAs wd:Q70934 .
+
+ex:muni_14522020 owl:sameAs wd:Q71090 .
+
+ex:muni_14522035 owl:sameAs wd:Q70938 .
+
+ex:muni_14522050 owl:sameAs wd:Q71159 .
+
+ex:muni_14522060 owl:sameAs wd:Q71095 .
+
+ex:muni_14522070 owl:sameAs wd:Q70942 .
+
+ex:muni_14522080 owl:sameAs wd:Q71163 .
+
+ex:muni_14522090 owl:sameAs wd:Q70946 .
+
+ex:muni_14522110 owl:sameAs wd:Q70949 .
+
+ex:muni_14522120 owl:sameAs wd:Q70954 .
+
+ex:muni_14522140 owl:sameAs wd:Q71166 .
+
+ex:muni_14522150 owl:sameAs wd:Q71104 .
+
+ex:muni_14522170 owl:sameAs wd:Q71108 .
+
+ex:muni_14522180 owl:sameAs wd:Q14819 .
+
+ex:muni_14522190 owl:sameAs wd:Q71111 .
+
+ex:muni_14522200 owl:sameAs wd:Q70957 .
+
+ex:muni_14522210 owl:sameAs wd:Q71117 .
+
+ex:muni_14522220 owl:sameAs wd:Q70961 .
+
+ex:muni_14522230 owl:sameAs wd:Q71123 .
+
+ex:muni_14522240 owl:sameAs wd:Q70964 .
+
+ex:muni_14522250 owl:sameAs wd:Q71129 .
+
+ex:muni_14522260 owl:sameAs wd:Q70969 .
+
+ex:muni_14522275 owl:sameAs wd:Q113503289 .
+
+ex:muni_14522280 owl:sameAs wd:Q70975 .
+
+ex:muni_14522290 owl:sameAs wd:Q70981 .
+
+ex:muni_14522300 owl:sameAs wd:Q70985 .
+
+ex:muni_14522310 owl:sameAs wd:Q71133 .
+
+ex:muni_14522320 owl:sameAs wd:Q70990 .
+
+ex:muni_14522330 owl:sameAs wd:Q70994 .
+
+ex:muni_14522340 owl:sameAs wd:Q70998 .
+
+ex:muni_14522350 owl:sameAs wd:Q71137 .
+
+ex:muni_14522360 owl:sameAs wd:Q71170 .
+
+ex:muni_14522380 owl:sameAs wd:Q71005 .
+
+ex:muni_14522390 owl:sameAs wd:Q71009 .
+
+ex:muni_14522400 owl:sameAs wd:Q71012 .
+
+ex:muni_14522420 owl:sameAs wd:Q71021 .
+
+ex:muni_14522430 owl:sameAs wd:Q71025 .
+
+ex:muni_14522440 owl:sameAs wd:Q71141 .
+
+ex:muni_14522460 owl:sameAs wd:Q71145 .
+
+ex:muni_14522470 owl:sameAs wd:Q71036 .
+
+ex:muni_14522480 owl:sameAs wd:Q71041 .
+
+ex:muni_14522490 owl:sameAs wd:Q71180 .
+
+ex:muni_14522500 owl:sameAs wd:Q71046 .
+
+ex:muni_14522510 owl:sameAs wd:Q71148 .
+
+ex:muni_14522520 owl:sameAs wd:Q71151 .
+
+ex:muni_14522530 owl:sameAs wd:Q71050 .
+
+ex:muni_14522540 owl:sameAs wd:Q71054 .
+
+ex:muni_14522550 owl:sameAs wd:Q71057 .
+
+ex:muni_14522570 owl:sameAs wd:Q71154 .
+
+ex:muni_14522580 owl:sameAs wd:Q71060 .
+
+ex:muni_14522590 owl:sameAs wd:Q71064 .
+
+ex:muni_14522600 owl:sameAs wd:Q71068 .
+
+ex:muni_14523010 owl:sameAs wd:Q46853 .
+
+ex:muni_14523020 owl:sameAs wd:Q46843 .
+
+ex:muni_14523030 owl:sameAs wd:Q46501 .
+
+ex:muni_14523040 owl:sameAs wd:Q46856 .
+
+ex:muni_14523050 owl:sameAs wd:Q46506 .
+
+ex:muni_14523060 owl:sameAs wd:Q46742 .
+
+ex:muni_14523080 owl:sameAs wd:Q46745 .
+
+ex:muni_14523090 owl:sameAs wd:Q46749 .
+
+ex:muni_14523100 owl:sameAs wd:Q46859 .
+
+ex:muni_14523120 owl:sameAs wd:Q46863 .
+
+ex:muni_14523130 owl:sameAs wd:Q46757 .
+
+ex:muni_14523150 owl:sameAs wd:Q46760 .
+
+ex:muni_14523160 owl:sameAs wd:Q46866 .
+
+ex:muni_14523170 owl:sameAs wd:Q46869 .
+
+ex:muni_14523190 owl:sameAs wd:Q46764 .
+
+ex:muni_14523200 owl:sameAs wd:Q46875 .
+
+ex:muni_14523230 owl:sameAs wd:Q46766 .
+
+ex:muni_14523245 owl:sameAs wd:Q46770 .
+
+ex:muni_14523260 owl:sameAs wd:Q46890 .
+
+ex:muni_14523270 owl:sameAs wd:Q46773 .
+
+ex:muni_14523280 owl:sameAs wd:Q46777 .
+
+ex:muni_14523290 owl:sameAs wd:Q46784 .
+
+ex:muni_14523300 owl:sameAs wd:Q46845 .
+
+ex:muni_14523310 owl:sameAs wd:Q5416160 .
+
+ex:muni_14523320 owl:sameAs wd:Q3952 .
+
+ex:muni_14523330 owl:sameAs wd:Q46789 .
+
+ex:muni_14523340 owl:sameAs wd:Q46849 .
+
+ex:muni_14523360 owl:sameAs wd:Q46900 .
+
+ex:muni_14523365 owl:sameAs wd:Q46796 .
+
+ex:muni_14523370 owl:sameAs wd:Q46903 .
+
+ex:muni_14523380 owl:sameAs wd:Q46801 .
+
+ex:muni_14523410 owl:sameAs wd:Q46804 .
+
+ex:muni_14523420 owl:sameAs wd:Q46808 .
+
+ex:muni_14523430 owl:sameAs wd:Q46909 .
+
+ex:muni_14523440 owl:sameAs wd:Q46811 .
+
+ex:muni_14523450 owl:sameAs wd:Q46816 .
+
+ex:muni_14523460 owl:sameAs wd:Q46823 .
+
+ex:muni_14524010 owl:sameAs wd:Q17112 .
+
+ex:muni_14524020 owl:sameAs wd:Q17113 .
+
+ex:muni_14524030 owl:sameAs wd:Q20070 .
+
+ex:muni_14524040 owl:sameAs wd:Q17114 .
+
+ex:muni_14524050 owl:sameAs wd:Q17115 .
+
+ex:muni_14524060 owl:sameAs wd:Q17116 .
+
+ex:muni_14524070 owl:sameAs wd:Q17117 .
+
+ex:muni_14524080 owl:sameAs wd:Q20071 .
+
+ex:muni_14524090 owl:sameAs wd:Q20078 .
+
+ex:muni_14524100 owl:sameAs wd:Q17118 .
+
+ex:muni_14524110 owl:sameAs wd:Q17119 .
+
+ex:muni_14524120 owl:sameAs wd:Q20073 .
+
+ex:muni_14524130 owl:sameAs wd:Q20079 .
+
+ex:muni_14524140 owl:sameAs wd:Q17120 .
+
+ex:muni_14524150 owl:sameAs wd:Q17121 .
+
+ex:muni_14524160 owl:sameAs wd:Q20081 .
+
+ex:muni_14524170 owl:sameAs wd:Q17122 .
+
+ex:muni_14524180 owl:sameAs wd:Q20076 .
+
+ex:muni_14524190 owl:sameAs wd:Q20083 .
+
+ex:muni_14524200 owl:sameAs wd:Q17123 .
+
+ex:muni_14524210 owl:sameAs wd:Q17124 .
+
+ex:muni_14524220 owl:sameAs wd:Q17125 .
+
+ex:muni_14524230 owl:sameAs wd:Q20084 .
+
+ex:muni_14524240 owl:sameAs wd:Q17126 .
+
+ex:muni_14524250 owl:sameAs wd:Q17127 .
+
+ex:muni_14524260 owl:sameAs wd:Q17128 .
+
+ex:muni_14524270 owl:sameAs wd:Q17129 .
+
+ex:muni_14524280 owl:sameAs wd:Q17130 .
+
+ex:muni_14524290 owl:sameAs wd:Q20085 .
+
+ex:muni_14524300 owl:sameAs wd:Q20077 .
+
+ex:muni_14524310 owl:sameAs wd:Q20087 .
+
+ex:muni_14524320 owl:sameAs wd:Q20088 .
+
+ex:muni_14524330 owl:sameAs wd:Q3778 .
+
+ex:muni_14612000 owl:sameAs wd:Q1731 .
+
+ex:muni_14625010 owl:sameAs wd:Q93210 .
+
+ex:muni_14625020 owl:sameAs wd:Q14835 .
+
+ex:muni_14625030 owl:sameAs wd:Q81732 .
+
+ex:muni_14625040 owl:sameAs wd:Q81717 .
+
+ex:muni_14625060 owl:sameAs wd:Q93216 .
+
+ex:muni_14625080 owl:sameAs wd:Q93223 .
+
+ex:muni_14625090 owl:sameAs wd:Q93225 .
+
+ex:muni_14625100 owl:sameAs wd:Q93226 .
+
+ex:muni_14625110 owl:sameAs wd:Q93228 .
+
+ex:muni_14625120 owl:sameAs wd:Q93229 .
+
+ex:muni_14625130 owl:sameAs wd:Q81735 .
+
+ex:muni_14625140 owl:sameAs wd:Q93231 .
+
+ex:muni_14625150 owl:sameAs wd:Q93232 .
+
+ex:muni_14625160 owl:sameAs wd:Q93233 .
+
+ex:muni_14625170 owl:sameAs wd:Q93234 .
+
+ex:muni_14625180 owl:sameAs wd:Q93239 .
+
+ex:muni_14625190 owl:sameAs wd:Q93240 .
+
+ex:muni_14625200 owl:sameAs wd:Q81736 .
+
+ex:muni_14625220 owl:sameAs wd:Q93247 .
+
+ex:muni_14625230 owl:sameAs wd:Q93248 .
+
+ex:muni_14625240 owl:sameAs wd:Q14904 .
+
+ex:muni_14625250 owl:sameAs wd:Q81722 .
+
+ex:muni_14625270 owl:sameAs wd:Q81739 .
+
+ex:muni_14625280 owl:sameAs wd:Q93250 .
+
+ex:muni_14625290 owl:sameAs wd:Q93253 .
+
+ex:muni_14625300 owl:sameAs wd:Q93254 .
+
+ex:muni_14625310 owl:sameAs wd:Q81740 .
+
+ex:muni_14625320 owl:sameAs wd:Q93257 .
+
+ex:muni_14625330 owl:sameAs wd:Q93258 .
+
+ex:muni_14625340 owl:sameAs wd:Q93260 .
+
+ex:muni_14625350 owl:sameAs wd:Q93264 .
+
+ex:muni_14625360 owl:sameAs wd:Q93265 .
+
+ex:muni_14625370 owl:sameAs wd:Q93268 .
+
+ex:muni_14625380 owl:sameAs wd:Q93270 .
+
+ex:muni_14625390 owl:sameAs wd:Q93271 .
+
+ex:muni_14625410 owl:sameAs wd:Q93272 .
+
+ex:muni_14625420 owl:sameAs wd:Q93273 .
+
+ex:muni_14625430 owl:sameAs wd:Q93276 .
+
+ex:muni_14625440 owl:sameAs wd:Q93279 .
+
+ex:muni_14625450 owl:sameAs wd:Q81743 .
+
+ex:muni_14625460 owl:sameAs wd:Q93283 .
+
+ex:muni_14625470 owl:sameAs wd:Q93285 .
+
+ex:muni_14625480 owl:sameAs wd:Q81729 .
+
+ex:muni_14625490 owl:sameAs wd:Q93286 .
+
+ex:muni_14625500 owl:sameAs wd:Q93287 .
+
+ex:muni_14625510 owl:sameAs wd:Q93289 .
+
+ex:muni_14625525 owl:sameAs wd:Q81749 .
+
+ex:muni_14625530 owl:sameAs wd:Q93291 .
+
+ex:muni_14625550 owl:sameAs wd:Q93294 .
+
+ex:muni_14625560 owl:sameAs wd:Q93295 .
+
+ex:muni_14625570 owl:sameAs wd:Q93300 .
+
+ex:muni_14625580 owl:sameAs wd:Q93302 .
+
+ex:muni_14625590 owl:sameAs wd:Q93303 .
+
+ex:muni_14625600 owl:sameAs wd:Q93305 .
+
+ex:muni_14625610 owl:sameAs wd:Q81753 .
+
+ex:muni_14625630 owl:sameAs wd:Q81756 .
+
+ex:muni_14625640 owl:sameAs wd:Q81760 .
+
+ex:muni_14626010 owl:sameAs wd:Q165131 .
+
+ex:muni_14626020 owl:sameAs wd:Q502568 .
+
+ex:muni_14626030 owl:sameAs wd:Q165134 .
+
+ex:muni_14626050 owl:sameAs wd:Q502461 .
+
+ex:muni_14626060 owl:sameAs wd:Q544833 .
+
+ex:muni_14626070 owl:sameAs wd:Q502520 .
+
+ex:muni_14626085 owl:sameAs wd:Q162989 .
+
+ex:muni_14626100 owl:sameAs wd:Q506150 .
+
+ex:muni_14626110 owl:sameAs wd:Q4077 .
+
+ex:muni_14626120 owl:sameAs wd:Q502548 .
+
+ex:muni_14626140 owl:sameAs wd:Q572527 .
+
+ex:muni_14626150 owl:sameAs wd:Q502454 .
+
+ex:muni_14626160 owl:sameAs wd:Q544944 .
+
+ex:muni_14626170 owl:sameAs wd:Q502493 .
+
+ex:muni_14626180 owl:sameAs wd:Q165140 .
+
+ex:muni_14626190 owl:sameAs wd:Q502484 .
+
+ex:muni_14626200 owl:sameAs wd:Q506156 .
+
+ex:muni_14626210 owl:sameAs wd:Q544821 .
+
+ex:muni_14626230 owl:sameAs wd:Q506108 .
+
+ex:muni_14626240 owl:sameAs wd:Q506096 .
+
+ex:muni_14626245 owl:sameAs wd:Q2667022 .
+
+ex:muni_14626250 owl:sameAs wd:Q502675 .
+
+ex:muni_14626260 owl:sameAs wd:Q502498 .
+
+ex:muni_14626270 owl:sameAs wd:Q544955 .
+
+ex:muni_14626280 owl:sameAs wd:Q502686 .
+
+ex:muni_14626290 owl:sameAs wd:Q156768 .
+
+ex:muni_14626300 owl:sameAs wd:Q506123 .
+
+ex:muni_14626310 owl:sameAs wd:Q506142 .
+
+ex:muni_14626320 owl:sameAs wd:Q703119 .
+
+ex:muni_14626330 owl:sameAs wd:Q502472 .
+
+ex:muni_14626350 owl:sameAs wd:Q165153 .
+
+ex:muni_14626370 owl:sameAs wd:Q165160 .
+
+ex:muni_14626390 owl:sameAs wd:Q502467 .
+
+ex:muni_14626400 owl:sameAs wd:Q502559 .
+
+ex:muni_14626410 owl:sameAs wd:Q502562 .
+
+ex:muni_14626420 owl:sameAs wd:Q165167 .
+
+ex:muni_14626430 owl:sameAs wd:Q502504 .
+
+ex:muni_14626440 owl:sameAs wd:Q502478 .
+
+ex:muni_14626450 owl:sameAs wd:Q157462 .
+
+ex:muni_14626460 owl:sameAs wd:Q502512 .
+
+ex:muni_14626470 owl:sameAs wd:Q502668 .
+
+ex:muni_14626480 owl:sameAs wd:Q157095 .
+
+ex:muni_14626490 owl:sameAs wd:Q572576 .
+
+ex:muni_14626500 owl:sameAs wd:Q503163 .
+
+ex:muni_14626510 owl:sameAs wd:Q506114 .
+
+ex:muni_14626520 owl:sameAs wd:Q506103 .
+
+ex:muni_14626530 owl:sameAs wd:Q165195 .
+
+ex:muni_14626560 owl:sameAs wd:Q544870 .
+
+ex:muni_14626570 owl:sameAs wd:Q703124 .
+
+ex:muni_14626580 owl:sameAs wd:Q506136 .
+
+ex:muni_14626590 owl:sameAs wd:Q506128 .
+
+ex:muni_14626600 owl:sameAs wd:Q44498 .
+
+ex:muni_14626610 owl:sameAs wd:Q157200 .
+
+ex:muni_14627010 owl:sameAs wd:Q8693 .
+
+ex:muni_14627020 owl:sameAs wd:Q8697 .
+
+ex:muni_14627030 owl:sameAs wd:Q8702 .
+
+ex:muni_14627040 owl:sameAs wd:Q8706 .
+
+ex:muni_14627050 owl:sameAs wd:Q8710 .
+
+ex:muni_14627060 owl:sameAs wd:Q8714 .
+
+ex:muni_14627070 owl:sameAs wd:Q8718 .
+
+ex:muni_14627080 owl:sameAs wd:Q8720 .
+
+ex:muni_14627100 owl:sameAs wd:Q8726 .
+
+ex:muni_14627110 owl:sameAs wd:Q8730 .
+
+ex:muni_14627130 owl:sameAs wd:Q8734 .
+
+ex:muni_14627140 owl:sameAs wd:Q8738 .
+
+ex:muni_14627150 owl:sameAs wd:Q8742 .
+
+ex:muni_14627170 owl:sameAs wd:Q8746 .
+
+ex:muni_14627180 owl:sameAs wd:Q8751 .
+
+ex:muni_14627190 owl:sameAs wd:Q8756 .
+
+ex:muni_14627200 owl:sameAs wd:Q8759 .
+
+ex:muni_14627210 owl:sameAs wd:Q8762 .
+
+ex:muni_14627220 owl:sameAs wd:Q8770 .
+
+ex:muni_14627230 owl:sameAs wd:Q8775 .
+
+ex:muni_14627240 owl:sameAs wd:Q8783 .
+
+ex:muni_14627250 owl:sameAs wd:Q8788 .
+
+ex:muni_14627260 owl:sameAs wd:Q8790 .
+
+ex:muni_14627270 owl:sameAs wd:Q8792 .
+
+ex:muni_14627290 owl:sameAs wd:Q8830 .
+
+ex:muni_14627310 owl:sameAs wd:Q8831 .
+
+ex:muni_14627340 owl:sameAs wd:Q8834 .
+
+ex:muni_14627360 owl:sameAs wd:Q8838 .
+
+ex:muni_14628010 owl:sameAs wd:Q436724 .
+
+ex:muni_14628020 owl:sameAs wd:Q6307 .
+
+ex:muni_14628030 owl:sameAs wd:Q6406 .
+
+ex:muni_14628040 owl:sameAs wd:Q6438 .
+
+ex:muni_14628050 owl:sameAs wd:Q6448 .
+
+ex:muni_14628060 owl:sameAs wd:Q6462 .
+
+ex:muni_14628070 owl:sameAs wd:Q6467 .
+
+ex:muni_14628080 owl:sameAs wd:Q6474 .
+
+ex:muni_14628090 owl:sameAs wd:Q6685 .
+
+ex:muni_14628100 owl:sameAs wd:Q6692 .
+
+ex:muni_14628110 owl:sameAs wd:Q5870 .
+
+ex:muni_14628130 owl:sameAs wd:Q6696 .
+
+ex:muni_14628140 owl:sameAs wd:Q6698 .
+
+ex:muni_14628150 owl:sameAs wd:Q6710 .
+
+ex:muni_14628160 owl:sameAs wd:Q6715 .
+
+ex:muni_14628170 owl:sameAs wd:Q6724 .
+
+ex:muni_14628190 owl:sameAs wd:Q6780 .
+
+ex:muni_14628205 owl:sameAs wd:Q1774519 .
+
+ex:muni_14628210 owl:sameAs wd:Q6783 .
+
+ex:muni_14628220 owl:sameAs wd:Q6787 .
+
+ex:muni_14628230 owl:sameAs wd:Q8199 .
+
+ex:muni_14628240 owl:sameAs wd:Q8202 .
+
+ex:muni_14628250 owl:sameAs wd:Q8205 .
+
+ex:muni_14628260 owl:sameAs wd:Q8210 .
+
+ex:muni_14628270 owl:sameAs wd:Q6477 .
+
+ex:muni_14628300 owl:sameAs wd:Q8218 .
+
+ex:muni_14628310 owl:sameAs wd:Q8224 .
+
+ex:muni_14628320 owl:sameAs wd:Q8227 .
+
+ex:muni_14628330 owl:sameAs wd:Q8232 .
+
+ex:muni_14628340 owl:sameAs wd:Q8234 .
+
+ex:muni_14628360 owl:sameAs wd:Q6483 .
+
+ex:muni_14628370 owl:sameAs wd:Q8240 .
+
+ex:muni_14628380 owl:sameAs wd:Q8243 .
+
+ex:muni_14628390 owl:sameAs wd:Q8244 .
+
+ex:muni_14628400 owl:sameAs wd:Q8245 .
+
+ex:muni_14628410 owl:sameAs wd:Q8248 .
+
+ex:muni_14713000 owl:sameAs wd:Q2079 .
+
+ex:muni_14729010 owl:sameAs wd:Q10739 .
+
+ex:muni_14729020 owl:sameAs wd:Q10740 .
+
+ex:muni_14729030 owl:sameAs wd:Q10741 .
+
+ex:muni_14729040 owl:sameAs wd:Q10743 .
+
+ex:muni_14729050 owl:sameAs wd:Q10744 .
+
+ex:muni_14729060 owl:sameAs wd:Q10745 .
+
+ex:muni_14729070 owl:sameAs wd:Q10760 .
+
+ex:muni_14729080 owl:sameAs wd:Q10762 .
+
+ex:muni_14729100 owl:sameAs wd:Q10748 .
+
+ex:muni_14729140 owl:sameAs wd:Q10763 .
+
+ex:muni_14729150 owl:sameAs wd:Q10765 .
+
+ex:muni_14729160 owl:sameAs wd:Q10780 .
+
+ex:muni_14729170 owl:sameAs wd:Q10766 .
+
+ex:muni_14729190 owl:sameAs wd:Q10750 .
+
+ex:muni_14729220 owl:sameAs wd:Q10768 .
+
+ex:muni_14729245 owl:sameAs wd:Q10751 .
+
+ex:muni_14729250 owl:sameAs wd:Q10752 .
+
+ex:muni_14729260 owl:sameAs wd:Q10782 .
+
+ex:muni_14729270 owl:sameAs wd:Q10770 .
+
+ex:muni_14729300 owl:sameAs wd:Q10771 .
+
+ex:muni_14729320 owl:sameAs wd:Q10755 .
+
+ex:muni_14729330 owl:sameAs wd:Q10756 .
+
+ex:muni_14729340 owl:sameAs wd:Q10757 .
+
+ex:muni_14729350 owl:sameAs wd:Q10773 .
+
+ex:muni_14729360 owl:sameAs wd:Q10774 .
+
+ex:muni_14729370 owl:sameAs wd:Q10776 .
+
+ex:muni_14729380 owl:sameAs wd:Q10759 .
+
+ex:muni_14729400 owl:sameAs wd:Q10777 .
+
+ex:muni_14729410 owl:sameAs wd:Q10784 .
+
+ex:muni_14729430 owl:sameAs wd:Q10779 .
+
+ex:muni_14730010 owl:sameAs wd:Q16029 .
+
+ex:muni_14730020 owl:sameAs wd:Q12041 .
+
+ex:muni_14730030 owl:sameAs wd:Q16032 .
+
+ex:muni_14730045 owl:sameAs wd:Q2611974 .
+
+ex:muni_14730050 owl:sameAs wd:Q16041 .
+
+ex:muni_14730060 owl:sameAs wd:Q12043 .
+
+ex:muni_14730070 owl:sameAs wd:Q12052 .
+
+ex:muni_14730080 owl:sameAs wd:Q16043 .
+
+ex:muni_14730090 owl:sameAs wd:Q12045 .
+
+ex:muni_14730100 owl:sameAs wd:Q16044 .
+
+ex:muni_14730110 owl:sameAs wd:Q12055 .
+
+ex:muni_14730120 owl:sameAs wd:Q16046 .
+
+ex:muni_14730140 owl:sameAs wd:Q16047 .
+
+ex:muni_14730150 owl:sameAs wd:Q16049 .
+
+ex:muni_14730160 owl:sameAs wd:Q16051 .
+
+ex:muni_14730170 owl:sameAs wd:Q16054 .
+
+ex:muni_14730180 owl:sameAs wd:Q16056 .
+
+ex:muni_14730190 owl:sameAs wd:Q16058 .
+
+ex:muni_14730200 owl:sameAs wd:Q12047 .
+
+ex:muni_14730210 owl:sameAs wd:Q16060 .
+
+ex:muni_14730230 owl:sameAs wd:Q12056 .
+
+ex:muni_14730250 owl:sameAs wd:Q16063 .
+
+ex:muni_14730270 owl:sameAs wd:Q12058 .
+
+ex:muni_14730280 owl:sameAs wd:Q16065 .
+
+ex:muni_14730300 owl:sameAs wd:Q12050 .
+
+ex:muni_14730310 owl:sameAs wd:Q12062 .
+
+ex:muni_14730320 owl:sameAs wd:Q16066 .
+
+ex:muni_14730330 owl:sameAs wd:Q16067 .
+
+ex:muni_14730340 owl:sameAs wd:Q16070 .
+
+ex:muni_14730360 owl:sameAs wd:Q16072 .
+

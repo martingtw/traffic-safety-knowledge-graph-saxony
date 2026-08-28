@@ -1,0 +1,12 @@
+PREFIX ex: <http://example.org/traffic/>
+SELECT ?name ?area_km2 ?population
+       (COUNT(DISTINCT ?c) AS ?blitzer)
+       (COUNT(DISTINCT ?a) AS ?unfaelle)
+       ((COUNT(DISTINCT ?c)) / ?area_km2 AS ?blitzerdichte)
+       ((COUNT(DISTINCT ?a) * 1000.0) / ?population AS ?unfallrate)
+WHERE {
+  ?m a ex:Municipality ; ex:name ?name ; ex:area_km2 ?area_km2 ; ex:population ?population .
+  OPTIONAL { ?c a ex:SpeedCamera ; ex:locatedInMunicipality ?m . }
+  OPTIONAL { ?a a ex:TrafficAccident ; ex:locatedInMunicipality ?m . }
+}
+GROUP BY ?name ?area_km2 ?population

@@ -1,0 +1,6 @@
+PREFIX ex: <http://example.org/traffic/>
+SELECT ?accidentCategoryCode 
+       (SUM(?involvesCar) AS ?pkw) (SUM(?involvesMotorcycle) AS ?motorrad)
+WHERE { ?a a ex:TrafficAccident ; ex:accidentCategoryCode ?accidentCategoryCode ; 
+           ex:involvesCar ?involvesCar ; ex:involvesMotorcycle ?involvesMotorcycle . }
+GROUP BY ?accidentCategoryCode

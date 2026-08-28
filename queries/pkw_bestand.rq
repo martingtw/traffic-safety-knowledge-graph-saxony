@@ -1,0 +1,8 @@
+PREFIX ex: <http://example.org/traffic/>
+SELECT ?name ?population ?cars_pkw
+       ((?cars_pkw * 1000.0) / ?population AS ?pkw_pro_1000_ew)
+WHERE {
+  ?m a ex:Municipality ; ex:name ?name ; ex:population ?population ; ex:cars_pkw ?cars_pkw .
+}
+ORDER BY DESC(?pkw_pro_1000_ew)
+LIMIT 20

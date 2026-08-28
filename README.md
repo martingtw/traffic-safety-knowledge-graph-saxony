@@ -40,3 +40,15 @@ Open data source
 A work-in-progress project poster was created for the Leipziger Semantic Web Tag 2026 poster session.
 
 [View poster](poster/lswt-2026-traffic-safety-kg-saxony-poster.pdf)
+
+## Notebook ausführen
+
+Voraussetzungen:
+- Fuseki läuft (Podman-Container) und das Dataset `traffic-safety` ist befüllt (siehe Kapitel 4 der Dokumentation)
+- `pip install SPARQLWrapper pandas matplotlib jupyter --break-system-packages`
+
+Danach im Ordner `notebooks/`:
+    jupyter notebook traffic_safety_analysis.ipynb
+
+Falls die Ausführung nicht möglich ist, liegt zusätzlich ein statischer Export als
+`traffic_safety_analysis.pdf` bei.

@@ -33,10 +33,6 @@ def parse_int(value):
         return None
 
 def make_uri(ags):
-    # name = name.replace("/", "_")
-    # name = name.replace(".", "")
-    # name = name.replace(" ", "_")
-    # return URIRef(EX[name])
     return URIRef(EX[f"muni_{ags}"])
 
 with open(INPUT_FILE, "r", encoding="utf-8") as file:
@@ -61,7 +57,6 @@ for feature in data["features"]:
 
     g.add((camera_uri, RDF.type, EX.SpeedCamera))
     g.add((camera_uri, RDFS.label, Literal(f"Speed camera {osm_id}", lang="en")))
-    #g.add((camera_uri, EX.osmId, Literal(osm_id)))
     g.add((camera_uri, EX.source, URIRef(f"https://www.openstreetmap.org/{osm_id}")))
 
     # Coordinates

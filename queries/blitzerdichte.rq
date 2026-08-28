@@ -1,0 +1,12 @@
+PREFIX ex: <http://example.org/traffic/>
+SELECT ?name ?area_km2 (COUNT(?c) AS ?blitzer)
+       ((COUNT(?c)) / ?area_km2 AS ?blitzer_pro_km2)
+WHERE {
+  ?m a ex:Municipality ; ex:name ?name ; ex:area_km2 ?area_km2 .
+  OPTIONAL {
+    ?c a ex:SpeedCamera ; ex:locatedInMunicipality ?m .
+  }
+}
+GROUP BY ?name ?area_km2
+ORDER BY DESC(?blitzer_pro_km2)
+LIMIT 20

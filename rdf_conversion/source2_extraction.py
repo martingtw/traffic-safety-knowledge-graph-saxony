@@ -11,17 +11,10 @@ OUTPUT_FILE = os.path.join(BASE_DIR, "../rdf_output/source2_saxony_accidents.ttl
 EX = Namespace("http://example.org/traffic/")
 
 def parse_decimal(value):
-    if pd.isna(value):
-        return None
     return float(str(value).replace(",", ".").strip())
 
 def parse_int(value):
-    if pd.isna(value):
-        return None
-    try:
-        return int(str(value).strip())
-    except ValueError:
-        return None
+    return int(str(value).strip())
 
 def add_if_present(graph, subject, predicate, value, datatype=None):
     if value is not None and not pd.isna(value) and str(value).strip() != "":
