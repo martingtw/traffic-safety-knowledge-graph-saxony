@@ -38,7 +38,7 @@ Voraussetzungen:
 - `pip install SPARQLWrapper pandas matplotlib jupyter --break-system-packages`
 
 Danach im Ordner `notebook/`:
-    jupyter notebook traffic_safety_analysis.ipynb
+    `jupyter notebook traffic_safety_analysis.ipynb`
 
 Falls die Ausführung nicht möglich ist, liegt zusätzlich ein statischer Export als
 `traffic_safety_analysis.pdf` bei.
