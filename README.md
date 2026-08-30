@@ -29,7 +29,7 @@ Die GADM-Gemeindegrenzen (`data/gadm/gadm41_DEU_4.json`) sind aus Lizenzgründen
 
 Das Skript `main.py` startet automatisch alle Extraktionsskripte.
 
-Fuseki läuft lokal über einen Podman-Container (`fuseki/`), Dataset-Name `traffic-safety`, Speichertyp Persistent (TDB2). Die vier Turtle-Dateien aus `rdf_output/` und `ontology/` werden über die Fuseki-Weboberfläche ("Add data") geladen. Details siehe Kapitel 4 der Dokumentation.
+Fuseki läuft lokal über einen Podman-Container (`fuseki/`), Dataset-Name `traffic-safety`, Speichertyp Persistent (TDB2). Die fünf Turtle-Dateien aus `rdf_output/` und `ontology/` werden über die Fuseki-Weboberfläche ("Add data") geladen. Details siehe Kapitel 4 der Dokumentation.
 
 ## Notebook ausführen
 
